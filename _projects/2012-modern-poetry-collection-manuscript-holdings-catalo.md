@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Modern Poetry Collection - Manuscript Holdings Cataloging Project
+title: "Modern Poetry Collection - Manuscript Holdings Cataloging Project"
+year: 2012
+end_range: 2011
+formats: "NULL"
+geographic_extant: "Portions of Southeastern Vermont, and Northern Massachusetts; New Hampshire; New England Region. Also Eastern Europe and East Asia"
+institution: "Keene State College"
+institution_type: "NULL"
+primary_contact: "Rodney Obien"
+size: "134 linear feet"
+start_range: "1910"
+summary: "The Modern Poetry Collection consists of a holding of manuscript materials that date roughly from 1910s to 2010s and that document the literary production and careers of poets in the Greater Monadnock Region (of New Hampshire, Vermont and Massachusetts), in New Hampshire, and in New England. Presently, the collection includes the papers of children's poet Edith Newlin Chase, William Doreski (poet and Robert Lowell scholar), Rodger Martin (poet and Worcester Review editor), former NH Poet Laureate Patricia Fargnoli, New Hampshire poet Jeffrey Friedman, and AWP Award-Winning Poet John Hodgen. The Modern Poetry Collection collects the records of small New England presses that specialize in poetry. The collection currently includes the records of Zephyr Press, a press based in Brookline, Mass. that specializes in poetry in translation of Eastern European and Asian poets and is best known for the first complete translation of the works of the Russian poet Anna Akhmatova. Keene State College plans for further expansion by collecting the literary manuscripts and papers of all former New Hampshire poet laureates, published regional and state poets, and the records of small presses and poetry and poetry-related organizations in the state and region."
+hc_id: "971"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Mason Library"
+address2:  "229 Main Street"
+city:  "Keene"
+state:  "NH"
+zip: "03435-3201"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

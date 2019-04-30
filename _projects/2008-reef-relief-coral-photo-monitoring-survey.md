@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Reef Relief Coral Photo Monitoring Survey
+title: "Reef Relief Coral Photo Monitoring Survey"
+year: 2008
+end_range: 2007
+formats: "NULL"
+geographic_extant: "In addition to Key West-area coral reefs are sections on corals in Cuba, Bahamas, Jamaica, Bay Island Honduras, St. Kitts, Mexico, St. Martins, Aruba."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "DeeVon Quirolo"
+size: "10000 objects"
+start_range: "1992"
+summary: "Reef Relief founder Craig Quirolo surveyed the Florida Keys barrier coral reef from 1992-2007 on a slide and then digital and video format. The survey has alerted the scientific and resource management community to the appearance and spread of numerous coral diseases and documented reef health over a long period enabling researchers to study how reef health has changed. 10,000 images document the same coral reefs over time and have captured coral disease, bleaching, storm damage, boat groundings, fish grazing, and other anamolies. Quirolo studies the images and then alerts reef scientists to anamolies. He supports research that has led to discovery of the causes of several coral diseases. White pox disease is caused by a common bacteria found in sewage; aspergillosis is a fungus attacking purple sea fans that was previously found only in top soil linking it to agricultural runoff. The findings have helped save endangered coral reefs and guide good policymaking for coral reefs and is a valuable learning tool. 10,000 images have been loaded onto a free Online Archive that has been utilized by researchers, students, teachers and the general public for free at www.reefreliefarchive.org. Thirty short educational reef videos were produced last year from accompanying reef transects taken on video of each monitoring site, now available on Reef Relief's Youtube site. Taken together, the images and video of the survey are an invaluable dataset on coral reefs for public use."
+hc_id: "376"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P.O. Box 430"
+address2:  "631 Greene Street"
+city:  "Key West"
+state:  "FL"
+zip: "33041-0430"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

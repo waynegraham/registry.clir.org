@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Viva West Florida! Discovering the Hidden Collections Documenting America's Southern Frontier
+title: "Viva West Florida! Discovering the Hidden Collections Documenting America's Southern Frontier"
+year: 2013
+end_range: 1870
+formats: "NULL"
+geographic_extant: "Gulf Coast area, Spanish West Florida (most of present day Mississippi, Alabama, portions of Louisiana, Tennessee, Georgia, and Florida)."
+institution: "University of West Florida"
+institution_type: "NULL"
+primary_contact: "Dean DeBolt"
+size: "70 cubic feet"
+start_range: "1698"
+summary: "From 1973 to 1981, UWF Professor of History William S. Coker combed through hundreds of libraries and archives in the U.S., Spain, France, England, Scotland, Mexico, and Canada in search of materials concerning Panton, Leslie & Company. While the materials specifically pertaining to Coker's research were cataloged, he also gathered a multitude of materials relating to the West Florida region. This hidden collection consists of individual manuscripts as well as groups and series gathered from national and international archives in an attempt to collect all Coker could about the region in his “pass this way once” approach. The importance of these materials is intertwined with the history of Panton, Leslie & Company, an established Indian trading empire operating in the late 18th Century that covered most of present-day Mississippi, Alabama, western Georgia, and the West Florida region, with additional posts in Tennessee, Havana, the Bahamas and London. This company operated under the Spanish, British, and American regimes, with landholdings exceeding one million acres in the infant United States, thereby holding an effective monopoly on Indian trading in the Southeastern region of North America and rivaling the Hudson Bay Company in the North. The remaining materials, called the Panton, Leslie Research Support Collection, concern themselves with these regions, and are a vital part of the history of the United States."
+hc_id: "1104"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "11000 University Parkway"
+address2:  "NULL"
+city:  "Pensacola"
+state:  "FL"
+zip: "32514-5750"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

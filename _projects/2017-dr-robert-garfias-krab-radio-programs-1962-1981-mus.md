@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Dr. Robert Garfias KRAB Radio Programs 1962-1981: Musics of the World
+title: "Dr. Robert Garfias KRAB Radio Programs 1962-1981: Musics of the World"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Jack Straw Foundation dba Jack Straw Cultural Center"
+institution_type: "NULL"
+primary_contact: "Ms. Joan Rabinowitz"
+size: "NULL"
+start_range: "NULL"
+summary: "This project focuses on the preservation of 118 analog reel to reel tapes from the Robert Garfias KRAB Radio Show collection and on improved access to the collection. These programs, produced by ethnomusicologist Robert Garfias from 1962-1981, are based largely on his fieldwork in countries including Burma, Japan, and the Philippines. As founder of the University of Washington Ethnomusicology Program, Dr. Garfias was primarily an educator, and his show featured in-depth commentary as well as music, providing a wealth of information of interest to national and international scholars, students, and the public. We will conduct outreach to scholarly organizations such as the Society for Ethnomusicology, American Folklore Society, International Council for Traditional Music, American Anthropological Association, and Local Learning: The National Network for Folk Arts in Education to make scholars and educators aware of the programs. We will reach a broader audience through podcasts and the on-line KRAB radio website."
+hc_id: "25114770"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Jack Straw Foundation dba Jack Straw Cultural Center"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "100 recorded hours"
+collaborating_institution:  "NULL"
+grant_amount:  "$25,000"
+material_description:  "Dr. Robert Garfias produced the Jack Straw Collection of 185 radio programs for broadcast on KRAB-FM, a community radio station founded and operated by the Jack Straw Foundation, from 1962-1984. For this project, 118 tapes containing a portion of those broadcasts has been selected. The programs, which were largely based on Dr. Garfias’ original research, range from a 6-part series on the History and Development of Brass Bands from Spain to Indonesia to a series of programs based on Burmese music that Dr. Garfias collected during the summer of 1973 at the request of the Burmese government. He was one of the few scholars at that time to be invited to Burma to document and learn about its music. The Garfias Collection has been housed in the Jack Straw Archive since the programs were created. The Archive is at the Jack Straw Cultural Center in Seattle’s University District. The programs are stored in tape boxes upright on metal archive shelves. The programs are listed in the Jack Straw Archive Database. There are no collection descriptions in online catalogs. The programs are not currently available for public use."
 ---
-
-

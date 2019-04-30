@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Leupold Archives (Archives)
+title: "The Leupold Archives (Archives)"
+year: 2014
+end_range: 2014
+formats: "NULL"
+geographic_extant: "America and 16 European countries, covering all historical periods to the present."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Wayne Leupold"
+size: "25000 objects"
+start_range: "1735"
+summary: "The Archives is a repository of organ music and organ-related items. Its collection is exclusively historical organ music, methods, and organ reference materials, especially nineteenth and early twentieth century out-of-print editions of published organ music, the largest collection of organ music and organ improvisation methods in the United States, and first editions of more prominent works in the established organ repertoire. Optimizing the cataloging process within three years will enhance worldwide accessibility to a unique collection for scholarly study, research, and cultural enrichment. The cataloging projects to be articulated are: OCLC (WorldCat); internal database catalog; and scanned publications for our website."
+hc_id: "10298197"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "The Organ departments of the University of North Carolina at Greensboro (Greensboro, NC); University of North Carolina School of the Arts (Winston-Salem, NC); The Salem College School of Music (Winston-Salem, NC); University of Rochester Eastman School of Music (Rochester, NY) University of Houston, Rebecca and John J. Moore's School of Music (Houston, TX); University of Michigan School of Music, Theatre & Dance (Ann Arbor, MI); Oberlin Conservatory College (Oberlin, OH); University of Kansas School of Music (Lawrence, KS). More anticipated."
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

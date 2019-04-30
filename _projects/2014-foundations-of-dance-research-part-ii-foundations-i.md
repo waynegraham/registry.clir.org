@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Foundations of Dance Research, Part II (Foundations II)
+title: "Foundations of Dance Research, Part II (Foundations II)"
+year: 2014
+end_range: 1581
+formats: "NULL"
+geographic_extant: "Most materials relate to the United States; some are international."
+institution: "Dance Heritage Coalition"
+institution_type: "NULL"
+primary_contact: "Dr. Libby Smigel"
+size: "NULL"
+start_range: "1581"
+summary: "Foundations II will make available to the public materials in 17 currently hidden collections that illuminate the people, institutions, and concepts significant in American dance during the 20th century. The 12 institutions (the Repositories) holding these collections are 92nd Street Y Harkness Dance Center; American Folklife Center, Library of Congress (LOC); Bennington College; Berkshire Athenaeum; Jerome Robbins Dance Division, The New York Public Library For The Performing Arts (NYPL); Museum Of Performance + Design (MP+D); National Museum of Dance (NMD); Newberry Library; Temple University; Theatre Historical Society of America (THS); University of New Hampshire (UNH); University of the Arts University Libraries & Archives (UArts)."
+hc_id: "10162464"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Dance Heritage Coalition"
+p2_name:  "Ms. Kathleen Bell"
+p2_institution:  "Dance Heritage Coalition"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>5990 Architectural Drawings , Artifact (Including Archaeological Objects, Weapons, Machinery, Instruments, Costumes, Textiles, Ceramics, Glass, Furniture, Etc.), Artwork (Including Original Paintings, Prints, Sculpture, Etc.), Audio (Including Speech And Music), Audiovisual, Book (Including Serials), Dataset (Paper Based Or Electronic), Ephemera, Image, Manuscript, Musical Scores, Text (Including Electronic Texts)</li>"
+collaborating_institution:  "92nd Street Y Harkness Dance Center; American Folklife Center, Library of Congress; Bennington College; Berkshire Athenaeum; Jerome Robbins Dance Division, The New York Public Library For The Performing Arts; Museum Of Performance + Design; National Museum of Dance; Newberry Library; Temple University; Theatre Historical Society of America; University of New Hampshire; University of the Arts University Libraries & Archives"
+grant_amount:  "$389,359"
+material_description:  "NULL"
 ---
-
-

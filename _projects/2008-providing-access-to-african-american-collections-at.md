@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Providing Access to African American Collections at the Avery Research Center
+title: "Providing Access to African American Collections at the Avery Research Center"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "The national focus of this project will document civil rights in Louisiana, Mississippi, and Georgia; New York and Illinois; and California."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Harlan Greene"
+size: "446 linear feet, 2000 objects"
+start_range: "1800"
+summary: "Avery Research Center is the prime repository for archival and material culture documenting the African American experience in Charleston and South Carolina. Despite an African American majority in the area for centuries, no repository focused on the topic until Avery, founded in 1985. Materials are diverse in format and topic. They include papers of civil rights leaders, free black families before the Civil War, 19th century burial societies, a leader of the local NAACP, an educator and developer of early black pride educational materials and associate of Malcolm X, papers of community organizers and business people, social and benevolent organizations; the papers of the first African American woman in the state legislature, oral histories of civil rights workers and sweetgrass basket makers carrying on an endangered craft, and a significant and large collection of international scope and value: the field notes, images, films, etc. of anthropologist Colin Turnbull, famous for his work on pygmies and other African people, with those papers of his collaborator Joseph Towles. Also included are hundreds of slave and African artifacts, and collections of images of local African American photographers and subjects, as well as vertical files arranged by topic. Art on paper and canvas include those by significant African American artists. While a few collections predate the Civil War, most span ca. 1880 to today. Except for the Turnbull/Towles papers, collections focus on the United States."
+hc_id: "241"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Avery Research Center"
+address2:  "College of Charleston"
+city:  "Charleston"
+state:  "SC"
+zip: "29424"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$236,920"
+material_description:  "NULL"
 ---
-
-

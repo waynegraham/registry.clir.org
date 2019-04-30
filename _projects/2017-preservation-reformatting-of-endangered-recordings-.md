@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Preservation reformatting of endangered recordings of BSO and Boston Pops concerts held at Tanglewood’s Koussevitzy Music Shed, 1992-2002, from DAT to WAV, MP3, and CD formats.
+title: "Preservation reformatting of endangered recordings of BSO and Boston Pops concerts held at Tanglewood’s Koussevitzy Music Shed, 1992-2002, from DAT to WAV, MP3, and CD formats."
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Boston Symphony Orchestra, Inc."
+institution_type: "NULL"
+primary_contact: "Ms. Bridget Carr"
+size: "NULL"
+start_range: "NULL"
+summary: "The BSO Archives Department seeks a $41,923 grant from the Council on Library and Information Resources to digitize 310 DATs that correspond to 292 Tanglewood Festival concerts held at the Koussevitzky Music Shed between the years 1992 and 2002. DATs are a high-risk medium and these particular tapes contain the organization’s only audio recordings of concerts taking place in the Koussevitzky Music Shed during that time period. CLIR funding will ensure that the BSO completes the necessary transfer process in a timely manner so that no significant data losses occur and all concert recordings are preserved and made available to the public. Materials produced as part of the project will include WAV, MP3, and CD copies of recordings for archival storage, onsite public use, and individually approved remote access."
+hc_id: "26933178"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "Ms. Sarah Donovan"
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "310 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$41,923"
+material_description:  "NULL"
 ---
-
-

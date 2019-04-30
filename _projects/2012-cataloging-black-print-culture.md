@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging Black Print Culture
+title: "Cataloging Black Print Culture"
+year: 2012
+end_range: 2000
+formats: "NULL"
+geographic_extant: "Geographic scope encompasses virtually every state in the U.S.; majority from Philadelphia, New York City, Washington, Nashville, Atlanta, and Chicago"
+institution: "MARBL"
+institution_type: "NULL"
+primary_contact: "Susan McDonald"
+size: "170 linear feet"
+start_range: "1890"
+summary: "Emory's black print culture material focuses on many aspects of African American life including religion, art, music, literature, theatre, and history from the late 1890s-2008. The array of print material ranges from monographs, serials, and pamphlets to broadsides, sheet music, programs, and posters. One of the primary groups of material to be cataloged are serials, including not only periodicals, newspapers, college and high school yearbooks, but also souvenir journals, minutes, proceedings, and transactions produced by literary, masonic, religious, fraternal, political (including civil rights) and other related organizations, clubs, societies, and associations. The second group of material encompasses print culture of a more ephemeral nature such as broadsides, programs, art exhibition catalogs, and posters. Among this group is a large concentration of black theatre and vaudeville programs and playbills drawn mostly from productions in New York. Theatres in Washington (DC), Philadelphia, Chicago, Cleveland (particularly the interracial Karamu Theatre), Boston, and Detroit are also represented. Posters advertise a range of black cultural activities including dance, film, literature, music, theatre, and the arts. MARBL also holds hundreds of art exhibition catalogs featuring the works of both well-known and aspiring black artists. These are just some of the examples of the wide variety of black print culture that Emory has accumulated and that remains uncataloged."
+hc_id: "995"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "MARBL"
+address2:  "Woodruff Library"
+city:  "Atlanta"
+state:  "GA"
+zip: "30322"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

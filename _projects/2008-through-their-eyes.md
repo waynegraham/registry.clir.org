@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Through Their Eyes"
+title: "Through Their Eyes"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "The majority of the albums/scrapbooks depict the experience of these women all over the world. A large number from 1941-1945 come from women who serve"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Robynne Dexter"
+size: "531 objects"
+start_range: "1917"
+summary: "\"Through Their Eyes\" is a collection of over 500 scrapbooks containing over 25,000 individual archival documents, documenting the service of Army women from World War One to the present. The albums contain letters, photographs, newspaper clippings, holiday and birthday cards, mementos such as train tickets, entertainment programs, and personal items that these women felt were important enough to save. A few examples follow. The WWI album from Ethel Gray details her 18 months at a Base Hospital in France as a contracted Reconstruction Aide (what we now call a physical therapist.) A WWII album from Harriet West-Waddy contains rare photographs of African-American women in uniform during WWII. West-Waddy was formerly an assistant to Mary McCloud-Betheune. Four albums contain hundreds of clippings and photographs depicting life of women who served in the first Training battalion at Fort Lee, VA in the late 1950s. It captures their experiences as the Army underwent racial integration. There are several scrapbooks from women's service in Vietnam that tell their unknown story. These women's service took them all over the world offering a global perspective. The information they contain paint a true and accurate picture of the experiences, thoughts, and feelings of the owner, often as they transitioned from civilian to soldier, and back to civilian."
+hc_id: "303"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "2100 A Ave"
+address2:  "NULL"
+city:  "Fort Lee"
+state:  "VA"
+zip: "23801"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Accessing 500 Years of Florida's Past through the Historical Map Collection at the P.K. Yonge Library of Florida History
+title: "Accessing 500 Years of Florida's Past through the Historical Map Collection at the P.K. Yonge Library of Florida History"
+year: 2010
+end_range: 1970
+formats: "NULL"
+geographic_extant: "The collection covers the cartographic history of Florida to modern times and includes the greater American Southeast, Gulf of Mexico, and Caribbean"
+institution: "UF Libraries"
+institution_type: "NULL"
+primary_contact: "James Cusick"
+size: "3000 objects"
+start_range: "1520"
+summary: "In 2013, when Florida marks its quincentenary, the name \"Florida\" will have been part of American geography for 500 years. One of the best records of Florida's evolution over five centuries is the University of Florida's Historical Map Collection, a popular resource known to researchers by reputation although never included in the UF Library catalog. Housed in the P.K. Yonge Library of Florida History, the state's oldest repository of primary source materials, the Historical Map Collection is generally acknowledged to be the largest and most comprehensive resource on Florida's cartography at any public institution in the state. The collection encompasses rare print and manuscript maps, copies of manuscript maps from other institutions, surveys, and promotional maps to provide broad research scope to map-making in the state. Maps date between the 1520s and the 1970s, with especially strong coverage from the first permanent settlements in Florida (1560s) to the end of the 1920's land boom. From the Spanish mission trail of the 17th century to the military expeditions of the Seminole wars to the railroad surveys of the Gilded Age and beyond, the collection charts the story of Florida's discovery and development. In all, it comprises 2,000 maps in flat storage; 400 maps of county and city development; 600 maps documenting the rise of modern Florida; scores of bound maps and 5 copper plates. This project focuses on cataloging the 3,000 maps in the core collection."
+hc_id: "660"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Department of Special & Area Studies Collections"
+address2:  "208 Smathers Library"
+city:  "Gainesville"
+state:  "FL"
+zip: "32611-7007"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

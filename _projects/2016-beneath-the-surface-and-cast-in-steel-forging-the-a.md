@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Beneath the Surface and Cast in Steel: Forging the American Industrial Union Movement Digital Project
+title: "Beneath the Surface and Cast in Steel: Forging the American Industrial Union Movement Digital Project"
+year: 2016
+end_range: 1983
+formats: "NULL"
+geographic_extant: "The selected collections encompassing the proposed digital project are national, regional, and local in scope, documenting the impact of the 20th century industrial union movement in coal mining and steel manufacturing centers extending from the Mid-Atlantic region to Appalachia and the deep South, and the Midwest, east of the Mississippi."
+institution: "The Pennsylvania State University"
+institution_type: "NULL"
+primary_contact: "Ms. Karen Estlund"
+size: "NULL"
+start_range: "1882"
+summary: "Pennsylvania State University is the sole participating institution for the proposed two year project (June 2017 - May 2019). The materials represent selected union records and personal papers of labor leaders, and include a wide variety of material formats that document the historical nexus of three important American labor organizations - the United Mine Workers of America (UMWA), the Steel Workers Organizing Committee (SWOC), and Amalgamated Association of Iron, Steel and Tin Workers (AAISTW) in forging the CIO industrial union movement in the 1930s. The proposed project would greatly increase the discoverability and accessibility of these rich historical materials to national and international scholars and inform future collaborative efforts to further document this important intersection of labor and social history. The specific activities undertaken as a part of this project will include in-house digitization, vendor digitization, and the hosting of digitized surrogates and associated metadata via the identified repositories."
+hc_id: "23081208"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "The Pennsylvania State University"
+p2_name:  "Ms. L. Suzanne Kellerman"
+p2_institution:  "The Pennsylvania State University"
+p3_name:  "Dr. Jim Quigel"
+p3_institution:  "The Pennsylvania State University"
+material_string: "<li>303 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$239,185"
+material_description:  "The Penn State University Libraries' Special Collections proposes to digitize selected labor archive records, personal papers, photographs, graphic artwork, and artifact materials documenting the historical nexus of the United Mine Workers of America (UMWA), the Steel Workers Organizing Committee (SWOC), and Amalgamated Association of Iron, Steel and Tin Workers (AAISTW) in forging the CIO industrial union movement, securing labor's organizing and workplace rights, and shaping the 20th century American working class experience. The core components of the project include: digitizing the largest and most significant record series within the UMWA Archives--the President's Office (John L. Lewis) Correspondence with Districts, 1894-1983 record series; providing digital access to the UMWA's poverty survey of miners' housing and living conditions in Appalachia during the 1940s; exposing previously hidden collections documenting SWOC's ascendency over the craft-dominated AAISTW in organizing the steel industry, its central role in the Little Steel Strike of 1937, and the industrial union movement's transformation of American working class communities. UMWA financial backing and staffing of SWOC proved pivotal to the success of the CIO movement. The SWOC manuscript materials include the personal papers of several influential CIO labor leaders--Philip Murray, David J. McDonald, Clinton S. Golden, Harold J. Ruttenberg, William Mitch--who figured prominently in the establishment of the United Steelworkers of America (USW) in 1942. Beyond institutional labor concerns these hidden records document a vibrant American working class culture, illuminating he UMWA's and SWOC's grassroots organizing and outreach to American industrial communities on a score of important social and economic issues that framed the 20th century legislative agenda. The historical trajectory of the fight waged by industrial workers to bargain collectively and exercise free speech in the workplace, establish safety in the workplace; obtain health care insurance and pension security are central to narrative of this project."
 ---
-
-

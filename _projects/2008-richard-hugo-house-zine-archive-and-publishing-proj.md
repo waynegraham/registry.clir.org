@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Richard Hugo House Zine Archive and Publishing Project (ZAPP) catalog
+title: "Richard Hugo House Zine Archive and Publishing Project (ZAPP) catalog"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "Items span most major urban centers in the United States, and countries including Canada, Great Britain, Germany, France, Latin America, Australia."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Chris Leasure"
+size: "20000 objects"
+start_range: "1971"
+summary: "Richard Hugo House, a literary arts center in Seattle, Washington, seeks support for its Zine Archive and Publishing Project (ZAPP), a collection of over 20,000 hand-made books (or zines). Zines (the word is taken from “magazine” or “fanzine”) are independent publications produced and distributed by individuals, focusing on a range of topics from politics to pop culture. The ZAPP collection at Hugo House contains several famous publications, including the Riot Grrls, Bikini Kill, Jigsaw, and Grrl Trouble and first editions of Factsheet Five, the premier zine index. It has been viewed by zine scholars from across the United States, with inquiries and visits from as far away as England and Norway. The collection includes zines from major urban centers in the United States, and from other countries including Great Britain, Germany, Latin America, France, and Australia; dating from 1971 to the present. Within the collection are zines, comics, chapbooks, pamphlets, broadsides, mail art projects, and other small press publications. These are hard-to-find, often one-of-a-kind independently produced publications. Many zine collections focus on particular subjects, but ZAPP features a broad range of content. The ZAPP collection is organized by general subject, with 28 general categories including Art, DIY, Humor, Food & Drink, Politics, Race and Ethnicity, Travel, and Work. It is a vital resource to scholars researching topics from sociology to political movements to publishing."
+hc_id: "374"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1634 11th"
+address2:  "NULL"
+city:  "Seattle"
+state:  "WA"
+zip: "98122"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

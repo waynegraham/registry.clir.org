@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Photographs & Architectural Drawing Collections
+title: "Photographs & Architectural Drawing Collections"
+year: 2016
+end_range: 1990
+formats: "NULL"
+geographic_extant: "The photographs and architectural drawings are focused primarily around Centenary's campus, serving to document life of those living and working in the immediate and surrounding area."
+institution: "Centenary College, Taylor Memorial Library"
+institution_type: "NULL"
+primary_contact: "Mr. Timothy Domick"
+size: "NULL"
+start_range: "1950"
+summary: "A project to digitize approximately 20,000 photographs and 300 architectural drawings related to life on our campus from 1950 - 2000. These images provide a pictorial look at life at and around Centenary during that era. The architectural drawings offer a structural history of the campus. These collections will be processed and arranged at the folder-level. Items will be digitized, cataloged with metadata, and re-housed with preservation as a priority. A digital repository will be created using ContentDM. The collections will also be linked and made accessible through the library's current archival access system, Past Perfect and its online component. Access copies and back-ups of images and metadata will be stored on campus. These collections will be made freely accessible to the public and enrich scholarly pursuits related to the local history of the region as well as to the history of women's higher education in the 20th century."
+hc_id: "22236842"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Centenary College"
+p2_name:  "Mr. Nicholas Consales"
+p2_institution:  "Centenary College"
+p3_name:  "Ms. Colleen Bain"
+p3_institution:  "Centenary College"
+material_string: "<li>20300 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$56,774"
+material_description:  "We seek to process, digitize, and rehouse approximately 20,000 photographs representing life on Centenary's campus during the 20th century and 300 architectural drawings of various buildings on campus. These materials have grown exponentially over time without being processed and remain a largely inaccessible part of our collections. By digitizing these items and making them freely available, we will continue our efforts toward making collections open and accessible to scholars for research purposes as well as serving our students by providing examples of primary historical resources. These digitized collections would offer a unique window into the region's local history as well as the study of women's higher education in the 20th century."
 ---
-
-

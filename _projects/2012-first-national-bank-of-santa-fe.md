@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: First National Bank of Santa Fe
+title: "First National Bank of Santa Fe"
+year: 2012
+end_range: 1940
+formats: "NULL"
+geographic_extant: "The bank was doing business with individuals, corporations, and banks throughout the United States and into Mexico."
+institution: "University Libraries"
+institution_type: "NULL"
+primary_contact: "Beth Silbergleit"
+size: "525 linear feet"
+start_range: "1870"
+summary: "The records of the First National Bank of Santa Fe cover the period from 1870 through 1940, a period that cover the 42 years before New Mexico became a state, through the early statehood period, and the Great Depression. According to Bank history, this was the first bank west of Kansas City, south of Denver, and east of San Francisco. It is the oldest bank in the Southwest currently in operation. The time of the Bank's founding was a time when the Southwest was bustling with activity. Only 24 years had passed since New Mexico was part of Mexico rather than the United States; Spanish was the predominant language, and the railroad had yet to appear. Economic and social history of the region is embedded in the bank's records. Land transactions, labor history, mining, the railroad, building construction, individual accumulation of wealth, the success and failure of businesses from New Mexico and across the country are documented in the collection. The history of the First National Bank of Santa Fe is a lens into the history of banking in this country. Much interesting and insightful historic, economic, and demographic data can be gleaned from analyzing the data contained in ledgers, cash books, correspondence, and documents. In many ways, this collection documents the economic history of New Mexico and much of the Southwest and beyond."
+hc_id: "950"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "MSC 05-3020"
+address2:  "1 University of New Mexico"
+city:  "Albuquerque"
+state:  "NM"
+zip: "87131"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

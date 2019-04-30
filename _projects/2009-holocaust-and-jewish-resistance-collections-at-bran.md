@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Holocaust and Jewish Resistance Collections at Brandeis University
+title: "Holocaust and Jewish Resistance Collections at Brandeis University"
+year: 2009
+end_range: 1950
+formats: "NULL"
+geographic_extant: "The materials were created in the United States and Europe. Documents are primarily in English, German, French, and Yiddish."
+institution: "Brandeis University"
+institution_type: "NULL"
+primary_contact: "Karen Abramson"
+size: "24 boxes, 13 linear feet"
+start_range: "1925"
+summary: "We plan to make available four collections related to the Holocaust and Jewish and radical resistance to persecution before, during, and after World War II: 1. Helmut Hirsch Collection: The personal papers of Helmut Hirsch (1916-1937), a young German Jew executed by the Nazis for his involvement in a plot to bomb the Nazi headquarters at Nuremberg. Included are correspondence, photo albums, memorabilia, trial documents, and Hirsch’s poetry, artwork, travel diaries, school reports, and musical compositions. 2. Jewish Resistance Collection: A range of materials including: underground publications by German Communist and French Jewish resisters to the Nazi regime before and during WWII; international post-war reports and periodicals documenting the persecution and extermination of Jews and the course of several Nuremberg trials; and Nazi paraphernalia. 3. Lipman Nazi Documents: A range of original documents and correspondence by high-level Nazi officials including: the family papers of Wilhelm Frick, Reich Minister of the Interior; documents related to the assassination attempt against Hitler (1944); and original documents issued by top Nazi officials such as Goebbels, Goering, Hess, Himmler, Hitler, and von Ribbentrop. 4. Theresienstadt Concentration Camp Documents: Daily orders issued from the Theresienstadt Concentration Camp (1942-1944). The orders provide detailed information about the workings of the camp including the names and numbers of inmates killed on given dates."
+hc_id: "528"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Robert D. Farber University Archives & Special Collections Department"
+address2:  "Library and Technology Services, Brandeis University"
+city:  "Waltham"
+state:  "MA"
+zip: "02454-9110"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

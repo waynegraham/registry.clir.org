@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Academy Sights and Sounds: Digitizing Audiovisual Media
+title: "Academy Sights and Sounds: Digitizing Audiovisual Media"
+year: 2015
+end_range: 2010
+formats: "NULL"
+geographic_extant: "The majority of the events recorded took place at the House of the Academy in Cambridge, MA; some events were recorded in California, Illinois, and New York."
+institution: "American Academy of Arts and Sciences"
+institution_type: "NULL"
+primary_contact: "Ms. Michele Lavoie"
+size: "NULL"
+start_range: "1958"
+summary: "The proposed project, \"Academy Sights and Sounds,\"  will create and make available online hundreds of digital copies of the American Academy of Arts and Sciences' audiovisual materials, which offer recordings of significant lectures, Stated Meetings, Friday Forums, conferences, various concerts, and other events related to the work of the Academy. Under the \"Academy Sights and Sounds\"  project, audio recordings and select video recordings of significant historical value will be digitized and posted on the Academy website (www.amacad.org). These materials will form subject groups that highlight the breadth of expertise demonstrated by the Academy and its membership throughout the decades. For example, a grouping of recordings based on literature would include a 1966 reading of the poetry of Edmund Wilson, John Updike's 1983 presentation on \"Rereading Emerson,\"  and Robert Frost's lecture upon receiving the Emerson-Thoreau Award, among other items."
+hc_id: "17617506"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "American Academy of Arts and Sciences"
+p2_name:  "Ms. Margaret"
+p2_institution:  "Assistant Archivist"
+p3_name:  "Ms."
+p3_institution:  "NULL"
+material_string: "<li>810 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$144,899"
+material_description:  "The materials proposed for digitization under the \"Academy Sites and Sounds\"  project date from 1958 to 2010, and comprise dozens of linear feet of reel-to-reel audio tapes, audio and video cassette tapes, and UMATIC cassettes. Of particular note is a magnetic reel to reel audio recording of Robert Frost accepting the first Emerson-Thoreau Award in 1958 (one of the oldest audiovisual records in the collections). Other significant objects include recordings of the 1985 Niels Bohr symposium, the dedication ceremony for the new House of the Academy in 1981, Andrei Sakharov's press conference in November 1988, and several Academy Induction ceremonies."
 ---
-
-

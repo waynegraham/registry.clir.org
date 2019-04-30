@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Sage of the Osage: Cataloging the Library of Thomas M. Johnson
+title: "The Sage of the Osage: Cataloging the Library of Thomas M. Johnson"
+year: 2013
+end_range: 1919
+formats: "NULL"
+geographic_extant: "Although located in the Missouri Ozarks, the materials derive from Western Europe, Italy, Greece, and the Mediterranean."
+institution: "Missouri State University"
+institution_type: "NULL"
+primary_contact: "David Richards"
+size: "0 boxes, 0 cubic feet, 952 linear feet, 6500 objects"
+start_range: "1489"
+summary: "The earliest volumes which make up the library were acquired by Thomas M. Johnson prior to his arrival in Osceola in August of 1879. However, collecting efforts most likely accelerated during the last two decades of the 1800s when he began independently publishing two journals, The Platonist and Bibliotheca Platonica. The collection focuses on philosophy, religion, Greek and Latin literature, metaphysics, theosophy, and intellectual history. Most of the extant Latin authors are represented. The collection is strong in holdings regarding the English Platonist, Thomas Taylor (1758-1835), a favorite author of Thomas M. Johnson. There are substantial holdings regarding the Theosophy Movement of the late 19th and early 20th centuries, including books by and about Helena Blavatsky (1831-1891) and Annie Besant (1847-1933). There are also significant materials on magic and the occult. The collection holds reference works such as the Souda, also known as Suidas' Greek-Latin Lexicon, edited by Ludolf Kuster (1670-1716), Pierre Bayle's Dictionnaire Historique et Critique (1736 edition), and August Pauly and Georg Wissowa's Realencyclopedie de Classischen Altertumswissenschaft (1910 edition). The library's earliest titles date back to the late 1400s and include Porphyry's Plotini Vita translated by Marsilio Ficino (1492) and Ficino's own De Triplica Vita from 1489. There are at least 25 titles from the 1500s and over 80 titles from the 1600s."
+hc_id: "1070"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Duane G. Meyer Library"
+address2:  "Missouri State University"
+city:  "Springfield"
+state:  "MO"
+zip: "65897"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

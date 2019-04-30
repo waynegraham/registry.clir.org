@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Great Hudson River Revival - Clearwater Festival concerts
+title: "Great Hudson River Revival - Clearwater Festival concerts"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Wesleyan University"
+institution_type: "NULL"
+primary_contact: "Mr. Alec McLane"
+size: "NULL"
+start_range: "NULL"
+summary: "Wesleyan's World Music Archives holds 30 years of recordings deposited by Phil Ciganer, the owner of the Towne Crier Cafe in Pawling, NY (since relocated to Beacon, NY). For the pilot grant we would like to target approximately 56 hours of cassette recordings from the 1979 Great Hudson River Revival festival, held over two days at venues in Croton-on-Hudson, NY, as well as on the sloop, Clearwater. These concerts were recorded under the supervision of Ciganer, and feature prominent figures in the American folk music and singer-songwriter scene, as well as numerous other performers from around the world."
+hc_id: "25619108"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Wesleyan University"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "56 recorded hours"
+collaborating_institution:  "NULL"
+grant_amount:  "$14,573"
+material_description:  "The application is for the digitization of 38 audio cassettes, mostly 90 min. in length each, recorded on various concert stages during the Great Hudson River Revival festival in 1979, a sampling of a larger group of recordings that includes 1/4\" and 1/2\" reel-to-reel tape as well. Performers include Pete Seeger, who with his wife Toshi started the project that acquired the sloop Clearwater and became the Hudson River Clearwater Foundation, Inc., which sponsors the festival. Many other musicians from the Hudson Valley and beyond took part - Mike Seeger, Alice Gerrard, Tom Paley, Hedy West, Robin & Linda Williams, Jay Ungar, Utah Philipps, John Hartford, Bernice Regan, Taj Mahal, and Alhaji Bai Konte, among others. The recording of these concerts was supervised by Phil Ciganer, owner of the nearby Towne Crier Cafe, and he kept the original tapes until 2004 when he deposited them in Wesleyan's World Music Archives, along with 30 years of recordings from the Cafe itself. In 2012 he formally deeded ownership of the recordings to the World Music Archives, in hopes of us pursuing preservation and digitization grants to make them available for education and research. Several of the audio recordings, including some on reel-to-reel, have been dubbed and cataloged in Wesleyan's library catalog, and can be retrieved at this URL: http://wesleyan.summon.serialssolutions.com/?q=great+hudson+river+revival+world+music+archives#!/search?ho=t&fvf=ContentType,Archival%20Material,f&l=en&q=great%20hudson%20river%20revival%20world%20music%20archives. Our transfer from tape to CD was non-archival, hence the pursuit of funding for archival preservation for the entire collection, but all of these are currently available for in-house listening."
 ---
-
-

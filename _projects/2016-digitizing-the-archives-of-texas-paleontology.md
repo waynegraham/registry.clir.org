@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing the Archives of Texas Paleontology
+title: "Digitizing the Archives of Texas Paleontology"
+year: 2016
+end_range: 1890
+formats: "NULL"
+geographic_extant: "Worldwide, focusing on Texas, American Southwest, North America general"
+institution: "The University of Texas Vertebrate Paleontology Collections"
+institution_type: "NULL"
+primary_contact: "Mr. Matthew Brown"
+size: "NULL"
+start_range: "1890"
+summary: "This project aims to digitize and digitally catalog the archives of the Vertebrate Paleontology Laboratory (VPL) of The University of Texas at Austin over two years. The archival materials consist of 554 cubic feet (cf) of uncatalogued and undescribed maps, field notes, research permits, correspondence, images, artwork, and other documents relating to the history of paleontology in Texas and North America. The fossil holdings at VPL house approximately 250,000 cataloged specimens, the seventh largest vertebrate collection in the US. The archival materials represent the scientific and historic context for specimens collected from the late 19th century to the present day, and held in trust as a State, Federal, and Navajo Nation repository."
+hc_id: "22351159"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "The University of Texas at Austin"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>554 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$230,100"
+material_description:  "The paleontological collections of VPL focus on the history of vertebrates in Texas and adjacent regions; broader studies are also conducted to establish a national and global context for Texas vertebrate history. The 554 cf of archival materials support this context, including documents, maps, photos, artwork, and correspondence. These include records and reports of the 1890-1894 Texas Geological Survey (aka Cope-Cummins) collection of Permian, Triassic, and Cenozoic fossils, the 1935-1937 H.B. Stenzel collection of fossil from across the state for display at the Texas Centennial Exposition (later the Texas Memorial Museum), and R.T. Bird's collection of dinosaur tracks from Glen Rose, Texas. From 1939-1941, a Works Progress Administration-funded survey collected tens of thousands of vertebrate specimens from 22 counties. This survey is extensively documented in the VPL archives with maps, photographs, and weekly field and laboratory reports. VPL archives also include the correspondence, field notes, locality maps, andresearch notes from each of its directors and numerous research associates. First director Dr. John Wilson was a founding member of the Society of Vertebrate Paleontology; many VPL staff have held leadership offices in that organizations and maintain records pertaining to its history. VPL staff built extensive public trust collections from U.S. National Parks, other State and Federal lands, and the Navajo Nation; the supporting records in the VPL archives document the scientific and cultural heritage of the American public."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Segregated Japanese American Military Units of World War II: A Collaborative Online Repository of Oral Histories, Photos and Documents
+title: "Segregated Japanese American Military Units of World War II: A Collaborative Online Repository of Oral Histories, Photos and Documents"
+year: 2014
+end_range: 0
+formats: "NULL"
+geographic_extant: "International"
+institution: "Go For Broke National Education Center"
+institution_type: "NULL"
+primary_contact: "Ms. Barbara Watanabe"
+size: "NULL"
+start_range: "1920"
+summary: "Go For Broke National Education Center proposes a collaborative two-year project to create an online repository of oral histories, photos and documents of the Japanese American (JA) men who served in segregated units during WWII. The collection will include1,300 oral histories and 1,500 photos and documents with powerful search capabilities that connect the user from a search result to the corresponding moment in an oral history and relevant still images. This collaborative collection from GFB and JA veteran organizations in Chicago, Seattle and Hawaii will be the largest collection of primary source materials about the men whose life stories deepen our understanding of the rights, responsibilities and challenges of American citizenship."
+hc_id: "12990333"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Go For Broke National Education Center"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>1300 Audio (Including Speech And Music), Audiovisual, Image</li>"
+collaborating_institution:  "Japanese American Service Center, Chicago, IL\n\nSeattle Nisei Veterans Committee Foundation, Seattle, WA\n\nNisei Veterans Memorial Center, Kahului, Maui, HI\n\nMilitary Intelligence Service Veterans Club, Honolulu, HI"
+grant_amount:  "$260,975"
+material_description:  "NULL"
 ---
-
-

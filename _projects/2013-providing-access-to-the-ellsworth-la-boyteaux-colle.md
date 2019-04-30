@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Providing Access to the Ellsworth La Boyteaux Collection of Art from Papua New Guinea
+title: "Providing Access to the Ellsworth La Boyteaux Collection of Art from Papua New Guinea"
+year: 2013
+end_range: 1970
+formats: "NULL"
+geographic_extant: "Papua New Guinea/ Oceania"
+institution: "California Lutheran University"
+institution_type: "NULL"
+primary_contact: "Madelynn Dickerson"
+size: "160 objects"
+start_range: "1950"
+summary: "The Ellsworth La Boyteaux Collection of art from Papua New Guinea includes approximately 160 artifacts from diverse regions of Papua New Guinea, but primarily the Sepik region. The objects date from the mid-20th century. Donated to California Lutheran University in the 1970s by the art collector Ellsworth La Boyteaux, the collection includes a range of objects such as carved ancestor figures, yam cult figures, polychromed suspension hooks, ceremonial house decorations, painted shields, masks, plaques, weapons, musical instruments, and jewelry. Approximately 100 of these artifacts have been digitally photographed in high resolution. Many of the artifacts are painted on bark or other organic textiles."
+hc_id: "1166"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Pearson Library"
+address2:  "60 W. Olsen Rd"
+city:  "Thousand Oaks"
+state:  "CA"
+zip: "91360"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

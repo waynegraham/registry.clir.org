@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Robert H. Ruby Papers
+title: "Robert H. Ruby Papers"
+year: 2014
+end_range: 2010
+formats: "NULL"
+geographic_extant: "Primarily relates to Pacific Northwest with some material relating to South Dakota."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Charles Mutschler"
+size: "30 cubic feet"
+start_range: "1950"
+summary: "This collection encompasses the historical work of Dr. Robert H. Ruby (1921 -2013), physician/surgeon. His medical obligation to the government was served as the Chief Medical Officer on the Pine Ridge Indian Reservation at Pine Ridge, South Dakota (1953-1954). This experience piqued his interest in American Indian history and led to a second career as a self-taught historian and ethnographer. This collection is a compilation of research materials that were written or collected and used by Dr. Ruby in the course of his historical research and writing. This was at time when no others were researching/documenting information on American Indian history so it fills a void. In 1955 Dr. Ruby entered private practice in Moses Lake, WA."
+hc_id: "11749756"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

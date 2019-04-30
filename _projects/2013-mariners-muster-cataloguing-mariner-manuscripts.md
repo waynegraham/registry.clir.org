@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Mariners Muster: Cataloguing Mariner Manuscripts
+title: "Mariners Muster: Cataloguing Mariner Manuscripts"
+year: 2013
+end_range: 1999
+formats: "NULL"
+geographic_extant: "Collections relate to Penobscot Bay built ships and schooners and local sea captains which traveled the Atlantic, Indian and Pacific trade routes."
+institution: "Penobscot Marine Museum"
+institution_type: "NULL"
+primary_contact: "Cipperly Good"
+size: "119 linear feet"
+start_range: "1734"
+summary: "The Museum identified relevant materials in 20 separate manuscript collections of Penobscot Bay sea captain's papers and ship owner's business records, two artificially created collections of family papers and vessel records and three small folder size collections of seamen's licenses and crew papers. The artificial collections compile small collections or individual documents related either to specific Penobscot Bay families or vessels respectively. The 20 collections contain records of individual mariners serving aboard merchant marine, fishing and naval vessels. The vessels on which these mariners served were built and/or owned by Penobscot Bay and River interests, made ports of call in the Penobscot Bay or fished it waters. Although the documents share Maine roots, they document merchant mariners sailing on the Atlantic, Indian and Pacific trade routes where the Maine connection signified a standard of excellence. The mariners range from local Mainers who signed aboard at the vessel's homeport to foreign crew hired while the vessel traded abroad. The bulk of the material dates from 1806-1920, some date as early as 1734 and as late as 1999. The collections document the rise, dominance and fall of Maine and East Coast interests in the global trade by sail and later steam and the harsh treatment of mariners by their officers. In addition to the mariners' papers, the collections include correspondence, financial accounts of port visits and vessel information."
+hc_id: "1111"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P.O. Box 498"
+address2:  "5 Church Street"
+city:  "Searsport"
+state:  "Maine"
+zip: "4974"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

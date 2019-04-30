@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Waiting in the Wings: Bringing San Diego Performing Arts Collections to Center Stage
+title: "Waiting in the Wings: Bringing San Diego Performing Arts Collections to Center Stage"
+year: 2008
+end_range: 1996
+formats: "NULL"
+geographic_extant: "San Diego, California and southern California, the United States, and Western Europe."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Robert Ray"
+size: "482 linear feet"
+start_range: "1850"
+summary: "With nearly 500 linear feet of records encompassing performance in all its diversity, the materials comprise an extraordinary body of primary resources documenting the rich history of theatre and the performing arts in San Diego, the United States, and abroad, from the 19th century to the present. Collections include: The Old Globe Theatre (1935-1996) documenting California's oldest professional theater; The San Diego Union Performing Arts Collection (1908 - 2001) documenting theater, opera, symphony, ballet, and dance in San Diego, the United States; Dr. Susan Earnest Theatre Collection Photographs documenting theatres in Southern California prior to the Civil War, including some of the earliest and rarest images of San Diego theatres and opera houses; SDSU Theatre and Drama Department Records (1914-1996) documenting the history of SDSU theatre - one of the largest and most complete collections of student and faculty work from any SDSU department; San Diego Opera records documenting San Diego's professional opera company, founded in 1950; and the San Diego Symphony records created in the course of their public relations, marketing and performance administration, from the period 1936-1990. The collections show the spectacular growth of San Diego theatre since the 1980s that has exerted a lasting influence on the performing arts in America."
+hc_id: "30"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Library and Information Access"
+address2:  "5500 Campanile Drive"
+city:  "San Diego"
+state:  "CA"
+zip: "92182-8050"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

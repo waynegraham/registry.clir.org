@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Aerospace History Project: An Undiscovered Archival Resource
+title: "Aerospace History Project: An Undiscovered Archival Resource"
+year: 2013
+end_range: 1990
+formats: "NULL"
+geographic_extant: "Primarily Southern California-based: from San Diego northward to Santa Barbara, but including some material from throughout the state and country."
+institution: "The Huntington Library"
+institution_type: "NULL"
+primary_contact: "Kristy Peters"
+size: "48 boxes, 300000 objects"
+start_range: "1930"
+summary: "At the present time, we hold 12 unprocessed aerospace history collections, including about 300,000 photographs. These consist of two kinds of materials. The first consists of the personal papers and photographs of aerospace personnel at all levels, ranging from executives to shop floor workers, and primarily concerning their occupation in the industry, the effect of their work on their families and the social lives the close-knit workers shared, and daily work activities. These include the papers of Clarence “Kelly” Johnson, the founder of Lockheed's Skunkworks; Harvey Christen, one of Lockheed's first employees; and Tex Thornton, founder of Litton Industries. The second consists of corporate aerospace archives donated by aerospace companies (and which have been vetted for classified or sensitive material), documenting the respective companies' work in the field. These include memos, correspondence, internal newsletters, very extensive photographic collections, and other materials in the archival spectrum. The materials range in date from approximately 1930 (beginning with a variety of unpublished photographs of Amelia Earhart on the Lockheed shop floor, where she helped to test the Lockheed aircraft she would use for many of her flights and speed records), and ending in the 1990s. Geographically, the materials focus primarily on Southern California and the aerospace efforts that employed more than 280,000 people across the region at its height during World War II."
+hc_id: "1144"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1151 Oxford Road"
+address2:  "NULL"
+city:  "San Marino"
+state:  "California"
+zip: "91108"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

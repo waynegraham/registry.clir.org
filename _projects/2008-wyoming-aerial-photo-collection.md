@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Wyoming Aerial Photo Collection
+title: "Wyoming Aerial Photo Collection"
+year: 2008
+end_range: 1990
+formats: "NULL"
+geographic_extant: "The entire state of Wyoming is covered in the project."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Lori Phillips"
+size: "83000 objects"
+start_range: "1936"
+summary: "The Wyoming Aerial Photo Collection covers the entire state of Wyoming and spans from 1936 through the 1990s, with most photos from the 50s, 60s, and 70s. Most were produced by Federal agencies. The collection includes some private sets sponsored by oil and gas exploration companies or public utilities."
+hc_id: "74"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1000 E. University Avenue"
+address2:  "Department 3334"
+city:  "Laramie"
+state:  "WY"
+zip: "82071"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

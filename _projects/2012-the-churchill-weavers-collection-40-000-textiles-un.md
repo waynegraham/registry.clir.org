@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Churchill Weavers Collection - 40,000 Textiles Uncovered
+title: "The Churchill Weavers Collection - 40,000 Textiles Uncovered"
+year: 2012
+end_range: 2007
+formats: "NULL"
+geographic_extant: "The collection's geographic scope is local, national and international."
+institution: "Kentucky Historical Society"
+institution_type: "NULL"
+primary_contact: "Lynne Hollingsworth"
+size: "1551 boxes, 40000 objects"
+start_range: "1922"
+summary: "The materials comprise an archive of three-dimensional objects representing all hand-woven products made by Churchill Weavers from 1922 to 2007. Once considered America’s largest and finest hand-weaving studio, Churchill Weavers was founded in the rural Appalachian town of Berea, KY. As a record of production, Churchill Weavers kept a sample of almost every hand-woven creation they made in their 85 year history. The fabric archive is made-up of an estimated 40,000 fabric pieces in the form of swatches, yardage, finished and unfinished products, salesmen samples, and color blankets. These samples represent all Churchill Weavers production lines: scarves, baby blankets, couch throws, coverlets, household fabrics, ready-to-wear clothing, handbags, and men’s neckties. Specific weaving information, color ways, and design records accompany samples on attached product labels, paper notes, and tags. The collection includes unusual experimental fabrics that were not sold to the public, such as 1960s “space cloth” from a Churchill Weavers and NASA partnership to produce space suit lining material for Mercury mission astronauts; and samples of 1970s and 80s fiber art from the company’s work with American textile artist Gerhardt Knodel. Topics include: Appalachian weaving styles incorporated with modern tastes, fashion and artistry in hand-woven textile design and creation, economic impact on Appalachian region, and fiber science and experimentation."
+hc_id: "942"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "100 W. Broadway"
+address2:  "NULL"
+city:  "Frankfort"
+state:  "KY"
+zip: "40601"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$142,700"
+material_description:  "NULL"
 ---
-
-

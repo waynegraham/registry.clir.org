@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: From Her Pen to the Printed Page: Digital Preservation and Access to the Manuscripts of Elizabeth Barrett Browning at the Armstrong Browning Library
+title: "From Her Pen to the Printed Page: Digital Preservation and Access to the Manuscripts of Elizabeth Barrett Browning at the Armstrong Browning Library"
+year: 2016
+end_range: 1861
+formats: "NULL"
+geographic_extant: "The materials represented cover primarily the United Kingdom (England), Italy, and the United States."
+institution: "Baylor University"
+institution_type: "NULL"
+primary_contact: "Mr. Darryl Stuhr"
+size: "NULL"
+start_range: "1813"
+summary: "Baylor University proposes a two-year project in order to digitally preserve and provide open access to more than 300 original manuscripts written by Victorian poet Elizabeth Barrett Browning (1806 - 1861), commonly known as EBB. The proposed digital collection will provide unprecedented access to documents previously available to scholars only on an in-person basis at the Armstrong Browning Library (ABL), a special collection on the campus of Baylor University. Included in the manuscripts are early drafts and fair copies of EBB's poetical works, verse and prose notebooks, verse and prose translations of classical authors, memoranda, marginalia, and proofs of her works that often incorporate handwritten notes, evidence of her input into the editing process. The resulting digital collection will feature high-resolution images, full-text searchable transcriptions, complete metadata, and worldwide access via the Baylor University Libraries Digital Collections website (http://digitalcollections.baylor.edu)."
+hc_id: "22057263"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>323 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$65,480"
+material_description:  "The materials in this collection represent the working papers, initial drafts, and authorial feedback of Elizabeth Barrett Browning, one of the Victorian era's most revered and well-known poets. Drawn from the collections of Baylor University's Armstrong Browning Library, the manuscripts provide unparalleled insight into EBB's creative process, keen eye for detail, and persistence in presenting her materials in their purest form. The digital collection will feature high resolution images of the manuscripts as well as plain text transcriptions of each work for keyword search functionality, quick reading, and easier discovery by online search engines."
 ---
-
-

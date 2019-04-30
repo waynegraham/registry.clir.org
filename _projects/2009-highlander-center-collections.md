@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Highlander Center Collections
+title: "Highlander Center Collections"
+year: 2009
+end_range: 2008
+formats: "NULL"
+geographic_extant: "The geographic scope of the materials is primarily Appalachia and the Southern United States, with national and international connections."
+institution: "Highlander Research and Education Center"
+institution_type: "NULL"
+primary_contact: "Susan Williams"
+size: "325 linear feet"
+start_range: "1928"
+summary: "Since its founding in 1932, the Highlander Research and Education Center has been at the epicenter of social justice movements in Appalachia and the South. Highlander has played a vital role in the growth and development of movements for workers' rights, Civil Rights, environmental justice, and global justice, among others. The stories of both famous and unsung activists and leaders who raised their voices to \"form a more perfect union\" are little known and little understood. Too often the stories of changes are the stories of famous individuals, not the many who helped to do the work. Subsequently, the connections of people inspiring each other within communities and across time and movements are even less understood. These lessons are critical to looking forward and understanding how this country makes real its democratic process. Highlander, because of its 77 year presence in this region of the United States, serves as a lens for seeing and understanding movements that improve lives, communities, and nations. It is this hidden aspect that we hope to raise up through this project by better documenting and connecting Highlander's history. This history links to national efforts such as the environmental movement and even beyond, to international educational and change efforts. These collections include photographs, audio and video tapes, reel-to-reel films, workshop recordings, papers from Highlander staff members, board members, and program participants."
+hc_id: "536"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1959 Highlander Way"
+address2:  "NULL"
+city:  "New Market"
+state:  "TN"
+zip: "37820"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

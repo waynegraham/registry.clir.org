@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Bringing Film Collections to Light: A Project to Uncover Two Unique Collections of Film Ephemera
+title: "Bringing Film Collections to Light: A Project to Uncover Two Unique Collections of Film Ephemera"
+year: 2012
+end_range: 1970
+formats: "NULL"
+geographic_extant: "The collections primarily consist of materials from films made in the United States, although there are some items from films produced abroad."
+institution: "Lawrence and Lee Theatre Research Institute"
+institution_type: "NULL"
+primary_contact: "Beth Kattelman"
+size: "133000 objects"
+start_range: "1890"
+summary: "The items to be uncovered by this project comprise two unique collections of American film ephemera: The Richard E. Teichert Collection and the Philip Sills Collection. These collections contain posters, glass slides, programs, sheet music, press books, magazines, scrapbooks, lobby cards, stills and other ephemera representative of the American film industry from the late-19th through the mid-20th century. The Richard E. Teichert collection is comprised of materials that are primarily related to the silent-film era (1896-1929). All of the major productions and major stars of the period are represented. In addition to its rich array of silent film materials, The Teichert Collection also contains numerous posters for the Western stars of the 1930s. The other collection, The Philip Sills Collection, is much larger and contains a wider array of materials that chronicle the American film industry from 1927 to 1970. This collection contains over 110,000 items, and consists primarily of film posters and film stills. The Sills Collection is particularly strong in materials that document films from the 1940s and 1950s. Preliminary finding aids for both the Teichert and the Sills Collections currently exist only in hard copy. The information for the Philip Sills Collection is contained in a card catalog and a rudimentary typed list of 181 single-spaced pages that was created from the catalog. The typed list contains only release dates and titles of the films. The preliminary finding aid for the Richard E. Teichert Collection is even more skeletal. It consists of a 7-page typed list that only includes titles of some of the posters and some of the glass slides. These hard-copy finding aids are ineffective for several reasons. First, they are not electronically accessible or searchable. Researchers who wish to use the collection lists or the Sills card catalog must be on site and must spend an inordinate amount of time browsing through each card or entry in order to discover pertinent information. Also, the lists are incomplete and contain no descriptors such as names of performers, directors, studios, etc. Due to the lack of detail and difficulty of searching the finding aids, the materials in these collections remain virtually inaccessible."
+hc_id: "939"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1858 Neil Avel Mall"
+address2:  "119D Thompson Library"
+city:  "Columbus"
+state:  "OH"
+zip: "43210"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

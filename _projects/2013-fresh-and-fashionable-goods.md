@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Fresh and Fashionable Goods
+title: "Fresh and Fashionable Goods"
+year: 2013
+end_range: 1942
+formats: "NULL"
+geographic_extant: "The scope is national, encompassing national politics, westward expansion, education, slavery, foreign trade, American art, and other national issues."
+institution: "Litchfield Historical Society"
+institution_type: "NULL"
+primary_contact: "Catherine Fields"
+size: "38 linear feet, 97 objects"
+start_range: "1760"
+summary: "The LHS holds 97 of Boardman's ledgers. The New Milford Historical Society holds 3,411 pages of legal papers, correspondence and business records. The New Haven Museum's collection includes 872 items, and Yale holds 27 linear feet. Taken as a whole, these collections document the local agricultural and the proto-industrial manufacturing community in Northwest CT; foreign commerce and the influence of foreign goods and taste on rural Americans; education; the settlement of Ohio; northern slavery; textile history; family life; social networks; and American art during the early national period. Boardman served in the Revolution and trained as a clerk in New Haven. In 1781 he opened a store with his brother in New Milford where he brought foreign goods from Europe and India to the rural Litchfield County market. He shipped local agricultural goods to NY where he sold them at a premium. He brought back rum, molasses and a large variety of textiles to sell locally. A member of the CT Land Co. he invested in the CT Western Reserve; served several terms in the CT General Assembly; and was elected to the US Senate in 1821. Two of his sons attended the Litchfield Law School and two daughters attended the Litchfield Female Academy. Their papers are included in these collections. Several private collectors have also agreed to allow for description of Boardman artifacts and documents which remain with descendants and have been inaccessible to scholars."
+hc_id: "1073"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P.O. Box 385"
+address2:  "NULL"
+city:  "Litchfield"
+state:  "CT"
+zip: "6759"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

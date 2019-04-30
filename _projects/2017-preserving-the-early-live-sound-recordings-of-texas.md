@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Preserving the Early Live Sound Recordings of Texas Music Icon, Jerry Jeff Walker
+title: "Preserving the Early Live Sound Recordings of Texas Music Icon, Jerry Jeff Walker"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "The Wittliff Collections, Texas State University"
+institution_type: "NULL"
+primary_contact: "Ms. Katharine Salzmann"
+size: "NULL"
+start_range: "NULL"
+summary: "The Wittliff Collections, partnering with the Northeast Document Conservation Center (NEDCC), will create and preserve digital surrogates of thirty-two ¼-inch open reel audio tapes from the archive of performer, Jerry Jeff Walker. The at-risk tapes contain approximately 25 hours of live and studio recordings dating 1966-1981, and are currently housed in original containers acquired directly from Mr. Walker. Born in New York, Jerry Jeff Walker began his career in the Greenwich Village folk scene. He later settled in Austin and became a driving force behind the progressive country movement of the early 1970s, along with Willie Nelson, Guy Clark, and others. The tapes selected for this project span Walker’s early career and include live recordings from coffee shops in New York as well as original recordings from Luckenbach, Houston, and Austin, Texas. Many of these tapes have not been played since they were originally recorded."
+hc_id: "26923766"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "The Wittliff Collections"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "32 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$10,805"
+material_description:  "NULL"
 ---
-
-

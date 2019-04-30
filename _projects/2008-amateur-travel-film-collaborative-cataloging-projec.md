@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Amateur Travel Film Collaborative Cataloging Project
+title: "Amateur Travel Film Collaborative Cataloging Project"
+year: 2008
+end_range: 1977
+formats: "NULL"
+geographic_extant: "The scope is literally worldwide, split between American travels (from all across the country) and foreign locations on all seven continents."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Dwight Swanson"
+size: "1465 objects"
+start_range: "1900"
+summary: "The film collections contain amateur travelogues made by filmmakers depicting their travels to far-flung regions of the world from the beginning of the 20th century onward. In some cases these travels were to places exotic to American eyes, such as a Baptist mission educator’s filming of leprosy missions, a geologist’s scenes of indigenous groups in Burma (said to be the first footage of some of the peoples), footage of Diego Rivera and the Dalai Lama, and unplanned documentation of Russia’s 1968 invasion of Czechslovakia. One RCA engineer, who traveled to thirty countries over three decades, recorded with great detail the daily lives, environment, and work of the traditional cultures he visited, including handicrafts, home industries, dwellings, household arrangements, personal dress and adornment, agricultural techniques and equipment, etc. While some of the travelers were motivated by the challenges of exploration and encountering the unknown, in other cases the films were more homespun and were intended only to record family travels across the United States, or those films of a railroad employee from Indiana who shot scenes of Civil War re-enactments, national parks, parades, fairs and festivals, as he crossed the country. Most, as is typical of travel films, were intended to be shown to family groups or small local community organizations. The earliest films in the collections were those shot by one of the first women to headline the Chautauqua lecture circuits."
+hc_id: "362"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "630 S 48th St"
+address2:  "1-F"
+city:  "Philadelphia"
+state:  "PA"
+zip: "19143"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

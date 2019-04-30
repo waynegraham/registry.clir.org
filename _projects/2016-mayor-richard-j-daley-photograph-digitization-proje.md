@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Mayor Richard J. Daley Photograph Digitization Project
+title: "Mayor Richard J. Daley Photograph Digitization Project"
+year: 2016
+end_range: 1880
+formats: "NULL"
+geographic_extant: "Most of the images pertain to Chicago or Cook County, Illinois. Other places Daley visited are also represented. Among these places are Springfield, Illinois, Atlantic City, Honolulu, Washington D.C., Rome, and Dublin."
+institution: "University of Illinois at Chicago"
+institution_type: "NULL"
+primary_contact: "Dr. Daniel Harper"
+size: "NULL"
+start_range: "1880"
+summary: "Richard J. Daley (Chicago mayor, 1955-1976) presided over the United States' second largest city during a time of unprecedented economic and social change. Daley wielded national influence as a key figure in the U.S. Democratic Party, as a spokesperson and advocate for urban policy initiatives, and as a confidant to congresspersons, senators, and presidents. The University of Illinois at Chicago will digitize and place online approximately 11,100 photographic and other images from two archival collections that pertain to the mayor's life. These collections are the Richard J. Daley Collection and the László Kondor Photograph Collection. The project will digitize the full range of photographs from each collection, and it will allow researchers to easily access and search images from the mayor's life and career. Also included is a small number of photos from before and after Daley's life."
+hc_id: "21287806"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Illinois at Chicago"
+p2_name:  "Ms. Sonia Yaco"
+p2_institution:  "University of Illinois at Chicago"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>7500 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$61,661.00"
+material_description:  "UIC will digitize images from two collections that highlight the life and career of Richard J. Daley (Mayor of Chicago, 1955-1976). The first collection, the László Kondor Photograph Collection, contains about 600 photographs, 600 slides, and 3,000 35mm negatives taken by László Kondor from 1972 to 1976, while he served as Daley's official photographer. Kondor donated these images to UIC in 2013 and assigned the copyrights to UIC. The second collection is the Richard J. Daley Collection. It contains about 6,900 images, mostly print photographs but a small number are negatives, slides, or in other formats. These images document all aspects of Daley's life and career. The provenance of these is mixed. Representatives of the Daley family donated all the images and assigned any copyrights they own to UIC. Some of the photographs are products of private studios or commercial photographers who may have given prints to Mayor Daley or to his family. UIC Library will work with creators who initiate contact about any rights they may hold. These images touch on all aspects of Daley's mayoralty. These include his everyday meetings with Chicagoans and businesspersons, his encounters with civil rights leaders, his role as one of the United States' most influential Democratic Party leaders, his public appearances with famous entertainers, and his collaborations with local, national, and international politicians. The images also capture Daley's role as chair of the Cook County Democratic Party and one of the most influential leaders of the national Democratic Party. Some images in the collections pertain to Daley's personal and family life and to his pre-mayoral career as state legislator, state budget director, and county clerk. Some are family photos from the late 1800s. Other images offer glimpses into daily life of Chicago as the city's skyline and infrastructure grew during Daley's tenure."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Documenting Mexican American & Latino Civil Rights: Records of the Mexican American Legal Defense and Educational Fund & CA Rural Legal Assistance
+title: "Documenting Mexican American & Latino Civil Rights: Records of the Mexican American Legal Defense and Educational Fund & CA Rural Legal Assistance"
+year: 2010
+end_range: 2004
+formats: "NULL"
+geographic_extant: "MALDEF is a national organization with offices in Los Angeles, CA; San Antonio, TX; Chicago, IL; and Washington, DC. CRLA operates exclusively in CA."
+institution: "Stanford University Libraries"
+institution_type: "NULL"
+primary_contact: "Michael Keller"
+size: "2437 linear feet"
+start_range: "1966"
+summary: "The Mexican American Legal Defense and Education Fund (MALDEF) was incorporated in 1967 and has evolved into one of the most influential and effective organizations working to protect the civil rights of Mexican Americans and Latinos throughout the United States. The MALDEF records that are unprocessed and inaccessible to researchers date from 1984-2002 and total 2,108 linear feet. Included in the collection are administrative records, special project files, media, and litigation case files focusing on issues such as employment discrimination, education rights, reproductive rights, and voting rights. Founded in 1966, California Rural Legal Assistance (CRLA) is a legal advocacy organization for the rural poor in California, focusing primarily on issues faced by Mexican American migrant workers. This collection, spanning 1966-2004 and totaling 329 linear feet, contains administrative records, project files, press releases, clippings, and case files. Many of the materials in this collection provide additional insight into the legal issues confronted by MALDEF, including those related to bilingual education and the rights of undocumented immigrants. While these two organizations often serve overlapping communities, they have different and distinct missions: CRLA focuses on helping the rural poor in California and MALDEF focuses on assisting Mexican Americans throughout the United States."
+hc_id: "648"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "450 Serra Mall"
+address2:  "NULL"
+city:  "Stanford"
+state:  "CA"
+zip: "94305"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$349,300"
+material_description:  "NULL"
 ---
-
-

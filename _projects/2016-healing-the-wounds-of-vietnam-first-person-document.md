@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Healing the Wounds of Vietnam: First Person Documentation of the American and Vietnamese War Experience
+title: "Healing the Wounds of Vietnam: First Person Documentation of the American and Vietnamese War Experience"
+year: 2016
+end_range: 1998
+formats: "NULL"
+geographic_extant: "The footage was shot in Vietnam but features the stories of veterans from throughout the United States and Vietnam."
+institution: "Media Burn Archive"
+institution_type: "NULL"
+primary_contact: "Ms. Sara Chapman"
+size: "NULL"
+start_range: "1998"
+summary: "Media Burn Archive, nationally recognized leader in digital preservation of videotape, and Kartemquin Films, award-winning documentary powerhouse, are partnering to ensure the preservation of KTQ's archive. This project will digitize and create public access to the historic \"Vietnam, Long Time Coming\" collection of more than 200 hours of camera original documentary footage of American and Vietnamese soldiers reuniting on their former battlefields. Aside from the two hours used in the feature documentary, none of this footage has ever been viewed by the public. The project is of great urgency due to the short lifespan of videotape. The project will digitize the videos to uncompressed digital master files, create item-level catalog records, and make access files publicly available free of charge online. The project will create free, global access to a primary source for a rich and nuanced understanding of the lasting effects of war and the experience of combat."
+hc_id: "22267632"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Media Burn Archive"
+p2_name:  "Mr. Tom Weinberg"
+p2_institution:  "Media Burn Archive"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>353 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$234,600"
+material_description:  "The collection contains 353 camera masters shot for Kartemquin Film's Emmy Award-winning 1998 film, \"Vietnam, Long Time Coming.\" \"These consist of 102 Mini-DV, 250 Betacam, and 1 Hi-8mm cassette, comprising 200+ hours of footage shot to make the final feature. The footage has been housed at Kartemquin for nearly 20 years and has never been viewed by anyone outside the organization. \"Vietnam, Long Time Coming\" documents a 1998 excursion bringing together able-bodied and disabled American and Vietnamese veterans for an 1,100 mile bicycle trip across the length of Vietnam. The event drew veterans from the U.S. and Vietnam, including then-Senator John Kerry. Filmmakers Jerry Blumenthal, Peter Gilbert and Gordon Quinn followed the personal stories of the veterans as they traveled from Hanoi to Ho Chi Minh City on bicycles, tandems and handcycles. This complex and compelling documentary explores how a diverse group of former enemies, many of whom were tragically wounded during the conflict, confronted physical challenges, and the legacy of a bitter war. The footage deals with timeless humanist subjects like war, public health, memory, communities, and politics that continue to resonate in culture and thought. The collection forms an \"on the ground\" portrait of the after-effects of the Vietnam War, from the perspectives of the human beings who were living it. Since 1966, Kartemquin has been producing documentary films that use human stories to bring to light issues and concerns that are universal in nature. Kartemquin's best-known film, Hoop Dreams, won every major critics prize and journalism award in 1995 and was added to the National Film Registry in 2005. In addition to being an important missing piece of the historical record, this footage from \"Vietnam, Long Time Coming\" is a valuable contribution to the art of documentary filmmaking and to the legacy of Kartemquin."
 ---
-
-

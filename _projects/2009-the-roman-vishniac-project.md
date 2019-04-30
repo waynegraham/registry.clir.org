@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Roman Vishniac Project
+title: "The Roman Vishniac Project"
+year: 2009
+end_range: 1990
+formats: "NULL"
+geographic_extant: "Germany, Poland, Czechoslovakia, Lithuania, Romania, Slovakia, Hungary, Carpathian Ruthenia, the Netherlands, NYC, & unidentified European locations."
+institution: "International Center of Photography"
+institution_type: "NULL"
+primary_contact: "Edward Earle"
+size: "200 boxes, 600 linear feet, 20000 objects"
+start_range: "1923"
+summary: "In 1935, Roman Vishniac (1897-1990), a Russian Jewish expatriate working as a biologist and photomicroscoper in Berlin, was commissioned by the Joint Distribution Committee (JDC) to photograph impoverished Jewish communities throughout Central and Eastern Europe. The resulting images are some of the most iconic and widely reproduced in Jewish culture: the final visual record of communities destroyed by the Holocaust. Vishniac’s archive includes never-before-seen negatives, contact sheets, notes, audio tapes, and family documents, making possible a critical re-examination of the life and work of this renowned photographer and the communities he documented. In addition to Vishniac’s most recognized images, the collection includes rarely seen photographs of Jewish agrarian training camps and health organizations; children’s refugee camps and technical schools throughout Europe in the '30s; images of post-war Displaced Persons Camps; and many of the photographs of refugees made after Vishniac immigrated to the U.S. in 1941. Among its most remarkable contents is recently discovered film footage of remote Jewish communities in the Carpathian Mountains--the only known filmed material of this subject--as well as footage from more urban locations. While a comparatively small group of Vishniac’s images have been exhibited or published, this archive brings a fresh perspective to his work through negatives and contact sheets which have never before been studied, printed or exhibited."
+hc_id: "454"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1114 Avenue of the Americas"
+address2:  "NULL"
+city:  "New York"
+state:  "NY"
+zip: "10036"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

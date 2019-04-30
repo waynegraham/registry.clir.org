@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Unbound Ideas: Serials documenting radical and progressive ideas in the twentieth century
+title: "Unbound Ideas: Serials documenting radical and progressive ideas in the twentieth century"
+year: 2014
+end_range: 2001
+formats: "NULL"
+geographic_extant: "The materials cover, primarily, North America, Western Europe, the former Soviet Union, and China."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Michael Stoller"
+size: "1543 linear feet"
+start_range: "1900"
+summary: "NYU's Tamiment Library will provide intellectual control over more than 9,000 serial titles, of which c. 7,800 are now unprocessed and inaccessible to researchers and 1,354 are under minimal control by title and collated into issue order. Preliminary surveys of the collection indicate that c. 65% of the titles do not appear in WorldCat or other databases. They represent a unique, rich and largely hidden trove of literature documenting the exchange of radical and progressive political ideas in the United States and worldwide over the course of the entire 20th century. The project will organize these serials into searchable collections, exposing these titles to bibliographic databases and making them available for research and teaching."
+hc_id: "11792491"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Undiscovered Printmakers: Hidden Treasures in Georgetown University's Library
+title: "Undiscovered Printmakers: Hidden Treasures in Georgetown University's Library"
+year: 2011
+end_range: 1980
+formats: "NULL"
+geographic_extant: "North America - United States"
+institution: "Georgetown University"
+institution_type: "NULL"
+primary_contact: "Stephanie Clark"
+size: "4600 objects"
+start_range: "1920"
+summary: "This project made available to scholars the hidden, uncataloged working personal collections of six significant 20th-century American printmakers' own artwork. Two of these are well-known, internationally important wood engravers and book illustrators, Lynd Ward (1905-1985), whose influential “wordless novels” are widely regarded as among the earliest American graphic novels, and the preeminent printmaker John DePol (1913-2004). The project will also make available the artwork of four highly talented but underappreciated women printmakers of the same period: Louise Miller Boyer (1890-1976); Helen King Boyer (b. 1919); Marguerite Kumm (1902-1992); and Kathleen Spagnolo (b. 1919). The materials to be cataloged are mostly prints, drawings, and printmaking matrices, including the woodblocks for Ward’s earliest graphic novels. Georgetown is the primary repository for Ward, the Boyers, Kumm, and possibly Spagnolo, and has significant holdings of DePol. Several of the collections, notably Ward, are complemented by substantial archives of correspondence and manuscripts. These artists often engaged in experimental printmaking techniques, and these collections present such a substantial body of material, with preliminary drawings, proofs, states, blocks or plates, and finished prints or books, that they are ideal not only for the scholarly study of the artists’ working methods, but also for use in teaching."
+hc_id: "757"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Lauinger Library, 5th Floor"
+address2:  "37th and O Streets, NW"
+city:  "Washington"
+state:  "DC"
+zip: "20057-1174"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$95,200"
+material_description:  "NULL"
 ---
-
-

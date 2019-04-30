@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Finding P.T. Barnum: Cataloging The Barnum Museum's Cornerstone Collection
+title: "Finding P.T. Barnum: Cataloging The Barnum Museum's Cornerstone Collection"
+year: 2013
+end_range: 1920
+formats: "NULL"
+geographic_extant: "Strengths pertain to the United States and Western Europe with emphasis on New York City, Connecticut, and England."
+institution: "The Barnum Museum"
+institution_type: "NULL"
+primary_contact: "Melissa Houston"
+size: "99 boxes, 14 linear feet, 219 objects"
+start_range: "1810"
+summary: "The Core Collection contains artifacts pertaining to the life and times of P.T. Barnum who, in addition to his career as a showman and museum proprietor, was also a newspaper editor, entrepreneur, Mayor of Bridgeport, Connecticut, legislator, urban developer, community benefactor, philanthropist, abolitionist, lecturer, and author. The materials include manuscripts, photographs, business documents, promotional materials, handbills and broadsides, ephemera, circus route books, lithographs, paintings, furniture, clothing, rare newspapers, a mummy, and other artifacts documenting the personal life, careers, and legacies of P. T. Barnum and associated individuals. This initiative will concentrate on materials from Barnum's lifespan (1810-1891) and slightly beyond, and include people and business endeavors such as “Tom Thumb” (Charles Stratton), Lavinia Warren and other little people; Swedish singer Jenny Lind; Jumbo the Elephant; the American Museum; Hippodrome; the Barnum & Bailey circus, and other “attractions.” Research inquiries come from around the world. Access requests come from academics, authors, museum curators, journalists, filmmakers, teachers, and students. Currently, inquiries must be researched manually as the Core Collection has no finding aids, and only a tiny fraction of the material is entered in a database. Intellectual access is thus limited, which hinders the Museum's mission to make its collections available."
+hc_id: "1121"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "820 Main Street"
+address2:  "NULL"
+city:  "Bridgeport"
+state:  "CT"
+zip: "6604"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

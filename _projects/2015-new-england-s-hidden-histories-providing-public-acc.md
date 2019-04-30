@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: New England's Hidden Histories: Providing Public Access to the Manuscripts of New England's First Churches, Incubators of American Democracy
+title: "New England's Hidden Histories: Providing Public Access to the Manuscripts of New England's First Churches, Incubators of American Democracy"
+year: 2015
+end_range: 1840
+formats: "NULL"
+geographic_extant: "The records we seek to digitize document the activities of discrete communities as well as cross-regional associations within the colonies (and, later, states) of Massachusetts and Connecticut. This emphasis on both the micro and macro levels within two distinct organizational entities allows for scholarly comparisons at a number of levels."
+institution: "American Congregational Association"
+institution_type: "NULL"
+primary_contact: "Dr. Margaret Bendroth"
+size: "NULL"
+start_range: "1674"
+summary: "New England's Hidden Histories is a program of the Congregational Library & Archives (CLA) designed to provide free public access to colonial and early American church records. These documents, an unparalleled source of information about ordinary people and the practices they developed to organize, govern, and give meaning to their daily lives, are used by researchers across a range of disciplines -- from genealogy and history to epidemiology and orthography. Since 2005 the CLA has been locating and retrieving these documents from church attics and basements, digitizing them, and making them available on our website. We seek to build our existing digital collection with records newly gathered and owned by the Library as well as with records in the holdings of three of our many institutional partners, the New England Historic Genealogical Society in Boston, the Phillips Library in Salem and the Archive of the Connecticut Conference of the UCC."
+hc_id: "18603226"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Congregational Library & Archives"
+p2_name:  "Dr. James Cooper"
+p2_institution:  "Congregational Library & Archives"
+p3_name:  "Ms. Sari Mauro"
+p3_institution:  "Congregational Library & Archives"
+material_string: "<li>28000 Manuscripts</li>"
+collaborating_institution:  "Phillips Library, Salem, Massachusetts; Connecticut Conference, UCC; New England Historic and Genealogical Society, Boston"
+grant_amount:  "$210,000"
+material_description:  "This project seeks to digitize roughly 28,000 pages of manuscript church records and other ecclesiastical papers that document the histories of local churches and communities in Massachusetts and Connecticut from the late seventeenth century through the early nineteenth. With this effort, New England's Hidden Histories (NEHH) clearly signals its intention to build a truly comprehensive archive of early American church records from all of New England. Pertinent collections include the running records of the first churches of Newbury, Berkley, Ipswich, and South Weymouth, Massachusetts, all of which are unusually rich, containing ministerial correspondence, membership information -- births, baptisms, marriages -- and minutes of church and society meetings. We also seek to digitize 62 volumes of minutes of clerical association and consociation records held by the archives of the Connecticut United Church of Christ. These documents include highly detailed summaries of meetings of small groups of ministers from a particular region (associations) or of ministers and lay church delegates (consociations). These associations and consociations typically met several times yearly to discuss local conflicts and questions of moment for the region's churches and communities. Though invaluable, because they have been inaccessible, these documents are essentially unknown. And so, Connecticut's early history has been eclipsed by that of Massachusetts, for which records are more readily available. Finally, NEHH has identified a significant collection of church records and ecclesiastical papers held by the New England Historic Genealogical Society in Boston and the Phillips Library in Salem, Massachusetts. Included in these papers are the church records from Newbury, Massachusetts, which date from the 1660s; a largely unknown volume of church records from Salem, Massachusetts, the first church of the Massachusetts Bay Colony; and the personal papers of John Cleaveland, a major figure in the eighteenth-century religious revival known as the Great Awakening."
 ---
-
-

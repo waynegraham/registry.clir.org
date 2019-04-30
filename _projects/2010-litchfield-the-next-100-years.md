@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Litchfield: The Next 100 Years
+title: "Litchfield: The Next 100 Years"
+year: 2010
+end_range: 1935
+formats: "NULL"
+geographic_extant: "Litchfield, CT. Many residents during this era were \"seasonal\"; other geographic areas such as Boston, MA, New York, NY and New Haven, CT are included."
+institution: "Litchfield Historical Society"
+institution_type: "NULL"
+primary_contact: "Catherine Fields"
+size: "400 linear feet"
+start_range: "1835"
+summary: "Writing about Litchfield, William Butler said: “It is the romantic colonial revival image of the New England town rather than the authentically Puritan or historically accurate colonial image that has become a fixed stereotype in the American mind and has made a lasting material mark on the American Landscape.” The Society's collections taken together provide significant insight into this era and documents the transition of Litchfield from a bustling economic center to its economic decline and re-invention as a resort community. The letters of two soldiers and a chaplain together with the Record Book of the 2nd CT Heavy Artillery, ephemera, and relics, explain how the Civil War consumed the town and shaped its transition to the colonial revival. An explosion of civic activity is reflected in the records of the Grand Army of the Republic, Village Improvement Society, Garden Club, Women's Forum, Men's Forum, Needle and Bobbin Club; Litchfield Historical Society; Chapter of the American Red Cross; Equal Franchise League, and Horse Show, all established in this era. Architectural records and photographs of residences, businesses, and churches include the Richard Henry Dana, Jr. plans to restore the First Congregational Church and renovate the Tapping Reeve House. They are enhanced by historic district surveys, Nan F. Heminway (interior decorator and preservationist) Papers, and documentation of the Shepaug Railroad, various resorts, personal papers, and works of art."
+hc_id: "615"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P.O. Box 385"
+address2:  "NULL"
+city:  "Litchfield"
+state:  "CT"
+zip: "6759"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Oral History Collections
+title: "Oral History Collections"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "Northern Virginia, Washington D.C. metropolitan area, east coast United States."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Leah Donnelly"
+size: "600 objects"
+start_range: "1940"
+summary: "George Mason University has four distinct collections of oral histories related to the University and the Northern Virginia area: The Northern Virginia Oral History Project is a collection that contains interviews with individuals from the area and focuses on the dramatic shift that has occurred here since World War II. The interviews cover such topics as agriculture, development, health, education, transportation and religion. The late Professor Roy Rosenzweig, who is best known for his work in social history and as the founder of the Center for History and New Media, supervised the final phase of this project. The George Mason University Oral History Program records and preserves oral histories with individuals who have been members of the GMU community for a substantial amount of time and who have made an important impact on the history of GMU. Through these interviews we acquire information on the University's physical, social and academic development. The Planned Community Archives Oral History Project showcases the recollections of individuals connected with the residential and commercial development of the Washington D.C. area. The highlights of this collection are the interviews with major figures involved in the award-winning planned community of Reston, Virginia. The Northern Virginia Leadership Project is a collection of interviews with prominent figures from the Northern Virginia area, all of whom are affiliated with the University."
+hc_id: "134"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "4400 University Drive"
+address2:  "Special Collections & Archives"
+city:  "Fairfax"
+state:  "VA"
+zip: "22030"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

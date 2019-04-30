@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Uncovering the Stone-Campbell Movement and its Impact on Education, Politics, and Religion in the Western United States and Japan
+title: "Uncovering the Stone-Campbell Movement and its Impact on Education, Politics, and Religion in the Western United States and Japan"
+year: 2014
+end_range: 2000
+formats: "NULL"
+geographic_extant: "The geographic scope of this project includes Japan, Los Angeles and its surrounding areas, California, Washington, Oregon, Idaho, and Colorado."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Melissa Nykanen"
+size: "560 linear feet"
+start_range: "1891"
+summary: "Pepperdine University Libraries seeks funding for a two-year project to catalog 19 collections related to the Stone-Campbell Movement and its impact on Japan and the Western United States. Collections to be processed include the personal papers of prominent leaders within the movement in Japan and the U.S., including ministers, missionaries, scholars, theologians, politicians, and university presidents. Also included are the records of several major churches and church-related programs with long histories in Japan, the Los Angeles area, and in other areas of the West Coast. Understanding the history of this important American social and religious movement and its widespread impact will be greatly enhanced by access to these materials."
+hc_id: "10921847"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

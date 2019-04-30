@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Behind the Carnegie International: Uncovering 95 Years of Exhibition History
+title: "Behind the Carnegie International: Uncovering 95 Years of Exhibition History"
+year: 2015
+end_range: 1991
+formats: "NULL"
+geographic_extant: "Because of the global nature of the Carnegie International, the materials represent a wide range of geographic regions. During the years in question, the United States and western European countries are most heavily featured, with Japan, Israel, Russia, Mexico and a variety of Latin American countries also in the mix."
+institution: "Carnegie Institute/Carnegie Museum of Art"
+institution_type: "NULL"
+primary_contact: "Ms. Elizabeth Tufts-Brown"
+size: "NULL"
+start_range: "1896"
+summary: "Carnegie Museum of Art (CMOA) proposes to digitize archival materials related to the Carnegie International, the longest running contemporary art survey in North America and the second oldest globally. From 2016-2018, CMOA will digitize correspondence, photographs, catalogues, and ephemera, central to the Carnegie International collection; publish digital surrogates according to applicable law; and disseminate catalogue records and metadata through cmoa.org and other accessible avenues. Using a unique metadata strategy developed by museum staff that treats archival records as vitally important elements in a holistic collections management system, CMOA will open this hidden collection to the digital world and provide unprecedented historical context to artworks displayed in the International across the globe. The primary focus includes digitization of its contents from exhibition years spanning 1941-1991, with additional items from 1896-1940. The Smithsonian Archives of American Art have digitized the bulk of the International materials from 1896-1940."
+hc_id: "17605131"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Carnegie Museum of Art"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>65 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$190,717"
+material_description:  "CMOA established the Carnegie International in 1896. It is the oldest international contemporary art survey exhibition in the US and the second oldest in the world, after the Venice Biennale (est. 1895). Andrew Carnegie launched the very first exhibition with the intention of bringing the \"old masters of the tomorrow\"  to the city he loved. Ever since, CMOA has hosted the International\"”first annually, then bi-annually, and more recently every five years\"”for the past 119 years, drawing artists from all over the world to Pittsburgh. Andrew Carnegie named it the Annual Exhibition in 1896, but over the years it has had several incarnations. The museum presented annual exhibitions of American painting during World War II, and in the 1970s, took another brief respite to focus on the work of individual artists. In 1982, the museum renamed it the Carnegie International. CMOA stewards myriad archival materials related to the history of these events, which comprise in the Carnegie International collection. \n\n\n\nCMOA accrued the Carnegie International collection between 1896 and 1991 and transferred materials to the archives in subsequent years. The collection contains extensive exhibition-related correspondence with artists, dealers, galleries, collections, museum directors, representatives abroad, shipping and insurance agents, and museum trustees. Correspondence by many late 19th- and 20th-century American and European artists of note are represented, from Mary Cassatt, and James Abbott McNeill Whistler to Louise Bourgeois, Cindy Sherman and Mike Kelley, to name just a few. The collection also contains interoffice memoranda and reports, exhibition catalogues, installation photographs, and images of featured artists in their studios."
 ---
-
-

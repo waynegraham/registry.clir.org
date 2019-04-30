@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Sounds of mid-20thc Irish-American culture: digitizing the James W. Smith Irish Music Collection recordings for preservation and access
+title: "Sounds of mid-20thc Irish-American culture: digitizing the James W. Smith Irish Music Collection recordings for preservation and access"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Boston College"
+institution_type: "NULL"
+primary_contact: "Ms Kimberly C. Kowal"
+size: "NULL"
+start_range: "NULL"
+summary: "Boston College hosts internationally-known archival collections supporting the study of lrish traditional music, and one of these, the James W. Smith Irish Music Collection, includes open-reel tapes of unpublished music representing a classic case of high-value research content inaccessible without digitization and preservation. The 1950s/60s Irish music performances feature some of Boston's most prominent Irish musicians, and the informal nature and setting of the recordings - \"jam sessions\" in the living room of Mr. Smith - capture uniquely the time and spirit of this evolving traditional musical genre. The recordings are presently inaccessible and at risk of loss, requiring professional attention. This project will treat and transfer up to 90 tapes; release descriptive metadata online; and publicize the importance of preservation and the availability of the material and its value to musicologists, performers of Irish and folk music, and scholars of Irish-American history and culture."
+hc_id: "25558693"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Boston College"
+p2_name:  "Ms Elizabeth Sweeney"
+p2_institution:  "Boston College"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "90 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$24,900"
+material_description:  "The James W. Smith Irish Music Collection contains 90 reel-to-reel tapes of informal Irish music house sessions. These recordings were made in Smith’s home during the 1950s and 1960s and represent some of Boston's most prominent Irish traditional musicians. In terms of provenance, the tapes were created by and belonged to James W. Smith; they were donated to the Libraries by his sister Mary Smith Duffy in his name in 1992. The gift agreement is attached in this application. The tape contents – with names of performers; song/tune types, eg air, hornpipe, jig, fling; titles of tunes; and assigned numeric shelfmark - were described in a typescript document. This was updated and annotated in 1994/5 by Séamus Connolly, master traditional Irish musician and NEA National Heritage Fellow, recognized worldwide for his lifelong contributions to Irish traditional music. His expert notes were based on listening to each and every reel in the collection. In 2002, he went through the tapes again with a view to prioritizing the content, indicating commercial, non-commercial, or not worth preserving (blank). These digital documents are being batch converted to Encoded Archival Description (EAD), an XML standard for encoding archival finding aids, to be made available if the project goes forward. The obsolete format, combined with a fragile physical state, have put the tapes at a high risk of loss; they have been inaccessible for the duration of our ownership. If reformatted, they would be available for public use for the first time."
 ---
-
-

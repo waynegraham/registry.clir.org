@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Living Bali: Connecting recorded tradition with modern life
+title: "Living Bali: Connecting recorded tradition with modern life"
+year: 2017
+end_range: 1970
+formats: "NULL"
+geographic_extant: "Bali, Indonesia"
+institution: "Cornell University"
+institution_type: "NULL"
+primary_contact: "Mr. Gregory Green"
+size: "NULL"
+start_range: "1970"
+summary: "The Living Bali project will digitize and create metadata for 39,000 slides and 4,100 photographs in the Fred Eiseman Collection on Bali from the world renowned Echols Collection on Southeast Asia at Cornell University Library and contextualize these items through the BASAbali wiki project. This represents a significant addition to the corpus of online material available to researchers. These images have a particular focus on the interaction of the Balinese people with their environment. The images will be connected to the BASAbali community wiki project, providing necessary context and a link to current practices. Indonesia plays a significant role in Southeast Asia and the larger world, in part because of the environmental, religious and cultural diversity of Bali. This project will greatly enhance our understanding of Bali, Indonesia and our larger world."
+hc_id: "26893619"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Cornell University Library"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>39000 35mm color slides</li>"
+collaborating_institution:  "BASAbali"
+grant_amount:  "$136,100"
+material_description:  "The Living Bali project, planned for the period from the beginning of 2018 to the end of 2019, will digitize materials from the Fred B. Eiseman Collection on Bali. Fred Eiseman was a science teacher from the United States who moved to Bali in the 1970’s and became an expert on Balinese culture. He spent the last 40 years of his life in Bali and devoted himself to the study of the island, its people and their language. He especially focused on their religious observances and how they produce food and medicine from local resources. The materials under consideration for digitization consist of slides and photographs that focus on food, ritual, arts and crafts from the island. Eiseman systematically studied and cataloged through his images and associated descriptive information the way the people of Bali interact with their material environment not only to provide sustenance for their bodies but also for their souls. His meticulous work provides us with an incredibly detailed look into the rich cultural and religious life of Bali, as well as thousands of scientifically valuable images and descriptions of plant and animal life on the island."
 ---
-
-

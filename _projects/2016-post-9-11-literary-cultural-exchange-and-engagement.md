@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Post 9/11 Literary Cultural Exchange and Engagement: PEN World Voices Online Multimedia Collection
+title: "Post 9/11 Literary Cultural Exchange and Engagement: PEN World Voices Online Multimedia Collection"
+year: 2016
+end_range: 2005
+formats: "NULL"
+geographic_extant: "PEN World Voices Festival physically takes place annually in New York City, bringing together literary representatives from all over the world, including Cuba, Haiti, Mexico, Egypt, Nigeria, Ghana, Kenya, Burma, Russia, China, South Africa, Martinique, Jamaica, Turkey, Iran, Iraq, Libya, Poland, Germany, Somali, South Korea, Vietnam, and Lebanon."
+institution: "PEN American Center"
+institution_type: "NULL"
+primary_contact: "Mr. Antonio Aiello"
+size: "NULL"
+start_range: "2005"
+summary: "PEN America proposes a 24-month project to digitize the PEN World Voices audiovisual collection. Founded by Salman Rushdie in response to increasing US isolationism after September 11, 2001, the collection consists of 523 events, 257 recorded on MiniDVs and 266 born-digital. The collection includes Nobel Prize winners; social reformers; literary luminaries; and artistic revolutionaries, whose work frames the most pressing social, cultural, and political issues of our time. PEN America will: digitize 257 events captured on MiniDV; catalog 523 events using PBcore Metadata; incorporate the entire collection into PEN's broader NEH-funded archival project to make 5 decades of currently inaccessible material available at PEN.org, as well as through Princeton University's Online Finding Aid; and preserve digitized files in \"dark\" storage and Raid 5 Drives. This project will provide access to a unique collection of source materials that will benefit scholars, students, journalists, and support freedom of expression the world over."
+hc_id: "22168034"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "PEN America"
+p2_name:  "Mr. Tom Keenoy"
+p2_institution:  "Medium Rare Interactive"
+p3_name:  "Mr. Conrad Lochner"
+p3_institution:  "PEN America"
+material_string: "<li>785 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$250,000"
+material_description:  "Founded in 2005 by former PEN America President Salman Rushdie in response to growing American cultural isolationism, PEN World Voices Festival is the U.S.'s first international writer's festival. Over the past decade, PWVF has provided a platform and the intellectual space for American artists, writers, cultural figures, and leaders in journalism, technology, publishing, and policy to openly discuss with the world's foremost writers and thinkers serious issues facing the U.S. and the world in the years following September 11. Since its inception over a decade ago, PWVF has recorded over 523 events that contain historically relevant primary sources capturing the raw and unedited conversations, discussions, and lectures of the World's foremost contemporary writers and thinkers, including, Chimamanda Ngotzi Adichie, Umberto Eco, Walter Mosley, Juan Felipe Herrera, Paul Krugman, and Ludmila Ulitskaya as well as Nobel Laureates Toni Morrison, Nadine Gordimer, Svetlana Alexievitch, Mario Vargas Llosa, Herta Müller, and Orhan Pamuk among many others. These remarkable events, developed in collaboration with dozens of New York City's most reputable and relevant academic and cultural institutions cover universal themes of national historic importance including, but not limited to: Journalism in the Information Age; the affects of new technology and social media on reporting in war time; Effects of government surveillance on artistic intend and intellectual freedom; Religions role in the political life of the US as compared to other regions; the “deforming”  pressure of incarceration on the individual, community and nation; Cultural Responsibility of Writers; the enlightenment ideal of tolerance in aggravated environments fueled by religious extremism and political demagoguery; and Translation and Cultural Isolationism in an increasingly polarized nation and global community. The materials will provide scholars, historians, and students of a vast array of humanities disciplines with original source materials unavailable elsewhere."
 ---
-
-

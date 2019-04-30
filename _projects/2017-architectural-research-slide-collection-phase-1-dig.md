@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Architectural Research Slide Collection, Phase 1 Digitization
+title: "Architectural Research Slide Collection, Phase 1 Digitization"
+year: 2017
+end_range: 2003
+formats: "NULL"
+geographic_extant: "Although the heart of the collection is the Chesapeake region, it includes early buildings throughout the east coast of the United States. The present project will digitize the images of American buildings. A second phase will catalog images of buildings outside North America, including many relevant to colonial-era architecture."
+institution: "Colonial Williamsburg Foundation"
+institution_type: "NULL"
+primary_contact: "Dr. Jeffrey Klee"
+size: "NULL"
+start_range: "1950"
+summary: "The Architectural Research Department of the Colonial Williamsburg Foundation will digitize its nationally significant collection of 50,000 slides and 200 4”x5” transparencies of American buildings, sites, and objects dating from the seventeenth through the mid-nineteenth century, all taken by staff members over a 45-year period between 1959 and 2004. Descriptive metadata for each image will be provided from state-of-the-art research and dating methods and will be made available through a Creative Commons Public Domain Declaration. Once prepared, these images, previously unavailable to the public, will be placed online in Shared Shelf Commons, the freely accessible digital image archive developed by Artstor, where they will be available to a wide range of users at full resolution and no cost. This project will make newly available the research of a generation of scholars who helped redefine the scope and purpose of architectural fieldwork."
+hc_id: "26215762"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Colonial Williamsburg Foundation"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>50200 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$249,600"
+material_description:  "Although the core of this collection concentrates on buildings in the Chesapeake region, the scope is broad-ranging, from New England southward to South Carolina and Georgia. As such, it provides an unequalled photographic record of the architecture of the eastern United States, including many of the nation’s oldest and most significant buildings. The images are of high technical quality and include decorative details and structural features as well as more general views of dwellings, slave quarters, agricultural structures, churches, commercial and public buildings. The metadata will include the most current and thorough historical research, including the results of dendrochronological dating. This collection represents the contributions of a generation of scholars who helped redefine the scope and purpose of early American architectural history at the end of the 20th century. Building upon a tradition begun in the late 1920s, Williamsburg scholars conducted extensive fieldwork in Tidewater Virginia, Maryland, and the Carolinas, recording in drawings, black-and-white photographs, and by the late 1950s, color slides, thousands of sites from the colonial and early national periods. These scholars also extended their research to other regions in North America, the Caribbean, Great Britain, and Europe as specific projects warranted. Materials illustrating buildings outside North America will be digitized in a subsequent phase of the project."
 ---
-
-

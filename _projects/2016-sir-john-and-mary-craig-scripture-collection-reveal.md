@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Sir John and Mary Craig Scripture Collection: Revealing Pre-Nineteenth Century Book History and Print Culture
+title: "Sir John and Mary Craig Scripture Collection: Revealing Pre-Nineteenth Century Book History and Print Culture"
+year: 2016
+end_range: 1772
+formats: "NULL"
+geographic_extant: "The material is primarily from Central and Western Europe including but not limited to: Italy, France, Switzerland, Germany, Amsterdam, and Belgium."
+institution: "University of Saint Mary"
+institution_type: "NULL"
+primary_contact: "Ms. Danielle Dion"
+size: "NULL"
+start_range: "1228"
+summary: "The University of Saint Mary's Sir John and Mary Craig Scripture Collection holds over 2,000 religious themed bound volumes, from the 13th-18th centuries. These volumes and manuscripts shed light on the history of the book and printing as a craft and industry in Central and Western Europe, highlighting manuscript culture, paper, and printing. The digital collection will consist of material of particular significance to the history of the book, presenting examples from several centuries, from different countries of origin, and of disparate theological standpoints. Digitizing the material will provide open access and international scholarship opportunities through digital exhibits, digital collections, crowdsourcing projects, collaborative work, and will lift current outreach programming limitations."
+hc_id: "22332706"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Saint Mary"
+p2_name:  "Ms. Lindsay Schettler"
+p2_institution:  "University of Saint Mary"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>63 Books</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$169,053.00"
+material_description:  "The digital project will focus on rare and unique religious themed items from the 13th Century through the 18th Century including: bound volumes, antiphonal leaves, illuminated manuscript leaves, and single leaves from various early print bound material. The University of Saint Mary's Sir John and Mary Craig Scripture Collection holds over 2,000 bound volumes from the 13th-18th centuries. These volumes and manuscripts shed light on the history of the book and printing as a craft and industry in Central and Western Europe, highlighting manuscript culture, paper, and printing. For example, in addition to library shelf marks and antiquarian book dealers' stamps tracking the path of volumes to the De Paul Library, there are often notable bookplates from prior collectors and signatures of owners. In most cases, research remains to be done to identify these persons and institutions. Such indications of provenance are enhanced by the manuscript entries on the free endpapers or pastedowns and by the extensive marginalia--often in multiple hands--that shed light on the reception history of the volume and the text that it preserves. The digital collection will consist of material of particular significance to the history of the book, presenting examples from several centuries, from different countries of origin, and of disparate theological standpoints. These offerings will frame the collection's focus on book publishing, culture and historical significance. The pre-nineteenth century materials are relatively rare in terms of limited holdings in American institutions, thus they represent a very nice contribution to the imprints held in the Midwest. Since so many of the earlier materials are unique due to bindings, provenance markings, and marginalia, they complement the larger holdings of American libraries and so constitute a significant contribution to scholarship on the history of the book, printing, and theology."
 ---
-
-

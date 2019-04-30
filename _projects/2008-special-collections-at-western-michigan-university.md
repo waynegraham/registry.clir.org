@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Special Collections at Western Michigan University
+title: "Special Collections at Western Michigan University"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "Primarily of European and North American origin, but also include some materials from other parts of the world."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Susan Steuer"
+size: "190 linear feet, 2900 objects"
+start_range: "1174"
+summary: "The Special Collections Department at WMU includes several collections for this grant. 1) The Institute of Cistercian Studies Collection (ICSC) on permanent loan from the Abbey of Gethsemani in Trappist, Kentucky since 1972 (Obrecht collection). ICSC is the most significant collection of the Cistercian monastic tradition in North America and includes medieval manuscripts dating from 1174, printed books (incunabula to today), working papers and collections from prominent Cistercian monks and scholars of the order such as M. Basil Pennington and Jeremiah O'Sullivan. 2) WMU Medieval Studies collection, purchased to complement the loan, and working papers of medieval scholars outside of the order, such as the RHC Davis Manuscript collection."
+hc_id: "350"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1903 W Michigan"
+address2:  "Waldo Library"
+city:  "Kalamazoo"
+state:  "MI"
+zip: "49008-5353"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Revealing a World of Work: Labor and Management Collections at Cornell University's Kheel Center
+title: "Revealing a World of Work: Labor and Management Collections at Cornell University's Kheel Center"
+year: 2012
+end_range: 2011
+formats: "NULL"
+geographic_extant: "The geographic scope of the project is primarily the United States, and secondarily Europe."
+institution: "Catherwood"
+institution_type: "NULL"
+primary_contact: "B. Cheryl Beredo"
+size: "1113 linear feet"
+start_range: "1880"
+summary: "The Kheel Center's hidden collections document the American workplace in the 20th century, including the history of organized labor, management theory and practice, and industrial relations. They include, but are not limited to, records of important figures in national politics (Frances Perkins, Martin Catherwood, Theodore Kheel), female pioneers in workers education (Alice Cook, Jean McKelvey), important unions (ACTWU, UNITE), and management interests (Academy of Management, Council for International Business). These hidden collections are richly dense, including correspondence, notes, reports, photographs, and audio-visual materials--much of which has been used sparingly, if at all. The collections will certainly be useful to traditional labor historians, as they shed light on U.S. deindustrialization, labor conflict, and working conditions. For example, this grant will enable the cataloging of oral histories with union members and officers, labor educators, arbitrators, and others who were impacted by or influenced the fate of American factories, major strikes, and workplace safety laws. Just as surely, the materials will support teaching and scholarship on feminism, immigration, international politics, urbanism, civil rights, and other topics. Many who became leaders in the women's movement started out in unions, for example, and several unions, themselves led by immigrants, kept very good records on the growth of immigrant populations in American cities."
+hc_id: "964"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "227 Ives Hall"
+address2:  "Cornell University"
+city:  "Ithaca"
+state:  "NY"
+zip: "14853"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

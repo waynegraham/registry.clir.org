@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Images of Indonesia: Photographs from the John M. Echols Collection on Southeast Asia
+title: "Images of Indonesia: Photographs from the John M. Echols Collection on Southeast Asia"
+year: 2016
+end_range: 2005
+formats: "NULL"
+geographic_extant: "The proposed project intends to digitize Cornell University Library archival images from throughout Indonesia, beginning in phase one with those covering the island of Bali."
+institution: "Cornell University"
+institution_type: "NULL"
+primary_contact: "Mr. Gregory Green"
+size: "NULL"
+start_range: "1970"
+summary: "The Images of Indonesia project will digitize photographs from the world renowned Echols Collection on Southeast Asia at Cornell University Library. The project is envisioned in two phases. The first phase, proposed for this grant, is slated to digitize and create metadata for 39,000 slides and 4,100 photographs from Bali, Indonesia over two years and represents a significant addition to the corpus of online material available to researchers. These images have a particular focus on food production and consumption as those relate to religion and culture. With the fourth largest total population, and the largest Muslim population in the world, Indonesia has, and continues to play a significant role in Southeast Asia and the larger world. The island of Bali, set apart from the majority of Indonesia because of its different religious background, provides a unique historical and cultural study. This project will greatly enhance our understanding of Indonesia."
+hc_id: "22341373"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Cornell University Library"
+p2_name:  "Mr. Jeffrey Petersen"
+p2_institution:  "Cornell University Library"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>43100 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$117,845"
+material_description:  "The first phase of this project, planned for the period from the beginning of 2017 to the end of 2018, will digitize materials from the Eiseman collection on Bali. Fred B. Eiseman was a science teacher who became an expert on Balinese culture. He spent the last 40 years of his life in Bali and devoted himself to the study of the island, its people and especially how they produce and consume food. The materials under consideration for digitization consist of slides and photographs that focus on food, ritual, arts and crafts from the island. Eiseman systematically studied and cataloged through his images and associated descriptive information the way the people of Bali interact with their material environment not only to provide sustenance for their bodies but also for their souls. His meticulous work provides us with an incredibly detailed look into the rich cultural and religious life of Bali, as well as thousands of scientifically valuable images and descriptions of plant and animal life on the island. The second phase of the project will digitize other images from the Echols collection. Prominent among these is the Douwes Dekker collection. This collection was donated directly by Neils Douwes Dekker, a professional photographer who for a time served as head of the Netherlands East Indies Visual Information Service. That collection is a unique and exceptional collection of photographs from the end of the Dutch colonial period. With a focus on religious life, the photographs detail daily life from areas of Indonesia that are often overlooked, and they captures important events such as the Indonesian revolution against the Dutch and related atrocities against ethnic minorities."
 ---
-
-

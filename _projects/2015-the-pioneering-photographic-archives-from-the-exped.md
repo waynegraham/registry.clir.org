@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The pioneering photographic archives from the expeditions of Dr. Roy Waldo Miner, Curator at the American Museum of Natural History from 1905-1943
+title: "The pioneering photographic archives from the expeditions of Dr. Roy Waldo Miner, Curator at the American Museum of Natural History from 1905-1943"
+year: 2015
+end_range: 1940
+formats: "NULL"
+geographic_extant: "The collection covers a variety of geographic areas including the Caribbean, the South Pacific, New England and Canada."
+institution: "Patricia and Phillip Frost Museum of Science"
+institution_type: "NULL"
+primary_contact: "Mr. Kevin Arrow"
+size: "NULL"
+start_range: "1863"
+summary: "This project will digitize and disseminate the Patricia and Phillip Frost Museum of Science's unique collection of approximately 9,500 photographic images, primarily lantern slides, and glass plate and plastic negatives, from the 1920-1940 expeditions of Dr. Roy Miner, a curator at the American Museum of Natural History. Particularly significant in this collection are the pioneering underwater photographs taken with the assistance of Captain Charles Williamson who engineered the Williamson Submarine Tube. Disseminating these images will help scientists visualize changes in marine ecosystems while providing powerful outreach tools to communicate to the public how ecosystems are being lost. The Museum will partner with the University of Miami's (UM) Otto G. Richter Library (who will digitize, host, and provide long term preservation to the digitized resources) and faculty and students at the UM's Rosenstiel School of Marine and Atmospheric Sciences (who will annotate the metadata associated with the underwater and coral images)."
+hc_id: "16324125"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Patricia and Phillip Frost Museum of Science"
+p2_name:  "Dr. Andrew"
+p2_institution:  "Associate Professor/Pew Fellow in Marine Conservation"
+p3_name:  "Dr. Ms. Sarah"
+p3_institution:  "Associate Dean for Digital Strategies"
+material_string: "<li>5730 Medium format black and white photographic negatives</li>"
+collaborating_institution:  "University of Miami, Otto G. Richter Library; Rosensteil School of Marine and Atmospheric Science, Miami"
+grant_amount:  "$150,866.00"
+material_description:  "The Patricia and Phillip Frost Museum of Science holds the photographic research collection of Dr. Roy Waldo Miner (1875-1955). For almost 40 years Dr. Miner was a Curator of Invertebrates at the American Museum of Natural History (AMNH) in New York. Beginning in 1905 as an Assistant Curator of Invertebrate Zoology he ended his career as Chairman of the Department and Curator, and retired in 1943 as Curator Emeritus. During his career, he made numerous research expeditions that included the collection of specimens for the museum. The photographic collection was donated to the Museum in 1973 by Dr. Miner's widow, Eunice Miner, a resident of Miami.\n\n\n\nThe photographic archive consists of hand-colored glass lantern slides, black-and-white glass plate negatives, and plastic negatives, dating from the 1920s to the 1940s. The collection covers a variety of themes, including folklore and ethnography of islands in the Caribbean; scientific expeditions to the Bahamas, the South Pacific, and Puerto Rico among others; and, significantly, underwater photography. Dr. Miner began underwater photography in 1924, with the assistance of Captain Charles Williamson (who engineered the Williamson Submarine Tube, a large hollow tube which allowed scientists to descend several meters underwater from a moored vessel). The underwater photography in the collection is some of the earliest of its kind, predating William Beebe and his Bathysphere (1932). Many of the watercolors in the collection were created while in the tube.\n\n\n\nSignificantly, a portion of the collection documents the creation of the Andros Coral diorama at the AMNH. Dr. Miner was tasked with the creation of a two-story diorama of the coral reef off Andros Island in the Bahamas. Completed in 1935, the diorama became world-famous, and is still on display in the Irma and Paul Milstein Family Hall of Ocean Life at the AMNH in New York City."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Viewing Visalli: The Santi Visalli Photographic Collection
+title: "Viewing Visalli: The Santi Visalli Photographic Collection"
+year: 2016
+end_range: 2000
+formats: "NULL"
+geographic_extant: "Mr. Visalli is a photojournalist that worked around the world, photographing hippies in San Francisco, Vietnam protesters in Washington DC, and mourners at Martin Luther King's funeral in Atlanta, Georgia. He authored five books published by Rizzoli documenting Los Angeles, Chicago, San Francisco New York City, and Boston."
+institution: "California State University Channel Islands Foundation"
+institution_type: "NULL"
+primary_contact: "Mr. Matthew Cook"
+size: "NULL"
+start_range: "1965"
+summary: "Santi Visalli is a prolific photojournalist who has covered news, social issues, politics, and lifestyles and has photographed four presidents of the United States. His work as appeared in and on the covers of some 50 magazines and newspapers worldwide, including The New York Times, Newsweek, Time, Life, U.S. News & World Report, Paris Match, Stern, Oggi, Epoca, and L'Europeo. In 2015, Mr. Visalli donated his photograph and negative collection to CSU Channel Islands, and transferred copyright to the university. With this grant, we intend to digitize the entire 100,000 plus image collection and post them on-line for researchers world-wide."
+hc_id: "21685943"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "California State University Channel Islands"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>100000 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$157,218"
+material_description:  "In 2015, Santi Visalli donated his collection of prints, negatives, slides, ephemera and all intellectual property to CSU Channel Islands. His express goal was to share his images with the world and to ensure that his life's work would be preserved. This application represents an effort by the university to meet its commitment to Mr. Visalli. The collection consists of 100,000 photographic images in 35mm black-and white film, 35mm slides, prints, tear sheets, and a few pieces of ephemera, such as a camera owned and used by Mr. Visalli."
 ---
-
-

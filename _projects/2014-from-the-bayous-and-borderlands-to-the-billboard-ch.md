@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: From the Bayous and Borderlands to the Billboard Charts: Hidden Collections of American Vernacular Music and Cultural and Political Expression
+title: "From the Bayous and Borderlands to the Billboard Charts: Hidden Collections of American Vernacular Music and Cultural and Political Expression"
+year: 2014
+end_range: 2005
+formats: "NULL"
+geographic_extant: "Chiefly United States"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Jacqueline Dean"
+size: "800 linear feet, 46000 objects"
+start_range: "1900"
+summary: "UNC-Chapel Hill's Wilson Library seeks support to catalog 46,000 rare recordings and process 326 archival multimedia collections in the Southern Folklife Collection (SFC) that document vernacular music and capture grassroots artistic and political expressions across the United States. Together with cataloged holdings, the hidden recordings and collections represent an invaluable scholarly and community resource of 20th-century cultural and regional histories. The project will make use of established strengths in cataloging 78 rpm recordings and processing analog materials. It also will provide an opportunity to refine new models for accessioning and for seamless discovery and access to mixed collections of born digital and analog materials."
+hc_id: "10626018"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "<li>800 Artwork (Including Original Paintings, Prints, Sculpture, Etc.), Audio (Including Speech And Music), Audiovisual, Dataset (Paper Based Or Electronic), Ephemera, Image, Manuscript, Text (Including Electronic Texts)</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

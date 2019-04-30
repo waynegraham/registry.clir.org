@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Hanford Site Manhattan Project and Cold War Era Artifacts 3D Digital Repository
+title: "Hanford Site Manhattan Project and Cold War Era Artifacts 3D Digital Repository"
+year: 2017
+end_range: 1943
+formats: "NULL"
+geographic_extant: "The geographic scope of this project is DOE’s Hanford Site, a 586 square mile complex that was chosen in 1943 to produce Plutonium for the Manhattan Project. A small portion of that area now makes up one of the three sites of the Manhattan Project National Historical Park."
+institution: "Washington State University"
+institution_type: "NULL"
+primary_contact: "Dr. Michael Mays"
+size: "NULL"
+start_range: "1943"
+summary: "This two-year project proposes to digitize and make available in 3D format approximately 2,750 artifacts pertaining to the Plutonium processing facilities at Hanford (WA) from the beginning of the Manhattan Project in 1943 and running through the end of the Cold War in 1989. Roughly 2,500 of those nominated come from the Department of Energy’s (DOE) Hanford Collection while an additional ~250 come from the B Reactor Museum Association (BRMA), a revered community partner responsible for saving B Reactor from demolition. Creating a 3D archive of these unique and irreplaceable artifacts will foster research in three important ways: 1) it will minimize physical handling of items; 2) it will provide researchers with detailed descriptive information; and 3) it will provide access to long-sequestered materials to scholars around the world who might not otherwise be able to view them."
+hc_id: "26216918"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Washington State University"
+p2_name:  "Mr. Thomas Marceau"
+p2_institution:  "Washington State University"
+p3_name:  "Mr. Kyle Parker-McGlynn"
+p3_institution:  "NULL"
+material_string: "<li>2750 Artifacts</li>"
+collaborating_institution:  "B Reactor Museum Association, Richland, WA"
+grant_amount:  "$275,506"
+material_description:  "During its years of operation from 1943 through the end of the Cold War in 1989, the Hanford Site produced 65% of the weapons grade plutonium placed in the US nuclear arsenal. With no pre-1943 “plutonium infrastructure” in place, many of the tools and technologies used were, of necessity, “one-of-a-kind.” Hence, the extraordinary artifacts housed in the Hanford Collection document the unique means and methods used to advance Hanford’s singular mission: the manufacture, irradiation, and chemical separation of metallic uranium fuel elements (“slugs”) required for the creation of plutonium. The effects of plutonium on humans, animals, and the environment were largely unknown at the time. Because of this uncertainty, continuous radiation monitoring was incorporated into every aspect of work on the Site. From this intensive scrutiny, many subsequent “best practices” in radiation safety were first discovered and developed here. Growth in the nascent field of health physics, for instance (overseen at Hanford by one of the pioneers of radiological research, Herbert M. Parker), was greatly accelerated by the monitoring programs Parker and others put in place. With its vast array of radiological surveying and monitoring tools the Hanford Collection offers an unrivalled catalog of these uniquely modern instruments and their evolution. Finally, these artifacts provide an extraordinary lens through which to view the daily lives of Hanford residents: at home or at work, at rest or play, the lotion and liquor bottles, bicycles, furniture, and other items gathered here tell the story of lives at once mundane and world-historical."
 ---
-
-

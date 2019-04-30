@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Artpark Archives: 1973-2000
+title: "Artpark Archives: 1973-2000"
+year: 2014
+end_range: 2000
+formats: "NULL"
+geographic_extant: "Artpark is located in Lewiston, NY but hosted local, national and international artists in all media"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Heather Gring"
+size: "332 linear feet"
+start_range: "1973"
+summary: "This two-year project will focus on the arrangement and description of the Artpark Archive collection, resulting in the creation of a DACS-compliant intellectual finding aid accessible through the Burchfield Penney's custom-built content management system (CMS). Artpark, an outdoor venue in upstate New York, opened in 1974 to provide avant-garde artists and performers, teachers, students, and the public a space to create, celebrate and explore the arts. Through state-sponsorship, it offered residencies to national and internationally known artists through the mid-1980s. The collection currently totals about 180 boxes, in a range of materials, of which approximately 60% are thought to be unique to this collection."
+hc_id: "10765284"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

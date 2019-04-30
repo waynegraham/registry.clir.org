@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Robert O. and Helen S. Fay Collection
+title: "Robert O. and Helen S. Fay Collection"
+year: 2013
+end_range: 1905
+formats: "NULL"
+geographic_extant: "The main geographic areas covered are the United States, Europe and Asia."
+institution: "OU Western History Colls"
+institution_type: "NULL"
+primary_contact: "John Lovett"
+size: "55 boxes, 28 linear feet, 2500 objects"
+start_range: "1903"
+summary: "This collection's topic is the 1904 World's Fair and Louisiana Purchase Exposition held in St. Louis, Missouri. The collection includes brochures, tickets, maps, hold-to-light postcards, photographs, souvenir spoons, coins, and other fair memorabilia and ephemera. The time period covered is mainly from the fair itself, though some materials pertain to the time before and after the event. Geographically this collection has a large scope as states and countries from around the world converged on St. Louis, and many materials are from outside the United States. Making these materials more accessible would benefit the students and faculty at our university and other universities, especially as there are classes that focus on this topic. World's Fair researchers and those that study popular culture would also benefit from increased accessibility. It would also supplement our iBook regarding this topic. The unique materials in this collection provide tangible evidence of this important and large event from over a hundred years ago."
+hc_id: "1034"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "630 Parrington Oval"
+address2:  "Room 452"
+city:  "Norman"
+state:  "Oklahoma"
+zip: "73019"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

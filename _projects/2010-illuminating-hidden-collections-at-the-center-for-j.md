@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Illuminating Hidden Collections at the Center for Jewish History
+title: "Illuminating Hidden Collections at the Center for Jewish History"
+year: 2010
+end_range: 1980
+formats: "NULL"
+geographic_extant: "New York City, Chicago, Detroit and elsewhere in the U.S., as well as Germany, Poland, Lithuania, Hungary, Belarus, and elsewhere in Eastern Europe."
+institution: "Center for Jewish History"
+institution_type: "NULL"
+primary_contact: "Laura Leone"
+size: "447 linear feet"
+start_range: "1850"
+summary: "The materials cover the histories of organizations in NYC, as well as those around the country whose composition stemmed from towns in Europe from which they emigrated, such as those associated with Galicia or with Telsch, Lithuania. They also cover labor organizations in NYC and elsewhere, such as the Yidisher Teatr Gezelshaft in Detroit and the American Association for Jewish Education. Also included are dozens of collections that describe the stories of Jews leaving Germany for America and Israel prior to WWII. The collections included in this initiative encompass the stories of Jewish migration, establishment and assimilation over the last 150 years. The strength of the combined collection lies in the accumulation of documents supporting research across a broad range of disciplines. The proposed initiative includes materials that will uncover evidence to support work on U.S. and European historical and biographical studies. The collections also hold particular strengths for those exploring immigration, labor, and cultural history. Materials for this initiative will come from three of the Center's five partner institutions: AJHS, LBI, and YIVO. They include family papers as well as records of aid societies and educational organizations. The collections lack bibliographic representation in the Center's Online Public Access Catalog (OPAC) and are hidden from researchers and the public. Each is either newly-acquired or has long been in need of arrangement and processing."
+hc_id: "589"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "15 West 16th Street"
+address2:  "NULL"
+city:  "New York"
+state:  "NY"
+zip: "10011"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

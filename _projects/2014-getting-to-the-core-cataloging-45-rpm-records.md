@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Getting to the Core: Cataloging 45-RPM Records
+title: "Getting to the Core: Cataloging 45-RPM Records"
+year: 2014
+end_range: 1990
+formats: "NULL"
+geographic_extant: "The project will be international in scope but will focus most intensively on record labels and content from the United States."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Susannah Cleveland"
+size: "64800 objects"
+start_range: "1949"
+summary: "This project results in the cataloging of approximately 64,800 45-RPM recordings of popular music over 3 years. Cataloging will be available on the open web via Bowling Green State University's online catalog and will be performed by student assistants trained and supervised by our existing Music Catalog and Metadata Librarian. The result will be greater discovery for a significant portion of recordings that exist in few library collections and that are rarely, if ever, cataloged. The emphasis will be on major-label recordings that are not already documented in existing library catalogs or published discographies."
+hc_id: "12990407"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Music Library and Sound Recordings Archives"
+address2:  "Jerome Library, 3rd Floor"
+city:  "Bowling Green"
+state:  "OH"
+zip: "43403"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$64,064.00"
+material_description:  "NULL"
 ---
-
-

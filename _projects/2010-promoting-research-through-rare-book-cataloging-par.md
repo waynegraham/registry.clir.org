@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Promoting Research through Rare Book Cataloging Partnerships
+title: "Promoting Research through Rare Book Cataloging Partnerships"
+year: 2010
+end_range: 1900
+formats: "NULL"
+geographic_extant: "European and American books and printed ephemera in all European languages, including Latin and Greek."
+institution: "University of Pennsylvania Libraries"
+institution_type: "NULL"
+primary_contact: "Regan Kladstrup"
+size: "33500 objects"
+start_range: "1462"
+summary: "The Culture Class Collection is the University of Pennsylvania’s original rare book collection and is the largest hidden collection in Penn’s Rare Book & Manuscript Library (RBML). It represents 15% of its rare book holdings and includes over 14,000 pieces of printed ephemera as well as 19,500 monographs and serials. 470 incunabula, some unrecorded in the Incunabula Short Title Catalogue (ISTC), number among the collection’s highlights. The collection’s greatest asset, however, is its diversity of content, particularly characteristic of the ephemera. Largely single or multi-sheet pamphlets and broadsides, bound and unbound, they include decrees, placards, chapbooks, song sheets, memorials, newsletters, sermons, and medical tracts. Marginalia and erasures in many items testify to their use and often provocative content. Censored, plagiarized, and pirated editions reveal that such present-day issues as intellectual property and freedom of expression have long been concerns of print culture. The Culture Class Collection, named for its idiosyncratic classification system, which groups works by cultural association, illustrates the breadth of Western intellectual and popular history from the first decades of printing. Electronic access will provide an easy portal to a remarkably broad scope of materials of value to scholars in the humanities, the social sciences, and even the physical sciences."
+hc_id: "671"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "3420 Walnut St."
+address2:  "NULL"
+city:  "Philadelphia"
+state:  "PA"
+zip: "19104-6206"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$490,700.00"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging Burpee Museum's Hidden Dinosaurs
+title: "Cataloging Burpee Museum's Hidden Dinosaurs"
+year: 2014
+end_range: 65
+formats: "NULL"
+geographic_extant: "North American"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Hillary Parks"
+size: "12000 objects"
+start_range: "250"
+summary: "Burpee Museum of Natural History has become a leader in active paleontological expeditions and research in North America in the past ten years. Over this time, expeditions have discovered \"Jane\" the best preserved and most complete juvenile Tyrannosaurus rex, \"Homer\" a sub-adult from the first Triceratops bonebed, and the Hanksville-Burpee Dinosaur Quarry, one of National Geographic's most important discoveries in 2008. The localities have yielded an impressive number of fossils, and will continue to produce specimens that are integral to scientific research in the field of paleontology. However, these specimens are currently inaccessible to most researchers due to the lack of cataloging and accessible, useful record keeping."
+hc_id: "11805186"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The William Greaves Film Collections
+title: "The William Greaves Film Collections"
+year: 2014
+end_range: 70
+formats: "NULL"
+geographic_extant: "United States"
+institution: "The New York Public Library, Astor, Lenox and Tilden Foundations"
+institution_type: "NULL"
+primary_contact: "Ms. Shola Lynch"
+size: "NULL"
+start_range: "1960"
+summary: "The William Greaves Film Collections have been hidden for 26 years. In 1988, the Schomburg Center acquired the materials for 19 documentary films covering black history, current affairs and culture in the 1960's & â€˜70's. The 500 boxes of footage and interviews went straight to NYPL storage where they remained unidentified. \n\n\n\nAs the new curator, Ms.Lynch prioritized finding the Greaves collections. Staff unearthed all the boxes and reduced unidentified material by nearly 50%. A CLIR grant will insure the next critical step: making the works available. The goal is to process, create finding aids and catalog records for each film collection. Now that the pioneering filmmaker is 87, it is time for his work to be unhidden, and available."
+hc_id: "10809486"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Schomburg Center for Research in Black Culture"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>13160 Audiovisual</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "373556"
+material_description:  "NULL"
 ---
-
-

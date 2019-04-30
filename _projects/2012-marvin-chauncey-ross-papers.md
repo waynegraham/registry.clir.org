@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Marvin Chauncey Ross Papers
+title: "Marvin Chauncey Ross Papers"
+year: 2012
+end_range: 1814
+formats: "NULL"
+geographic_extant: "Europe, Middle East, and Russia"
+institution: "Menil Foundation"
+institution_type: "NULL"
+primary_contact: "Geraldine Aramanda"
+size: "117 boxes, 704 linear feet"
+start_range: "1400"
+summary: "Most of the material in the collection focuses on Byzantine, medieval, and Russian objects—metalwork, ceramics, glyptics, jewelry, enamels, mosaics, and paintings, sculpture, and drawings. The correspondence comes from museum curators and directors, photographers, commercial galleries, and private collectors worldwide. Since the collection is not cataloged, a selection of four cases was processed in order to estimate the amount of material needed for preservation of the contents and the subject and sources were recorded. Box 001: Contents: 6 folders—260 photographs; 7 postcards; correspondence; publications; notes. Partial summary of Subjects: Constantinian porphyry sarcophagus, 15c; Conques Treasure, France, 13 c; 11 c silver gild book covers; 7 c coins; 11 c mosaic; Thomas Loraine McKenney, Sketches of a Tour to the Lakes, 1814; 6 c Syrian silver bowl; 1-2 c limestone Paymyrene funerary stele; 4 c mosaics; 14-13 c BC Mycenean gold dish; Guarrazal Treasure 7 c. Partial summary of Sources: Giraudon, Paris; A. John Hugh-Smith Coll.; Virginia Mus of Art; MFA, Houston; Kofler-Truniger, Luzern; Bibl. Nat., Paris; Scala; Louvre; American Numismatic Soc.; Instanbul Archeol. Mus; Dumbarton Oaks; Hermitage Mus, St Petersburg; Cornelius C. Vermeule, MFA, Boston; RISD; Palazzo Carignano, Turn; Charles Parkhurst, Oberlin, Allen Mem Art Mus; Venice Accademia; Abegg-Stiftung Bern; Hispanic Soc of Amer., NY; Marguerite Mallon, Rome; Walters Art Gallery, Baltimore."
+hc_id: "931"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1511 Branard St"
+address2:  "NULL"
+city:  "Houston"
+state:  "TX"
+zip: "77006"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

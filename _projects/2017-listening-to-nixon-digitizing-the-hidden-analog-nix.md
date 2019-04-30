@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Listening to Nixon: Digitizing the Hidden Analog Nixon White House Tapes for a Front Row Seat to History, 1971-1973
+title: "Listening to Nixon: Digitizing the Hidden Analog Nixon White House Tapes for a Front Row Seat to History, 1971-1973"
+year: 2017
+end_range: 1973
+formats: "NULL"
+geographic_extant: "The scope is global. The tapes are essential to understand historical events at the White House, in America, and across the world from 1971-1973, e.g., China Opening, Vietnam, Russian Détente, Middle East Policy, Domestic Issues: civil rights, welfare/health care reform, EPA/environment, OSHA – as relevant today as they were then."
+institution: "The Richard Nixon Foundation"
+institution_type: "NULL"
+primary_contact: "Mr. Jonathan Movroydis"
+size: "NULL"
+start_range: "1971"
+summary: "Between February 1971 and July 1973, President Richard Nixon recorded 3,432 hours of phone calls and meetings. These tapes remain the greatest treasure of information left by a president and the most complex, controversial set of presidential records in U.S. history. However, 57% of the 2,658 hours of publicly released Nixon White House tapes remain hidden and relatively unexplored in analog formats at the National Archives in Maryland and Nixon Library in California. This three-year collaborative project between the Richard Nixon Foundation and Texas A&M University – Central Texas will digitize 1,513 hours of tape and ensure these files are widely accessible online to researchers and the public at-large. This project is part of a larger commitment to digitize, catalog and transcribe the tapes. The project facilitates creation and dissemination of new knowledge via a widely accessible, comprehensive collection of free digital files chronicling this important period in U.S. history."
+hc_id: "26263495"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "The Richard Nixon Foundation"
+p2_name:  "Dr. Luke Nichter"
+p2_institution:  "Texas A&M University – Central Texas"
+p3_name:  "Mr. Michael Cotten"
+p3_institution:  "Texas A&M University – Central Texas"
+material_string: "<li>1513 Audio Recordings</li>"
+collaborating_institution:  "Texas A&M University – Central Texas, Killeen, Texas"
+grant_amount:  "$493,322"
+material_description:  "This project covers the digitization of the Nixon White House tapes. In 1971, the Nixon Administration installed Sony TC-800B tape recorders in the Oval Office, Cabinet Room, the Old Executive Office Building, and other locations. The system was sound activated, making the tapes as comprehensive as possible. The system was in place from February 16, 1971 to July 18, 1973, generating approximately 3,432 hours of recorded conversations between Nixon and leading executives of his Administration. The tape recording system was disclosed by Alexander Butterfield during his Watergate testimony. The tapes then became the central subject of the Watergate investigation, culminating in a decision by the Supreme Court requiring President Nixon to release the tapes to the Watergate Special Prosecutor. After Nixon’s resignation, Congress passed the Presidential Recordings and Materials Preservation Act, making the tapes the property of the National Archives and Records Administration (NARA). The original tapes were converted to analog reel-to-reel and cassette formats. They are held at a NARA facility in College Park, Maryland. NARA has declassified 2,658 hours of tapes. The tapes cover world events during 1971-1973, but they also include Nixon’s conversations with many interesting figures from the era, including Johnny Cash (prison reform), Ray Charles (civil rights), and Sammy Davis, Jr (Jim Crow laws), among many other iconic Americans. They are a snapshot of early 1970s America like no other source. The tapes make the Nixon presidency the most documented in U.S. history. Digitization of the tapes will ensure they are preserved for all history."
 ---
-
-

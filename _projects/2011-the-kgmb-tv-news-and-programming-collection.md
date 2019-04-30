@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The KGMB-TV News and Programming Collection
+title: "The KGMB-TV News and Programming Collection"
+year: 2011
+end_range: 2010
+formats: "NULL"
+geographic_extant: "Hawaiian Islands, Polynesia, Pacific Rim"
+institution: "Academy for Creative Media"
+institution_type: "NULL"
+primary_contact: "Janel Quirante"
+size: "8500 objects"
+start_range: "1970"
+summary: "The KGMB-TV News and Programming collection contains videotapes, motion picture film reels, photographs, slides, transcripts, and research material from KGMB-TV, the Honolulu, HI CBS affiliate and the state's first television station, which began broadcasting in 1952. The collection includes local news broadcasts from the 1970s-1990s, which follow major Hawaiian news events including the first voyage of the Hokule'a - a double hulled sailing canoe, the 1978 Hawaii State Constitutional Convention creating Hawaiian rights, Ferdinand Marcos' exile, and the Kilauea volcanic eruption. The collection also includes local television programming from 1970-2010, some of which was never aired outside Hawaii. Children's series like \"Checkers and Pogo\" and \"Hawaii's SuperKids;\" documentaries including the Peabody Award-winning \"Beyond the Great Wall: Journey to the End of China,\" comedy specials like \"Pat Morita's Mix Plate of Comedy,\" \"Rap Reiplinger: Rap's Hawaii,” dance and music programs like \"Island Music, Island Hearts,\" and the annual \"Na Hoku Music Awards\" and \"King Kamehameha Hula Competition.\" Because the programming was created specifically for Hawaiian audiences, it presents a unique insight into Hawaiian community entertainment, the local culture, and advertising trends and can provide a rich and valuable research resource that has not previously been readily available to the public."
+hc_id: "799"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "2800 Woodlawn Drive"
+address2:  "Suite 165A"
+city:  "Honolulu"
+state:  "HI"
+zip: "96822"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

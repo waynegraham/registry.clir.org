@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Hopewell Legacies: Unearthing Excavation Records from the Ceremonial Mounds of the Ohio Hopewell
+title: "Hopewell Legacies: Unearthing Excavation Records from the Ceremonial Mounds of the Ohio Hopewell"
+year: 2015
+end_range: 1975
+formats: "NULL"
+geographic_extant: "The Hopewell Legacies records pertain to two main localities within the Scioto River Valley: the Mound City Group and the Hopewell Mound Group. Both loci are part of Hopewell Culture National Historical Park."
+institution: "Board of Regents of the University of Nebraska for the University of Nebraska-LIncoln"
+institution_type: "NULL"
+primary_contact: "Dr. Carolyn Heitman"
+size: "NULL"
+start_range: "1891"
+summary: "The Hopewell Legacies project aims to provide open access to archaeological excavation records to further scholarship on the ancient monumental earthwork constructions and large-scale ceremonial activities of the Ohio River Valley. During the first five centuries of the common era, intensified ceremonial practices among the Ohio Hopewell integrated many native societies in Eastern North America. Leveraging four strategic institutional partnerships (Center for Digital Research in the Humanities, Ohio History Connection, Hopewell Culture National Historical Park, and the Center for Digital Antiquity), our primary goal is to provide sustainable access to records from the Hopewell Mound Group (1891-1892,1922-1925) and the Mound City Group (1920-21, 1963-1975). This collaboration will aggregate collections torn asunder by the vagaries of time and foster a new era of historical and archaeological scholarship."
+hc_id: "17080380"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Nebraska-Lincoln"
+p2_name:  "Dr. Francis"
+p2_institution:  "Executive Director"
+p3_name:  "Dr. Dr. Bradley"
+p3_institution:  "Senior Curator of Archaeology"
+material_string: "<li>11.2 Mixed Archival Collections</li>"
+collaborating_institution:  "University of Nebraska-Lincoln; Hopewell Culture National Historical Park; Ohio History Connection; Center for Digital Antiquity"
+grant_amount:  "285741"
+material_description:  "The proposed project will digitize and expose archival materials from three major excavations (notes, maps, photographs, unpublished reports, etc.) at the Hopewell Mound Group and the Mound City Group in what is today the Hopewell Culture National Historical Park. (1) In the early 1890s (1891-1892), pioneering archaeologist Warren K. Moorehead excavated approximately half of the mounds at the Hopewell Mound Group and about one quarter of the largest mound, Mound 25. Moorehead produced an immense and diverse range of artifacts from beneath the numerous mounds at the site. The collections from Moorehead's work at the Hopewell Mound Group were displayed at the Columbian Exposition of 1893 in Chicago and are curated by the Field Museum of Natural History. The records of his work are held at the Ohio History Connection. This proposed project will digitize the Moorehead documentary records so they can be rearticulated with the archaeological artifacts. (2) In the 1920s, Henry Shetrone and William Mills mapped and excavated nearly all of the mounds within the Hopewell Mound Group. As the mounds have become less visible, today these records are invaluable and remain the existing authority on the Hopewell Mound Group. The artifacts from these excavations are currently housed at Hopewell Culture NHP, but the documentary records remain at the Ohio History Connection. This proposed project will allow the documentation to be rearticulated with the archaeological artifacts. (3) In the early 1960s, NPS archeologists made several recommendations to rectify discrepancies in the locations of the reconstructed mounds, earthworks, and borrow pits at the Mound City Group. Between 1963 and 1975, Dr. James Brown conducted a series of excavations adding significantly to our body of knowledge about these ceremonial mounds. This third collection will complement the earlier legacy collections and significantly enhance the scholarly impact of the Hopewell Legacies project."
 ---
-
-

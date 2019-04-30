@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Unearthing Wonderland: Using a Team Approach to Expose Yellowstone’s Hidden Collections
+title: "Unearthing Wonderland: Using a Team Approach to Expose Yellowstone’s Hidden Collections"
+year: 2011
+end_range: 2010
+formats: "NULL"
+geographic_extant: "The Greater Yellowstone Ecosystem, a 28,000 mile area, with Yellowstone as its core and one of the largest intact temperate-zone ecosystems on Earth."
+institution: "Yellowstone National Park Archives"
+institution_type: "NULL"
+primary_contact: "Paul Reichert"
+size: "750 linear feet, 4300 objects"
+start_range: "1880"
+summary: "The Yellowstone National Park Archives documents the history and science of the world's first national park, now a United Nations Biosphere Reserve and World Heritage Site. The manuscripts, photos, maps, films, oral histories, administrative records, and scientific data document the natural and cultural resources and the development of their management. With a long history of data collection in the park, the Archives supports research in climate change, biodiversity, and ecosystem dynamics. The records are rich in topics ranging from geophysics, geology, and ecology to archeology, tourism, and history. Ideas of wilderness, conservation, and resource stewardship are woven throughout the documentary record and include materials by Horace Albright and such significant events as the 1988 fires, returning bears to natural feeding habits, and the eradication and eventual reintroduction of wolves. An affiliated archive of the National Archives, the Archives houses a unique record of physical and administrative development beginning with early civilian superintendents and pioneer entrepreneurs, through the turn-of-the-century military era to the founding and development of the National Park Service. Because the collections are unorganized and poorly described, many researchers do not realize the depth and breadth of Yellowstone's documentation. The proposed project will expose our hidden resources by making collections usable and understandable to a wide, diverse research audience."
+hc_id: "793"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "222 East Main Street"
+address2:  "Suite 301"
+city:  "Bozeman"
+state:  "MT"
+zip: "59715"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

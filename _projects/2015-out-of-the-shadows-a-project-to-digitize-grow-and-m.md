@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Out of the Shadows: A project to digitize, grow, and maintain a substantial collection of documents, images, objects, and other evidence of women's military activities to provide at the Smithsonian Institution a foundation for research and study in the developing field of women's military history from antiquity to the present.
+title: "Out of the Shadows: A project to digitize, grow, and maintain a substantial collection of documents, images, objects, and other evidence of women's military activities to provide at the Smithsonian Institution a foundation for research and study in the developing field of women's military history from antiquity to the present."
+year: 2015
+end_range: 2015
+formats: "NULL"
+geographic_extant: "United States and Europe. In addition to worldwide locations of U.S. military activity."
+institution: "Smithsonian Institution, National Museum of American History"
+institution_type: "NULL"
+primary_contact: "Ms. Margaret Vining"
+size: "NULL"
+start_range: "1861"
+summary: "Throughout history women have served important and vital roles in military institutions everywhere, yet military historiography reflects astonishingly little of women's activities in the armed forces. This model archive and research collection will serve as a pilot project to introduce a new field, women's military history. For more than 30 years our curators have collected primary documents and images, secondary materials, and an 800 volume library that together furnish historical evidence of the military roles of women. Grant funding in 2014 enabled the hiring of an archivist to launch this expansive project. We have gained affiliation with the Smithsonian Archive Group, access to the Smithsonian's Archivist Toolkit, and will import into AT 100 linear feet of materials by the end of 2015.Thus proving feasibility, we seek to hire staff to digitize the collection by the end of 2016, forming a singular online resource for the new field of study."
+hc_id: "17433934"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "National Museum of American History"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>100 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$140,076"
+material_description:  "Chronologically, the collection to be digitized comprises documents and photographs of women's work starting in the Civil War. Documents represent post-Civil War women with husbands on duty in Indian Territory on the western frontier (1870-1889). Army nurses, the first uniformed women in the armed forces, have prominence throughout the archive in memoirs, diaries, personal papers and secondary material. Among highlights are the papers of the first woman to attain the rank of general officer, BG Anna M. Hays, Chief, Army Nurse Corps (1967-1971) and two other Chiefs of the Corps. \n\n\u0001A World War I women's collection embodies exceptional resources for studying both women's history and military history; civilian volunteers by tens of thousands, suffragists and others, pressed for citizenship wearing military style uniforms. Their uniforms and stories support an overarching historical study. Extensive personal and official documentation discloses the history of the first women inducted into U.S. Navy as Yeoman (F). \n\n\u0001Still larger is the World War II collection relating to all aspects of the first sizeable contingent of women permanently entering the armed forces; official and personal material documents the founding of the women's branches of the services and women pioneers in many new fields; personnel that represents a cross section of society, both officers and enlisted. i.e. 125 letters (1943-1946) document the work of Prudence Drake in Greece with the United Nations Relief and Reconstruction Agency (UNRRA). \n\n\u0001Women's participation in the establishment of the US Air Force in 1947 and subsequent history has an exceptionally significant place in the archive. Biographical material of a Coast Guard cadet augments large holdings documenting women in the US Naval Academy and the US Military Academy. Abundantly documented in the collection are women's roles in Korea, Vietnam, Desert Storm, and the wars in the Middle East, which present many \"firsts.\""
 ---
-
-

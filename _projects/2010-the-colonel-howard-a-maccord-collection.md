@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Colonel Howard A. MacCord Collection
+title: "The Colonel Howard A. MacCord Collection"
+year: 2010
+end_range: 2009
+formats: "NULL"
+geographic_extant: "The MacCord Collection covers a broad range of American archaeology, with a focus on the Middle Atlantic region and a subfocus on the Potomac Valley."
+institution: "Virginia Museum of Natural History"
+institution_type: "NULL"
+primary_contact: "Mary Catherine Santoro"
+size: "6000 objects"
+start_range: "1833"
+summary: "Col. Howard MacCord, Virginia's first State Archeologist, actively collected and saved materials about and related to archaeology. This collection includes not only formal publications (books and journals), but informal material such as field guides, museum exhibit guides, and pamphlets/brochures for historic properties open to the public. He also extensively collected reprints of articles from various publications. In addition, Col. MacCord communicated with every senior archaeologist in the region, as well as many archaeology students working in the Middle Atlantic. The MacCord Collection, therefore, contains copies of some of his correspondence and manuscript versions of publications sent to him for review and copies of theses and dissertations. Col. MacCord also regularly attended annual meetings of regional archaeology organizations and collected copies of presented, yet often further unpublished, research papers. These presented papers are sometimes the only record of research results. These materials encompass items that provide valuable information for archaeologists and historians, many of which are unlikely to be available from other sources. Not only does the collection therefore contain many materials that are not widely saved or available, but it also provides researchers with a unique opportunity to study these material as a cohesive whole, reflecting the changes and trends in 20th century archaeology and its cultural impact."
+hc_id: "681"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "VMNH Library"
+address2:  "21 Starling Ave."
+city:  "Martinsville"
+state:  "VA"
+zip: "24112"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

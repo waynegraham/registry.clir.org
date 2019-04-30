@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: U.S. Army Military History Institute Library, Photograph, and Manuscript Collections
+title: "U.S. Army Military History Institute Library, Photograph, and Manuscript Collections"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "Worldwide - manuscript, photograph, and materials deal with Army operations in the US, Mexico, and around the world wherever the US Army has deployed."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Bernard Jansen"
+size: "48800 linear feet"
+start_range: "1750"
+summary: "The Military History Institute (MHI), a division of the Army Heritage Education Center (AHEC), is one of the world’s largest repositories of primary source materials for American and military history, reflecting the nation’s rich cultural heritage from colonial times to the present. As the Army’s archive for its non-official history, the Institute holds more than fourteen million items that document the history of the United States, the U.S. Army, and military history. MHI is the Army's official central repository for historical source material. MHI holdings include over 260,000 books, 50,000 periodicals, 11,000,000 manuscript pages, 1,730,000 photographs and 50,000 artifacts covering every period of military history making the collection the finest military archive in the United States and one of the top in the entire world. The focus of the collection is the history of the U.S. Army: its antecedents, institutions, field operations, soldiers, and civilians. The specific areas are of interest are: (1) personal experiences of Army service, both peace and war, for all grades, periods, to include careers of the Army senior leadership, both civilian and military; (2) accounts by Army veterans, unpublished and published, with supporting images; (3) organizational experiences of individual Army units, commands and institutions, to include narrative histories and summaries; (4) papers of the Chief of Staff, Army; (5) historical documentation of Army operations and experiences."
+hc_id: "214"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "329F IST Building"
+address2:  "IST Building"
+city:  "University Park"
+state:  "PA"
+zip: "16802"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

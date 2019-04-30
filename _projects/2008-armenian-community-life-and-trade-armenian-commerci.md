@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Armenian Community Life and Trade: Armenian Commercial Relationships in Iran, India, and the Far East 1600-1968:Minasian Collection 1632
+title: "Armenian Community Life and Trade: Armenian Commercial Relationships in Iran, India, and the Far East 1600-1968:Minasian Collection 1632"
+year: 2008
+end_range: 1968
+formats: "NULL"
+geographic_extant: "The primary source material includes documents on Armenian trade and commercial relations in Iran, India, the Far East and Southeast Asia."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Deepee Sahota"
+size: "26 boxes, 11 linear feet, 95 objects"
+start_range: "1300"
+summary: "The UCLA Library holds the most important and significant collection of Armenian manuscripts in the United States, the jewel of which is the library of the late Caro O. Minasian, an Armenian physician in Isfahan, Iran who began collecting in 1935. The collection consists of 1,497 bound volumes, including Arabic and Persian texts. This project would focus on undescribed and uncataloged Armenian-language archival materials related to commercial activities and relationships of in Armenian communities in India, Iran, and the Far East during 1300-1968, which include personal papers, business correspondence, ledgers, local histories, and photographs, and ninety-five Armenian manuscripts that have also not been previously cataloged nor included in any online registry. While the UCLA Library has held these important collections of Near Eastern archival and manuscript collections dating from the fourteenth-century to mid-twentieth century’s for more than 35 years, they are largely unknown to students and scholars of Armenian and Near Eastern civilization or others who might find them useful in their research. While some of our Near Eastern manuscript collections have been described by Islamic medical historians or in Prof. Avedis Sanjian’s catalogue of the Armenian manuscripts including descriptions of bindings, textual contents and illuminations, there are no detailed and EAD compliant finding aids nor any MARC records for the manuscripts."
+hc_id: "345"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "UCLA Office of Contract & Grant Administration"
+address2:  "11000 Kinross Avenue, Ste 102"
+city:  "Los Angeles"
+state:  "CA"
+zip: "90095-1406"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

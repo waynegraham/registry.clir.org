@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Edison Collection of American Sheet Music, 1800-1870
+title: "The Edison Collection of American Sheet Music, 1800-1870"
+year: 2015
+end_range: 1870
+formats: "NULL"
+geographic_extant: "All of the materials to be digitized were published in the United States. Some of the music was written by European composers, but the vast majority of composers are American."
+institution: "The University of Michigan"
+institution_type: "NULL"
+primary_contact: "Ms. Kristen Castellana"
+size: "NULL"
+start_range: "1800"
+summary: "The University of Michigan Library will catalog and digitize nearly 36,000 pieces of music from the Edison Sheet Music Collection. At the end of this two-year project, catalog records and full-text scans will be discoverable through our local online catalog and through the HathiTrust Digital Library, Digital Public Library of America, and Sheet Music Consortium. This collection is one of the largest of its type, and, with approximately seventy-five percent of its editions not yet represented in the major repositories of sheet music, once made accessible will reveal a significant portion of the repertory that is not yet known. This material was published in the United States between 1800 and 1870 and reveals much about the development of popular music as both a business and an artistic genre; it also provides insight into music-making in nineteenth-century America and reflects the public tastes and social issues of the day."
+hc_id: "18602711"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "University of Michigan"
+p2_name:  "Mr. John Weise"
+p2_institution:  "University of Michigan"
+p3_name:  "Ms. Ellen Mueller"
+p3_institution:  "University of Michigan"
+material_string: "<li>35874 Musical Scores</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$243,682"
+material_description:  "The Edison Sheet Music Collection was gathered at the behest of Thomas Edison over a thirty-year period and was used by the Edison Phonograph Company in selecting music to record. Aiming to collect as much music as possible, and with an emphasis on older music (pre-1900), Edison's employees scoured music publishers and music stores and even bought music secondhand. All of this was to enable the company's Music Room staff and Edison himself to choose which music to record on the Edison label. Edison believed that having an enormous collection from which to select the best music was a superior, and more scientific, approach to recording music than his competitors were using. The end result is a collection that represents a comprehensive documentation of published sheet music in nineteenth-century America. Publishers from across the country are represented, as well as both vocal and instrumental music of many types. The topics covered in the works mirror the popular topics of American life in the nineteenth century, from politics, war, and industry to home life and fashion trends. After the recording arm of the Edison company closed in 1929, the sheet music was shipped to Dearborn, Michigan, in 1930, intended for Henry Ford's Edison Institute. It was estimated to contain 150,000 to 200,000 items. Ford's niece inherited the collection in 1948 and then sold it to Bly Corning, a Flint-area manufacturer, in 1964. Corning donated several thousand pieces to the University of Michigan's Clements Library (a library of Americana) and Music Library in the 1960s-70s, and the University purchased the remaining American publications (ca. 115,000 pieces) and several linear feet of Edison papers in 1989. Finally, in 2015, the University of Michigan Library bought the residue of the collection that remained in the Corning family."
 ---
-
-

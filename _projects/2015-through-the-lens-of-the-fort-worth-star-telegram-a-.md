@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Through the Lens of the Fort Worth Star-Telegram: A Photojournalism View of the Great Depression, World War II, and the Birth of the Cold War, 1934-1955
+title: "Through the Lens of the Fort Worth Star-Telegram: A Photojournalism View of the Great Depression, World War II, and the Birth of the Cold War, 1934-1955"
+year: 2015
+end_range: 1955
+formats: "NULL"
+geographic_extant: "The Fort Worth Star-Telegram Collection is the only extant major newspaper photo morgue publicly available in a wide geographic area. The targeted segment of this collection (1934-1955) documents local and national perspectives of daily happenings in and around Fort Worth, Tarrant County, and the state of Texas."
+institution: "University of Texas at Arlington"
+institution_type: "NULL"
+primary_contact: "Ms. Brenda McClurkin"
+size: "NULL"
+start_range: "1934"
+summary: "The University of Texas at Arlington Libraries proposes digitization of approximately 105,000 negatives from the Fort Worth Star-Telegram Collection, 1934-1955. This time period includes significant historical events such as the end of the Great Depression, World War II, the birth of the Cold War, and other notable events. This collection is the only extant publicly available newspaper photo morgue in the region, and the vast majority of these images were never published. The negatives are currently accessible to patrons only through the mediation of UTA Libraries Special Collections staff, which makes it a truly hidden collection ripe for global exposure through the digitization efforts proposed in this grant. These negatives will be scanned as .TIFFs for preservation, and .JPGs will be derived for online open access. The index for the negatives will reside in a newly created database, rich with metadata and widely available via a website interface."
+hc_id: "17218886"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "The University of Texas at Arlington Libraries"
+p2_name:  "Ms. Ramona"
+p2_institution:  "Department Head, Digital Creation"
+p3_name:  "Ms."
+p3_institution:  "NULL"
+material_string: "<li>105000 4x5 acetate and nitrate photographic negatives</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$203,124"
+material_description:  "The materials proposed for digitization are a group of Fort Worth Star-Telegram (FWST) negatives dating from 1934 to 1955. These negatives are just a portion of an estimated corpus of 4 million FWST negatives (mid-1920s-1990) donated to UTA Libraries in several accessions beginning in 1984. The composite FWST Collection is the 20th-century morgue of Fort Worth's principal newspaper and is the largest and most heavily used collection in UTA Libraries Special Collections repository. This collection constitutes irreplaceable documentation of Texas culture and history and local and national perspectives of the daily happenings around Fort Worth, Tarrant County, and the North Texas region. A particularly rich aspect of this collection is the visual heritage of Fort Worth, a city with national stature in the cattle industry, railroads, civilian and military aviation (birthplace of American Airlines; home of Convair's bomber plant; Bell Helicopter; and Carswell Air Force Base, one of the first Strategic Air Command bases), communications (WBAP-TV was the first television station in Texas), oil and natural gas, sports, and the arts. Fort Worth citizens garnered national limelight during the two decades covered by this digitization project, including golfer Ben Hogan; baseball great Bobby Bragan; and politicians John Nance Garner (vice president to FDR) and Texas Governor W. Lee O'Daniel. The targeted era of this collection also contains the only known photographs of the debris collected from the Roswell, New Mexico, UFO incident in 1947. The collection also provides a pictorial record of the public and personal life of the Star-Telegram's founder and publisher, Amon Carter (\"Mr. Fort Worth\" ), an icon who played a national role in business, politics, communications, aviation, and philanthropy and who counted Will Rogers, Franklin Roosevelt, Harry Truman, Dwight Eisenhower, Charles Lindberg, and Admiral Nimitz among his friends."
 ---
-
-

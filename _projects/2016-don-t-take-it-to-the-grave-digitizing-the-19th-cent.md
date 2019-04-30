@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Don't Take it to the Grave: Digitizing the 19th-Century Burial Files of New York City's Green-Wood Cemetery
+title: "Don't Take it to the Grave: Digitizing the 19th-Century Burial Files of New York City's Green-Wood Cemetery"
+year: 2016
+end_range: 1920
+formats: "NULL"
+geographic_extant: "The collection represents a diverse New York City population of national and international origins. Between 1860 and 1920, Brooklyn and NYC were never less than 31% foreign-born and peaked in 1910 at 47%. Others, seeking fame and fortune, arrived from across the U.S. The burials at Green-Wood reflect these populations."
+institution: "Green-Wood Historic Fund"
+institution_type: "NULL"
+primary_contact: "Mr. Anthony Cucchiara"
+size: "NULL"
+start_range: "1840"
+summary: "Green-Wood Historic Fund (GWHF) respectfully requests a grant to digitize Green-Wood Cemetery's Burial Files, dated 1840 to 1920. These records will be scanned, corresponding metadata will be created, and then uploaded into an open-source application for standards-based archival description and access. The project emphasizes accessibility and discoverability for these approximately 255,000 items. These records pertain to approximately 300,000 \"permanent residents\" of Green-Wood Cemetery who were buried between its founding in 1838 and 1920 (the first half of the institution's existence.) Each record set varies, but almost all contain an individual's Burial Permit, lot ownership record, nativity, age at death, cause of death and date of burial. Many also contain correspondence with the cemetery, letters from monument makers, requests to permit a new burial, photographs and more. These records present information that, with very few exceptions, has never before been made public; the potential contribution to researchers worldwide is tremendous."
+hc_id: "21838280"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Green-Wood Historic Fund"
+p2_name:  "Ms. Stacy Locke"
+p2_institution:  "Green-Wood Historic Fund"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>254810 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$250,000"
+material_description:  "GWHF's Burial Files consist of two interrelated collections: the Burial Orders and the Chronological Burial Registry. The Burial Orders are the cemetery's primary repository for the required documentation of a burial, plus pertinent letters, memos, photographs and diagrams. Many contain clear indications of family relationships (a plea to bury a deceased spouse \"as deep as possible\") and others are subtle, yet telling, notations that can give rare clues to researchers. The Chronological Burial Registry comprises large-scale, handwritten logbooks that list, in approximately 30 rows per page, name, cause of death, age at death, nativity, most recent address and undertaker's name. While each record is individually valuable, collectively they present a rich picture of the city's changing ethnicities, demographics and public health. Green-Wood cemetery uniquely reflects the history of both Brooklyn and New York, two cities whose populations experienced explosive growth in the 19th century before consolidating in 1898 to become the largest and most prosperous city in the nation. In keeping with the city's defining myth -- that regardless of one's background, anything is possible in NYC -- Green-Wood's residents represent the city's aspirational and uniquely democratic character. From Civil War soldiers to the famously corrupt William Magear \"Boss\" Tweed, from Margaret Pine, the last woman to have lived as a slave in New York State to Susan McKinney Steward (first African-American female doctor in NY), individuals who shaped and defined this city are interred at Green-Wood. Other luminaries include abolitionist Henry Ward Beecher, DeWitt Clinton, Samuel F.B. Morse, Theodore Roosevelt, Sr., Martha Bullock Roosevelt (Theodore Roosevelt's mother) and Alice Hathaway Roosevelt (Theodore Roosevelt's first wife), Louis Comfort Tiffany, early pioneers of the game of baseball, inventors, performers, and hundreds of thousands more. Taken together, they present arguably the most comprehensive memorial of New York's last two centuries."
 ---
-
-

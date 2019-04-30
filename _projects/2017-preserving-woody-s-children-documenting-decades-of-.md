@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Preserving "Woody's Children": Documenting Decades of American Folk Music
+title: "Preserving \"Woody's Children\": Documenting Decades of American Folk Music"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "University of Maryland, College Park"
+institution_type: "NULL"
+primary_contact: "Ms. Robin Pike"
+size: "NULL"
+start_range: "NULL"
+summary: "Preserving \"Woody's Children\" ensures the accessibility and longevity of a major collection of American broadcasting and performing arts history, as well as the creativity of the show's creator and host, Robert Sherman. Sherman's papers and recordings are housed at Special Collections in Performing Arts, University of Maryland. The show, featuring interviews, live performance, and commercial recordings, was originally broadcast by New York station WQXR, and is now heard on WFUV. Through digital conversion and common preservation actions for open reel tape (baking, splice repair, and mold remediation), this unique, information-rich content will be available to the public via the UMD's digital collections. The collection's curator selected programs to assure equitable representation of career status, gender, and race. These recordings are of significant interest to ethnomusicologists, popular music scholars, and historians, while maintaining broad appeal to general audiences of folk music."
+hc_id: "25685522"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Maryland"
+p2_name:  "Mr. Vincent Novara"
+p2_institution:  "University of Maryland"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "142 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$24,790"
+material_description:  "The Robert Sherman Collection (finding aid: http://hdl.handle.net/1903.1/9381) is an ongoing gift of Sherman, beginning in August 2006. Covering the period from 1932 to 2016, the bulk of the materials date from 1960 to 2008. The collection consists of both personal and professional papers including scripts, recordings, writings, correspondence, playbills, clippings, photographs, and awards related to Sherman's work as a broadcaster, author, and educator. Among the most significant holdings include recordings of his broadcasts, and his written correspondence with folk musician Pete Seeger (as well as major figures in classical music). While the papers in the collection are fully processed, the recordings are merely sorted into series by program. Recordings are briefly described at the item level with metadata derived from the container (featured artist, date, part in a series, special occasions, etc.). Many of the recordings have the show's script tucked into the container, and other scripts are found within Sherman's papers (see Subseries 1.1: Radio Shows, 1960-2009, 9.25 linear feet). For each broadcast, Sherman either interviews guests active in folk music of the Woody Guthrie tradition, provides commentary of existing commercial recordings, or hosts live broadcasted events celebrating folk music, anniversaries of the program, or another complementary event. As a public research university and Land Grant institution, this collection is open for public use. The finding aid is available through UMD's ArchivesUM database, and was also indexed by ArchiveGrid."
 ---
-
-

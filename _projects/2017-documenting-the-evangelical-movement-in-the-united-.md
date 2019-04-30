@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Documenting the Evangelical Movement in the United States: Digitizing Baptist State Convention of North Carolina Open-Reel Audiotapes, 1957-1980
+title: "Documenting the Evangelical Movement in the United States: Digitizing Baptist State Convention of North Carolina Open-Reel Audiotapes, 1957-1980"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Special Collections & Archives, Z. Smith Reynolds Library\nWake Forest University"
+institution_type: "NULL"
+primary_contact: "Ms Tanya Zanish-Belcher"
+size: "NULL"
+start_range: "NULL"
+summary: "Special Collections & Archives, Wake Forest University, and repository of the North Carolina Historical Baptist Collection will reformat and digitize approximately 1,500 at-risk and rare open-reel audio recordings belonging to the Baptist State Convention of North Carolina. The open-reel tapes document the American evangelical movement and contain presentations by prominent Southern Baptist pastors and church representatives at a number of evangelical conferences and annual meetings of the Convention. The speakers and programs on the tapes document the denomination’s activities and subjects of discussion, 1957-1980, ranging from Baptist theology to broad cultural and societal issues. This project will result in the long-term preservation digital storage for these tapes, and broad access through the Wake Forest University North Carolina Baptist History Portal currently being developed. Once completed, there will be an active outreach program, focused on demonstrating how historians, researchers, and religious scholars can use these records in their research and teaching."
+hc_id: "26931935"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Wake Forest University"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "1500 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$50,000"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Gordon Parks Collection
+title: "Gordon Parks Collection"
+year: 2009
+end_range: 2003
+formats: "NULL"
+geographic_extant: "The project will be based out of the Purchase College Library in Purchase, New York."
+institution: "Meserve-Kunhardt Foundation"
+institution_type: "NULL"
+primary_contact: "Dyllan McGee"
+size: "10000 objects"
+start_range: "1945"
+summary: "The Gordon Parks Collection includes over 26,000 items, including photographic prints, negatives, color slides, contact sheets, and Parks' own related notations. It contains works that span the entirety of Parks' sixty-year career from his early days working for the Farm Security Administration, to his fashion work with Vogue, to his civil rights work with Life Magazine, and finally to his color abstract work from his later years. Shortly after Parks' death, his estate established the Gordon Parks Charitable Trust and his entire personal Collection was moved into a temporary storage space. At the same time, the Collection was placed under the supervision of the Meserve-Kunhardt Foundation (MKF), which, in turn set up a division, the Gordon Parks Foundation (GPF), to receive and administer Parks' life work. GPF is currently in the third year of a three-year transfer process during which the entire Collection is being gifted to GPF. In the summer of 2009, the collection moved to The Purchase College Library and Neuberger Museum of Art in Purchase, NY. This grant will focus on cataloging Parks’ negatives, color slides, and contact sheets approximating 10,000 items in total."
+hc_id: "449"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "48 Wheeler Avenue"
+address2:  "NULL"
+city:  "Pleasantville"
+state:  "NY"
+zip: "10570"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

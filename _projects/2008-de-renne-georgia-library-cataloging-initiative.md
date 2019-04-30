@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: De Renne Georgia Library Cataloging Initiative
+title: "De Renne Georgia Library Cataloging Initiative"
+year: 2008
+end_range: 1929
+formats: "NULL"
+geographic_extant: "The focus is Georgia, as colony and state, including North American and European publications. Civil War materials pertain to other states, also."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "P. Toby Graham"
+size: "15000 objects"
+start_range: "1700"
+summary: "The De Renne Georgia Library is the most complete collection of printed Georgiana for the period of 1700-1929. The De Renne family began to collect in 1880, amassing approximately 15,000 books, pamphlets, maps, engravings, newspapers, and manuscripts at its Wormsloe Plantation near Savannah. George Jones’s original drawing for the well-known engraving: “View of Savannah as it Stood March 29, 1734” is included, as is the first publication of the Georgia trustees in London (1732), the only known copy of the second Georgia Constitution (1789), a unique 1780 account of the Siege of Savannah, and the only extent copy of Death Song of the Cherokee Indian (1762). The De Renne Library holds the first product of a Georgia printer (Georgia Acts of 1755-1770), Georgia’s first book (South-Carolina and Georgia Almanack, 1764), and its first stage drama (“The Mysterious Father,” 1807). John Mitchell’s (1755) and William Faden’s (1783) maps of North America are among the many cartographic treasures. The many important materials on Indian affairs include tracts printed in the Cherokee syllabary. Correspondence from Robert E. Lee to Jefferson Davis and General Sherman’s reply to the mayor of Atlanta on the city’s evacuation are notable Civil War holdings. The De Rennes acquired a rare satin broadside of Georgia’s Ordinance of Session (1861), and among the most rare pieces is the (12-foot-long) original signed vellum manuscript of the permanent Confederate constitution."
+hc_id: "349"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Main Library"
+address2:  "University of Georgia"
+city:  "Athens"
+state:  "GA"
+zip: "30602-1641"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

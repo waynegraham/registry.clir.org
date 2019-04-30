@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Gurus of Sci-Fi: the Hugo Gernsback and Forrest J Ackerman Papers
+title: "The Gurus of Sci-Fi: the Hugo Gernsback and Forrest J Ackerman Papers"
+year: 2009
+end_range: 2008
+formats: "NULL"
+geographic_extant: "The geographical scope of the Gernsback and Ackerman papers is as global as the genre they represented."
+institution: "Syracuse University Library"
+institution_type: "NULL"
+primary_contact: "Suzanne Thorin"
+size: "450 linear feet"
+start_range: "1908"
+summary: "No genre celebrates its giants quite like science fiction, and Hugo Gernsback (1884-1967) and Forrest J Ackerman (1916-2008) are giants of galactic import. The namesake of science fiction's most prestigious award, Gernsback launched the genre's first magazine, Amazing Stories, in 1926, and related titles through the 1950s. Credited with inventing the term “science fiction,” he nurtured a loyal community of followers, but was not universally liked: H. P. Lovecraft once referred to the opportunistic publisher as “Hugo the Rat.” His papers at Syracuse University total 230 linear feet and include correspondence, artwork, photographs, scrapbooks, and serials from the early days of the genre, including titles like Amazing Stories, Science Wonder Stories, and Sexology. Amazing Stories inspired a young Ackerman to build on Gernsback’s legacy. Like his predecessor, Ackerman is known less as a writer and more as a literary agent for writers like Lovecraft and Ray Bradbury. Both were arbiters of what was worthy of the moniker “sci fi.” From 1958 to 1983, Ackerman’s rag Famous Monsters of Filmland fertilized the imaginations of a generation of modern writers, including Stephen King. Ackerman's papers came to Syracuse University in the late 1960s. By 1973 they totaled 100 linear feet and included fanzines, correspondence, manuscript drafts, and ephemera-- all of it to this day unprocessed. Upon Ackerman's recent death, an additional 120 linear feet of material came to Syracuse."
+hc_id: "555"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "222 Waverly Ave"
+address2:  "NULL"
+city:  "Syracuse"
+state:  "NY"
+zip: "13244"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

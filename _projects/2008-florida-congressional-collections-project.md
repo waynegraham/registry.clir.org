@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Florida Congressional Collections Project
+title: "Florida Congressional Collections Project"
+year: 2008
+end_range: 2005
+formats: "NULL"
+geographic_extant: "Primarily the United States. There are also records related to American foreign relations, especially in the records of Senator Graham."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Carl Van Ness"
+size: "3280 cubic feet"
+start_range: "1969"
+summary: "The Florida Congressional Collections form part of the manuscript holdings in the P. K. Yonge Library of Florida History in the Dept. of Special and Area Studies Collections at the University of Florida. The Library contains the largest body of political records in Florida outside of the state archives. Included in the Library are seven modern congressional collections. Of the seven, four are unprocessed and, therefore, intellectually and physically inaccessible to researchers. This proposal relates specifically to those four collections, but the project will also explore new methods and technology that will provide enhanced and integrated access to all of the Florida political collections. Included in the proposed project are the Senate papers of Lawton Chiles, 1305 cf (1971-1989) and Bob Graham, 583 cf (1987-2005), the House and Senate papers of Connie Mack III, 1190 cf (1983-2001), and the legislative papers of Representative William V. Chappell, 114 cf (1969-1989). The collections contain correspondence, legislative subject files, campaign material, speeches, media releases, audiovisual recordings, photographs, publications, and memorabilia. Each collection is arranged in several records series, but the core series in all are the actual congressional papers organized by congress and session. Together, the collections document the significant events of the times and a period of political transition in the South."
+hc_id: "70"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P. O. Box 117007"
+address2:  "George A. Smathers Libraries"
+city:  "Gainesville"
+state:  "FL"
+zip: "32611-7007"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

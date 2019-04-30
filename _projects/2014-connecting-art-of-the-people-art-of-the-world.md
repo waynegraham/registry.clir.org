@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Connecting Art of the People, Art of the World
+title: "Connecting Art of the People, Art of the World"
+year: 2014
+end_range: 2014
+formats: "NULL"
+geographic_extant: "MIM has an international focus, and its exhibitions have encompassed objects from past and contemporary civilizations from every corner of the globe."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Kristi Ehrig-Burgess"
+size: "93 linear feet"
+start_range: "1978"
+summary: "Mingei International Museum (MIM) seeks funding to catalog and create finding aids for the Museum's exhibitions archive, which depicts the development of an idea begun by founder Martha L. Longenecker in 1978 into one of the nation's preeminent folk art collections today. Cataloguing these materials will provide invaluable information about exhibition objects, important individuals and cultures involved with these objects, and the connection of MIM with these cultures. By outlining the progression of exhibition design, it will also create a blueprint for others who aim to display arts of daily use (mingei) as well as trace the evolution of folk art, craft, and design in Southern California for the historical record."
+hc_id: "10930618"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

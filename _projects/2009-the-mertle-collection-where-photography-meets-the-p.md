@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Mertle Collection: Where Photography Meets the Printing Press
+title: "The Mertle Collection: Where Photography Meets the Printing Press"
+year: 2009
+end_range: 1950
+formats: "NULL"
+geographic_extant: "The Mertle Collection is international in scope with materials from the United States, Canada, Europe, India, and Japan."
+institution: "University of Minnesota Libraries"
+institution_type: "NULL"
+primary_contact: "Kris Kiesling"
+size: "180 cubic feet, 600 linear feet, 6000 objects"
+start_range: "1750"
+summary: "The Mertle Collection provides a comprehensive overview of the evolution of photomechanics, the processes and production methods that not only revolutionized printing but, more importantly, brought the visual world onto the printed page. It includes archival materials dating from the 18th to mid-20th century, photographs, correspondence, technical notes, printing plates, cameras, drawings, cabinet cards, stamps, and ephemera. Holdings that will be of exceptional interest: William Fox-Talbot’s The Pencil of Nature (1844), the first book illustrated with tipped-in original photographs; “Shantytown,” the first reproduction of a photograph with a full tonal range in a newspaper (New York Daily Graphic, March 4, 1880); Original prints of Edweard Muybridge’s studies on animal and human locomotion (1870-1880); Researches on Light by Robert Hunt (1844), first book devoted exclusively to photochemistry; Scrapbooks of Frederic Ives, the inventor who received a patent for the half-tone letterpress; The important 2nd edition of Sir Isaac Newton’s Optiks (1718); A copy of Julia Margaret Cameron’s miniature edition of Tennyson’s Idylls of the King, (1875) one of only four known to exist; and Other noteworthy items: specimen reproductions by Karel Klic, inventor of rotogravure; records of Max Levy, pioneer of halftone screens; correspondence between inventors; and pencil sketches of dot formations by the halftone researcher Arthur Fruwith."
+hc_id: "567"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "305 Andersen Library"
+address2:  "222 21st Ave. S."
+city:  "Minneapolis"
+state:  "MN"
+zip: "55455"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

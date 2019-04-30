@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Discovery in the New College of Florida Archives
+title: "Discovery in the New College of Florida Archives"
+year: 2012
+end_range: 2011
+formats: "NULL"
+geographic_extant: "The geographical scope of the project includes the Sarasota and Manatee county area of Florida."
+institution: "New College of Florida"
+institution_type: "NULL"
+primary_contact: "Gail Donovan"
+size: "122 linear feet"
+start_range: "1961"
+summary: "The Discovery in the New College of Florida Archives project encompasses the physical arrangement and intellectual description of the College's records documenting the development of the institution and the uniquely innovative education philosophy. The Office of the Presidents series highlights the distinguished leadership of the Baughman, Elmendorf, and Christ-Janer years during the first three decades. The Architecture collection offers insight to the amazing diversity of the East Campus with buildings designed by I.M.Pei and the historic Guilded Age mansion of Charles Ringling estate on the West Campus, as well as, the contemporary Caples Campus to the south. The History of New College of Florida collection documents a vivid record of the early years of the College, the educational philosophy, campus planning, and the support of notable personages. The unique academic vision of the College is exemplified in the Academic Programs series with the Environmental Studies Program with the work of John Morrill and the Medieval Renaissance Studies records. The papers of Margaret Bates, a distinguished African Studies scholar, and Capt. Ralph Styles, coordinator for campus planning offer two unusual examples of the diversity of the manuscript collections. The Discovery in the New College Archives project would greatly support scholarly research of the diverse holdings with searchable web-based finding aids for collections of scholarly significance."
+hc_id: "956"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "5800 Bay Shore Road"
+address2:  "NULL"
+city:  "Sarasota"
+state:  "FL"
+zip: "34243"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: New York Studio School Lecture Series: Video Archive Digitization
+title: "New York Studio School Lecture Series: Video Archive Digitization"
+year: 2015
+end_range: 2013
+formats: "NULL"
+geographic_extant: "All lectures were recorded at the New York Studio School. Most participants come from the New York City area, but many come either from elsewhere in the country (W. S. Di Piero, Michael Fried, Dana Gioia, Nathan Oliveira) or from other countries (Anthony Caro, William Kentridge, Paula Rego, Euan Uglow)."
+institution: "New York Studio School of Drawing, Painting and Sculpture"
+institution_type: "NULL"
+primary_contact: "Dr. David Randall"
+size: "NULL"
+start_range: "1972"
+summary: "The New York Studio School's extensive, historically significant Lecture Archive captures intellectual currents and cross-currents over 50 years with audio and video recordings of artists, musicians, poets, critics, historians, and scholars. We have already digitized all 790 lectures in the audio portion of the Archive and 200 of the ca. 1400 lectures in the video portion of the Archive. In order to ensure long-term preservation and accessibility of this unique cultural resource, we wish to digitize 1165 of the remaining lectures, so as complete all the prerequisite work for the final stage of our digitization project, in which we will create an Online Digital Archive with the entire Archive uploaded onto a webhost and ready to be posted for public access."
+hc_id: "16730493"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "New York Studio School"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>1188 553 VHS Tapes, 520 miniDVs, 1 BRS Tape, 3 Hi8 Tapes, 4 VHS C Tapes, 19 Sony V32H Tapes, 30 Sony V30H Tapes, and 58 DVDs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$71,425"
+material_description:  "Located in eight historic buildings in Greenwich Village, the New York Studio School was formed in 1964 in direct response to the pressing need for an atelier-based school where aspiring young artists could learn drawing, painting, and sculpture without distraction. The School's public lecture program is integral to its mission and belief that developing artists need to be a part of a community of fellow artists, critics, and mentors in order to create meaningful art; and further, that examination of the past, as well as that of contemporary art and theory, is critical to the learning process. The lectures have been recorded throughout the School's existence and are collectively a vital resource documenting the work and ideas of leading figures in the arts in the context and time in which they were presented. \n\n\n\nSince its inception fifty years ago, the New York Studio School's celebrated Evening Lecture Series has presented a broad range of lectures, panel discussions, and dialogues with renowned artists, scholars, and critics, as well as new voices within the visual arts. The content of these lectures ranges from theory to criticism, from individual philosophies of creative practice to the relationship between the various branches of the arts, and from single topic panel discussions to broad historical surveys. The speakers include many of the American and international artists and critics involved in the creation of New York City as one of the premier art centers in the twentieth and twenty-first centuries: visual artists (Louise Bourgeois, Willem de Kooning, Andrew Forge, Red Grooms, Philip Guston, Alex Katz, Lee Krasner, Sol LeWitt, Alice Neel, Julian Schnabel), futurist visionaries (R. Buckminster Fuller), poets (John Ashberry, John Hollander, Kenneth Koch, Stanley Kunitz), musicians (John Cage, Morton Feldman), and art critics (Arthur Danto, Clement Greenberg, Hilton Kramer, Meyer Schapiro, Leo Steinberg)."
 ---
-
-

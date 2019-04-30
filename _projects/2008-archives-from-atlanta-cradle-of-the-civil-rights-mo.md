@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Archives from Atlanta, Cradle of the Civil Rights Movement: The Papers of Andrew Young, SCLC, and NAACP-Atlanta Chapter
+title: "Archives from Atlanta, Cradle of the Civil Rights Movement: The Papers of Andrew Young, SCLC, and NAACP-Atlanta Chapter"
+year: 2008
+end_range: 2000
+formats: "NULL"
+geographic_extant: "Mainly Southeastern U.S., with some emphasis on Atlanta, GA; however, the papers also cover Washington, DC, Africa, the Caribbean, and Latin America."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Susan McDonald"
+size: "2100 linear feet"
+start_range: "1930"
+summary: "The project, proposed by the Auburn Avenue Research Library on African American Culture and History (AARL) and Emory University’s Manuscript, Archives, and Rare Book Library (MARBL), will encompass materials relating to key civil rights organizations, leaders, and activities in Atlanta, the Southeast, and the nation from 1930-2000. The selected collections contain the records of two influential organizations, the Atlanta Chapter of the National Association for the Advancement of Colored People (NAACP) and the Southern Christian Leadership Conference (SCLC), and the personal papers of civil rights leader Andrew Young. The collections include materials related to some of the most transformational moments and movements of the era, including voter education, the Montgomery Bus Boycott, the fight against Jim Crow laws, and desegregation. NAACP, Atlanta Chapter Records (1930s-1980s) document the history of the Atlanta Chapter; the bulk of which were created by Executive Director, Jondelle Harris Johnson (1973-1988 and 1992 -1998). The Andrew Young Papers (1950-2000) include materials that represent Andrew Young's life and work as Atlanta mayor, Congressman, ambassador, civil rights leader, minister, and businessman. The SCLC Records (1969-2000) provide a record of SCLC activities over a period of 40 years. The records include documentation relating to its longest serving presidents, Ralph D. Abernathy (1968-1977) and Joseph E. Lowery (1977-1997)."
+hc_id: "14"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "MARBL"
+address2:  "Woodruff Library"
+city:  "Atlanta"
+state:  "GA"
+zip: "30322"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "Auburn Avenue Research Library on African American Culture and History"
+grant_amount:  "$399,172"
+material_description:  "NULL"
 ---
-
-

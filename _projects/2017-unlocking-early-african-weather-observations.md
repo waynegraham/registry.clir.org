@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Unlocking Early African Weather Observations
+title: "Unlocking Early African Weather Observations"
+year: 2017
+end_range: 1891
+formats: "NULL"
+geographic_extant: "Sub-Saharan Africa (excluding South Africa)"
+institution: "NOAA NCEI and NOAA Central Library"
+institution_type: "NULL"
+primary_contact: "Mr. Jason Cooper"
+size: "NULL"
+start_range: "1891"
+summary: "This 18-month project is an internal collaboration between the NOAA Central Library and the National Centers for Environmental Information (NCEI). Both hold original source material for use by scientists and patrons conducting environmental research. The significant holdings of African weather and climate data were acquired through NOAA’s participation in the World Data System. The records were sent from foreign governments and African colonies for preservation and inclusion into the global climate record. The project includes shipping, scanning, quality control and hosting of the resulting digital files on the NOAA Library site, as well as permanent archival in NCEI’s digital archive."
+hc_id: "26333748"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NOAA National Centers for Environmental Information"
+p2_name:  "Ms. Dee Clarkin"
+p2_institution:  "NOAA Central and Regional Libraries"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>500000 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$111,528"
+material_description:  "The significant holdings of African weather and climate data to be scanned as part of this project were acquired through NOAA’s participation in the World Data System (https://www.icsu-wds.org/). The records were produced by European governments in their African colonies, and later by newly independent nations, and sent to NOAA for preservation and inclusion into the global climate record."
 ---
-
-

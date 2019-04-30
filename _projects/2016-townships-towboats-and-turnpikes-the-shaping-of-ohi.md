@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Townships, Towboats and Turnpikes: The Shaping of Ohio through Land Surveys, Canals and Roads
+title: "Townships, Towboats and Turnpikes: The Shaping of Ohio through Land Surveys, Canals and Roads"
+year: 2016
+end_range: 1912
+formats: "NULL"
+geographic_extant: "The collections cover the majority of the state of Ohio, with a particular emphasis on the counties along the courses of the Ohio & Erie Canal and the Miami & Erie Canal."
+institution: "Ohio History Connection"
+institution_type: "NULL"
+primary_contact: "Ms. Jillian Carney"
+size: "NULL"
+start_range: "1798"
+summary: "Over the course of 18 months, the Ohio History Connection will digitize three State Archives collections of early Ohio land records and maps: Federal Rectangular Survey of Plats in Ohio, Canal Plat Maps and Road Survey Records. The collections will be digitized in their entirety and described for online public access. Supplementary materials, such as video tutorials, research guides and presentations, will also be produced and made available on Ohio Memory (www.ohiomemory.org). Digitizing maps and documents related to the early surveying of the lands of Ohio will help tell the story of America's expansion across the Appalachians and into the Ohio region in the late eighteenth and early nineteenth centuries. Researchers and students in a range of disciplines, from land surveying and cartography to genealogy and political and economic history, will benefit from having this wealth of material more easily accessible."
+hc_id: "22329195"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Ohio History Connection"
+p2_name:  "Mr. Fred Previts"
+p2_institution:  "Ohio History Connection"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>3050 maps and manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$94,770"
+material_description:  "The materials to be digitized are made up of three collections of plat maps, field notes and other survey records pertaining to the division of land and the establishment of roads and canals in Ohio. The first collection is a federal survey of plats in Ohio that documents the early surveying and sale of federal lands in the state. Information contained in the surveys shows the location of land in each section and the number of acres. The plats include maps and field notes indicating the townships, ranges and sections within the surveys. The plats also contain indications of topographical features and vegetation, including areas covered by prairies, swamps and bodies of water. Man-made effects such as trails, roads, settlements, buildings, Indian reservations and ancient burial mounds occasionally are shown. The second collection consists of canal plat maps showing the routes of Ohio's two major and feeder canals which were critical in providing Ohioans affordable shipping to and from east coast markets. The maps indicate the location of bridges, dams and locks. Plats of the cities and towns along the canals are also provided and include the names of streets and locations of factories and some commercial establishments. The maps also indicate state and private property boundaries along the canal route including the names of property owners. The third collection is a set of early state road surveys which document new roads and the continuation or alteration of existing roads in the state of Ohio. The information usually present in the surveys include the surveyors' maps and field notes, variance measurements, road commissioners' and surveyors' statements and statements of verification of completion. Some of the survey maps are simple line drawings while others are more detailed with added colors."
 ---
-
-

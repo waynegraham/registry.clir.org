@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Standard Hour Broadcast Recordings
+title: "Standard Hour Broadcast Recordings"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Board of Trustees of the Leland Stanford Junior University"
+institution_type: "NULL"
+primary_contact: "Mr. Michael Keller"
+size: "NULL"
+start_range: "NULL"
+summary: "This 10-month project will digitize 608 lacquer discs and 76 tapes of the Standard Hour program (1938-1955), the first radio series in the US devoted to symphonic music. The program was broadcast from 1926 to 1955, winning the George Peabody Medal for exceptional contributions to music in America in 1942. These live concerts of the San Francisco, Seattle, and Portland Symphonies, Los Angeles Philharmonic, and Hollywood Bowl were broadcast throughout the Western US. The collection is a significant primary source for how the orchestras of the period actually played in concert and how cultural programming was received by the general American public. The Standard Hour featured important performers including conductors Pierre Monteux, Leopold Stokowski, and Antal Dorati; violinist Yehudi Menuhin; cellist Gregor Piatigorsky; pianist Robert Casadesus; and singer Jussi Björling. The broadcasts are documented on deteriorating lacquer discs and reel tapes that were produced in very limited quantities."
+hc_id: "26906543"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Stanford University"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "608 items<li>76 Open Reel Audio Tape</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$49,999"
+material_description:  "NULL"
 ---
-
-

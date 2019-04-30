@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing and providing free, searchable, online access to the Union Signal, the Woman's Christian Temperance Union (WCTU)'s national weekly newspaper, 1883-1953
+title: "Digitizing and providing free, searchable, online access to the Union Signal, the Woman's Christian Temperance Union (WCTU)'s national weekly newspaper, 1883-1953"
+year: 2017
+end_range: 1953
+formats: "NULL"
+geographic_extant: "The Union Signal newspaper began publication in Chicago in 1883 to serve a rapidly increasing national audience as the WCTU grew; by the 1890s, with WCTU branch unions established around the world, the paper’s reporting, and its readership, had become—and remained--global in scope."
+institution: "Frances Willard Historical Association"
+institution_type: "NULL"
+primary_contact: "Ms. Janet Olson"
+size: "NULL"
+start_range: "1883"
+summary: "The Frances Willard Historical Association (FWHA) proposes a one-year project to digitize and provide free, searchable online access to seventy years (over 58,000 pages) of the Union Signal, the National Woman’s Christian Temperance Union’s official newspaper. From 1883 to 1953, the newspaper provided weekly coverage not only of the temperance/prohibition movement, but also of national and international social issues, including women’s rights, politics, and health. Today it represents a rich resource for humanities and social sciences scholarship, both traditional and digital. However, for most researchers—especially those outside the United States—access to the newspaper is either nonexistent or limited to incomplete, unindexed hard-copies or microfilms. For this project, vendor Northern Micrographics will digitize seventy complete volumes of the Union Signal held in the Willard Archives; the open-source document management system ResCartaWeb will make the searchable, shareable files accessible through the FWHA’s web-site to scholars of all ages, worldwide."
+hc_id: "25578093"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Frances Willard Historical Association"
+p2_name:  "Ms. Lori Osborne"
+p2_institution:  "Frances Willard Historical Association"
+p3_name:  "Mr. Glen Madeja"
+p3_institution:  "Frances Willard Historical Association"
+material_string: "<li>58240 Serials</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$55,771"
+material_description:  "The Frances Willard Memorial Library and Archives (managed by the Frances Willard Historical Association) preserves the institutional history of the Woman’s Christian Temperance Union (WCTU), which owns the House Museum and the Archives. The Archives’ holdings include a complete run (and many duplicate copies) of the WCTU’s national newspaper, the Union Signal. The Union Signal was the newspaper of record for the national WCTU (in its heyday, the largest women’s organization in the United States). From 1883 to 1953, the weekly 16-page illustrated newspaper, which was printed in Chicago and distributed worldwide, aggregated national and international news about temperance, women’s rights, health, politics, economics, family, and education. WCTU organizers, traveling across the US and around the globe, filed reports from the field, documenting contemporary events and conditions. Articles featured WCTU women at every level, international officers and small-town Union members alike, as well as women (of many nationalities) who were active in other reform movements. Through the editorials, columns, news briefs, and letters that filled the pages of the paper each week, Union Signal readers in American towns and rural areas became conversant with issues affecting women and families throughout the world. The WCTU continued to publish its 16-page newspaper weekly for twenty years after Prohibition was repealed in 1933, demonstrating the Union Signal’s ability to maintain readership and relevance as it reported on politics, health education, and the organization’s international social welfare efforts. (After 1953, the publication schedule dwindled from bimonthly to monthly to quarterly, ceasing entirely in 2016.)"
 ---
-
-

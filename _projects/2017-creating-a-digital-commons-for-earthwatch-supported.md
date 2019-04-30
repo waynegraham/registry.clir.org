@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Creating a Digital Commons for Earthwatch-Supported Citizen Science Archival Collections 1971-2010
+title: "Creating a Digital Commons for Earthwatch-Supported Citizen Science Archival Collections 1971-2010"
+year: 2017
+end_range: 1971
+formats: "NULL"
+geographic_extant: "Our collections contain extensive material from around the globe. Earthwatch has supported over 1,400 field-research projects across six continents. All Earthwatch-supported PIs must submit research proposals and field reports. The collections contain material from a broad, diverse spectrum of ecosystems and human societies and cultures, many in underserved Indigenous communities."
+institution: "Earthwatch Institute"
+institution_type: "NULL"
+primary_contact: "Dr. Cristina Eisenberg"
+size: "NULL"
+start_range: "1971"
+summary: "Since 1971, Earthwatch has supported over 1,400 field-research projects that involve citizen science. Many projects have been led by eminent scientists, with positive conservation impacts worldwide. We have meticulously documented projects, but much is in non-electronic media. We propose to digitize two archival collections dating from 1971 to 2010, given their high relevance to science and environmental history, creating the Earthwatch Digital Commons. The largest existing archive of contributory citizen science, it includes reports, correspondence, photographs, and project data. It would provide an important open-access resource for multi-disciplinary scholars and the public, as it contains information essential to understanding the benefits of contributory science. Digitizing key materials from our archives will also preserve this information for future generations. In a rapidly changing world in which extinction threatens many species, our collections are invaluable resources for anyone seeking to understand the value of citizen science and scientific strategies to advance conservation."
+hc_id: "26288495"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Earthwatch Institute"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>84 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$250,000"
+material_description:  "We propose to digitize materials from two diverse collections: Project Documents, and Media. These collections contribute to the history of contributory science (defined as science designed by scientists to which members of the public contribute data), to awareness of scientific strategies to advance conservation, and demonstrate citizen science’s vital role in conservation and increasing scientific knowledge. While our collections developed from documenting the administrative aspects of our work, the recent rise of citizen science and acknowledgment of its critical importance to science and conservation gives these collections historical and scientific significance far beyond what we originally intended as an organization. The Project Documents Collection comprises information submitted by principal investigators (PIs), including proposals, annual field reports, and correspondence. Earthwatch has supported eminent scientists who are leaders in the scientific world, such as Drs. Rolf Peterson, Frank Paladino, and Birute Galdikas. We require PIs to submit documents detailing their research goals, objectives, methods, and project impacts (e.g., contributions to conservation). Research topics range from ecology to archeology to human health. The Media Collection comprises slides of photographs taken by PIs and volunteers that visually document our rich history, while highlighting our role as a pioneer in the field of citizen science. Our collection showcases the diversity of plant and wildlife species we have studied in unique landscapes around the world. These images provide insights into years of collaboration between volunteers and scientists. Including these images in our digital commons will help to contextualize Earthwatch’s role in environmental science and conservation today."
 ---
-
-

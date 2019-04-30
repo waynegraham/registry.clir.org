@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: From DNA to Dinosaurs: The Globalization of Science in America and the Development of a University Natural History Museum
+title: "From DNA to Dinosaurs: The Globalization of Science in America and the Development of a University Natural History Museum"
+year: 2010
+end_range: 1995
+formats: "NULL"
+geographic_extant: "Scope is worldwide with concentrations in North, South and Central America, Caribbean, north Atlantic and tropical Pacific, Africa and southeast Asia."
+institution: "Yale Peabody Museum of Natural History"
+institution_type: "NULL"
+primary_contact: "Tim White"
+size: "0 boxes, 200 cubic feet, 1300 linear feet, 0 objects"
+start_range: "1802"
+summary: "The goal of this project was to catalog 1300 linear feet (lf) and 200 cubic feet (cf) of archival materials and special collections that document the early history of science at Yale and in North America. The Peabody Museum holdings include the following exemplary materials, among others: correspondence, notes, and sketches from Benjamin Silliman (Yale's first natural history professor; 26 lf) and James D. Dana (Yale's first professor of Geology; 50 cf); field notes, maps, glass negatives, and photographs from Yale Anthropology Professors Irving (Ben) Rouse (73 lf), Michael Coe (59 lf), T. Mitchell Prudden (27 lf), and William K. Simpson (28 lf); log books, fields notes, correspondence and original illustrations documenting the pioneering explorations of the western North Atlantic, Caribbean, tropical Pacific and Seychelles by Addison E. Verrill, F.H. Bradley, S.C. Ball, Henry P. Bingham, Willard D. Hartman and C. L. Remington(150 cf); archives of the research and collecting programs of Othniel Charles Marsh, encompassing field notes, diaries, annotated print maps, sketch maps of fossil localities, drawings, and related materials produced by Marsh and colleagues from 1867 to 1899 (400 lf). Other hidden collections at Peabody include those of early American naturalists: paintings and sculptures by Arthur Lakes; oil paintings of South American birds by Francis Lee Jaques; and sketches, line drawings and paintings by James Perry Wilson and Rudolph Zallinger (41 lf)."
+hc_id: "686"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "PO Box 208118"
+address2:  "NULL"
+city:  "New Haven"
+state:  "CT"
+zip: "06520-8118"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$409,300"
+material_description:  "NULL"
 ---
-
-

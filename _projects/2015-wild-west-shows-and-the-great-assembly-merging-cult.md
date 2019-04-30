@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Wild West Shows and the Great Assembly: Merging Cultures on the Ranch and Beyond.
+title: "Wild West Shows and the Great Assembly: Merging Cultures on the Ranch and Beyond."
+year: 2015
+end_range: 1945
+formats: "NULL"
+geographic_extant: "Geographic scope is primarily Oklahoma (state and territorial), but the shows toured widely in the U.S. and Europe and employed performers from across the globe. As a result, the collections contain information on American shows and performers, with some material referencing Mexico, Argentina, and several European countries."
+institution: "University of Oklahoma"
+institution_type: "NULL"
+primary_contact: "Ms. Kristina Southwell"
+size: "NULL"
+start_range: "1879"
+summary: "University of Oklahoma Libraries' Western History Collections proposes a two-year project to digitize five manuscript collections consisting of approximately 58,000 pages and nine collections comprising 4,900 photographs related to the Wild West Shows of the 19th and early 20th century. The collections document the business operations of the Miller Brothers 101 Ranch and Wild West Show in Marland, Oklahoma, including its eventual dissolution during the Depression years; the Pawnee Bill Ranch and the various Wild West shows of Pawnee Bill (Gordon W. Lillie) in Pawnee, Oklahoma; and the daily lives of a husband-wife pair of Wild West show performers, D. Vernon Tantlinger and Edith Tantlinger. The project consists of digitizing all items, creating technical and descriptive metadata, developing a name authority list, providing online access through OU Libraries' Digital Library, and implementing a crowdsourced transcription program."
+hc_id: "17442942"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Oklahoma"
+p2_name:  "Ms. Tara"
+p2_institution:  "Digital Scholarship Specialist"
+p3_name:  "Ms. Ms. Barbara"
+p3_institution:  "Digital Lab Coordinator"
+material_string: "<li>48.7 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$243,560"
+material_description:  "The University of Oklahoma Libraries' Western History Collections holds significant collections of manuscripts, posters, and photographs on the history of Wild West shows in the United States. The manuscripts and posters document the business operations of the Miller Brothers 101 Ranch and Wild West Show in Marland, Oklahoma, including its eventual dissolution during the Depression years; the Pawnee Bill Ranch and the various Wild West shows of Pawnee Bill (Gordon W. Lillie) in Pawnee, Oklahoma; and the daily lives of a husband-wife pair of Wild West show performers, D. Vernon Tantlinger and Edith Tantlinger, who appeared in Buckskin Bill's Wild West Show and the Miller Brothers' show, among others. These materials cover a wide range of subjects, such as employment of American Indian and international performers for the shows, operating their working cattle ranches, maintenance of buffalo herds and procurement of exotic animals, as well as financial interests in oil and gas leases and legal issues stemming from performance contracts and investments. The material types include business correspondence, financial records, diaries, scrapbooks, advertising brochures and programs, company scrip, certificates, artifacts, posters, and newspaper clippings. \n\n\n\nThe photograph collections offer black-and-white views of all aspects of Wild West show performances in action, and the ranching businesses that served as headquarters for the shows. Notable individuals pictured are Joe and Zack Miller, Gordon W. \"Pawnee Bill\"  Lillie, May Lillie, the Tantlingers, Jack Hoxie, Dixie Starr, Tex Cooper, Jose \"Mexican Joe\"  Barrera, William F. \"Buffalo Bill\"  Cody, and Tom Mix, among many others.\n\n\n\nThe provenance of the collections is as follows: Tantlinger purchased 1972; Lillie donated by family in 1951; Miller Bros. donated by Ellsworth Collings in 1936; Rose purchased in 1963; Ferguson partly purchased and partly donated in 1963; Nesbitt-Lenders donated in 1984; Cunningham-Dillon purchased in 1978."
 ---
-
-

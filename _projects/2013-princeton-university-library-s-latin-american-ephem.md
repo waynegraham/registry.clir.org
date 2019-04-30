@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Princeton University Library's Latin American Ephemera Project
+title: "Princeton University Library's Latin American Ephemera Project"
+year: 2013
+end_range: 2015
+formats: "NULL"
+geographic_extant: "Every country of Latin America is represented in the collection, but materials from Argentina, Bolivia, Chile and Venezuela are the most abundant."
+institution: "Princeton University"
+institution_type: "NULL"
+primary_contact: "Jeffrey Friedland"
+size: "12800 objects"
+start_range: "2000"
+summary: "PUL began to collect and build an archive of Latin American ephemera and gray literature in the mid 1970s to document the activities of political and social organizations and movements, as well as the broader political, socioeconomic and cultural developments of the region. Access to the material was provided by slowly accumulating and organizing thematic sub-collections, creating finding aids, and microfilming selected curated sub-collections. Reproductions of the microfilm were commercially distributed and resulting royalties were used to fund new acquisitions. That model gradually become unsustainable during the past decade and microfilming was halted in 2008. Meanwhile PUL's commitment to building the collection continued uninterrupted and a growing archive of unique ephemeral primary sources has remained a hidden collection. It includes thousands of pamphlets, brochures, flyers, placards and other printed items created during the past decade by a wide variety of social activists, non-governmental organizations, government agencies, political parties, public policy think tanks, and other types of organizations across Latin America, in order to publicize their views, positions, agendas, policies, events, and activities. Topics best represented are human rights, elections, gender issues, indigenous peoples, youth issues, labor, ecology and environmental issues, development, public health, education and religion -- all essential to study of contemporary Latin America."
+hc_id: "1064"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "PO Box 36"
+address2:  "NULL"
+city:  "Princeton"
+state:  "NJ"
+zip: "08544-2020"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$199,800"
+material_description:  "NULL"
 ---
-
-

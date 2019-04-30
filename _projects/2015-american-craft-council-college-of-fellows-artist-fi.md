@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: American Craft Council College of Fellows Artist Files Digitization Project
+title: "American Craft Council College of Fellows Artist Files Digitization Project"
+year: 2015
+end_range: 2000
+formats: "NULL"
+geographic_extant: "Artists and objects documented in the Artist Files Collection come from across the United States. Several, such as ceramists Frans and Marguerite Wildenhain and Otto and Gertrud Natzler, emigrated to the United States in the 1930s to escape the Nazi occupation in Europe."
+institution: "American Craft Council (ACC)"
+institution_type: "NULL"
+primary_contact: "Mr. Perry Price"
+size: "NULL"
+start_range: "1945"
+summary: "This project is created in response to feedback from scholars, curators, and students working in the communities of art, design, material culture, and craft requesting more freely available and complete online content documenting contemporary artists working in the fields of clay, fiber, glass, metal, paper, and wood. The project encompasses the digitization of 15,000 rare images and 12,000 unique documents detailing the work of the ACC's College of Fellows, a group of 240 influential 20th-century artists. Materials will be scanned off-site by Backstage Library Works, then returned to the ACC where graduate students in the fields of art history and library science will add metadata. Materials will be uploaded to the library's existing open access online database, as well as to ARTstor, the nonprofit education image collection. Widespread marketing of digitized content using social media and integrative technologies will draw attention to the availability of freely accessible materials."
+hc_id: "17406791"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "American Craft Council"
+p2_name:  "Ms. Jessica"
+p2_institution:  "Librarian"
+p3_name:  "Ms. Mr. Eric"
+p3_institution:  "IT Manager"
+material_string: "<li>15000 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$115,527"
+material_description:  "Since 1975, the American Craft Council (ACC) has recognized exceptional contributions to the field of craft by awarding the distinction of Fellow of the Council, the body of recipients known collectively as the College of Fellows. In order to be nominated as a Fellow, an artist must demonstrate leadership in the field and outstanding ability as an artist and/or teacher, along with 25 years or more of professional achievement. The ACC Library, in operation since the early 1950s, has been the repository for significant images and documents relating to these Fellows, maintaining a collection of in-depth Artist Files spanning each individual's career.\n\n\n\nThe materials to be digitized include 15,000 images of artists, their studios, and their works, along with 12,000 letters, postcards, and other irreplaceable print ephemera entrusted to ACC by individuals who have had a significant impact on the contemporary craft movement of the 20th century. The materials date between 1945 and 2000, and uniquely document the 240 members of College of Fellows. Members of the College include many pioneering artists, such as the inventor of studio glass, Harvey Littleton, avant garde fiber artist Lenore Tawney, iconoclastic ceramic sculptor Peter Voulkos, and master furniture maker George Nakashima, among other innovators from the craft field. \n\n\n\nMaterials selected for digitization feature artists' studios, portraits, and works, as well as document conferences, exhibitions, and other events critical to the continued scholarly study of the contemporary craft movement of the 20th century. All images chosen for digitization were given to ACC by artists, curators, and photographers in the field. The ACC Library has worked with an attorney specializing in intellectual property, and will ensure all copyright permissions are secured from artists prior to digitization."
 ---
-
-

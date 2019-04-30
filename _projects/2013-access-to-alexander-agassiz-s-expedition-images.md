@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Access to Alexander Agassiz's Expedition Images
+title: "Access to Alexander Agassiz's Expedition Images"
+year: 2013
+end_range: 1910
+formats: "NULL"
+geographic_extant: "all over the world."
+institution: "Museum of Ernst Mayr Library of the Museum of Comparative Zoology"
+institution_type: "NULL"
+primary_contact: "Constance Rinaldo"
+size: "1000 objects"
+start_range: "1890"
+summary: "The Alexander Agassiz collection of about 1,000 gelatin dry plates, film negatives and prints dating from the late 1890s to the early- 20th century is important because it uniquely adds to Agassiz scholarship, providing access to many unpublished images from expeditions. Alexander Agassiz (1835-1910) was a pioneer in oceanographic research, zoological investigation, & mining engineering, devoting four decades to expanding & developing the Harvard University Museum of Comparative Zoology. He was best known as a naturalist & for his expeditions, conducting deep-sea investigations, & studying coral islands & reefs. The material is primarily glass negatives with some film negatives & print photographs that chronicle Agassiz's voyages on the Albatross, Challenger, Croydon, Yaralla and other ships between 1890 & 1909. There are also some domestic scenes from Agassiz's Rhode Island home. The collection includes images of expedition sites, primarily, but also some research materials."
+hc_id: "1115"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "26 Oxford St."
+address2:  "NULL"
+city:  "Cambridge"
+state:  "MA"
+zip: "2138"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

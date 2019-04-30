@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Seeking Momentum: Improving Access to the Personal Papers of Physicists
+title: "Seeking Momentum: Improving Access to the Personal Papers of Physicists"
+year: 2010
+end_range: 2005
+formats: "NULL"
+geographic_extant: "Primarily United States; smaller amount of materials related to Germany, Italy, Turkey, Denmark, northern Africa, India, Japan"
+institution: "MIT Archives"
+institution_type: "NULL"
+primary_contact: "Tom Rosko"
+size: "72 cubic feet"
+start_range: "1910"
+summary: "(1) Personal papers of Arthur von Hippel (1898-2003) Institute Professor and Professor of Electro-physics at MIT (MC321); his work established the field of materials science and engineering; colleague and family of notable European physicists. (2) Personal papers of Philip Morrison (1915-2005), Institute Professor and Professor of Astro-physics at MIT (MC052); noted for work in cosmology; and later as a leader in promoting and improving the general public understanding of science; papers includes set of personal diaries. (3) Personal papers of Bruno Rossi (1905-1993), Institute Professor and Professor of Physics at MIT (MC166); founding father of x-ray astronomy, which laid the foundations for high-energy physics; papers include set of research notebooks. Science topics: theoretical physics, interdisciplinary materials research, promotion of science to the public, advocacy for science policy, mentorship and leadership of scientific disciplines. Each collection was acquired over a period of time with multiple accessions, which have not yet been cohesively and clearly described for researchers. As each scientist worked at multiple institutions, describing what MIT Archives owns will serve both researchers as well as other Archives."
+hc_id: "618"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Institute Archives and Special Collections"
+address2:  "Bldg. 14N-118, MIT Libraries"
+city:  "Cambridge"
+state:  "MA"
+zip: "02139-4307"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

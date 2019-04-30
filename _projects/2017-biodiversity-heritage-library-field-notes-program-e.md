@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Biodiversity Heritage Library Field Notes Program: establishing the essential resource for natural history primary material
+title: "Biodiversity Heritage Library Field Notes Program: establishing the essential resource for natural history primary material"
+year: 2017
+end_range: 2001
+formats: "NULL"
+geographic_extant: "Materials to be digitized have an international reach. Known areas include Mongolia, Greenland, Japan, Korea, United States (including Philadelphia area, and Southern California), Mexico, East Africa, Brazil, Argentina, Labrador, Australia, and the Galapagos Islands. Additional areas of South America, Africa, and the Caribbean are also represented."
+institution: "Smithsonian Institution"
+institution_type: "NULL"
+primary_contact: "Mr. Martin Kalfatovic"
+size: "NULL"
+start_range: "1802"
+summary: "Recognizing the continued and ongoing need to provide access to field notes and manuscript collections documenting biodiversity, the BHL Field Notes Project (funded by CLIR, 2015) is evolving into the BHL Field Notes Program. This phase (June 2018-May 2020) includes continued participation from Smithsonian; Internet Archive; American Museum of Natural History; Harvard Museum of Comparative Zoology, Library; Missouri Botanical Garden, Library; and welcomes new partners in Academy of Natural Sciences of Drexel University Library and Archives, and Natural History Museum Los Angeles County. During this phase we will digitize, assign metadata, and publish field notes online through the BHL and Internet Archive, which in turn will support scholars of diverse disciplines including climate change, evolution, history of science, and women and minorities in science. Additionally, we’ll develop a method to import pre-existing transcriptions into BHL for enhanced discoverability and accessibility to an even wider audience."
+hc_id: "26893605"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Smithsonian Institution"
+p2_name:  "Ms. Anne Van Camp"
+p2_institution:  "Smithsonian Institution"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>131516 Mixed Archival Collections</li>"
+collaborating_institution:  "American Museum of Natural History; Academy of Natural Sciences of Drexel University, Library and Archives; Harvard Museum of Comparative Zoology, Ernst Mayr Library; Internet Archive; Missouri Botanical Garden, Peter H. Raven Library; Natural History Museum of Los Angeles County"
+grant_amount:  "$498,276"
+material_description:  "Collections selected for digitization contain a variety of formats, including bound notebooks, loose field notes, unpublished manuscripts, correspondence, illustrations, photographs and photo albums spanning 200 years of natural science field research. All collections were created by scientists employed by a project partner, employed by a U.S. Federal, State or local agency, or in support of larger expeditions sponsored by a project institution. The items set to be digitized cover several different disciplines, including entomology, botany, ichthyology, and mammalogy, and document the process of collecting and studying in areas across the globe. Upon a scientist's retirement, their employing institution often retain the field notes under archival control for description and preservation purposes. These field notes are actively used and cited by contemporary curators and researchers as the notes are reference materials for the expeditions, specimens, organizations, persons, and scientific observations they recorded. Each is a unique and valuable document that may be inaccessible to the remote researcher. Continued digitization and online publication through the BHL Field Notes Program will enrich the collections available to the general public, providing expanded context to scientific discoveries, expeditions, and museum collections. Furthermore, since the material covers such a wide geographical range, digital publication offers the opportunity for repatriation of information to the countries surveyed by the scientists. Project partners in this phase of the Field Notes Program will digitize and publish with an emphasis on material which supports publications currently available in the Biodiversity Heritage Library, or with high scientific or historical value."
 ---
-
-

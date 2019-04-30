@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Southold Historical Society Archives Access Project
+title: "Southold Historical Society Archives Access Project"
+year: 2009
+end_range: 2009
+formats: "NULL"
+geographic_extant: "The geographic scope of the collection includes items from Southold Town, NY; Suffolk County, NY; Long Island, NY; and New York State in general."
+institution: "Suffolk County Historic Documents Library"
+institution_type: "NULL"
+primary_contact: "Geoffrey Fleming"
+size: "450 boxes, 500 linear feet, 18000 objects"
+start_range: "1664"
+summary: "Approximately 18,000 items that document more than three centuries (1664-2009) of regional history. These include diaries, ledgers, daybooks, scrapbooks, albums, letters, photographs, documents, manuscripts, books, maps, blueprints, drawings, paintings, sketchbooks, business records, postcards, newspapers, etc. Those objects present in the Society's holdings relate to number of prominent and historically important American personages who had a long lasting impact on the region and State of New York. Some of the more well known of this group include: Ezra L'Hommedieu (A noted patriot of the Revolutionary War era and member of the Continental Congress); The Wiles family (A collection documenting three generations of noted American painters Lemuel, Irving, and Gladys Wiles); Charles Meredith (An important regional photographer who worked from 1929 - 1966); Frank Hartley (An inventor, illustrator, and early photographer associated with the region; and Henry Fitz (The famous American telescope maker and early photographer). Other important collections include papers and photographs that document the history of the Holland Submarine base of New Suffolk, LI. Holland was one of the first successful manufacturers of submarines in the United States. The majority of items relate to the history of Southold Town, Suffolk County, New York with some ancillary holdings that relate to other nearby communities and regional subjects."
+hc_id: "554"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P.O. Box 1"
+address2:  "NULL"
+city:  "Southold"
+state:  "NY"
+zip: "11971"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

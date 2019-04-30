@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: WIS-tv "Awareness": Preserving and making accessible a rare African-American television news magazine show from the 1970s.
+title: "WIS-tv \"Awareness\" : Preserving and making accessible a rare African-American television news magazine show from the 1970s."
+year: 2015
+end_range: 1980
+formats: "NULL"
+geographic_extant: "Coverage of events in South Carolina, with emphasis on the city of Columbia (the state capital) and surrounding region. Series topics extend in relevance to the United States as a whole."
+institution: "University of South Carolina Educational Foundation"
+institution_type: "NULL"
+primary_contact: "Dr. Greg Wilsbacher"
+size: "NULL"
+start_range: "1970"
+summary: "WIS-tv \"Awareness\"  began in 1970, having the distinction of being the first African-American themed and produced television news program in South Carolina. Airing weekly on Saturday nights, the show featured news relevant to South Carolina's Black community. While no taped copies of the shows as broadcast over the air are known to exist from this period, the WIS-tv \"Awareness\"  films at the University of South Carolina represent the original 16mm film elements of the studio interviews and location sequences that made up the bulk of \"Awareness\"  programing. USC will (1) prepare these 16mm films for digitization, (2) outsource their digitization, (3) catalog the films, (4) upload the videos to its online video repository so they can be viewed for free, and then (5) store the digital preservation master files in its asset management system."
+hc_id: "17628506"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "Ms. Amy"
+p2_institution:  "NULL"
+p3_name:  "Ms."
+p3_institution:  "NULL"
+material_string: "<li>90000 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$90,040"
+material_description:  "WIS-tv \"Awareness\"  is a television news magazine show developed and produced by the African-American community in South Carolina to address the needs and interests of African-Americans in the city of Columbia and throughout South Carolina. Founded in 1970, \"Awareness\"  is still produced by WIS-tv, but the 16mm film elements for the first decade of the program were donated to the University of South Carolina in 1984 as part of the WIS-tv News Collection. \n\n\n\nThe films in this collection document the city of Columbia and the South Carolina Midlands. Because Columbia is also the state capital, the WIS collection contains vital records of the entire state's political history as well as its response to national events, political movements, and cultural trends.\n\n\n\nComprised of over 40 hours of original film content from the 1970s, \"Awareness\"  provides a ten-year view of African-American interests in South Carolina, reflecting on a decade of civil rights struggles and looking forward to an expansion of political and cultural power in a newly desegregated South. The long-form television journalism of the magazine show format allowed \"Awareness\"  to examine social and cultural issues in detail.\n\n\n\nAs part of a year-long retrospective of \"Awareness,\"  current host, Meaghan Norman, interviewed J. P. Neale, Jr., the show's original host. Neale explained the original goals of the show. \"The original owners of WIS\"¦ dedicated themselves to making sure South Carolina would transition better than a lot of our sister and brother states were going through during the 70s\"¦ The mission of \"Awareness\"  was\"¦ to give people in the community a chance to identify with something of credence\"¦ give them a sense of \"˜it's alright for integration to occur, it's alright for us to get along\"¦' We took the premise that if America ever becomes America it might happen in the South first.\" "
 ---
-
-

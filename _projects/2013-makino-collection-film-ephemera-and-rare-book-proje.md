@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Makino Collection Film Ephemera and Rare Book Project
+title: "Makino Collection Film Ephemera and Rare Book Project"
+year: 2013
+end_range: 2006
+formats: "NULL"
+geographic_extant: "Japan, primarily Tokyo, but materials also include Kyoto, Okinawa, and other parts of East Asia."
+institution: "Columbia University"
+institution_type: "NULL"
+primary_contact: "Jim Cheng"
+size: "487 linear feet"
+start_range: "1870"
+summary: "This project will result in searchable Japanese film ephemera and rare books from the 1870s through 2006 in the Makino Collection in an online finding aid, the Columbia catalog (CLIO), and the OCLC database. Film Programs: These are 26 unprocessed boxes at our offsite storage facility containing 3600 Japanese film programs and 2900 fliers (6500 items total). These complement 3000 archived prewar programs in an Excel File for which there is no searchable MARC record. Together, these will create the largest collection of Japanese film ephemera outside of Japan. Early Film Books: The collection has 14576 vols. of which 25% (4000 vols.) will need original cataloging. Of these, 450 vols. are rare Japanese books from the early era of film. Japanese Film Periodicals: In addition to commercially published magazines, the Collection has self-published journals from student clubs at universities. Essential to the study of left-wing movements and early film history, these and amateur film magazines covering small-gauge cameras are not found in libraries even in Japan. An Excel file has been created, but researchers would not find the information unless cataloged for OCLC. Film Studio materials: Toho Co., Ltd. internal memoranda, regulations, correspondence, film budgets, and company newsletters comprise these rare documents of one of the five major Japanese film studios. An Excel file was created, but collection level cataloging in OCLC will make them discoverable."
+hc_id: "1081"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1140 Amsterdam Ave."
+address2:  "305M Kent Hall"
+city:  "New York"
+state:  "NY"
+zip: "10027"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$380,500"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Building a Nation: Preserving and Providing Access to the Indiana Limestone Photograph Collection
+title: "Building a Nation: Preserving and Providing Access to the Indiana Limestone Photograph Collection"
+year: 2015
+end_range: 1940
+formats: "NULL"
+geographic_extant: "The majority of the photos in the ILPC are from the 48 contiguous United States; there are a small number from Canada."
+institution: "The Trustees of Indiana University"
+institution_type: "NULL"
+primary_contact: "Ms. Licia Weber"
+size: "NULL"
+start_range: "1906"
+summary: "A previously unknown collection of more than 13,000 black and white architectural photographs were discovered in a dilapidated house owned by the Indiana Limestone Company in Bedford, Ind. These images of residences, churches, universities, museums, businesses, and public and municipal buildings, many of which were designed by prominent architects, document the use of Indiana limestone throughout the United States from the late 1800s to mid-1900s. The Indiana Geological Survey, an institute of Indiana University, proposes a two-year project to preserve and make this hidden collection publicly available. Remarkably holistic in scope, these photographs and their accompanying metadata can be studied across major humanities disciplines such as American history, architectural history, history of technology, urban studies, history of photography, historic preservation, labor history, and the history of geology. The Indiana Limestone Photograph Collection (ILPC) will be cataloged, digitized, archived, and made accessible through Indiana University Libraries Image Collection Online (ICO) website."
+hc_id: "16080948"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Indiana Geological Survey"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>50 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$206,602"
+material_description:  "The collection of approximately 13,000 photographs contains an extensive range of images, including residences, churches, universities, museums, businesses, and public and municipal buildings, many of which were designed by prominent architects. Commonly, there are numerous photos of an individual building, showing exterior, interior, and a variety of views and architectural details. The photographs had been stored by the Indiana Limestone Company in various offices over the years, and were essentially abandoned in an unconditioned, dilapidated house. They were housed in 15 metal file cabinets containing a total of 60 drawers and were organized with cardstock dividers by state, with each state broken into five categories: business, educational, governmental, religious, and other. The photographs are 7.5 x 9.5 inch black and white gelatin DOP (developing-out paper) prints, mounted on linen. While some are curled from slumping in the file drawers or show minor scratches and wear other than some dirt on the surface, the photos are in stable physical condition. Few of the photos appear to be torn, creased, or damaged. The linen is well-adhered to the photographs and has prevented them from sticking to one another in the damp storage conditions. A majority of the photographs have a formatted label adhered to the back. Categories on the labels include: four-digit ID number, subject, location, architect, type of stone, cut stone contractor, quantity (cubic feet), finish, quarry, date of erection, photographer, and other remarks. Not all of these fields are attributed on each labeled photograph. At least half of the photographs include the photographer's name on the label or the photography company's name. Some images also have the photographer's name reproduced on the front of the photo. The metadata uniquely distinguishes this collection because it provides an unusual amount of detail about the building and its construction."
 ---
-
-

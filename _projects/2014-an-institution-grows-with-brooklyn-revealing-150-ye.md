@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: An Institution Grows with Brooklyn: Revealing 150 Years of Brooklyn Historical Society's Evolution
+title: "An Institution Grows with Brooklyn: Revealing 150 Years of Brooklyn Historical Society's Evolution"
+year: 2014
+end_range: 2014
+formats: "NULL"
+geographic_extant: "Brooklyn, New York"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Julie May"
+size: "426.57 linear feet"
+start_range: "1863"
+summary: "This project will create MARC encoded bibliographic records for \"hiddenâ€  institutional archive materials at the Brooklyn Historical Society (those with missing, inaccurate, or incomplete descriptive records in finding aid or MARC format), and make them accessible online to scholars, general public, and students K-PhD. Records provide unprecedented research material on the development of libraries, museums, historical societies, and other 19th- and 20th-century civic institutions. This project will also assess and update BHS's existing Record Retention Policy and implement a revised policy through staff training sessions in order to set future priorities for arrangement, description, conservation, digitization, and other initiatives."
+hc_id: "10786074"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

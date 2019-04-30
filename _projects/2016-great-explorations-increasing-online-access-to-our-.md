@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Great Explorations: Increasing Online Access to Our Aerospace Heritage
+title: "Great Explorations: Increasing Online Access to Our Aerospace Heritage"
+year: 2016
+end_range: 1990
+formats: "NULL"
+geographic_extant: "Ryan Aeronautical is a local San Diego based company. The collection covers the local area of manufacturing and aviation service. The effects of the company however are worldwide, given that they produced aircraft for a global market."
+institution: "San Diego Air & Space Museum"
+institution_type: "NULL"
+primary_contact: "Ms. Katrina Pescador"
+size: "NULL"
+start_range: "1920"
+summary: "San Diego Air & Space Museum requests support to catalog and digitize 80,000 one-of-a-kind negatives from the Ryan Aeronautical Collection. Ryan developed many significant aircraft during its history, several of which were far ahead of their time. The Museum's collection documents the company's entire history. Although work has begun to index, preserve, catalog, and digitize portions of this collection, much work remains to ensure its availability for future educational and research purposes. Negatives digitized through this grant will be accessed through the Museum's website and Flickr account, reaching a wide public audience. Master image files will be 1200 DPI TIFFS, captured on flatbed scanners. Digitized records will be maintained in the Museum's digital asset management system (DAMS) and on library servers. Further, crowdsourcing will allow SDASM to enhance its records through public comments made on Flickr, which will be evaluated, confirmed, and captured in the DAMS."
+hc_id: "22351456"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "San Diego Air & Space Museum"
+p2_name:  "Ms. Sandi Landicho"
+p2_institution:  "San Diego Air & Space Museum"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>250 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$212,640"
+material_description:  "SDASM is home to the corporate records of Ryan Aeronautical, which was one of the nation's most influential early aerospace companies. Their pioneering scheduled airline enjoyed success, and they were a noted aircraft manufacturer. Their first unique design, the M-1, proved to be popular among airmail pilots. Its reliability attracted the attention of Charles Lindbergh, who requested they build an airplane that could make a nonstop flight from New York to Paris. The result was The Spirit of St. Louis, and a 1927 flight propelling Lindbergh into history. In the 1930s Ryan opened a flight school in San Diego, while also manufacturing aircraft. Ryan developed many popular and innovative designs, such as the S-T, which was adapted to military use as the PT-22, a primary trainer, helping thousands of future pilots learn how to fly during World War II. The post-war period saw continued growth as Ryan produced several experimental aircraft, such as the Fireball, one of America's first jet powered fighters, and the X-13, a vertical takeoff and landing vehicle. It was during this era that Ryan began development of a long line of unmanned aerial vehicles (UAVs), most famously the Firebee, initially used as a target drone and for reconnaissance. Later UAV designs, both subsonic and supersonic, were adapted to offensive roles. Ryan's early work laid the groundwork for today's highly successful UAV systems, such as the Predator and Global Hawk, which are dramatically changing the nature of aviation. The Museum acquired much of the Ryan Collection in the 1990s, including the library of noted Ryan historian William Wagner. Current company owner Northrop Grumman donated other company records in 2005. The Museum's collection includes material from the company's earliest days to its acquisition by Northrop Grumman. William Wagner's personal library includes over 100 albums containing documents and photos."
 ---
-
-

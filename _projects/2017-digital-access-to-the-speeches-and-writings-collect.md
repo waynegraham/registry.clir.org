@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digital Access to the Speeches and Writings Collection of Luis A. Ferré Aguayo (1929-2002)
+title: "Digital Access to the Speeches and Writings Collection of Luis A. Ferré Aguayo (1929-2002)"
+year: 2017
+end_range: 2002
+formats: "NULL"
+geographic_extant: "The geographic scope of items in the collection are Puerto Rico and the United States."
+institution: "The Luis A. Ferré Historical Archive"
+institution_type: "NULL"
+primary_contact: "Ms. Sofía Canepa"
+size: "NULL"
+start_range: "1929"
+summary: "The proposed project consists in the description, digitization and online access to the collection of speeches and writings of Luis A. Ferré Aguayo (1904-2003) produced between 1929 and 2002. Ferré was a prominent and towering figure in the history of Puerto Rico, leaving an important legacy in the fields of politics, education, philanthropy, and the arts, both in the island and the United States. The project will.promote best practices for ensuring the long-term availability and discoverability of this unique collection by making it available to the public as a source of research about the figure of Ferré, Puerto Rico and the Caribbean in the 20th century."
+hc_id: "26023659"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Museo de Arte de Ponce"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>55 Manuscripts</li>"
+collaborating_institution:  "Graduate School of Information Sciences of the University of Puerto Rico"
+grant_amount:  "$163,272"
+material_description:  "The materials are the collection of writings and speeches of Luis A. Ferré Aguayo (1904-2003) produced between 1929 and 2002. Ferré was a prominent and towering figure of Puerto Rican history. He stood out as engineer, industrialist, politician, philanthropist, and a patron of the arts. He was the third Governor of the Commonwealth of Puerto Rico, serving from 1969 to 1973. He was the founding father of the New Progressive Party, which advocates for Puerto Rico to become a state of the United States of America. His legacy transcends his political career, contributing to many aspects of Puerto Rican culture and history. As politician and business man, he was precursor of the industrialization process and economic development in the Island during the 20th century. He was also part of the Commission that drafted the Constitution of Puerto Rico. He founded Ponce Museum of Art and contributed to the foundation of the Pontifical Catholic University of PR. He held high positions in universities and institutions in the US and was recipient of many acknowledgments such as the Medal of Freedom by the President of the United States and the Eugene McDermott Award granted by the Massachusetts Institute of Technology. He also received Honorary Doctorates from Harvard University, New York University, New England Conservatory of Music, and Trinity College. The project will digitize approximately 20,000 pages of speeches and writings of high scholarly and research value, promoting best practices for ensuring the long-term availability and discoverability of these files created through digitization."
 ---
-
-

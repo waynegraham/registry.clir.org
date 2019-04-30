@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Alexis Carrel Collection: materials of the French physician and philosopher Alexis Carrel, recipient of the Nobel Prize for Medicine in 1912
+title: "The Alexis Carrel Collection: materials of the French physician and philosopher Alexis Carrel, recipient of the Nobel Prize for Medicine in 1912"
+year: 2008
+end_range: 1973
+formats: "NULL"
+geographic_extant: "North America and Europe"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Stephanie Clark"
+size: "180 boxes, 159 linear feet"
+start_range: "1893"
+summary: "By far the most extensive and important body of materials relating to Alexis Carrel, the Georgetown collection encompasses the entire career of this Nobel Prize-winning researcher, collaborator with Charles Lindbergh, and controversial public health theorist. The collection contains Carrel’s research files, laboratory notebooks, offprints, photographs, and specimens relating to his many achievements in experimental medicine, including the work on suturing blood vessels for which he received the Nobel Prize in 1912; his innovations in France and at the Rockefeller Institute in wound sterilization, cell research and tissue culture; his pioneering work in the preservation of organs outside the body, which laid the groundwork for modern organ transplants; and his voluminous correspondence with many leading intellectual and literary figures, including Paul Claudel, Paul de Kruif, John Dewey, Upton Sinclair, Sinclair Lewis, and Charles A. Lindbergh. Carrel’s writings on a prodigious array of topics, much of it unpublished, include the relationship between medicine and faith, war, and human rights, as well as drafts, revisions, and the final manuscript of his influential book Man the Unknown. While scholars of Carrel have had inventory-level access to part of the collection, full cataloging would have a major bearing on such hotly contested fields as the sociology of religion, bioethics, and the history of eugenics."
+hc_id: "132"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Lauinger Library, 5th Floor"
+address2:  "37th and O Streets, NW"
+city:  "Washington"
+state:  "DC"
+zip: "20057-1174"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

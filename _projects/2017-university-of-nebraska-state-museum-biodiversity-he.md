@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: University of Nebraska State Museum Biodiversity Heritage Literature Digitization: Field Expedition Notebooks, Taxon Notebooks, and Other Scholarly Parasitology Literature
+title: "University of Nebraska State Museum Biodiversity Heritage Literature Digitization: Field Expedition Notebooks, Taxon Notebooks, and Other Scholarly Parasitology Literature"
+year: 2017
+end_range: 2005
+formats: "NULL"
+geographic_extant: "The curators, staff, and students of the University of Nebraska State Museum and associates have conducted field studies in North America, Central America, South America, Asia, Africa, Europe, and Oceania. The specimen and literature collections, therefore, have a worldwide geographic scope."
+institution: "University of Nebraska-Lincoln"
+institution_type: "NULL"
+primary_contact: "Ms. Sue Ann Gardner"
+size: "NULL"
+start_range: "1895"
+summary: "The two-year project would result in the digitization of specific portions of the biodiversity heritage literature that currently exist in hard copy only in the University of Nebraska State Museum (UNSM), a Smithsonian-affiliated institution. The digitized field notebooks, taxon notebooks, U.S. government documents, and University of Nebraska Studies from the Zoological Laboratory series will be openly available for free with no registration required in the highly-ranked University of Nebraska-Lincoln (UNL) Digital Commons institutional repository (IR). Faculty, staff, and students within the UNL University Libraries will conduct the work of digitizing and uploading the documents, and creating the associated metadata. The resulting collection of accessible literature will enable greater cross-linking with existing specimen datasets. The literature will be available to scholars, students, and the lay public to read and re-use for free in perpetuity, and will facilitate enhanced cross-linking of databases."
+hc_id: "26332809"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Nebraska-Lincoln"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>45 manuscript field notebooks</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$143,387"
+material_description:  "The University of Nebraska State Museum contains hundreds of thousands of textual items that support the research and teaching missions of the museum. Much of the literature is in copyright but some of it was created by Museum curators and staff and they have given permission to make the digitized versions freely available. Another portion is in the public domain but has not yet been digitized by any other entities. The selected literature particularly supports the Parasitology Division of the UNSM. Subjects include vertebrate and parasite biodiversity, medical parasitology, field expedition notes, and species descriptions. Materials types are listed elsewhere."
 ---
-
-

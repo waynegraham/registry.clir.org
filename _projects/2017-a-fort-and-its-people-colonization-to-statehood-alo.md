@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: A Fort and Its People: Colonization to Statehood Along the Kennebec River
+title: "A Fort and Its People: Colonization to Statehood Along the Kennebec River"
+year: 2017
+end_range: 1705
+formats: "NULL"
+geographic_extant: "The nominated collections focus on settlement and trade in the Kennebec River region of Maine, America’s eastern and northern frontier, from the time of early colonization through to statehood."
+institution: "Maine State Archives"
+institution_type: "NULL"
+primary_contact: "Ms. Heather Moran"
+size: "NULL"
+start_range: "1705"
+summary: "The Maine State Archives and Old Fort Western propose to digitize and provide pertinent metadata for more than 28,000 pages of documents from 1705-1830. The records capture the social, commercial, inter-racial, military, governmental, and maritime activity on America’s eastern frontier, the Kennebec River in Maine. Using account ledgers, letterbooks, muster rolls, municipal records, property histories, and correspondence, the digitization will enable researchers and the public to have access to hitherto hidden collections that chronicle the progress of life here from early colonization, through the American Revolution, to Maine’s admission as a state in 1820. The project will assemble material from four contributing institutions for digitization in-house, and will provide free, online public access to primary documents. The digitized full-color documents with metadata will be discoverable through the Digital Public Library of America (DPLA), and be open for crowd-sourced transcription through Digital Maine Transcription Project."
+hc_id: "26300202"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Maine State Archives"
+p2_name:  "Ms. Linda Novak"
+p2_institution:  "Old Fort Western"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>28000 Manuscripts</li>"
+collaborating_institution:  "Maine State Archives (Department of Secretary of State); Old Fort Western"
+grant_amount:  "$126,600"
+material_description:  "The project consists of distinct, yet interrelated collections. The Kennebec Proprietors land merchants operated in the District of Maine decades before the American Revolution. Conflicting land grants and competition (such as the Pejepscot Company) laid claim to 1,500 square miles along the Kennebec River. The records include extensive information about land speculation, first contact and Native relations, Massachusetts colonial governance, and Canadian relations. It includes letterbooks, correspondence, accounts, and land claims. The Pejepscot Proprietors collection consists of deeds, depositions, maps, correspondence, broadsides, and land agent records. During the Pejepscot proprietor’s settlement efforts, three Indian wars occurred (1729-1759). That history is reflected in the documents, which includes records for municipalities settled by the company, and material such as Indian captivity depositions, privateer and voyage accounts, French spoliation claims, and Revolutionary War documents. None are accessible online. Fort Western (1754) is America's oldest surviving wooden garrison. In 1767, Captain James Howard bought the fort; which was then used as a store until 1807. The Howards’ account ledgers capture the early economy and transition from colony to nation and state. The Pownalborough Court House collection consists of deeds, lawsuits, writs, probate records and personal papers of the Major Samuel Goodwin family, and others. Goodwin (1716-1802) was the Kennebec Proprietors principal agent. The City of Hallowell incorporated in 1771. Municipal records include family documents, town meeting notes, and tax records that describe the settlement of Hallowell, and in 1797, Augusta, where Fort Western is situated."
 ---
-
-

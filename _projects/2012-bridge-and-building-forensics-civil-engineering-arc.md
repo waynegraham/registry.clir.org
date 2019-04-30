@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Bridge and Building Forensics: Civil Engineering Archives at Lehigh University
+title: "Bridge and Building Forensics: Civil Engineering Archives at Lehigh University"
+year: 2012
+end_range: 2010
+formats: "NULL"
+geographic_extant: "These collections are American in origin, yet address civil engineering projects throughout the world."
+institution: "Lehigh University"
+institution_type: "NULL"
+primary_contact: "Lois Black"
+size: "300 boxes, 450 linear feet"
+start_range: "1900"
+summary: "The 20th century saw many advancements in civil engineering technology. Through this project, Lehigh will catalog the personal and corporate papers of prominent civil engineers and influential societies from this period, including those of Blair Birdsall, John Fisher, Willis Slater, and the Council on Tall Buildings and Urban Habitat. Both Fisher and Birdsall made significant contributions to bridge engineering and research. Fisher is best known for his work on fatigue and cracking of steel bridges around the world, and Birdsall was an expert in cabling and suspension bridges. Bridges addressed by these records include the Tappan Zee, Verrazano, Golden Gate, Brooklyn, and Akashi, as well as the Washington Metro. Lehigh also plans to catalog the papers of Slater, a pioneering educator brought to Lehigh to direct the activities of the innovative Fritz Engineering Laboratory in the 1920s. In addition, a collection of approximately 200 postcards featuring American bridges will be cataloged as part of this project. The field of transportation studies has been gaining momentum in recent years as evidenced by the number of researchers contacting Lehigh's and other special collections. Cataloging these archives will provide access to correspondence, reports, subject files, court records, images, and engineering data, among other materials."
+hc_id: "946"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Linderman Library"
+address2:  "30 Library Drive"
+city:  "Bethlehem"
+state:  "PA"
+zip: "18015-3013"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

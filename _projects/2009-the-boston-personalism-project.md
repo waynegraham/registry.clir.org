@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Boston Personalism Project
+title: "The Boston Personalism Project"
+year: 2009
+end_range: 1973
+formats: "NULL"
+geographic_extant: "All of the collections are centered in Boston, specifically at Boston University, because BU was the home of Boston Personalism."
+institution: "Howard Gotlieb Archival Research Center"
+institution_type: "NULL"
+primary_contact: "Vita Paladino"
+size: "222 boxes, 188 linear feet"
+start_range: "1870"
+summary: "The Boston Personalism Project consists of the personal and professional papers of Edgar S. Brightman, Allan Knight Chalmers and L. Harold DeWolf, all major contributors to the influential school of American philosophy and theology known as Boston Personalism (BP), the movement which was known as a major influence in the intellectual and philosophical development of Dr. Martin Luther King, Jr. These collections include the manuscripts, correspondence, audio recordings, photographs, scrapbooks, printed material, holograph notebooks, and other items of these three important figures of BP. Other materials in the Project include the collections of some of their fellow theologians and philosophers in the movement, and represent one hundred years and three generations of philosophical thought. Edgar S. Brightman was an influential theologian who reinterpreted Boston Personalism for the twentieth century. Allan Knight Chalmers, a crusading civil rights lawyer for the NAACP and mentor to Martin Luther King, Jr., was involved in the Scottsboro case. L. Harold DeWolf, a theologian, philosopher, and ethicist, served as Martin Luther King, Jr.’s dissertation advisor. The earliest material in the Project includes a cache of letters and notebooks of the founder of BP, Borden Parker Bowne, and a large collection of the letters and manuscripts of Bowne’s patron, BU President William F. Warren."
+hc_id: "421"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Boston University"
+address2:  "771 Commonwealth Avenue"
+city:  "Boston"
+state:  "MA"
+zip: "2215"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

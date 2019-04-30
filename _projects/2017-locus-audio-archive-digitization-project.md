@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Locus Audio Archive Digitization Project
+title: "Locus Audio Archive Digitization Project"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Locus Science Fiction Foundation"
+institution_type: "NULL"
+primary_contact: "Ms. Liza Trombi"
+size: "NULL"
+start_range: "NULL"
+summary: "The project comprises digitizing, accessioning, and cataloging the Locus Audio Archive, with corresponding metadata for each digital file, with the goal of publishing a complete catalog online through the Locus website and preserving these valuable interviews on digital media before their current microcassette storage deteriorates beyond accessibility. With approximately 491 microcassette tapes containing 536 interviews, the collection offers an audio historical record of the genre’s growth over the last 60 years, emphasizing the lives of the authors, editors, and publishers of the works themselves. As the study of these fields burgeons in the academy, these otherwise unavailable audio interviews will provide a more complete understanding of the history of speculative fiction and the individuals who created it -- lauded and respected authors and editors such as Isaac Asimov, Ray Bradbury, Octavia E. Butler, Samuel R. Delany, Philip K. Dick, Ursula K. Le Guin, Tanith Lee, Gene Wolfe, and more."
+hc_id: "26827067"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Locus Science Fiction Foundation"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "491 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$36,050"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing over 100 Years of North American Art, History, and Cultures: The National Cowboy and Western Heritage Museum's Dickinson Research Center's Manuscript and Audio Digitization Project for the Arthur and Shifra Silberman Native American Archival Collection and the James Earle Fraser and Laura Gardin Fraser Papers
+title: "Digitizing over 100 Years of North American Art, History, and Cultures: The National Cowboy and Western Heritage Museum's Dickinson Research Center's Manuscript and Audio Digitization Project for the Arthur and Shifra Silberman Native American Archival Collection and the James Earle Fraser and Laura Gardin Fraser Papers"
+year: 2015
+end_range: 1995
+formats: "NULL"
+geographic_extant: "North America"
+institution: "National Cowboy and Western Heritage Museum Inc."
+institution_type: "NULL"
+primary_contact: "Mr. Mike Leslie"
+size: "NULL"
+start_range: "1864"
+summary: "The National Cowboy and Western Heritage Museum (NCWHM) proposes to digitize the 2 most utilized collection resources of the Museum and the source material for numerous books, periodicals, and research papers-- the Arthur and Shifra Silberman Native American Archival Collection and the James Earle Fraser and Laura Gardin Fraser Papers. These collections are paramount in terms of diverse resources, subject matter, and insight into a variety of social, political, economic, and cultural influences that have shaped and still shape the 20th century American art movement. Within 2 years (2016-2017), the NCWHM will digitize 180,000 image files from the Silberman Collection and Fraser Papers, as well as 590 audio files from the Silberman Collection. The digital information will be shared worldwide via an online portal, with detailed metadata easily accessible to viewers, allowing for a greater understanding of any item within the collection and the collection as a whole."
+hc_id: "17123491"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "National Cowboy and Western Heritage Museum Inc."
+p2_name:  "Ms. Holly"
+p2_institution:  "Digital and Institutional Archivist"
+p3_name:  "Ms. Ms. Kera"
+p3_institution:  "Digital and Manuscript Archivist"
+material_string: "<li>101 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$110,271"
+material_description:  "In 1975, Arthur Silberman and his wife, Shifra, founded the Native American Painting Reference Library. Arthur was the Director, and Shifra served as research consultant and assistant on all the Library's projects. Their goals for the Library were to increase the appreciation of Native American painting by making reference material available to educators, writers, publishers, and museums and to increase public awareness through lectures, publications, and exhibits. More than 190 artists from 55 distinct cultural and tribal backgrounds are represented in the collection.\n\nThe Arthur and Shifra Silberman Native American Archival Collection, purchased from the Silberman estate in 1996-1997, is the property of the Donald C. & Elizabeth M. Dickinson Research Center at the NCWHM. Literary right, including copyright, belongs to the NCWHM, with the exception of copyrighted images and published literary works, which are the property of the respective copyright holders. \n\nJames Earle Fraser was a nationally-acclaimed sculptor in the early 20th century. He is most known for his monumental works, such as End of the Trail. His wife, Laura Gardin Fraser, was also an award-winning sculptor. She was the first woman to design a coin for the United States Treasury. The couple worked together to sculpt the design for the Oregon Trail Memorial Half Dollar. Their legacies are preserved in the many monuments, medals, and coins they sculpted over the course of their careers.\n\nThe Fraser Papers, purchased from Syracuse University in 1968, are the property of the Donald C. & Elizabeth M. Dickinson Research Center at the NCWHM. Literary right, including copyright, belongs to the NCWHM, with the exception of copyrighted images and published literary works, which are the property of the respective copyright holders. Syracuse University Special Collections is home to more extensive Fraser Papers."
 ---
-
-

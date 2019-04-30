@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging Hidden Special Collections and Archives: Building a National Science Platform for Human Rights - The Legacy of Congressman George E. Brown
+title: "Cataloging Hidden Special Collections and Archives: Building a National Science Platform for Human Rights - The Legacy of Congressman George E. Brown"
+year: 2012
+end_range: 1999
+formats: "NULL"
+geographic_extant: "California; United States; Global scope in relation to the U.S. science and technology agenda, civil rights, and the Vietnam War"
+institution: "UCR Libraries"
+institution_type: "NULL"
+primary_contact: "Ruth Jackson"
+size: "600 boxes, 1926 cubic feet, 800 linear feet, 50 objects"
+start_range: "1962"
+summary: "The George E. Brown Congressional Papers Project will make accessible to a wide range of researchers and scholars one of the most important collections of congressional papers that document the history of the environmental movement in the United States, the founding of the Environmental Protection Agency, and the establishment of the national science, technology and civil rights agendas for the 20th century. Serving as a member and Chair of the powerful House Committee on Science, Space and Technology during his congressional tenure (1962-1971 and 1973-1999), George E. Brown influenced the path of Congress and four presidents (Kennedy, Johnson, Nixon, and Clinton) on matters impacting the protection of the environment, science and technology, space exploration, civil rights, and the Vietnam War. His papers document the history of congressional interactions with the presidential office and federal agencies during four critical periods of 20th century American history: the founding of the EPA, the expansion of NASA, the passage of the Civil Rights Act of 1964, and the ending of the Vietnam War. This proposed project will make this historic and unique collection widely known and enable us to contribute to the research base of one of the most important eras in American political history."
+hc_id: "999"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P.O. Box 5900"
+address2:  "NULL"
+city:  "Riverside"
+state:  "CA"
+zip: "92517-5900"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

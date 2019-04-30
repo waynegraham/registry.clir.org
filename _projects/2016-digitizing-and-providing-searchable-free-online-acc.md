@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing and providing searchable, free online access to the Union Signal, the Woman's Christian Temperance Union's national weekly newspaper, 1883-1953
+title: "Digitizing and providing searchable, free online access to the Union Signal, the Woman's Christian Temperance Union's national weekly newspaper, 1883-1953"
+year: 2016
+end_range: 1953
+formats: "NULL"
+geographic_extant: "The Union Signal newspaper began publication in Chicago in 1883 to serve a rapidly increasing national audience as the WCTU grew; by the 1890s, with WCTU branch unions established around the world, the paper's reporting, and its readership, had become--and remained--global in scope."
+institution: "Frances Willard Historical Association"
+institution_type: "NULL"
+primary_contact: "Ms. Janet Olson"
+size: "NULL"
+start_range: "1883"
+summary: "The Frances Willard Historical Association (FWHA) proposes a one-year project to digitize and provide free, searchable online access to seventy years (over 58,000 pages) of the Union Signal, the National Woman's Christian Temperance Union's official newspaper. From 1883 to 1953, the newspaper provided weekly, comprehensive coverage not only of the temperance/prohibition movement, but also of national and international social issues, including women's rights, health, politics, and education. Today, for most scholars—especially those outside the United States—access to the newspaper is either nonexistent or limited to incomplete, unindexed volumes in hard-copy or on microfilm. For this project, the vendor, Northern Micrographics, will digitize the FWHA's complete volumes of the Union Signal and make the searchable files available via the open-source document-management system ResCartaWeb, linked from the FWHA's website. The online Union Signal will give educators, students, and researchers--in an increasing range of disciplines--access to a significant, underused resource."
+hc_id: "21150232"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Frances Willard Historical Association"
+p2_name:  "Ms. Lori Osborne"
+p2_institution:  "Frances Willard Historical Association"
+p3_name:  "Mr. Glen Madeja"
+p3_institution:  "NULL"
+material_string: "<li>58000 newspaper (newsprint)</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$54,251"
+material_description:  "The Frances Willard Memorial Library and Archives (managed by the Frances Willard Historical Association) is the institutional memory of the Woman's Christian Temperance Union (WCTU). Its holdings include a complete run of the WCTU's Union Signal newspaper in bound volumes (including duplicate copies of most volumes), along with stacks of unbound issues. The Union Signal was more than the paper of record for the WCTU (in its day, the largest women's organization in the United States). From 1883 to 1953, the weekly 16-page newspaper, printed in Chicago, aggregated national and international news about temperance and prohibition, social reform, women's and children's rights, health, politics, family, and education. The legions of women who traveled across the US and around the globe as WCTU organizers and missionaries filed reports from the field, documenting events, trends, and lives that related in some way to the organization's work. Established branch Unions supplied updates on their activities at the town, state, and country levels. The newspaper featured women at every level in the WCTU, leaders and small-town Union members alike, as well as the work of notable women--suffragists, writers, physicians, educators--outside the temperance movement. The activities of politicians, clergy, and officials; wars, and peace efforts; steps toward Prohibition, woman suffrage, and Repeal--all were copy for the Union Signal's presses. For many years, the paper also included a children's section, poetry, fiction, images--and advertising, for everything from bicycles and “reform”  corsets to get-rich-quick schemes. The Union Signal remained a weekly for twenty years after Repeal (1933), demonstrating the WCTU's ability to keep its readership and its relevance. The editors continued to fill sixteen pages with news about outreach, health education, and the WCTU's worldwide social welfare efforts, until 1954, when the paper stopped weekly publication (it still exists as a quarterly newsletter)."
 ---
-
-

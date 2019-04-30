@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Col. David M. Glantz "˜63 Collection on Soviet Military History
+title: "The Col. David M. Glantz '63 Collection on Soviet Military History"
+year: 2015
+end_range: 1991
+formats: "NULL"
+geographic_extant: "Geographic regions represented in include most of the Eurasian continent, ranging from Germany in the west, to the South Caucasus in the south, and Manchuria and Japan in the east. There also documents from the United States, including intelligence reports and communications within the US government."
+institution: "The Virginia Military Institute"
+institution_type: "NULL"
+primary_contact: "Dr. Bradley Coleman"
+size: "NULL"
+start_range: "1918"
+summary: "The Virginia Military Institute (VMI) proposes to catalogue, digitize, and release the Col. David M. Glantz '63 Collection on Soviet Military History. Col. Glantz is the premier historian of the Soviet military and the former head of the U.S. Army's Soviet Studies Office. This collection is the culmination of over 50 years of his extensive research and scholarship. It includes unique government documents, Soviet staff studies, and maps. This is a two-year project led by the Adams Center for Military History and Strategic Analysis at VMI in partnership with the George C. Marshall Foundation, the Virginia Polytechnic Institute & State University, and Washington and Lee University. Soviet armed forces played a critical role in global affairs from 1939-1991; this project will transform our collective understanding of 20th century international security affairs by giving scholars access to previously unavailable sources on Soviet military history."
+hc_id: "17587601"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Virginia Military Institute"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>133 Mixed Archival Collections</li>"
+collaborating_institution:  "George C. Marshall Foundation; Virginia Polytechnic and State University; Washington and Lee University"
+grant_amount:  "$231,343"
+material_description:  "The Glantz collection contains both text documents and still images, mostly maps, along with a limited number of photographs. The text documents include Soviet military records, Ministry of Defense studies, military textbooks and dissertations, interview transcriptions, U.S. intelligence reports, and scholarly articles. The collection of maps come from Germany, Japan, and the former Soviet Union, as well as a tremendous amount of David Glantz's own hand-drawn operation level maps of specific WWII operations.\n\nMost of the text documents have been collected from Soviet archives, and many were once classified. The Soviet military journals, general staff studies, and military textbooks and dissertations were obtained by David Glantz from Soviet (and later Russian) archives through intelligence channels, exchange agreements, and by purchase. \n\nAmong the most important text documents are a series of large multi-volume collections of Soviet General Staff studies on wartime experiences. Another sub-section consists of formerly secret, but now declassified General Staff Operational Studies of WWII battles, including Moscow, Berlin, and Belorussia. Source materials on Soviet force structure, German and US intelligence reports, and journals published by the Ministry of Defense are other important text documents. Finally, the collection includes a wide range of textbooks, detailed studies, and doctoral dissertations used at the Voroshilov General Staff Academy and Frunze Academy. \n\nDavid Glantz's original detailed day-by-day hand drawn maps of selected WWII operations are a treasure in their own right. The originals are unique, hand-drawn detailed depictions of important WWII operations. Lastly, the collection also has absorbed the collections of another scholar of the Soviet armed forces, the late Geography Professor Emeritus at Minnesota State University, Mankato, Dr. James F. Goff and Anya Kovarskaya, who was a emigre from the Soviet Union."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Access to Twentieth Century Shipbuilding in Los Angeles Harbor : California Shipbuilding Corporation, 1941-1945.
+title: "Access to Twentieth Century Shipbuilding in Los Angeles Harbor : California Shipbuilding Corporation, 1941-1945."
+year: 2013
+end_range: 1945
+formats: "NULL"
+geographic_extant: "Terminal Island (Los Angeles), California"
+institution: "Los Angeles Maritime Museum"
+institution_type: "NULL"
+primary_contact: "Marifrances Trivelli"
+size: "31 boxes"
+start_range: "1941"
+summary: "“Access to Twentieth-Century Shipbuilding in Los Angeles Harbor” will connect two important collections from California Shipbuilding Corporation on World War II era merchant shipbuilding. The collections provide visual material unique to the Kaiser company's shipbuilding enterprise at a local installation on Terminal Island in Los Angeles Harbor. The larger collection contains 9000 images of vessel launchings, sponsors, workers, ship construction, ships underway, yard activities, events, Calship property and structures, advertising posters, celebrities in a variety of formats: photographic albums, loose prints, negatives, and large format prints, a box glass slides. The documents are contained in ten boxes of news clippings, personnel records, corporate history, incorporation agreements, ship's progress report, legal documents, testimonials, correspondence, etc., guestbooks, and vessel construction reports. There are 4 film recordings of personalities and launchings; and approximately 400 - 4” x 6” index cards organized alphabetically by subject name and an alpha-numeric code. The smaller collection was created by an engineer and focuses on his work. It includes photographic images, typescripts, training manuals, issues of Calship Log, eight books on marine engineering, and ephemera. Both collections contain several artifacts."
+hc_id: "1113"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Berth 84 Foot of 6th Street"
+address2:  "NULL"
+city:  "San Pedro"
+state:  "CA"
+zip: "90731"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

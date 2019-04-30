@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Quayle Rare Bible Collection
+title: "Quayle Rare Bible Collection"
+year: 2008
+end_range: 2000
+formats: "NULL"
+geographic_extant: "The geographic scope extends from the Middle East and northern Africa to Europe and North America."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Terry Manies"
+size: "550 objects"
+start_range: "2060"
+summary: "Bishop William Alfred Quayle (1860-1925) accumulated about 250 historically significant Bibles and related books to illustrate \"book arts\" across the ages. Today the Quayle Rare Bible Collection has been expanded and contains over 500 items housed as a special collection within Baker University’s Collins Library. Pieces within it cover periods from the ancient world through the modern era, including: Medieval manuscripts and illustrated leaves from the 11th through 14th centuries; and approximately a dozen incunabula such as an Eggesteyn Bible, two Coberger Bibles, and two Froben Bibles. Many major early English bible translations are also represented, including: Matthew’s Bible; the Taverner text; a second edition of the Coverdale Bible; the Tyndale Bible; a copy of the Genevan Bible; a Bishop’s Bible; the Douai-Rheims text and a first edition King James Bible. Important examples of biblical printing from 18th century America include a copy of Cotton Mather’s Magnalia Christi and numerous books printed by Christoph Saur, Robert and Jane Aitken and others. The Quayle also includes a copy of the Nurnberg Chronicle, several items printed by Greygnog Press in Wales and texts translated into American Indian languages like Cherokee, Pequot and Ojibwa. The collections preserves some of Bishop Quayle's own writing, copies of William Blake’s illustrations created to illuminate the Book of Job, a leaf from a Gutenberg Bible and many exceptional bindings."
+hc_id: "49"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P.O. Box 65"
+address2:  "NULL"
+city:  "Baldwin City"
+state:  "KS"
+zip: "66006-0065"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

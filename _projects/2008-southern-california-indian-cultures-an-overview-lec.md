@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Southern California Indian Cultures: An Overview - Lectures & images focused on endangered Southern California American Indian cultures & languages
+title: "Southern California Indian Cultures: An Overview - Lectures & images focused on endangered Southern California American Indian cultures & languages"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "The southwestern United States and Mexico, with emphasis on Southern California"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Stephanie White"
+size: "8 boxes, 60 objects"
+start_range: "5000"
+summary: "The Siva recorded lectures cover American Indian culture, language, history and traditional art. Ernest Siva gave the first lectures in a course taught in the College of Arts and Letters (CAL) at CSUSB in the fall of 2006. Scholars and culture bearers sharing information during the lectures included Georgiana Sanchez (Chumash), Walter Holmes, Jr. (Cahuilla, bird singer), William Pink (Cupeño/Luiseño), J. Proudfit (Luiseño) and Daniel McCarthy, archaeologist/rock art expert. The spring 2009 course will be taught by Ernest Siva and Carmen Jany, an indigenous language specialist. Included will be the relationship between language, thought and culture, language ideologies, and language loss, documentation and revitalization. Guest speakers from various Southern California tribes will complement Mr. Siva’s focus on Indian history, language and culture, and his teaching of Serrano for everyday use. The earlier course taught by Mr. Siva emphasized culture; this course will focus on language performances such as storytelling and songs. The course will contain language samples in various forms valuable to students, teachers, tribal members, linguists and researchers. The Howe collection has 1,610 photo negatives by Charley Howe in Southern California and Mexico. An amateur photographer and a vocational archaeologist, Howe was a member of the Archaeological Survey Association of Southern California (ASA). The images document Howe’s travels and include many sites that no longer exist."
+hc_id: "331"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "5500 University Parkway"
+address2:  "NULL"
+city:  "San Bernardino"
+state:  "CA"
+zip: "92407"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

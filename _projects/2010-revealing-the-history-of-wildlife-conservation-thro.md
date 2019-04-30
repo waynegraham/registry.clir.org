@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Revealing the history of wildlife conservation through the hidden archives at the Wildlife Conservation Society (New York Zoological Society)
+title: "Revealing the history of wildlife conservation through the hidden archives at the Wildlife Conservation Society (New York Zoological Society)"
+year: 2010
+end_range: 2005
+formats: "NULL"
+geographic_extant: "WCS's archives include international field research as well as material strongly rooted in the cultural fabric of New York and the United States."
+institution: "Wildlife Conservation Society"
+institution_type: "NULL"
+primary_contact: "Kerry Prendergast"
+size: "1500 linear feet"
+start_range: "1895"
+summary: "As the forerunner of the wildlife conservation movement in the United States, WCS differs from contemporary zoos due to our commitment to scientific research since inception. WCS conservationists such as William Beebe and inspirational leaders such as Fairfield Osborn and William Hornaday have left an indelible mark on both the zoological and conservation communities, as well as a treasure trove of historical artifacts at WCS. Our archives range from detailed records, paintings, and drawings from terrestrial and oceanographic expeditions (1900-1948); to correspondence and clippings related to the American Bison Society (1905-1912); to necropsy reports (1901-1970); to photographs of landmarks and visitors to our parks (e.g., Helen Keller in 1923); to correspondence from Theodore Roosevelt to the fourth president of NYZS, Madison Grant (1899-1900). Documenting our activities at our five institutions within New York City (the Bronx Zoo, New York Aquarium, and Central Park, Prospect Park, and Queens zoos), our archives describe in detail the management of animals, the response of visitors, and the effectiveness of education programs. With regard to field studies in every part of the world, our archives chronicle the relationship between animals and their environments, the founding of national parks and wildlife reserves, and legislation affecting the future of wildlife."
+hc_id: "685"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "2300 Southern Boulevard"
+address2:  "NULL"
+city:  "Bronx"
+state:  "NY"
+zip: "10460"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

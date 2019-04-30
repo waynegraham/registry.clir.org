@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Santa Ynez Valley Historical Archives
+title: "Santa Ynez Valley Historical Archives"
+year: 2014
+end_range: 2014
+formats: "NULL"
+geographic_extant: "Santa Barbara County, CA"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Chris Bashforth"
+size: "8000 objects"
+start_range: "1700"
+summary: "Our project objective is to research and catalog nearly 80% of the SYV Historical Museum's collection. The Museum was started in 1961 by a group of local women who recognized that it was vitally important to preserve the history of the Santa Ynez Valley. That fledgling collection has since grown to include over 10,000 items most of which have never been inventoried, researched, or catalogued properly. The Museum's plan is to research and catalog its collection employing a number of new techniques and the reinvention of older ones. Once the project is completed a number of Virtual Exhibits will be created to aid educators teaching local and state history."
+hc_id: "10921957"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

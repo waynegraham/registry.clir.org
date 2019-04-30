@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Mosaic Stones of Holocaust Scholarship: Cataloging Undiscovered Collections of Personal and Family Papers at the USHMM
+title: "Mosaic Stones of Holocaust Scholarship: Cataloging Undiscovered Collections of Personal and Family Papers at the USHMM"
+year: 2014
+end_range: 1996
+formats: "NULL"
+geographic_extant: "Europe, United States, South America, Asia"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Brad Bauer"
+size: "40 linear feet, 1000 objects"
+start_range: "1933"
+summary: "The proposed project would fully catalog approximately 1,000 manuscript documents and archival collections that were donated by Holocaust survivors or their families during the first years following the establishment of the United States Holocaust Memorial Museum (ca. 1993-1996). The museum would hire one archivist with experience in manuscript cataloging, who over the course of two years, would use the DACS cataloging standard to add appropriate data elements to existing stub records, enabling the content and context of these items and collections to be adequately described for the first time, and by doing so, enable their discovery and use. Catalog records would be uploaded to the museum's web-based catalog and to OCLC WorldCat."
+hc_id: "11745491"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "<li>1000 Audiovisual, Book (Including Serials), Ephemera, Manuscript, Text (Including Electronic Texts)</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

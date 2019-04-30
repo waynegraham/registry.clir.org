@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Scholarly Threads: Connecting Collections from Academic Sources
+title: "Scholarly Threads: Connecting Collections from Academic Sources"
+year: 2012
+end_range: 2000
+formats: "NULL"
+geographic_extant: "While these collections relate to the American South, they are international in that they represent the research interests of six academics."
+institution: "South Caroliniana Library"
+institution_type: "NULL"
+primary_contact: "Henry Fulmer"
+size: "125 linear feet"
+start_range: "1780"
+summary: "The South Caroliniana Library (SCL), the oldest and most widely used specialized collection at USC, houses regional manuscript and research materials. This proposal seeks support to catalog nationally relevant papers of six academic scholars from southern institutions. They contain over 125 linear feet of correspondence, research notes, and manuscript drafts. The six individuals are: historian Yates Snowden (USC), literary critic and poet Monroe K. Spears (Vanderbilt U. and The U. of the South), an authority on modern British and American poetry, Guy Davenport (U. of Kentucky), an editor, translator and writer of fiction and criticism, Andrew Billingsley (USC) a specialist on the African American family, and George Fletcher Bass (Texas A&M), a pioneering underwater archaeologist. Each is an important collection; however, they are also connected by their origins. They contain correspondence and research that document the contributions of their authors, but they also reveal the methodologies and career paths of academics who were engaged as teachers but also as noted writers and professional leaders in their fields. Because of this they fill a unique niche, yet, due to priorities within the library's strategy for cataloging, including fragile early collections, they are not accessible. They are truly “hidden collections” with much research promise as well as potential links to similar collections of scholars at other institutions."
+hc_id: "910"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "South Caroliniana Library, University of South Carolina, 910 Sumter Street"
+address2:  "NULL"
+city:  "Columbia"
+state:  "SC"
+zip: "29208"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

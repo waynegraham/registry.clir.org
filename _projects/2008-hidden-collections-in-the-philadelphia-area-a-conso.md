@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Hidden Collections in the Philadelphia Area: A Consortial Processing and Cataloging Initiative
+title: "Hidden Collections in the Philadelphia Area: A Consortial Processing and Cataloging Initiative"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "Emphasis on Philadelphia and the Delaware Valley, but includes strong holdings for the rest of the U.S., Europe, Asia, South America, and Africa."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "David McKnight"
+size: "24580 linear feet"
+start_range: "1347"
+summary: "This consortial project, encompassing 1652 collections totaling 24,580 linear feet held in 24 PACSCL member repositories, builds connections across collections and subjects for scholars and students from a range of disciplines. Materials address the scientific, cultural, aesthetic, social and spiritual mores of American society from the earliest European settlement across more than three centuries as they were expressed regionally, nationally and internationally. The collections (see Appendix) are equally notable for their continuity and depth of coverage over that span of history. The collections are especially strong in three areas: the political, economic, social, horticultural and cultural history of eastern Pennsylvania, Philadelphia and the Delaware Valley; the history and evolution of American science; science and medical education; and medicine; and the American religious and educational experience, locally and globally, especially in areas of social justice and activism that impacted our national dialogue. This is an extensive and complex project with partners ranging from major universities through small libraries and museums. It provides research opportunities for faculty and students at the more than 80 colleges and universities in the area and beyond. It offers a model for future collaborations for partners of disparate sizes, subject areas, and missions and is the logical next step after PACSCL's Consortial Survey Initiative, described below."
+hc_id: "259"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "3420 Walnut St."
+address2:  "NULL"
+city:  "Philadelphia"
+state:  "PA"
+zip: "19104"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "Philadelphia Area Consortium of Special Collections Libraries (PACSCL)"
+grant_amount:  "$500,000"
+material_description:  "NULL"
 ---
-
-

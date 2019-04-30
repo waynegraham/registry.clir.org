@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing Marshall, The Man and the Plan: Presenting A Comprehensive Visual Record of George C. Marshall and the Marshall Plan through Films and Photographs.
+title: "Digitizing Marshall, The Man and the Plan: Presenting A Comprehensive Visual Record of George C. Marshall and the Marshall Plan through Films and Photographs."
+year: 2016
+end_range: 1964
+formats: "NULL"
+geographic_extant: "The George C. Marshall Photograph Collection and the George C. Marshall Filmography include images from all over the world with the bulk shot throughout the United States and Western Europe. The Marshall Plan Filmography includes films produced in and about the European countries that participated in the Marshall Plan."
+institution: "George C. Marshall Foundation"
+institution_type: "NULL"
+primary_contact: "Dr. Rob Havers"
+size: "NULL"
+start_range: "1880"
+summary: "The George C. Marshall Foundation houses the most comprehensive collection of records relating to George C. Marshall, the man President Harry Truman called \"the greatest living American,\" in the world. A photograph collection of 9,092 images as well as a collection of 276 films provide a visual record of Marshall's achievements and experiences throughout his life. A collection of 186 English-language films depicting the Marshall Plan, Marshall's most well-known accomplishment, also resides at the foundation. During its 24-month project the Marshall Foundation will digitize and catalog these photograph and film collections as well as make them freely available online through the foundation's website. The availability of these collections in digital form will promote a deeper understanding of Marshall and the Marshall Plan among current scholars and generate greater interest in Marshall's life and work among the scholarly community."
+hc_id: "21993442"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "George C. Marshall Foundation"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>9092 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$153,925"
+material_description:  "The George C. Marshall Photograph Collection was created by the foundation's archives staff to establish control over the vast number of photographs in which George C. Marshall appeared. Photographs from George C. Marshall's papers, as well as photographs of Marshall from the manuscript collections of his contemporaries also housed in the foundation's archives are part of this collection. The collection documents Marshall's life from his childhood through his death and includes photographs of Marshall with notable leaders including Franklin Roosevelt, Harry Truman, Winston Churchill, Dwight Eisenhower, George Patton, and Douglas MacArthur among many others. A variety of subjects are covered in the photograph collection, but the bulk of the collection pertains to Marshall's time as chief of staff of the U.S. Army during World War II and as secretary of state from 1947-1949. The George C. Marshall Filmography, which includes 276 public domain films in which Marshall appeared, resulted from a foundation initiative to develop a comprehensive list of films to provide scholars with an additional resource to enhance their understanding of Marshall. A guide to the films was published by the foundation in 2000 and the accompanying films are available on 34 VHS tapes, which presents the archives staff with both preservation and access concerns. The filmography begins with footage from World War I and continues through Marshall's death. Like the photograph collection the bulk of the films pertain to Marshall's involvement in World War II and tenure as secretary of state. The Marshall Plan filmography was developed to compile a list of all of the English language films produced as part of the Marshall Plan into a single resource. The filmography lists entries for 186 English-language films available on 37 VHS tapes. The films examine various aspects of economic recovery in all of the participating European nations."
 ---
-
-

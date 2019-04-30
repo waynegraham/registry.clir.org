@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitization of the Helen Keller Archival Collection -- press clippings and scrapbooks
+title: "Digitization of the Helen Keller Archival Collection -- press clippings and scrapbooks"
+year: 2016
+end_range: 1986
+formats: "NULL"
+geographic_extant: "United States and international"
+institution: "American Foundation for the Blind"
+institution_type: "NULL"
+primary_contact: "Ms. Helen Selsdon"
+size: "NULL"
+start_range: "1880"
+summary: "The American Foundation for the Blind (AFB) seeks funding over 18 months to digitize the Helen Keller Archival Collection's fragile press clippings and scrapbooks as part of a broader initiative partially funded by the National Endowment for the Humanities to digitize and disseminate Keller's entire archival collection. We also request funding for an assistant to create related metadata. The archive, containing over 80,000 items, includes correspondence, speeches, press clippings, scrapbooks, photographs, artifacts and architectural drawings. These materials span over 80 years, bridging the 19th and 20th centuries. Although the digitization project is about an extraordinary American figure, it is about much more; namely, the world in which Keller participated and the people and broader social developments she influenced and continues to influence today. Funding from CLIR will provide access to untapped material that can enrich our understanding of the social, political and cultural fabric of Keller's time and ours."
+hc_id: "22319013"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "American Foundation for the Blind"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>23.75 press clippings and scrapbooks</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$98,173"
+material_description:  "Helen Keller (1880-1968) joined the American Foundation for the Blind (AFB) in 1924 and was its ambassador for 44 years. The Helen Keller Archival Collection is comprised of materials she bequeathed to AFB upon her death and those accrued by the organization. It is the single largest repository of materials by and about Helen Keller in the world. The collection contains detailed biographical information about Keller, as well as a fascinating record of over 80 years of social and political changes worldwide. The press clippings and scrapbooks, series 4 and 5 in the collection (approximately one-third of the collection), are an untapped resource about Keller and the times in which she lived. They have never been accessible to researchers due to their fragility. The loose press clippings span from 1880-1986 and include three oversized albums created by Keller's teacher Anne Sullivan Macy between 1913 and 1926. Researchers frequently contact AFB searching for information about a specific event involving Helen Keller. The press clippings, containing details of daily events, are typically the only resource that can provide possible answers. In addition, many of the photographs that are contained in these press clippings are unique and do not exist in the photograph collection. The three largest scrapbooks, which were compiled by Macy, provide a rare window onto Macy's perception of their lives. Sixty-three composition books span from 1915-1967. These books were compiled by a friend and ardent fan of Keller's. The contents of the scrapbooks are different from those of the press clippings. The majority are longer feature articles that appeared in periodicals and journals, providing contemporary discussion on attitudes to Keller. In addition to these, there are articles and information on dog guides and blindness issues, providing contemporaneous information about the burgeoning blindness field and perceptions of disability during Keller's lifetime."
 ---
-
-

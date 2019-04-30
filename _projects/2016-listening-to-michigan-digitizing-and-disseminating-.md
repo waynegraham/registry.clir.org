@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Listening to Michigan: Digitizing and disseminating local radio programming
+title: "Listening to Michigan: Digitizing and disseminating local radio programming"
+year: 2016
+end_range: 1945
+formats: "NULL"
+geographic_extant: "Kalamazoo, MI, State of Michigan, local and regional, with ties to the United States"
+institution: "Michigan State University"
+institution_type: "NULL"
+primary_contact: "Mr. Shawn Nicholson"
+size: "NULL"
+start_range: "1945"
+summary: "The G. Robert Vincent Voice Library at Michigan State University will digitize, create linked metadata, and disseminate sound recordings from two collections with holdings of local broadcasts made from 1945-1955 and 1989-1996. These collections together comprise nearly 750 hours of unique analog recordings on 16\" transcription discs and various forms of audio tape, and they provide access to previously hidden state and local histories. The recordings primarily cover Michigan issues, for example efforts to enact affirmative action policies in the Kalamazoo Police Department, but they also provide a portal through which to understand national issues from a Michigan perspective, for example the 1992 presidential campaign. This project is guided by the belief that recorded sound allows us to understand the past not just intellectually but also emotionally. In the inflections and accents of human voices, these historic radio broadcasts tell a story that cannot be conveyed by the written word."
+hc_id: "21013920"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Michigan State University"
+p2_name:  "Dr. Michael Stamm"
+p2_institution:  "Michigan State University"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>750 Audio Recordings</li>"
+collaborating_institution:  "Kalamazoo Valley Museum"
+grant_amount:  "$77,111"
+material_description:  "The G. Robert Vincent Voice Library at Michigan State University will digitize, create linked metadata, and disseminate sound recordings from two collections with holdings spanning a period from World War II through the end of the Cold War: programming from Kalamazoo's WKZO from 1945-1955 and the Michigan Public Radio Network's program State Edition from 1989-1996. These collections comprise nearly 750 hours of unique analog recordings on 16\" transcription discs, open reel-to-reel, and audio tape. Together, they provide new access to state and local histories as told daily over the radio. The recordings primarily cover Michigan issues, for example efforts to enact affirmative action policies in the Kalamazoo Police Department and debates about funding for transportation infrastructure, but they also provide a portal to understand national and even international issues from a Michigan perspective, for example the 1992 presidential campaign, the Gulf War, and the end of the Cold War. This project is guided by the premise that recorded sound allows us to understand the past not just intellectually but also emotionally. In the inflections and accents of human voices, these historic radio broadcasts tell a story that cannot be conveyed by the written word. When digitized and made accessible, these materials will complement ongoing projects preserving national radio content and help provide a fuller sense of the regional variations in American cultural and political life. But these materials are not just companions to national material but significant audio artifacts in their own right: we have the only copies of these local radio stories that we have hidden from history since the time of their initial broadcast. To listen to these recordings is to hear to the sounds of daily life in Michigan, a state with one of the most interesting histories of any in the US after World War II."
 ---
-
-

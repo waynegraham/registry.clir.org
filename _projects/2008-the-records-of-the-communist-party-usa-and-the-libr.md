@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Records of the Communist Party, USA and the Library of the Reference Center for Marxist Studies: A Preservation and Access Project
+title: "The Records of the Communist Party, USA and the Library of the Reference Center for Marxist Studies: A Preservation and Access Project"
+year: 2008
+end_range: 1995
+formats: "NULL"
+geographic_extant: "The Communist Party, USA records is a U.S. centered archive. The Reference Center Library is international in scope."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Richard Louth"
+size: "625 linear feet, 23240 objects"
+start_range: "1910"
+summary: "The records of the Communist Party, USA and the Library of the Reference Center for Marxist Studies, now at NYU, form what is probably the most important collection in the United States documenting the history of Communism and the American Left. The archive begins in the 1910s with records and publications relating to the Industrial Workers of the World, continues through the era of the Russian Revolution, the formation of the American Communist Party in the 1920s, the Depression of the 1930s, World War II, the Cold War, Red Scare, the New Left era, and finally to the 1980s and 1990s and the breakup of the Soviet Union. This collection includes internal documents that describe how the Communist Party was organized and functioned, records documenting the Party’s role in the labor and civil rights movements, and materials relating to international communism. The Library of the Reference Center for Marxist Studies (the research library maintained by the Communist Party at its New York headquarters) is a comprehensive collection focusing on the history of communism, socialism, and Marxist theory and practice. It contains rare and ephemeral publications issued by left-wing and labor presses, and a nearly complete run of Communist Party publications, monographs, journals, pamphlets, and newspapers published in Cuba, Eastern Europe, China, the Soviet Union, Africa, Southeast Asia, and Latin America, many of which are not available in North American research libraries."
+hc_id: "289"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "665 Broadway"
+address2:  "Suite 801"
+city:  "New York"
+state:  "NY"
+zip: "10012"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$492,901"
+material_description:  "NULL"
 ---
-
-

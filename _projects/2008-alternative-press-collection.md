@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Alternative Press Collection
+title: "Alternative Press Collection"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "The collection primarily covers alternative publications from the U. S., but does include publications from other English-speaking countries."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Betsy Pittman"
+size: "4800 linear feet, 800000 objects"
+start_range: "1880"
+summary: "The Alternative Press Collection (APC) is one of the University of Connecticut’s signature collections. In 2007, the collection was featured in the ARL 75th anniversary publication, \"Celebrating Research: Rare and Special Collections from the Membership of the Association of Research Libraries.\" The APC was founded in the late 1960s as a repository for publications emanating from activist movements for social, cultural and political change. The collection is currently one of the largest in the United States of its kind and contains thousands of newspapers, serials, books, pamphlets, ephemera and artifacts documenting activist themes and organizations. In addition to historic materials, the collection includes contemporary alternative publications as well, with 90 non-mainstream serials currently on subscription. The collection receives heavy use by researchers and daily Inter-Library Loan requests from other libraries. The strength of the Alternative Press Collection pertains to the Vietnam Era anti-war and counterculture movements. The collection includes the library from the Radical Education Project of the Students for a Democratic Society (SDS), and contains hundreds of student publications from around the United States. Other publications document social movements regarding race and ethnicity; feminism, gender expression and sexual orientation; materials advocating for the rights of other traditionally marginalized groups; and environmental sustainability."
+hc_id: "258"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "405 Babbidge Road"
+address2:  "Unit 1205"
+city:  "Storrs"
+state:  "CT"
+zip: "06269-1205"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

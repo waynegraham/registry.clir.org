@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Road from Hell is Paved with Little Rocks: Digitizing the History of Segregation and Integration of Arkansas's Educational System
+title: "The Road from Hell is Paved with Little Rocks: Digitizing the History of Segregation and Integration of Arkansas's Educational System"
+year: 2015
+end_range: 2012
+formats: "NULL"
+geographic_extant: "Given the diaspora of Dunbar alumni, involvement of the 101st Airborne Division, and national media coverage of the Central High integration crisis, these collections contain materials from across the United States. Though the majority originates from Little Rock, North Little Rock, and central Arkansas."
+institution: "University of Arkansas at Little Rock Center for Arkansas History and Culture"
+institution_type: "NULL"
+primary_contact: "Dr. Deborah Baldwin"
+size: "NULL"
+start_range: "1880"
+summary: "This 18-month project brings together the University of Arkansas at Little Rock Center for Arkansas History and Culture, Central Arkansas Library System Butler Center for Arkansas Studies, and Little Rock Central High School National Historic Site to digitize a range of materials documenting African American education during segregation and the path to integration. Digitization of collections from the three institutions, which include manuscripts, oral histories, photographs, and audiovisual recordings, will be outsourced, while metadata adaptation and creation will be done in-house. In addition to a blog documenting the project, staff will create a virtual exhibit to provide an overview of and historical context for the digitized material. Digitizing this unique group of archival collections will provide scholars of civil rights, race, education, and the law the opportunity to study the evolution of education in Arkansas through the lens of religion, the judicial system, and contemporary students and educators."
+hc_id: "18602989"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "University of Arkansas at Little Rock Center for Arkansas History and Culture"
+p2_name:  "Mr. Chad Garrett"
+p2_institution:  "UALR Center for Arkansas History and Culture"
+p3_name:  "Ms. Sarah Bost"
+p3_institution:  "UALR Center for Arkansas History and Culture"
+material_string: "<li>180.21 Manuscripts</li>"
+collaborating_institution:  "Central Arkansas Library System Butler Center for Arkansas Studies (CALS); Little Rock Central High School National Historic Site (CHSC)"
+grant_amount:  "$106,908.00"
+material_description:  "The National Dunbar Historical Collections contains materials pertaining to Dunbar High School, Little Rock's high school for African American students before integration. This collection originates from a joint effort of the National Dunbar Alumni Association (NDAA) and the University of Arkansas at Little Rock (UALR). The FBI: Little Rock School Crisis Report was received by UALR in 1981 through FOIA requests. Judge Ronald Davies requested the U.S. Attorney authorize an FBI investigation after receiving information the National Guard had turned away nine African American students who had attempted to attend classes at Central High School in September 1957. Robert Brown, Bishop of the Episcopal Diocese of Arkansas during the Central High integration crisis, spoke out against Governor Faubus's handling of the school crisis. Included in Brown's papers are letters both supporting and criticizing his position. Elizabeth Huckaby taught English at Central High School for over 40 years. She kept a journal during the integration crisis and published a book which was later made into a film. Federal Judge Harry Lemley's 1958 ruling in the case Aaron v. Cooper temporarily halted the integration of Little Rock's Central High School. His papers contain a scrapbook and correspondence detailing his role in the desegregation crisis. Little Rock Central High School National Historic Site houses material related to the Little Rock Nine, Women's Emergency Committee, the organization of the Central High Museum prior to its affiliation with the National Park Service, and oral histories. The Office of Desegregation Monitoring (ODM) is a federal office resulting of a Pulaski County school desegregation case (filed November 30, 1982) and charged with monitoring and assisting efforts of three school districts to meet desegregation obligations and mandates. ODM records include documents, court filings and exhibits, and correspondence, maps, school profiles, and reports concerning compliances, operations, and policies."
 ---
-
-

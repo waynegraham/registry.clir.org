@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: A Seat at the Table: Critical Voices from the Late 20th Century
+title: "A Seat at the Table: Critical Voices from the Late 20th Century"
+year: 2017
+end_range: 2002
+formats: "NULL"
+geographic_extant: "All interviews were recorded at the WNYC studios, then located at One Centre Street in New York City. Interviewees however, hail from all over the world, and thus the recordings represent many international voices, stories, and perspectives."
+institution: "New York Public Radio"
+institution_type: "NULL"
+primary_contact: "Mr. Andy Lanset"
+size: "NULL"
+start_range: "1985"
+summary: "New York Public Radio will digitize 2,350 hours of conversations with many influential and provocative thinkers, writers, and artists of the late 20th century. Recorded on 1,700 tapes, (1/4” reel, audio cassette and F-1 Beta) they originally aired on WNYC’s Peabody Award winning program, “The Leonard Lopate Show,” previously known as “Senior Edition” and “New York & Company.” These conversations aired between 1985 – 2002, a 17-year period filled with game-changing events, among them: the ascendancy (now ubiquity) of the internet; communism’s fall; the AIDS epidemic; the rise of global terrorism. The interviews, featuring hundreds of cultural and political figures and public intellectuals, comprise a treasure trove of unique audio primary sources that, when widely digitally accessible, will enhance the historical record, foster scholarly research, and help specialists and the general public make new discoveries about the ideas and work of some of our most important cultural and public figures."
+hc_id: "26893306"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "New York Public Radio"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>2350 Audio Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$227,825"
+material_description:  "NYPR’s flagship station WNYC has been a vital community resource for ninety years. For thirty years, Leonard Lopate’s Peabody-Award winning daily broadcast has brought spirited conversation and insights to millions. His interviews are both intimate and expansive; he has welcomed hundreds of fascinating, thought-provoking individuals: writers; scholars; historians; economists; politicians; scientists; actors; filmmakers; artists; dancers; even presidents. As he said in his Peabody Award acceptance, “I have tried to give my guests plenty of room to surprise and move us with their depth, wisdom and humanity.” This collection comprises 2,350 hours of conversation. Interviews, conducted between 1985-2002, are 20-60 minutes long. Many of the individuals were at critical moments in their lives; others were looking back on long, storied careers. All were engaged in the often tumultuous events of their eras and each broadcast’s mix of guests illuminates our cultural history. Writers from the world over constitute the largest group including: Toni Morrison; Louise Erdrich; Amy Tan; Hilary Mantel; Tom Stoppard; and Salman Rushdie. Particularly historically important are interviews with now deceased individuals including Spalding Gray, Nadine Gordimer, Oliver Sacks, and Studs Terkel. Two notable conversations are with John Lewis and Gloria Steinem whose passions and historical perspectives continue to inspire a new generation of activists today. These broadcasts are one-of-a-kind, capturing important conversations that, as the Peabody committee said, “recognize and explicate issues and activities neglected by other media.” As such they are a window on our culture; their digital accessibility will do much to serve the public good."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Preserving a foundational study on African American Language
+title: "Preserving a foundational study on African American Language"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "North Carolina State University"
+institution_type: "NULL"
+primary_contact: "Dr. Walt Wolfram"
+size: "NULL"
+start_range: "NULL"
+summary: "The Language & Life Project (LLP) and the Sociolinguistic Archive and Analysis Project (SLAAP), partnering with The MediaPreserve will reformat 728 at-risk, rare audio interviews created for a foundational study on social stratification in American English (1966-67), “The Detroit Dialect Study”. The interviews represent speakers from a variety of ethnic, religious, and economic backgrounds, and the oral history style of the sociolinguistic interview covers content of interest to a wide array of researchers and the public such as politics, education, cultural norms and traditions. Further, a subset of the interviews are of critical importance to the study of African American Language, allowing researchers to gain a fuller understanding of its earlier development in urban contexts using modern methods of analysis. The digitized corpus will be incorporated into a larger collection via SLAAP, an audio archive that will enable access to and individual as well as collaborative analysis of the data."
+hc_id: "26859737"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "North Carolina State University"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "728 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$27,500"
+material_description:  "NULL"
 ---
-
-

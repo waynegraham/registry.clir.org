@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Uncovering America's musical heritage: the Towne Crier Collection and the Clifford Morris Collection
+title: "Uncovering America's musical heritage: the Towne Crier Collection and the Clifford Morris Collection"
+year: 2012
+end_range: 2004
+formats: "NULL"
+geographic_extant: "Primarily the United States (recorded within the U.S.); includes some musicians and styles from other continents (Europe, South America, Africa)."
+institution: "Wesleyan University"
+institution_type: "NULL"
+primary_contact: "Rebecca McCallum"
+size: "3797 objects"
+start_range: "1922"
+summary: "The two collections in this project both highlight American music in the 20th century. The Towne Crier Collection covers thirty years (1973-2003) of concert recordings from three venues: The Towne Crier Café (a venue in Pawling, NY), the Great Hudson River Revival, and the Bear Mountain Festival of World Music and Dance. The collection consists of over 3,000 cassettes and almost 400 reel-to-reel tapes. The Towne Crier Café, founded in 1973 by current owner Phil Ciganer, remains one of the most celebrated settings in North America for solo performances and small ensemble music. The focus of the café has been American folk music, including jazz, blues, bluegrass, zydeco, protest songs, old-time music, and Cajun, but also includes performances of world music, including African, Celtic, and Latin American. Artists represented include Pete Seeger, Arlo Guthrie, Wynton Marsalis, Richard Thompson, Ani DiFranco, David Byrne, and many others. The Clifford Morris Collection consists of recordings of Fats Waller, both solo and with bands, from 1922 to 1943. The collection was compiled by Wallace \"Ed\" Kirkeby, Waller's last manager, in an attempt to preserve all known examples of Waller's recorded output. It includes about two dozen unique home-recorded numbers, as well as about 600 recorded numbers taken from 78 rpm records, 16-inch studio transcriptions, off-the-air transcriptions, tests, and commercial recordings."
+hc_id: "888"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Wesleyan University"
+address2:  "237 High Street"
+city:  "Middletown"
+state:  "CT"
+zip: "6459"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

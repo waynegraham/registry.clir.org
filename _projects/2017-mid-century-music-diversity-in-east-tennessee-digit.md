@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Mid-century Music Diversity in East Tennessee: Digitizing country, jazz, old time, pop and religious music from the Tennessee Archive of Moving Image and Sound’s circa 1950s studio and field recordings
+title: "Mid-century Music Diversity in East Tennessee: Digitizing country, jazz, old time, pop and religious music from the Tennessee Archive of Moving Image and Sound’s circa 1950s studio and field recordings"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Friends of the Knox County Public Library on behalf of the Knox County Public Library Tennessee Archive of Moving Image and Sound (TAMIS)"
+institution_type: "NULL"
+primary_contact: "Mr. Eric Dawson"
+size: "NULL"
+start_range: "NULL"
+summary: "TAMIS seeks to digitize and provide access to thirty ¼-inch reel-to-reel audio tapes recorded in East Tennessee in the 1950s, representing an array of musical styles produced in the region. Captured on the tapes comprising the Jack Comer, Valley Records and Mark Pritcher collections are field recordings of African American and White Protestant church revivals, shape note singing, old time music concerts, a reunion concert by Jimmy and Tommy Dorsey and studio recordings made by regional country and pop musicians. The recordings will be converted to digital files, cataloged and made accessible to scholars, researchers and the general public. The accessibility of these tapes will offer audio documents presenting the diversity of music created and heard in East Tennessee in the 1950s."
+hc_id: "25054960"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Knox County Public Library Tennessee Archive of Moving Image and Sound"
+p2_name:  "Mr. John Morton"
+p2_institution:  "Knox County Public Library Tennessee Archive of Moving Image and Sound"
+p3_name:  "Ms. Casey Fox"
+p3_institution:  "Knox County Public Library"
+material_string: "30 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$11,529"
+material_description:  "The Jack Comer Collection consists of ten ¼ -inch reel-to-reel tapes donated by his widow, Marjorie Comer. They contain live recordings of an April 21, 1953 concert by Jimmy and Tommy Dorsey in Knoxville, Tennessee, in which Jimmy announces the brothers will be reuniting as a performing unit following a 17 year separation. The tapes also include unreleased studio sessions by country music artist Don Gibson and an unknown doo-wop group. The Valley Records Collections consists of six ¼-inch open reel-to-reel tapes and a short reel of tape fragments. They contain master and unissued takes of songs recorded in the 1950s for release by Jack Comer’s Valley Records label, including the first recording of songwriter Artie Glenn’s “Crying in the Chapel,” performed by his son Darrell Glenn. Prior to its demolition, the tapes were recovered from the building which once housed the Valley studios, and donated to the archive by Russ Wilson of Hendersonville, North Carolina. The Mark Pritcher Collection consists of fourteen ¼-inch open reel-to-reel tapes recorded by Dr. John H. Dougherty in the 1950s, and donated by Dr. Mark Pritcher. These contain field recordings of an April 19, 1958 old time music concert, church congregational shape note singing in the Old Harp tradition from 1955-1957, a July 13, 1957 Pentecostal Church of Christ in God tent revival led by Bishop J.O. Patterson, Sr., an August 27, 1957 revival led by Baptist evangelist Eddie Martin, and the October 21, 1961 dedication and stone laying service of the African-American First Calvary Baptist Church of Knoxville. The revivals and church dedication have an emphasis on religious music performed there."
 ---
-
-

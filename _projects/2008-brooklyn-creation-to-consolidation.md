@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Brooklyn: Creation to Consolidation
+title: "Brooklyn: Creation to Consolidation"
+year: 2008
+end_range: 1898
+formats: "NULL"
+geographic_extant: "The main scope is Brooklyn, New York. Nassau and Suffolk counties in Long Island, and New York City also included, given their intertwined histories."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Chela Weber"
+size: "250 linear feet, 7000 objects"
+start_range: "1635"
+summary: "The collections included for \"Brooklyn: Creation to Consolidation\" cover the period from just before the Revolutionary War to the consolidation of New York City in 1898. They include historic maps and atlases illustrating Brooklyn's development from farmland to city. Archives & manuscript collections date back to the period of colonial settlement and include: Native American land deeds; contracts of labor and indenture; slave bills of sale; Revolutionary War military records of both loyalists and patriots; Civil War diaries; documentation of the beginnings of Brooklyn's mass transit system; and records of commercial, residential, and community development of the emerging urban area throughout the 19th century. Photograph collections depict the various sections of the Brooklyn waterfront, street scenes, major events such as the Blizzard of 1888 and the Revolutionary War Centennial celebration, people in the midst of recreation and daily activities, the building of the Brooklyn Bridge, and many portraits in varied historical photographic formats such as glass negatives and slides, tintypes, stereographic prints, and daguerreotypes."
+hc_id: "83"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "128 Pierrepont St."
+address2:  "NULL"
+city:  "Brooklyn"
+state:  "NY"
+zip: "11201"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

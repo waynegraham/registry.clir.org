@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Innovation into Practice: Providing Access to Records of Pioneers in Science and Technology
+title: "Innovation into Practice: Providing Access to Records of Pioneers in Science and Technology"
+year: 2014
+end_range: 2013
+formats: "NULL"
+geographic_extant: "Global. Most scholars based in North Carolina, also working and collaborating with scientists around the world."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Linda Sellars"
+size: "1456 linear feet"
+start_range: "1894"
+summary: "Two-year project to arrange and describe 35 archival collections relating to the research, teaching, professional activities and government roles of scholars and pioneers in the sciences, documenting new directions and the innovative impact of leaders in the disciplines of physics; nuclear, chemical, agricultural, and biomedical engineering; and veterinary and zoological health. Notable among the collections are papers of Raymond LeRoy Murray, who created the groundbreaking nuclear engineering curriculum at NC State and was a key figure in the design, construction and operation of the country's first private nuclear reactor, the only one of its kind used for teaching and research."
+hc_id: "10845051"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

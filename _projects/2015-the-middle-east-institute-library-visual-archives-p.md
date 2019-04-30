@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Middle East Institute Library Visual Archives Project
+title: "The Middle East Institute Library Visual Archives Project"
+year: 2015
+end_range: 2005
+formats: "NULL"
+geographic_extant: "Algeria, Abu Dhabi, Bahrain, Cyprus, Egypt, Jordan, Iran, Iraq, Israel, Lebanon, Morocco, Oman, Pakistan, Palestine, Qatar, Saudi Arabia, Syria, Tunisia, Turkey, and Yemen."
+institution: "The Middle East Institute (MEI)"
+institution_type: "NULL"
+primary_contact: "Ms. Amal Morsy"
+size: "NULL"
+start_range: "1920"
+summary: "The Middle East Institute (MEI) proposes to digitize three collections of images currently held in the MEI Library. The MEI Library Visual Archives Project, a two-year endeavor, will be completed in cooperation with vendors M2Schema, Immerge Technologies, and consultants. The final product will include 25,138 digitized visual images housed in a fully searchable online catalog. These images include depictions of 85 years of Middle Eastern history (1920-2005) in 16 countries. The collections offer a unique, nuanced look at the geography, architecture, historic events, political figures, and day-to-day life in locations throughout the region, as provided by the sources' travel experiences and regional expertise. Whether looking at the changing nature of landscapes and urban areas, or culture, art and architecture, the scholarly impact of the digitization of these previously hidden resources is highly significant."
+hc_id: "17595589"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "The Middle East Institute"
+p2_name:  "Ms. Tamara"
+p2_institution:  "CFO"
+p3_name:  "Ms."
+p3_institution:  "NULL"
+material_string: "<li>25138 slides, photos, and photo-postcards</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$247,278"
+material_description:  "The MEI Library Visual Archives Project will be a two-year undertaking to digitize three image collections currently held by the MEI Library. These collections include images of 16 Middle Eastern countries, depicting the region during the period between 1920 and 2005. The collections offer an illustration of the 20th- and early 21st-century Middle East; they depict significant events, political figures, architecture, geography, day-to-day life, and more. The largest of the three collections comes from Dr. Colbert Held, a former Foreign Service officer, professor, political geographer, and writer of Middle East Patterns: Places, People, and Politics. Dr. Held has significant experience in and knowledge of the Middle East, and is an adept photographer who thoroughly documented his experiences. During his diplomatic career and his post-service excursions across the region, he took over 18,500 Kodachrome slides chronicling his travels and observations. In late 2014, Dr. Held donated them to the MEI Library, providing MEI the opportunity to digitize, preserve, and share his work. In addition to Dr. Held's collection, MEI also has a set of 1,000 additional Kodachrome slides. These were produced by MEI, and include visuals of MEI policy presentations during the 1960s, 1970s and 1980s. Some of these slides are of briefings to policymakers and include now declassified information contributing to the planning of military and strategic operations. The third collection consists of photographs and photo-postcards from the personal collection of George Camp Keiser and his wife Nancy Hull Keiser, donated to MEI by their daughter Anne. George Camp Keiser (http://www.mei.edu/george-camp-keiser) founded MEI in 1946. He was an architect by training, with a passionate interest in Islamic architecture. Spanning the time period from the mid-1920s to the mid-1950s, Mr. Keiser's collection includes 2,819 photo-postcards from his travels throughout the Middle East."
 ---
-
-

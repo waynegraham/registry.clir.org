@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Expanding Access to Special Collections at the Free Library: the Children’s Literature Research Collection and beyond
+title: "Expanding Access to Special Collections at the Free Library: the Children’s Literature Research Collection and beyond"
+year: 2011
+end_range: 1994
+formats: "NULL"
+geographic_extant: "The text materials are mainly in English and primarily relate to children's literature produced and published in the United States."
+institution: "Free Library of Philadelphia"
+institution_type: "NULL"
+primary_contact: "Gena Seroogy"
+size: "58 linear feet"
+start_range: "1903"
+summary: "The 31 archival collections proposed for cataloging through this project are part of the Free Library's Children's Literature Research Collection (CLRC) and represent works from 20th-century children's authors and illustrators. The collections range in prominence from national award-winners to local authors of regional significance including Katherine Milhous and Frances Lichten, Marguerite de Angeli, Jane Flory, Lucille Wallower, Beatrice Schenk de Regniers, Aliki Brandenberg, Elizabeth Ripley, Elizabeth Olds, Scott O'Dell, William Steig, Marcia Brown, Hendrik Willem van Loon, Eulalie Osgood Grover, Corydon Bell, Jim Arnosky, Donald E. Cooke, and Kristin Hunter Lattany. The collections vary in size and contain original paintings, drawings, dummies, mockups, correspondence, scrapbooks, notebooks, galley proofs, manuscripts, photos, clippings, artifacts, storyboards, diaries, dolls, tapestries, and model houses. The individuals are critically acclaimed, representing a collective 16 Caldecott Medals or Honors and 14 Newbery Awards or Honors, and many of them lived and worked in the Pennsylvania region. The collections outline the development of the individual artists as well as the field of children's literature during the 20th century. Many of the collections were obtained by Carolyn Field, the Free Library's Coordinator of Work with Children from 1953 to 1983 and a critical figure in the development of children's librarianship and the field of children's literature."
+hc_id: "750"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1901 Vine Street"
+address2:  "Room 111"
+city:  "Philadelphia"
+state:  "PA"
+zip: "19103"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Unseen American Vernacular Music: Cataloging the U-Matic Video Collection at Country Music Foundation
+title: "Unseen American Vernacular Music: Cataloging the U-Matic Video Collection at Country Music Foundation"
+year: 2011
+end_range: 1985
+formats: "NULL"
+geographic_extant: "The contents generally focus on the American South and West, from Southern California to Austin, Texas, Nashville, TN, and South Carolina."
+institution: "Country Music Foundation"
+institution_type: "NULL"
+primary_contact: "Kelli Hix"
+size: "79632 cubic feet, 948 linear feet, 5163 objects"
+start_range: "1971"
+summary: "The U-Matic collection contains a vast variety of content which tells the story of North American country and vernacular music. Footage in the collection dates from as early as the 1940s and as late at the mid 1980s. The collection is informally grouped into 4 series or sub-collections: the Graham Collection, the Dick Heard Collection (both named for their donors), the Music Video Collection, and the Format Transfer Collection. Rare interviews, musical performances, and rare early television footage of country musicians from 1961-1980 make up much of the Graham Collection. The Dick Heard Collection ties vernacular music to its geography and current events during the early 1980s: these tapes consist largely of unedited camera-original footage depicting regional cultural music events, intended for use in television broadcast. The Music Video Collection, donated throughout the years by record labels and production companies, documents the radical change in popular country music's sound, style, and fan base during the 1980s era, when country music exploded from its regional roots to blend with rock, pop, jazz, and even world music to become one of the most popular musical forms in the world. The Format Transfer Collection contains home movies, orphan films, live events, and other footage which originated on film or early video from as early as 1945. In cases where the original element has suffered decay or color fading, these tapes may be the best quality extant."
+hc_id: "803"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "222 5th Avenue South"
+address2:  "NULL"
+city:  "Nashville"
+state:  "TN"
+zip: "37203"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Uncovering a Forbidden World: Providing Access to East German Art, Culture, and Politics
+title: "Uncovering a Forbidden World: Providing Access to East German Art, Culture, and Politics"
+year: 2009
+end_range: 1990
+formats: "NULL"
+geographic_extant: "Posters in the collection are primarily from major cities in the German Democratic Republic, including Berlin, Leipzig, and Potsdam."
+institution: "George Mason University"
+institution_type: "NULL"
+primary_contact: "Melissa McAfee"
+size: "7300 objects"
+start_range: "1949"
+summary: "The collection comprises approximately 7,300 posters from the former German Democratic Republic (GDR) in the following categories: film studios (3,300), art exhibitions (1,600), theaters (1,100) political campaigns and propaganda (700), and festivals, sports, and recreation (600). It was formed by Thomas Hill, a German book dealer and collector, who acquired most of them from the East German Association of Fine Artists in Berlin, Germany. The posters in the collection, were commissioned by major GDR performing arts organizations, including theaters, opera houses, and ballet companies; the state-sponsored film studios; and art museums and galleries. In addition, the collection includes campaign posters from the first free elections in East Germany in March 1990 and the first German election after reunification in October 1990. The materials date from the beginning of the GDR in 1949 to the German reunification in 1990. Examples from all periods of GDR history are represented in all categories, with the exception of the theater posters, the majority of which date from the 1960s through the 1980s."
+hc_id: "447"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "4400 University Drive"
+address2:  "MS 1A3"
+city:  "Fairfax"
+state:  "VA"
+zip: "22030"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$76,800"
+material_description:  "NULL"
 ---
-
-

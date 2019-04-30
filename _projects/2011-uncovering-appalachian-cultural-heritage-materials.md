@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Uncovering Appalachian Cultural Heritage Materials
+title: "Uncovering Appalachian Cultural Heritage Materials"
+year: 2011
+end_range: 1983
+formats: "NULL"
+geographic_extant: "The collections are located in southeastern Kentucky and the geographic scope of the materials covers Central Appalachia."
+institution: "N/A"
+institution_type: "NULL"
+primary_contact: "Elizabeth Barret"
+size: "13000 objects"
+start_range: "1913"
+summary: "Appalshop Archive: The collection contains approximately 500 16mm film and audio elements recorded by members of the Appalshop Film Workshop. Content includes interviews and footage which document aspects of life in Appalachia including coal camp life, union events, music events, craftspeople, social and religious traditions and practices. The elements in the collection include camera original picture elements, original audiotape elements, and workprint (picture and sound elements that were edited to run in sync). While the titles for these elements are written on the cans and boxes in which they are housed, the archive will need to research and, when possible, playback selected elements in order to deepen available metadata. Pine Mountain Settlement School: The collection contains ten (10) 16mm films and approximately 10,000 photographs which represent the history of the School from its conception in 1912 to the present day. A National Historic Landmark, Pine Mountain Settlement School was founded in 1913 as a school for children in the commonwealth's remote southeastern mountains and a social center for surrounding communities. Southeast Kentucky Community and Technical College: The Benham Lynch Collection (circa 1917 to 1958) consists of 2500 photographic images, acetate negatives, and glass plate negatives. Benham and Lynch are Harlan County coal camps begun in the second decade of the 20th century. Benham was built by the International Harvester Company and Lynch by United States Steel. At the time of their construction, they were considered \"model\" coal camps, in a time when housing and living conditions for Appalachian coal miners and their families varied broadly. The photography collection consists of prints and negatives taken by company photographers during the construction and early years of the two towns."
+hc_id: "709"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "91 Madison Avenue"
+address2:  "NULL"
+city:  "Whitesburg"
+state:  "KY"
+zip: "41858"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

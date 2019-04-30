@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Walter Rauschenbusch Family Papers and the New York City Baptist Mission Society Records at the American Baptist Historical Society
+title: "The Walter Rauschenbusch Family Papers and the New York City Baptist Mission Society Records at the American Baptist Historical Society"
+year: 2013
+end_range: 1979
+formats: "NULL"
+geographic_extant: "The geographic scope is New York City. Most materials are in English, but some are in German."
+institution: "American Baptist Historical Society"
+institution_type: "NULL"
+primary_contact: "Jan Ballard"
+size: "247 cubic feet"
+start_range: "1812"
+summary: "The Walter Rauschenbusch (1861-1918) Family Papers (1861-1965; 107 cubic feet) document the life and work of Walter Rauschenbusch (WR) the Baptist theologian whose writings provide the philosophical underpinnings of the Social Gospel Movement. WR's papers include 40 feet of his correspondence, resource files, notes, clippings, essays, scrapbooks, book-length manuscripts, and other formats. Sixty-seven feet comprise correspondence, diaries, and other writings documenting the family life and political activities of his immediate family in the 50 years following his death. WR's early work at Second Baptist Church near Hell's Kitchen was supported by the New York City Baptist Mission Society (NYCBMS), on whose board he served. His ideas influenced the work of the NYCBMS, which funded bilingual churches for immigrants and championed progressive civil rights and labor policies. The NYCBMS Records (1812-1979; 140 feet) document this work through financial and legal records, minutes, correspondence, photos, and other items. Taken together these collections document the Social Gospel Movement in America as it was conceived and developed in the crucible of Manhattan's most socially and financially challenged neighborhoods. Here historians of politics, immigration, women, African-Americans, philanthropy, labor, religion, education, social work, and the family will discover valuable research resources."
+hc_id: "1183"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "3001 Mercer University Drive"
+address2:  "NULL"
+city:  "Atlanta"
+state:  "GA"
+zip: "30341"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Wolfsonian Florida International University (FIU) Library Archives and Ephemera Collection
+title: "The Wolfsonian Florida International University (FIU) Library Archives and Ephemera Collection"
+year: 2008
+end_range: 1945
+formats: "NULL"
+geographic_extant: "Holdings are mostly European and American, but also include items created for expositions and tourism that address Latin American, Asia, and Africa"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Joel Hollander"
+size: "530 boxes, 37 cubic feet, 35000 objects"
+start_range: "1851"
+summary: "The Wolfsonian - FIU library holds approximately 35,000 ephemeral items and 17 archives that illustrate the persuasive power of art and design in shaping modern culture and society during the period 1851-1945. The postcards, leaflets, calendars, and small-format print materials promote 19th and 20th century international expositions, war propaganda, travel, and product advertising. The collection reflects many of the significant modern aesthetic movements, including Arts and Crafts, Art Nouveau, Art Moderne, Futurism, and Constructivism. The items express this period’s major ideological tendencies and serve as artifacts of critical historical episodes (e.g., European colonialism, the “total wars” of the 20th century, \"New Deal\" America, and totalitarian regimes in Italy, Germany, and the Soviet Union). The museum’s archives also reflect these same strengths. The archival collections are comprised of promotional materials from the Great Lakes Exposition (Cleveland,1936) and the New York World's Fair (1939); war-time propaganda from the sinking of the Lusitania (1915) to American areal operations aimed at liberating Italy during World War II; the final years of Mussolini's Fascist Republic (1943-1945); architectural designs and interior decoration projects by Americans Henry Hohauser, Paul Silverthorne, and Frederick T. Rank; Robert Delson's tenure as Federal Arts Project coordinator for Florida; and the exhibition designs and advertising materials of Herbert Bayer."
+hc_id: "75"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1001 Washington Avenue"
+address2:  "NULL"
+city:  "Miami Beach"
+state:  "FL"
+zip: "33139"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

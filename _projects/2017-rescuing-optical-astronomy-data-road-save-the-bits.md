@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Rescuing Optical Astronomy Data (ROAD): Save the Bits
+title: "Rescuing Optical Astronomy Data (ROAD): Save the Bits"
+year: 2017
+end_range: 1993
+formats: "NULL"
+geographic_extant: "Kitt Peak National Observatory (KPNO) near Tucson, Arizona, and Cerro Tololo Inter-American Observatory (CTIO) near La Serena, Chile"
+institution: "American Astronomical Society"
+institution_type: "NULL"
+primary_contact: "Ms. Julie Steffen"
+size: "NULL"
+start_range: "1993"
+summary: "This project proposes to migrate a valuable collection of optical astronomy data currently stored on obsolete magnetic tapes into a new online repository called Astrolabe, where it will be widely accessible for further research, follow-up to new scientific observations, and linking to corresponding scholarly publications through emerging paradigms for open data and open science. Since the equipment needed to read these tapes is becoming obsolete, and since the tapes themselves are not being curated for long-term preservation, the data are in danger of being lost forever. As a long-lived scholarly institution serving the United States astronomy community, American Astronomical Society (AAS) is committed to providing astronomers with innovative services in a spirit of openness and collaboration. AAS will oversee the effort to rescue this collection of data in support of the needs of the community, and to further contribute to development of the Astrolabe system for astronomical research."
+hc_id: "26893644"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "American Astronomical Society"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>9300 Exabyte tapes</li>"
+collaborating_institution:  "N/A"
+grant_amount:  "$175,975"
+material_description:  "The collection contains around 40 Terabytes of raw astronomical data in FITS file format, on approximately 9,300 8mm Exabyte tapes, created by the National Optical Astronomy Observatory (NOAO) between 1993 and 2004. These data represent astronomical observations taken at Kitt Peak National Observatory (KPNO) near Tucson, Arizona and at Cerro Tololo Inter-American Observatory (CTIO) near La Serena, Chile. Beginning in 1993, NOAO implemented the “Save-the-bits” program, which systematically saved these raw data from telescopes at KPNO and CTIO, including particularly high-value wide-field data from powerful Mosaic cameras. After 2004, NOAO upgraded its data management system to utilize higher density spinning disk media, facilitating data access via the NOAO Science Data Archive (archive.noao.edu). Each tape represents a partial or a full night of observations at an NOAO telescope, and it is difficult to precisely estimate the number of files in the collection, since weather and instrumentation conditions are variable and can prevent obtaining useful data. However, considering that a single tape may contain 500-600 images from a successful night of observing, the collection may contain roughly 4 million individual files. The metadata to describe these files is incomplete, and the expertise of NOAO scientists will be required to validate metadata quality and fill in or correct missing information; many of the individuals with this expertise and direct experience with the data are now nearing or past retirement."
 ---
-
-

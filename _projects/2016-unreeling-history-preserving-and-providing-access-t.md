@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Unreeling History: Preserving and Providing Access to NPR's 'All Things Considered,' 1971-1983
+title: "Unreeling History: Preserving and Providing Access to NPR's 'All Things Considered,' 1971-1983"
+year: 2016
+end_range: 1983
+formats: "NULL"
+geographic_extant: "“All Things Considered” features stories and reports from the United States and the world. Between 1971 and 1983, NPR often solicited pieces from locally-owned member stations across the country, making the program national in input as well as distribution."
+institution: "NPR"
+institution_type: "NULL"
+primary_contact: "Ms. Laura Soto-Barra"
+size: "NULL"
+start_range: "1971"
+summary: "NPR's Research, Archives & Data Strategy (RAD) team, in collaboration with the University of Maryland (UMD), will digitize, preserve and provide access to the first twelve years of NPR's national radio newsmagazine, 'All Things Considered.' Featuring the sounds and voices from the most important events, people and stories of its time, 'All Things Considered' is an invaluable primary source for scholarly research. During the 32 month project, RAD will digitally reformat almost 6,000 hours of audio currently stored on obsolete open reel tape. The digitized audio will be ingested into NPR's searchable database, accessible to the public through the University of Maryland. Over 60,000 metadata records will be integrated with the University of Maryland Libraries Online Catalog and WorldCat for enhanced discovery. A curated selection of historically significant stories will be shared with the public on NPR.org and through social media."
+hc_id: "21005534"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NPR"
+p2_name:  "Mr. William Chase"
+p2_institution:  "NPR"
+p3_name:  "Ms. Julie Rogers"
+p3_institution:  "NPR Research, Archives & Data Strategy"
+material_string: "<li>5986 Audio Recordings</li>"
+collaborating_institution:  "University of Maryland Libraries"
+grant_amount:  "$499,764.00"
+material_description:  "The materials nominated for digitization are master recordings of 'All Things Considered' (ATC) produced and aired by NPR between 1971 and 1983. The audio is stored on open reel tape, an obsolete media format, at the University of Maryland Libraries in College Park, MD. Between 1976 and 2003, the reels were stored at the National Archives and Records Administration in Adelphi, MD. In 2003, the University of Maryland became the official repository of this NPR collection. These early ATC broadcasts are an invaluable resource for scholars, students and the general public. The almost 6,000 broadcast hours chronicle the most important events -- political, legal and cultural -- of the time period. From the first broadcast, ATC was defined by experimentation with sound and technology, in-depth reporting and a commitment to public service. In contrast to commercial news bulletins, ATC favored long-form narrative punctuated with ambient sound and first person interviews. But what really set the new program apart from other national news broadcasts was its mandate to \"speak with many voices and many dialects.\" In 1972, the program made history when host Susan Stamberg became the first woman in America to anchor a national news broadcast. By opening the airwaves to women, minorities and regional voices,ATC redefined the content, substance and sound of the national news. ATC's distinctive style of storytelling has become integral to American media and continues to be a critical part of the American cultural landscape. The program celebrates its 45th anniversary in 2016. ATC was inducted into the National Radio Hall of Fame in 1993, and has won numerous accolades including the George Foster Peabody Award and the Alfred I. duPont-Columbia University Award."
 ---
-
-

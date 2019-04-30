@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Paul E. Tsongas Congressional and Presidential-Campaign Papers
+title: "Paul E. Tsongas Congressional and Presidential-Campaign Papers"
+year: 2009
+end_range: 1994
+formats: "NULL"
+geographic_extant: "The physical collection is located at UMass Lowell Libraries in Lowell, Massachusetts."
+institution: "University of Massachusetts Lowell"
+institution_type: "NULL"
+primary_contact: "Joseph Fisher"
+size: "800 boxes, 500 linear feet"
+start_range: "1974"
+summary: "The Tsongas Collection offers an unusual combination of political papers and memorabilia that documents terms spent in the U.S. House of Representatives and Senate from 1974 to 1984 as well as his Presidential campaign from 1991 to 1992. The Collection represents national politics and, as such, is international in scope. The dominant concerns throughout Tsongas’s political career, however, were focused on domestic issues. Compelled by the challenges faced by his home town of Lowell, Massachusetts, during the demise of its textile industry, Tsongas served on key committees in the House and Senate that enabled him to confront national problems of manufacturing decline and related economic, energy, and environmental issues. Legislation concerning energy policy, the county’s reliance on foreign oil, conservation, nuclear energy, and environmental protection were of particular importance to Tsongas throughout his political career and figured largely in much of the legislation he worked on, the speeches he gave, and the books he wrote. Materials associated with these issues such as hearing notes, reports, briefs, correspondence, and speeches comprise a large portion the Collection. Topic highlights include the 1978 Lowell National Historical Park, the 1979 Chrysler bailout, and the 1980 Alaska Lands Act, all of which passed due to legislation written by Tsongas. Other highlights include manuscripts, typescripts, and proofs of his books."
+hc_id: "566"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "61 Wilder St."
+address2:  "NULL"
+city:  "Lowell"
+state:  "MA"
+zip: "2184"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

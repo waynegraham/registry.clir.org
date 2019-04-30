@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Romare Bearden Archive
+title: "The Romare Bearden Archive"
+year: 2013
+end_range: 1988
+formats: "NULL"
+geographic_extant: "The materials are mainly from the U.S., depending on where Bearden was living, exhibiting, etc. The majority of materials are from New York City."
+institution: "CAB Fine Art"
+institution_type: "NULL"
+primary_contact: "Johanne Bryant-Reid"
+size: "15 boxes, 18 linear feet"
+start_range: "1940"
+summary: "Romare Bearden was one of the twentieth century's most influential American artists and intellectuals. The Romare Bearden Foundation's collection of our namesake artist's materials offers an important window into scholarship about Romare Bearden, the art world in twentieth century United States, racial and social tensions, among many other critical art and cultural history topics. Barbara D. Aiken, Chief of Collections Processing at the Smithsonian Institution confirmed that the collection holds significant research, intrinsic, and aesthetic value to Bearden scholars. However, the documents need to be better organized, arranged, preserved, and stored according to current archival standards in order to be accessed by Bearden scholars. The collection includes biographical information, plans and blueprints, awards, certificates, honorary degrees, personal and professional correspondence, writings by and about Bearden, numerous photographs and snapshots, a scrapbook, notebooks, drawings, doodles, sketches, sketchbooks, watercolor sketches, ca. 100 un-transcribed audio cassette tapes, and ca. 7 feet of printed material such as clippings, press releases, magazines, articles, reviews, exhibition catalogs, invitations, and newsletters. A portion of the printed materials, particularly the magazines, may have been used in Bearden's collages because many images have been cut from the pages. Some of the printed materials also reflect Bearden's interests in cartoons and music."
+hc_id: "1179"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "2090 Adam Clayton Powell Jr. Blvd."
+address2:  "Suite 202"
+city:  "New York"
+state:  "NY"
+zip: "10027"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

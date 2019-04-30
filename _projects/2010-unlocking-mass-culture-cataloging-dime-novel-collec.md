@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Unlocking mass culture: cataloging dime novel collections at Northern Illinois University
+title: "Unlocking mass culture: cataloging dime novel collections at Northern Illinois University"
+year: 2010
+end_range: 1930
+formats: "NULL"
+geographic_extant: "The dime novels were originally published in New York, with reprints in Boston, Cleveland, and Chicago, as well as London."
+institution: "Northern Illinois University"
+institution_type: "NULL"
+primary_contact: "Lynne Thomas"
+size: "672 linear feet, 44000 objects"
+start_range: "1860"
+summary: "Dime novels are full-length novels, sold through the mail and periodical stands in the US from 1860-1930. While a book from the same period cost about $1.25, the same amount of content, packaged to look like a periodical according to the United States Post Office, was sold for a dime, opening up leisure reading to a whole new audience. The ever-evolving physical formats for dime novels document a war between the Post Office and dime novel publishers: each time the Post Office tried to define these publications as \"books\" (and thus charge a higher postage rate), publishers would adjust the physical format until it met the new \"periodical\" guidelines (and cheaper postage rates). These changing formats also served to hide this literature from scholars for decades; cataloged in the 1970s as periodicals, works by well-known 19th century authors in this format remain undocumented and unstudied by scholars. NIU holds two complementary collections of dime novels, assembled by two different collector/bibliographers: Albert Johannsen and Edward T. LeBlanc. There are approximately 42,000-44,000 individual dime novels in the two collections, constituting roughly one third of our total departmental collections, which have remained uncataloged due to lack of adequate staff. Although we are one of the three largest repositories of dime novels in the country, the strength and depth of our collections remain unknown because the records currently documenting our holdings are inadequate."
+hc_id: "630"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Founders Memorial Library 402A"
+address2:  "NULL"
+city:  "DeKalb"
+state:  "IL"
+zip: "60115-2868"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

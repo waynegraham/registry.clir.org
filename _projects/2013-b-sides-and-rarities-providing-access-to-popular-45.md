@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: B-Sides and Rarities: Providing Access to Popular 45-RPM Singles
+title: "B-Sides and Rarities: Providing Access to Popular 45-RPM Singles"
+year: 2013
+end_range: 1995
+formats: "NULL"
+geographic_extant: "The project will be international in scope but will focus most intensively on record labels and content from the United States."
+institution: "Bowling Green State University"
+institution_type: "NULL"
+primary_contact: "Susannah Cleveland"
+size: "80000 objects"
+start_range: "1947"
+summary: "B-Sides and Rarities: Providing Access to Popular 45-RPM Singles will result in the cataloging of approximately 80,000 sound recordings, specifically 45-RPM singles of popular music, most of which are not readily available in any other public institution. Cataloging these materials will make available a significant portion of Bowling Green State University's (BGSU) holdings representing a wide variety of popular music genres recorded between the late 1940s and the mid 1990s, including rock and roll, country, folk, blues, bluegrass, rockabilly, and more. Bridging publication practices from the 78-RPM era with those of the long-playing record era, 45-RPM records forged a path for marketing and distribution of single songs with a heavy emphasis on the increasing role of teen culture in shaping commercial output. With a focus most often on a single artists, 45s fed into the cult of personality that began to surround performing artists in the '50s and '60s while also contributing to the portability of teens' music collections and to the marketing of popular artists and songs. Meanwhile, radio stations and jukebox owners were able to make use of the short-form recording to program popular singles easily. While these recordings became hallmarks of popular culture and often represent the only commercial release for many songs, they have never been prized by libraries because of their seemingly ephemeral cultural significance and, as a result, are rarely cataloged."
+hc_id: "1062"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "BGSU Music Library"
+address2:  "Jerome Library, 3rd Floor"
+city:  "Bowling Green"
+state:  "OH"
+zip: "43403"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Hidden Cinema Heritage at Anthology Film Archives
+title: "Hidden Cinema Heritage at Anthology Film Archives"
+year: 2013
+end_range: 2008
+formats: "NULL"
+geographic_extant: "The geographic scope of the project is primarily North America, with selected materials produced and published in the United States."
+institution: "Anthology Film Archives"
+institution_type: "NULL"
+primary_contact: "Erik Piil"
+size: "742 linear feet"
+start_range: "1923"
+summary: "Five collections proposed for this project--the Stan Brakhage Collection, the Hollis Frampton Collection, the Gretchen Berg Collection, the Collective for Living Cinema Archive, and Anthology's collection of publications--vary in size and contain original manuscripts, notes, photographs, slides, etchings, drawings, illustrations, correspondence, published books and reviews. Filmmaker Stan Brakhage (1933-2003) is considered to be one of the most important figures in experimental cinema and 20th century art. The Stan Brakhage Collection contains original material related to the artist, including unique correspondence and other writings. Filmmaker Hollis Frampton (1936-1984) remains one of the guiding figures of avant-garde cinema. His collection contains unique documentation of pioneering work with film, video, computer art and digital production from the late 1970s and early 1980s. Photographer Gretchen Berg (b. 1940) documented the New York art scene in the early 1960s, as well as the opening of Anthology Film Archives in 1970. The Collective for Living Cinema (1973-1993) emerged in the 1980s as an important New York venue with the intention to \"overcome the economic, social and political burdens of an art in chains.\" Anthology's collection of periodicals serve as records of quotidian and international events from unique individual and community perspectives."
+hc_id: "1092"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "32 Second Avenue"
+address2:  "NULL"
+city:  "New York"
+state:  "NY"
+zip: "10003"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

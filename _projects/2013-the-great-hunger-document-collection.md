@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Great Hunger Document Collection
+title: "The Great Hunger Document Collection"
+year: 2013
+end_range: 1930
+formats: "NULL"
+geographic_extant: "The materials are in English and were produced in Great Britain and Ireland."
+institution: "Ireland's Great Hunger Museum at Quinnipiac University"
+institution_type: "NULL"
+primary_contact: "Janet Headley"
+size: "120 boxes, 155 linear feet"
+start_range: "1790"
+summary: "The collection proposed for this project, known as The Great Hunger Document Collection, is housed in the Arnold Bernhard Library at Quinnipiac University. The collection is part of the documentary component of Ireland's Great Hunger Museum (Múseam An Ghorta Mhóir) at Quinnipiac University. The museum, which opened in October 2012, is home to the world's largest collection of Irish famine related materials. The Great Hunger Document Collection is a special collection consisting of approximately 4000 documents dating from the 1790s until the early 1920s, with an emphasis on publications directly related to the Irish potato famine (1845-1852). The British Parliamentary Papers on Ireland are the largest part of the collection. Also included are four volumes of The Bogs of Ireland including 68 maps of Irish bogs, a copy of the six volume set on the Disturbances in Ireland published in 1825, and a complete set of twelve volumes of The Parnell Commission. In addition, the collection includes The Lady Sligo Letters. This collection of personal papers is comprised of 220 letters dating from the 1820s to the 1860s, with over 100 of the letters dealing directly with the famine years in County Mayo. The Great Hunger Document Collection is the only one of its kind in the United States, and offers valuable insights into Irish history, and in particular The Great Hunger."
+hc_id: "1157"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "275 Mt. Carmel Avenue"
+address2:  "AH-DVP"
+city:  "Hamden"
+state:  "CT"
+zip: "6518"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

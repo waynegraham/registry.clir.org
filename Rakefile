@@ -15,7 +15,7 @@ task default: 'import:all'
 
 desc 'Clean the `_project` directory'
 task :clean do
-  FileUtils.rm_f Dir.glob('_projects')
+  FileUtils.rm_f Dir.glob('_projects/**/*')
 end
 
 namespace :import do

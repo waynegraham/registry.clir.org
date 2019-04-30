@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Ralph W. Hale, MD, Women's Health History Museum Digitization Project.
+title: "Ralph W. Hale, MD, Women's Health History Museum Digitization Project."
+year: 2016
+end_range: 200
+formats: "NULL"
+geographic_extant: "The primary focus of the ACOG museum is on women's health care in America. The collection includes artifacts from across the United States, as well as objects from other parts of the world that health practitioners (including midwives) in America would value or use in their practice."
+institution: "American College of Obstetricians and Gynecologists (ACOG)"
+institution_type: "NULL"
+primary_contact: "Ms. Beth DeFrancis Sun"
+size: "NULL"
+start_range: "200"
+summary: "The Ralph W. Hale, MD, Women's Health History Museum at the American College of Obstetricians and Gynecologists (ACOG) will digitize images from its unique collection of approximately 650 artifacts representing the history of women's health care in America. The artifacts -- dating as far back as 200 BC but focusing primarily on women's reproductive health during the 18th- 21th centuries -- will be professionally photographed using a single-lens reflex (SLR) digital camera. The photo images (including multiple angles of all 3-D objects) will be formatted as TIFFs and uploaded to a digital repository using PastPerfect museum management software. All forms of metadata will be combined with corresponding photo images. Descriptive notes and collected \"stories\" will be added to select files, and a museum blog will highlight individual artifacts.The project will adhere to all all grant-specified intellectual property requirements and Creative Commons license agreements."
+hc_id: "22169593"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "American College of Obstetricians and Gynecologists"
+p2_name:  "Beth Sun"
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>650 Artifacts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$59,780"
+material_description:  "The Ralph W. Hale, M.D., History Museum at the American College of Obstetricians and Gynecologists (ACOG) consists of approximately 650 artifacts that visually represent the history of women's health care and the specialty of obstetrics-gynecology in America. Although the artifacts date as far back as 200 BC, the focus is primarily on women's reproductive health during the 18th- 21th centuries. One of the first items to be acquired was a carved oak, 1890's physician's examining table, complete with shoe-clip stirrups that allowed modest women of the Victorian era to keep their laced boots on during their gynecological exam. Once the table was acquired, however, it became clear that ACOG needed a \"museum\" in which to display such treasures. Founded in 2008, the museum has since expanded to contain hundreds of artifacts representing multiple aspects of women's health. Medications, teaching models, obstetrical instruments, breastfeeding apparatuses,and a collection of contraceptives are among the items on display. Also on exhibit are unique works of art such as the pair of glass-blown \"fallopian tubes\" created by a distinguished ACOG Fellow. One of the most popular cases contains a vibrator manufactured by the inventor of Erector sets and another that women had to hook up to their vacuum cleaner. One of the most unique items in the museum is a cast of the head of the first infant delivered under ether anesthesia. The history and provenance of this item (from the hands of the attending doctor James Simpson in Edinburgh through the cast's rescue from the rubbish bin at Johns Hopkins Hospital) has been carefully documented by ACOG's 2008 History Fellow, Thomas F. Baskett, M.D. The majority of the artifacts are 3-dimensional, although the collection also contains some print advertising, how-to manuals, and framed prints and illustrations."
 ---
-
-

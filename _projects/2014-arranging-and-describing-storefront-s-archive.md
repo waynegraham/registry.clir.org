@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Arranging and Describing Storefront’s Archive
+title: "Arranging and Describing Storefront’s Archive"
+year: 2014
+end_range: 2012
+formats: "NULL"
+geographic_extant: "Early records (1982-87) focus on NYC's built environment. Subsequent material encompasses diverse local, national and international sites / issues."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Eva Franch i Gilabert"
+size: "157 linear feet"
+start_range: "1982"
+summary: "Storefront for Art & Architecture (Storefront) respectfully requests 18 months of CLIR support to process, describe, and make public its archive of programming records. These records document Storefront's diverse and influential program of over 280 exhibitions and affiliated performances, lectures, publications and events dating from its founding in 1982. Featuring the work of 1,500+ architects, artists and designers, this material includes a collection of original artwork and over 107 lf of programming documents, photographic prints and negatives, audiovisual media, newsletters and publications that together constitute a unique, underrepresented repository of national significance."
+hc_id: "12990385"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "97 Kenmare St."
+address2:  "NULL"
+city:  "New York"
+state:  "NY"
+zip: "10012"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$115,600"
+material_description:  "NULL"
 ---
-
-

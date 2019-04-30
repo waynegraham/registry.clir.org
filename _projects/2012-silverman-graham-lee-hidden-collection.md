@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Silverman-Graham Lee Hidden Collection
+title: "Silverman-Graham Lee Hidden Collection"
+year: 2012
+end_range: 1950
+formats: "NULL"
+geographic_extant: "The geographic scope includes the whole of North America. Both the United States and Hamilton were dominant in the wood type industry."
+institution: "The University of Texas at Austin"
+institution_type: "NULL"
+primary_contact: "James Moran"
+size: "116 boxes, 2200 cubic feet, 278 linear feet"
+start_range: "1880"
+summary: "Wood type refers to individual glyphs--letters, figures, punctuation, & ornaments--carved in relief on blocks of type-high (0.918?) wood with a smooth face, designed to print with ink on paper. Darius Wells invented the process to mass-produce wood type in 1827. During the 19th c. 3-4 manufacturers were in operation at any one time in the United States. The 1880s were the high point with at least 6 manufacturers in operation. By the start of the 20th c. Hamilton Mfg Co of Twin Rivers, WI had bought out most of its major competitors to become the largest manufacturer of its kind. Hamilton ceased all wood type manufacture in 1984. Today, the Hamilton Wood Type & Printing Museum, founded and operated by the Two Rivers Historical Society, is housed in Hamilton Mfg Co's original building. The Museum's approximately 1.5 million pieces of wood type represents a one-of-a-kind collection of printing technology that spans the early 19th to the mid 20th c., and is a unique resource for printers, historians and educators to access what has evolved into the largest collection of wood type in the world. The Silverman-Graham Lee Hidden Collection is comprised of materials from collector Irving Silverman and the estate of Graham Lee, as well as a smaller set of materials originally manufactured by Hamilton but never sold. Although they remain crated and unopened, the materials are likely to date from c1880--1950, with the very real potential for wood types dating from as far back as 1827."
+hc_id: "1008"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1619 Jefferson Street"
+address2:  "NULL"
+city:  "Two Rivers"
+state:  "WI"
+zip: "54241"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

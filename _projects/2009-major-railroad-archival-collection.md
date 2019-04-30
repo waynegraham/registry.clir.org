@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Major Railroad Archival Collection
+title: "Major Railroad Archival Collection"
+year: 2009
+end_range: 1980
+formats: "NULL"
+geographic_extant: "Railroad archival materials are for rail lines mostly west of Chicago; however, the Kennedy Collection is national in scope."
+institution: "University of Nebraska-Lincoln"
+institution_type: "NULL"
+primary_contact: "Katherine Walter"
+size: "1700 linear feet, 2100000 objects"
+start_range: "1826"
+summary: "Major railroad archival collections at the Nebraska State Historical Society and the University of Nebraska-Lincoln to be cataloged are as follows. Union Pacific Railroad: This collection relates to all aspects of the Union Pacific Railroad Company and its business activities, including corporate, legal, and public relations activities; engineering; railroad construction; and locomotive design. Chicago Burlington & Quincy (CB&Q) Railroad--Lines West collection: This collections includes specific field books, maps, drawings, and other materials from 1869-1950s relating to land development in Nebraska. The Charles Kennedy Railroad Collection: The Kennedy Collection is a large collection that includes railroad annual reports from railroads across the United States, and state railroad commissions (1826-1980). The Val Kuska Collection: Val Kuska was a colonizing agent and an agricultural development agent for the Chicago, Burlington & Quincy Railroad Company. This collection documents the Chicago, Burlington & Quincy Railroad Company's efforts to attract settlers and improve agricultural practices in Nebraska, Colorado, Wyoming, Montana, South Dakota, Oklahoma, and Texas. It also relates to rail traffic in the 1900s. Among these important historical materials are several thousand photographs, advertising posters, scrapbooks, and time tables."
+hc_id: "568"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "319 Love Library"
+address2:  "NULL"
+city:  "Lincoln"
+state:  "NE"
+zip: "68588-4100"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

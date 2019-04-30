@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The WGBH Health Care Digitization Project
+title: "The WGBH Health Care Digitization Project"
+year: 2017
+end_range: 1994
+formats: "NULL"
+geographic_extant: "The AIDS Quarterly, The Health Quarterly, NOVA and other long-form documentaries were national productions which include primary source footage and interviews from across the country. The Ten O'Clock News programs were produced and aired in Boston, and primarily contain footage and interviews from Massachusetts."
+institution: "WGBH Educational Foundation"
+institution_type: "NULL"
+primary_contact: "Ms. Casey Davis Kaufman"
+size: "NULL"
+start_range: "1974"
+summary: "The WGBH Health Care Digitization Project (the “Project”) will digitize, preserve and make accessible program materials from The AIDS Quarterly and The Health Quarterly series via WGBH’s American Archive of Public Broadcasting (AAPB) and Open Vault websites. Both series were magazine-style documentaries broadcast on public television between 1988-1993. The AIDS Quarterly (six programs) covered the AIDS epidemic in depth; The Health Quarterly (eight programs) reported more broadly on US healthcare. The collection also includes health-related materials produced by WGBH for the series NOVA, the standalone documentary AIDS Research: The Story So Far, and related stories from WGBH’s Ten O’Clock News. Materials from all series exist on obsolete videotape formats including ¾”, 1”, Betacam and film. The collection contains rich source material including interviews with doctors, patients, policy experts, activists, academics, government officials and congressional representatives. WGBH will create transcripts of all materials containing speech when transcripts do not already exist."
+hc_id: "26893785"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "WGBH Educational Foundation"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>3887 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$217,209.00"
+material_description:  "The WGBH Health Care Collection includes The AIDS Quarterly and The Health Quarterly, two seminal national public television series which reported on the AIDS crisis and explored the social, political and personal impact of health care in the US. The AIDS Quarterly (1988-1991) reported on the epidemiology and treatment of AIDS, AIDS costs, and legal and ethical considerations. The Health Quarterly (1991-1993) examined issues surrounding American health care, including costs, the uninsured, and history of health care legislation. Hosted by Roger Mudd and Peter Jennings, the programs interwove documentary segments, news updates, interviews, commentary and analysis with personal stories. The collection includes full programs and raw interviews conducted for the productions. Subjects interviewed include experts in the field such as Dr. Stuart Altman, National Health Policy, Brandeis University; Dr. Robert Blendon, Harvard School of Public Health; Joseph Califano, Secretary of Health, Education and Welfare; Dr. Anthony Fauci, National Institute of Health, Director, NIAID; Dr. David Ho, Rockefeller University, Director, AIDS Research Center; Professor Uwe Reinhardt, Health Economist, Princeton University; Dr. Arnold Relman, New England Journal of Medicine; and Dr. Louis Sullivan, Secretary for Health and Human Services. The collection also contains WGBH long-form documentary programs and primary source material on the subject of health, including forty healthcare-related NOVA documentaries such as Malady of Health Care (1981); AIDS: Chapter One (1985); and Can AIDS Be Stopped? (1986); plus the documentary AIDS Research: The Story So Far (1994). Finally, WGBH Ten O'Clock News covered AIDS and health care stories from 1974-1991."
 ---
-
-

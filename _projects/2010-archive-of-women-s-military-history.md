@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Archive of Women's Military History
+title: "Archive of Women's Military History"
+year: 2010
+end_range: 2010
+formats: "NULL"
+geographic_extant: "United States and military installations and activities of its armed forces abroad, primarily in Europe."
+institution: "National Museum of American History"
+institution_type: "NULL"
+primary_contact: "Margaret Vining"
+size: "40 cubic feet"
+start_range: "1860"
+summary: "Highlights: singular biographical material relating to three-dimensional artifacts documenting women's military history in the SI holdings (1860s - present). 100+ Civil War letters and related documents exchanged by a mother and son describing the war from home and battlefront (1860s). Rare photographs, records, certificates, and individual personal memorabilia of the first women inducted into the US Navy (WWI Yeoman (F), 1917-1921). WWI records of uniformed volunteer women of the National Society of the Colonial Dames of America documenting their wartime work in diverse secular, religious, and military organizations (1914-1923). Photos and memorabilia of the Women's Airforce Service Pilots of WWII (1942-45). Records, oral history and significant collection of documents of the first US woman to achieve the rank of general (1930s-1980s). A special collection documenting the life of a woman in the UN Relief Agency (UNRA), 1940s. Memorabilia of WWI and WWII special services and USO women. POW documentation of Rhonda Cornum, flight surgeon captured in Iraq in 1991. \"Rosie the Riveter\" documentation from women workers in WWII. Letters, diaries, oral histories scrapbooks, photographs and ephemera of military women who have served during the past 60 years. Numerous contemporary manuscripts of books, conference papers, and other research material."
+hc_id: "641"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P.O. Box 37012, MRC 620"
+address2:  "NULL"
+city:  "Washington"
+state:  "DC"
+zip: "20013-7012"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Exposing Pre-Modern Publications and Archives for Study and Research: The History of International Trade& Global Interaction & their Cultural Effects
+title: "Exposing Pre-Modern Publications and Archives for Study and Research: The History of International Trade& Global Interaction & their Cultural Effects"
+year: 2008
+end_range: 1890
+formats: "NULL"
+geographic_extant: "The project is global in scope, including all continents and some Atlantic and Pacific islands."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Marguerite Ragnow"
+size: "52 cubic feet, 191 linear feet, 50000 objects"
+start_range: "1436"
+summary: "The James Ford Bell Library, established at the University of Minnesota by Minnesota industrialist James Ford Bell, documents the history and impact of international trade and cross-cultural contact prior to ca. 1800. This project includes archival material, books and government documents, and historic maps of the early modern period (14th-18th centuries). The archival material, primarily handwritten manuscripts, reflects private and gov’t.-sponsored commercial enterprises, missionary and tax records, personal, business, and government correspondence, wills and testaments, court records, military records and correspondence, sales records of land and slaves, and plantation accounts. These are “documents of practice”--the paperwork necessary to move goods from point A to point B, receipts for the sale of slaves and other merchandise, insurance records, price lists, ship manifests, plantation account books, wills, etc. Travel narratives, histories, reports to/by government. agencies, memoires, and historic maps represent the uncataloged printed material. Many of the different types of materials are related, particularly those pertaining to Central and South America, enabling more comprehensive research within a particular chronology. Seven European languages and one Native American language are represented. It is from materials such as these that history is written; uncovering these materials will broaden considerably the number of dissertations, articles and books that can be researched here."
+hc_id: "37"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "309-19th Av S"
+address2:  "472 OMWL"
+city:  "Minneapolis"
+state:  "MN"
+zip: "55455"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

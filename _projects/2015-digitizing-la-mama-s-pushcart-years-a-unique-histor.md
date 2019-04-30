@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing La MaMa's Pushcart Years: A Unique History of the Off-Off-Broadway Movement
+title: "Digitizing La MaMa's Pushcart Years: A Unique History of the Off-Off-Broadway Movement"
+year: 2015
+end_range: 1985
+formats: "NULL"
+geographic_extant: "The bulk of materials in this collection document New York-based artists and productions, but a significant subset also document work by artists from more than 70 countries, and US theatre ensembles on tour."
+institution: "La MaMa Experimental Theatre Club"
+institution_type: "NULL"
+primary_contact: "Mr. Ozzie Rodriguez"
+size: "NULL"
+start_range: "1961"
+summary: "Digitizing La MaMa's Pushcart Years explores the early history of New York City's Off-Off-Broadway movement (1961-1985) as documented in the collections of the Archives of the La MaMa Experimental Theatre Club. Over the course of two years, La MaMa will digitize, preserve, and offer expanded online access to programs, posters, production notes, videos and other materials from our earliest \"Pushcart\"  collection (1961-1985). Once digitized, this one-of-a-kind collection will offer a critical resource for scholars, educators, artists, and students interested in the emergence of modern American theater forms, experimental theatrical practice, and a wide range of other topics in 20th century US cultural history."
+hc_id: "17638380"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "La MaMa Experimental Theatre Club"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>290 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$230,518"
+material_description:  "This project centers on materials in our Pushcart Collection\"”flyers, posters, press releases, photographs, correspondence, show programs, videos, and other items documenting the early history of La MaMa and the Off-Off-Broadway theatre movement (1961-985). The bulk of these items were created in the normal course of the theater's business and document productions staged at La MaMa or by affiliated artists and ensembles. An important component of this collection is a group of 251 legacy Â½ inch open reel videos that document productions staged between 1972-1980. These materials comprise the most complete audiovisual record of the early Off-Off-Broadway experiments in existence. Due to their obsolescence, these videos\"”which document a wide range of pioneering productions, rehearsals, tours, and audiences\"”have not been accessible to researchers for several decades. \n\n\n\nThe long list of theater artists whose work is documented in this collection includes: \n\n\n\nJulie Bovasso\n\nPeter Brook\n\nTisa Chang \n\nJoseph Chaikin\n\nPing Chong\n\nBilly Crystal\n\nJackie Curtis\n\nCandy Darling\n\nRobert De Niro\n\nAndre De Shields\n\nEthyl Eichelberger\n\nTom Eyen \n\nHarvey Fierstein \n\nHanay Geigogamah \n\nPhilip Glass\n\nGrand Union dancers\n\nJohn Jesurun\n\nAdrienne Kennedy\n\nH.M. Koutoukas \n\nWilford Leach \n\nCharles Ludlam\n\nMabou Mines\n\nBette Midler\n\nThe Native American Theatre Ensemble\n\nKazuo Ohno\n\nTom O'Horgan \n\nThe Pan Asian Repertory Theatre\n\nPhilippine Educational Theatre Arts League\n\nPlayhouse of the Ridiculous\n\nMax Roach\n\nAndrei Serban\n\nSam Shepard\n\nEllen Stewart\n\nElizabeth Swados \n\nCecil Taylor\n\nShuji Terayama\n\nTheatre Laboratoire Vicinal\n\nThird World Institute of Theatre Arts Studies\n\nTokyo Kid Brothers\n\nTrocadero Gloxinia Ballet\n\nJeff Weiss\n\nAndy Warhol\n\nMac Wellman\n\nRuth Yorck"
 ---
-
-

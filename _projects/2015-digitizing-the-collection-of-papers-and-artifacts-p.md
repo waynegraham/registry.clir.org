@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing the collection of papers and artifacts pertaining to the history of Norwood, Massachusetts and continuing the work of local resident Fred Holland Day to narrate this history.
+title: "Digitizing the collection of papers and artifacts pertaining to the history of Norwood, Massachusetts and continuing the work of local resident Fred Holland Day to narrate this history."
+year: 2015
+end_range: 2015
+formats: "NULL"
+geographic_extant: "Items pertaining to Norwood, Massachusetts and its environs and to the lives of its residents (including materials from trips abroad or reflecting personal, global interests of its residents)."
+institution: "Norwood Historical Society"
+institution_type: "NULL"
+primary_contact: "Dr. Cashman Kerr Prince"
+size: "NULL"
+start_range: "1000"
+summary: "The Norwood Historical Society began with the local history collection and papers of Fred Holland Day. We continue his legacy and want to expand the reach of our collection. We are currently undertaking a comprehensive review of our collection to better assess holdings. This collection is accessible to all interested in Norwood, Massachusetts history and to those interested in Fred Holland Day, photographer, publisher, and local historian. Already this collection has been the basis for several books (local history volumes, a biography of Day, and a memoir of life in Norwood), but it remains hidden and known only to a few. We want to digitize this collection to expand our reach and bring our collection into dialogue with other collections focused on local history and daily life primarily of the last two centuries."
+hc_id: "17656376"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>680 Costumes/Articles of historic clothing</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$114,150"
+material_description:  "The collection consists of items housed in the Fred Holland Day House (including that structure itself), and all items belong to the Norwood Historical Society. Day's notes on local history and Norwood families are the core of this collection, along with Day family furniture and memorabilia. Over the last eighty years this collection has expanded through donations which reflect the interests of Norwood citizens. This has substantially expanded the reach and scope of the collection; one important example is the F. O. Winslow Natural History Collection, which includes ancient Egyptian faience jewelry. We also have the Dr. Harriet E. Rogers Cable Pattern Sandwich Glass collection, which provides local access to this industry and its products and which could enrich other collections of Sandwich Glass or Early American Pressed Glass were it more widely known and accessible. We house materials pertaining to Frank Allen, Norwood resident and former Massachusetts governor; our holdings can complement the state records of his political career by fleshing out the life of the man and citizen. We have an extensive collection of material relating to George Willett, entrepreneur and town planner, and to F. O. Winslow, former state representative. This is in addition to the papers and materials documenting the lives of everyday citizens in Norwood. Finally we possess an extensive collection pertaining to the religious history in Norwood, extending from immigrant-built churches of all denominations to those recently closed by the Archdiocese. Digitizing this collection can help advance research in a number of directions, relating to named individuals as well as lesser-known citizens. In the aggregate, this collection narrates the history of a small, industrial town in Massachusetts and can enrich larger histories of industrialization and life in the commonwealth, while also portraying a true cross-section of local history, contextualizing individual events and actors."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing Atwater: Nutrition, Agriculture, and Home Economics in the Long 19th Century
+title: "Digitizing Atwater: Nutrition, Agriculture, and Home Economics in the Long 19th Century"
+year: 2015
+end_range: 2003
+formats: "NULL"
+geographic_extant: "Wilbur Olin Atwater travelled widely for his scientific work, and he wrote extensively about those travels. These collections include significant coverage of Connecticut, Alabama, Maine, Tennessee, Massachusetts, Vermont, Washington DC, Cuba, Germany, France, Russia, and India."
+institution: "Wesleyan University"
+institution_type: "NULL"
+primary_contact: "Ms. Francesca Livermore"
+size: "NULL"
+start_range: "1788"
+summary: "\"Digitizing Atwater,” a collaborative project based at Wesleyan University, focuses on the papers of Wilbur Olin Atwater (1844-1907; Wesleyan B.A. 1865; Yale Ph.D. 1869), among the most important American scientists of the 19th century. Atwater's groundbreaking work in nutrition science resulted in the popularization of the calorie; his vilification by the Methodist church for his findings regarding the nutritive value of alcohol was a great controversy of the day. Atwater was also the founder of the first U.S. Agricultural Experiment Station. At Wesleyan, Atwater's professional papers will be processed and digitized, and two collections of Atwater family papers will be digitized; at the University of Connecticut, records of the Storrs Agricultural Experiment Station (SAES) will be digitized. Over two-and-a- half years, beginning in May 2016, \"Digitizing Atwater” will digitally co-locate four interrelated collections of papers, making available the cohesive corpus of work by Atwater, his colleagues, and family."
+hc_id: "17462230"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Wesleyan University"
+p2_name:  "Mr. Leith"
+p2_institution:  "University Archivist"
+p3_name:  "Mr. Ms. Betsy"
+p3_institution:  "University Archivist"
+material_string: "<li>32 letterbooks, research notes, scrapbooks</li>"
+collaborating_institution:  "University of Connecticut"
+grant_amount:  "$347,075"
+material_description:  "\"Digitizing Atwater\"  will bring together electronically four interrelated collections comprised of correspondence, documents, photographs, postcards, letterbooks, diaries, ephemeral publications, and calling cards. Readily available published bound books that form a part of the collections will be excluded from digitization. Focused on agriculture, health, nutrition, and home economics, these collections also provide insight into the domestic life of a prominent family in the 18th-20th centuries. Atwater's children, Charles W. and Helen, were important scientists in their own right, making significant contributions to the fields of zoology and home economics, respectively. Family correspondence includes discussion of science and religion, reactions to the Civil War and two World Wars, temperance, a family member's struggles with schizophrenia, and many other issues. Correspondents outside of the family include such notable figures as Booker T. Washington, Woodrow Wilson, Theodore Roosevelt, and Orange Judd. \n\n\n\nWesleyan owns the Wilbur Olin Atwater Papers except for a portion of the collection that was de-accessioned and gifted to the University of Connecticut (UConn) in 1966. Those records formed the basis of the SAES Records collection. Catherine Galbraith gave the Atwater Family Papers, 1843-1943, to Wesleyan in 1966. Alan Galbraith gave the Atwater Family Papers, 1788-2003, to Wesleyan in December 2008 and January 2009. All of these collections contain correspondence to and from Wilbur Olin Atwater."
 ---
-
-

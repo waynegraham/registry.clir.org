@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing Peabody Essex Museum's Ocean Liner Ephemera Collection
+title: "Digitizing Peabody Essex Museum's Ocean Liner Ephemera Collection"
+year: 2015
+end_range: 1939
+formats: "NULL"
+geographic_extant: "Africa, China, Cuba and the Caribbean, Europe, Japan, North America, Russia, South America, and South Seas."
+institution: "Peabody Essex Museum (PEM)"
+institution_type: "NULL"
+primary_contact: "Mr. Gregor Smith"
+size: "NULL"
+start_range: "1909"
+summary: "The Peabody Essex Museum (PEM) proposes to fully digitize a major portion of its pristine and comprehensive set of ocean liner ephemera from the years 1909 through 1939. Considered the largest and premier collection of such materials, it covers the whole array of travel materials produced by ocean liners in the United States and abroad, and covers a geographical area that encompasses virtually every continent and island from the Caribbean to the South Seas. Currently unavailable except by personal visit, a fully digitized online version of this first part of the collection will provide valuable resources to scholars, curators and others in various fields, including art, design, architecture, social, advertising history and culinary and guest management studies. The breadth of the materials from brochures to menus, to wardrobe suggestions to deck plans and excursion trips and maps will encourage cross- and multidisciplinary exchanges of newly available insights and knowledge."
+hc_id: "17084645"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Peabody Essex Museum"
+p2_name:  "Ms. Tamara"
+p2_institution:  "Manuscript Processor"
+p3_name:  "Ms."
+p3_institution:  "NULL"
+material_string: "<li>5000 Ephemera</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$248,605"
+material_description:  "This massive collection was gathered by an employee of the Thomas Cook Travel Agency who saved one copy of every piece of ephemera sent by passenger ships to the agency. It is the most comprehensive collection of ocean liner ephemera known to exist, including ship lines Canadian Pacific, Cunard, Delta Queen, Disney, French, Fred Olsen, Furness, Grace, Greek, Hamburg-Alantic, Holland America, Home, Moore-McCormack, North German Lloyd, Norwegian, Princess, Royal Viking, Swedish, British India Steam Navigation Line, Orient, and the Red Star and White Star lines, among others. The material includes advertising brochures, deck and cabin plans, sailing schedules and itineraries, shore excursion maps of sites to visit, menus and other ephemera.\n\n\n\nWithin the limits of available funding, PEM requests support for digitizing 5,000 items from the time period of 1909 through 1939. The museum hopes to find support later to finish the project which would include the ephemera from the post-World War II period through the 1960s."
 ---
-
-

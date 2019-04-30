@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Stephen Jay Gould Collection: Preservation and Access
+title: "Stephen Jay Gould Collection: Preservation and Access"
+year: 2009
+end_range: 2004
+formats: "NULL"
+geographic_extant: "Gould's work on evolutionary biology, paleontology and the history of science concerns all of humanity and the scope of the project is worldwide."
+institution: "Stanford University"
+institution_type: "NULL"
+primary_contact: "Michael Keller"
+size: "576 linear feet, 5000 objects"
+start_range: "1942"
+summary: "The Stephen Jay Gould Collection was a gift to the Stanford University Libraries' (SUL) Department of Special Collections by Rhonda Shearer in December 2006. The collection documents Gould's work on evolutionary biology, paleontology, and the history of science as well as his more general interests, such as baseball and statistics. It consists of three main components: manuscripts, books and born-digital material. The manuscript material contains family and personal papers, correspondence, drafts of articles and books, biographical material, author files, subject files, research notes, teaching notes, reprints, audio and video tapes, 2,500 slides, ephemera, maps, artifacts and over 5,000 specimens gathered by Stephen's father, Leonard Gould, and by Gould himself when he was a child and throughout his lifetime. The two other main components, Gould's rare books and born-digital material, are being processed and cataloged concurrently with other funding. His library contains 1,500 rare books on the history of science and 8,000 other, more general books. The born-digital component consists of 141 diskettes, 3 computer tapes and 2 sets of punch cards of statistical data sets relating to his empirical studies (based on land snails in Bermuda and West Indian area). This project would process Gould's manuscript material to allow cataloging it simultaneously with the other two components of the collection and to ultimately integrate all three descriptions."
+hc_id: "460"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "450 Serra Mall"
+address2:  "NULL"
+city:  "Stanford"
+state:  "CA"
+zip: "94305"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

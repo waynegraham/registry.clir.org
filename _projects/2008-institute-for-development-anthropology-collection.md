@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Institute for Development Anthropology Collection
+title: "Institute for Development Anthropology Collection"
+year: 2008
+end_range: 2004
+formats: "NULL"
+geographic_extant: "Sahel area of Africa (Niger/Nigeria/Sudan), Kenya, Zambia. Meso and South America (Bolivia and Peru): 60% African, 15% Pan-Asian, 18% South American."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Elizabeth Brown"
+size: "15 boxes, 300 linear feet, 16000 objects"
+start_range: "1965"
+summary: "The Institute for Development Anthropology (IDA) was founded in 1976 by Binghamton University Professor Michael Horowitz with colleagues Professor David Brokensha of Oxford University and Thayer Scudder of the California Institute of Technology. For over twenty years this private non-profit research institute worked in countries throughout South America, the Caribbean, Africa (North Africa and Sub-Saharan countries), the Middle East, Asia, and the Pacific Rim. Over the years the Institute received hundreds of contracts and grants from a variety of organizations from federal agencies (USAID) to non-governmental multi-lateral organizations (the World Bank, the United Nations, International Finance Corporation). As a result of this funding IDA conducted policy research throughout the world on such issues as resettlement, rural household production systems, pastoralism, gender, river basin development, and community forestry. The Institute's library consists of a significant collection of gray literature, including technical reports, grant reports and working papers written by IDA staff. The library also contains materials from other organizations and government agencies. The collection is organized into categories of reports, working papers, annual reports, serials, newsletters, books, and miscellaneous items."
+hc_id: "370"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P.O. Box 6012"
+address2:  "Binghamton University Libraries"
+city:  "Binghamton"
+state:  "NY"
+zip: "13902-6012"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

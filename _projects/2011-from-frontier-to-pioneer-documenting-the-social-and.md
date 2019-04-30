@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: From Frontier to Pioneer: Documenting the Social and Cultural Influence of California
+title: "From Frontier to Pioneer: Documenting the Social and Cultural Influence of California"
+year: 2011
+end_range: 1990
+formats: "NULL"
+geographic_extant: "The State of California (38 million residents) and its significant impact on our nation's history."
+institution: "University of California"
+institution_type: "NULL"
+primary_contact: "Thomas Leonard"
+size: "498 linear feet"
+start_range: "1850"
+summary: "In February 2011, Bancroft Library completed a three-year Survey Project of it's entire manuscript holdings. The Mellon Foundation-funded survey determined each collection's scope and content; identified its preservation needs; and made recommendations as to its future arrangement & description. Bancroft Library curators and management now have a better overall understanding of the library's holdings, the priorities for processing, the strengths and gaps in the collections, an improved local collection management tool, and an established strategic plan for collection management. The collections address the political, cultural, social, and economic influences of Californians and California on the United States and the world. Included in the project are family papers; papers of politicians, activists, poets; and records documenting the social movements of the late 20th century. The collections to be processed in the course of this project date from the mid-19th c. through the 20th c. and comprise nearly 498 linear feet. These collections represent our highest priority collections and meet one or more of the following criteria: (1) they can be processed and made available to the public quickly; (2) they are very important collections that are in high demand (or would be in high demand if they were fully processed); (3) they are currently listed as \"unarranged and unavailable\" and can only be opened once processed."
+hc_id: "698"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "The University Library - Bancroft Library"
+address2:  "University of California, Berkeley"
+city:  "Berkeley"
+state:  "CA"
+zip: "94720-6000"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

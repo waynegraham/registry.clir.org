@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitization and Re-Cataloging of the Baltimore Gas & Electric Company Image Collection
+title: "Digitization and Re-Cataloging of the Baltimore Gas & Electric Company Image Collection"
+year: 2017
+end_range: 1975
+formats: "NULL"
+geographic_extant: "The geographic areas represented in the BGE Image Collection correspond to the utility company’s service area, which includes all of Baltimore City and portions of ten surrounding Maryland counties (Baltimore, Cecil, Harford, Carroll, Frederick, Howard, Montgomery, Price George’s, Anne Arundel, and Calvert)."
+institution: "Baltimore Museum of Industry"
+institution_type: "NULL"
+primary_contact: "Ms. Jane Woltereck"
+size: "NULL"
+start_range: "1920"
+summary: "This two-year project will provide digital access to the Baltimore Gas & Electric Company Image Collection, a major research collection that chronicles the development of Baltimore between 1920 and 1975 through approximately 180,000 photographic prints, negatives, and movies. Working together with the BMI’s director of collections and archivist, a dedicated project team will selectively scan thousands of historically significant still and moving images from the BGE Collection and create a consolidated cataloging system for accessing them online. Made freely available on the museum’s website, these digitized photographs and improved metadata will offer researchers an indispensable resource for studying the local and regional history of Baltimore."
+hc_id: "26252130"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Baltimore Museum of Industry"
+p2_name:  "Mr. Matt Shirko"
+p2_institution:  "Baltimore Museum of Industry"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>20000 Photo sets</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$179,728"
+material_description:  "Comprised of approximately 50,000 image sets containing roughly 180,000 photographic prints, negatives, and film reels, the Baltimore Gas & Electric Company (BGE) Image Collection is one of the largest collections in the BMI’s archives. This extensive collection was created by BGE, the nation’s first and longest continuously operating gas and electric utility company, as a means of documenting its progress in providing services to a broad spectrum of residential and commercial customers. Previously held by the now defunct Baltimore City Life Museums, the BGE Image Collection has been part of the BMI’s archives since 1999 and is a popular resource for local historians and researchers. The value of the BGE Image Collection lies in the unique look it provides at how goods and services were produced in Baltimore as well as the physical facilities in which these processes took place. In many cases, this collection—which includes still and moving images taken between the years 1920 and 1975—provides the only extant photographic record of the businesses and industries that it documents. Besides chronicling the process by which gas and electric power spread throughout Baltimore and the surrounding region, the BGE Image Collection also provides a rare glimpse into the lives of the utility company’s employees and customers, making it one of the most comprehensive visual records of the city’s changing economic and social landscape."
 ---
-
-

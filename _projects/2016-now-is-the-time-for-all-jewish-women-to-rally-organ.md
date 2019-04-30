@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: "Now is the Time for All Jewish Women to Rally": Organizing for Social Change in the 20th Century
+title: "Now is the Time for All Jewish Women to Rally: Organizing for Social Change in the 20th Century"
+year: 2016
+end_range: 2004
+formats: "NULL"
+geographic_extant: "The nominated collections represent a range of geographic regions. New York City and State are well-represented. Other locations in the US include Arkansas, Louisiana, Mississippi, Oklahoma, Tennessee, and Texas. Internationally, countries represented include Israel, Argentina, Brazil, Chile, China, Cuba, Ecuador, Egypt, England, Germany, Hungary, Mexico, Panama, Peru, and Switzerland."
+institution: "The Center for Jewish History, Inc."
+institution_type: "NULL"
+primary_contact: "Ms. Laura Leone"
+size: "NULL"
+start_range: "1895"
+summary: "The Center for Jewish History will make discoverable the records of Jewish women social welfare organizers of the 20th century. These unsung activists' accomplishments include fighting the slave trade of vulnerable female immigrants circa 1900, running a refugee relief organization for German Jews in the 1930s, and organizing services for veteran's hospitals across the globe. The two-year project will highlight women-run organizations and feature one woman who led and worked with many organizations to serve refugees in times of crisis. To make these and other stories known, the Center will digitize 54 linear feet of archival materials from three collections of the American Jewish Historical Society, one of its five partners. The project will give scholars the opportunity to examine women's influence on social welfare work and trace the impact of activism on humanitarian crises that unfortunately bear some resemblance to those we face in present times."
+hc_id: "22331269"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Center for Jewish History"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>54 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$194,942"
+material_description:  "\"The life and faith of human beings are at stake,\" Cecilia Razovsky wrote on behalf of the National Council of Jewish Women in 1935.* She and other Jewish women activists represented in this project responded to refugee crises, abuses of immigrants, healthcare deficiencies, and challenges to women's rights. The Center for Jewish History will highlight these women by digitizing materials--correspondence, speeches, diaries, newsletters, minutes, photographs, and ephemera--from three collections of its partner the American Jewish Historical Society. The first collection is the National Council of Jewish Women (NCJW), NY Section Records. In the early 1900s, NCJW NY assisted individuals with disabilities on \"Welfare Island\" and protected vulnerable immigrant women from exploitation. In later decades, it established trailblazing counseling services and founded the feminist Jewish Women's Resource Center. The second is the Women's Organizations' Services series in the National Jewish Welfare Board Records. Part of the USO, this division organized services for veterans' hospitals and supported Jewish community life and Military Sisterhoods at posts across the world. Its records reflect changes in welfare and morale services for the US military from the 1940s through the Vietnam War. Third is the Cecilia Razovsky Papers. Razovsky worked until age 80 assisting refugees across the globe, first as Executive Director of the National Coordinating Committee helping German Jews in the 1930s and later as a member of organizations including the UN Relief and Rehabilitation Administration. This project takes its title from a 1933 NCJW report in which Razovsky calls upon women's organizations to collaborate in response to the plight of German Jews.** Under her rallying cry, this project will rescue these women's actions from anonymity within institutional records. --References-- * Letter, April 26, 1935. Cecilia Razovsky Papers, P-290, box 2, folder 8, AJHS, NY. ** Field Service Committee Report, October 1933."
 ---
-
-

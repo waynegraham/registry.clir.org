@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing the Records of Philadelphia’s Historic Congregations: Providing Documentation for the Political, Social and Cultural Developments in Philadelphia
+title: "Digitizing the Records of Philadelphia’s Historic Congregations: Providing Documentation for the Political, Social and Cultural Developments in Philadelphia"
+year: 2017
+end_range: 1708
+formats: "NULL"
+geographic_extant: "The geographic scope of the aggregation is the city of Philadelphia and its immediate surroundings."
+institution: "Christ Church Preservation Trust"
+institution_type: "NULL"
+primary_contact: "Ms. Carol Smith"
+size: "NULL"
+start_range: "1708"
+summary: "Settled by William Penn in 1681 as a center for religious freedom, Philadelphia provided refuge for newcomers of many faiths. In the 18th century, Philadelphia served as the epicenter for political thought and action, as delegates to the Continental Congress and Constitutional Conventions met, debated, and worshiped together here. The religious organizations built by early Americans offer windows into colonial life through baptismal, circumcision, marriage, burial, and pew rental records: along with meeting minutes and correspondence, these documents act as transcripts of a time before census records and city directories existed. Unfortunately, as few congregations have active archival programs, access to these documents is limited. A CLIR grant would enable us -- Philadelphia’s historic congregations -- to create a digital database of shared records for a worldwide audience."
+hc_id: "26893436"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Christ Church Preservation Trust"
+p2_name:  "Ms. Barbara Hogue"
+p2_institution:  "Christ Church Preservation Trust"
+p3_name:  "Mr. Allan Hasbrouck"
+p3_institution:  "Christ Church Preservation Trust"
+material_string: "<li>41968 Manuscripts</li>"
+collaborating_institution:  "St. George's Methodist Church; Gloria Dei; Episcopal Dioceses Archives; Presbyterian Historical Society; St. Peter's Episcopal Church; Mikveh Israel; African Episcopal Church of St. Thomas; American Baptist Historical Society; Athenaeum of Philadelphia"
+grant_amount:  "$385,205"
+material_description:  "The materials nominated for digitization comprise 41,968 records from Philadelphia's oldest congregations, ranging in date from 1708 to 1870. Collectively, the materials include church membership files and the records for baptisms, circumcisions, marriages, bar mitzvahs and burials. Additionally, the collections represent organizational information: governing records include meeting minutes, charters, land grants, accounts, correspondence and sermons. All materials reside with the institutions who created them with a few exceptions: the Presbyterian Historical Society maintains the 1st, 2nd and 3rd Presbyterian Church records; the St. Paul's records are housed at the Episcopal Diocesan archives; the First Baptist records live at the American Baptist Historical Society. Project relevance is categorized into three areas. The first is prominent ministers who were also prominent civic leaders: Jacob Duche (Christ Church), William White (Christ Church) and George Duffield (Third Presbyterian), Chaplains for the Continental Congress; Francis Alison (First Presbyterian), charter member of the American Philosophical Society; Absalom Jones and Richard Allen (leaders of the Free African Society); Gilbert Tennent, first pastor of the Second Presbyterian Church; Gershom Mendes Seizas (Mikveh Israel), first native born Jewish minister in the US; and Frances Asbury, bishop of the First Methodist Church. The second area, prominent people, include Benjamin Franklin, Francis Hopkinson, Benjamin Rush, Robert Morris, William Smith, John Ross, Rebecca Gratz, Nathan and Benjamin Levy, and Moses Aaron Dropsie. Prominent events include the Revolutionary War, Philadelphia colonial history, religious freedom, immigration and assimilation, the Civil War, public health epidemics and the creation of social services."
 ---
-
-

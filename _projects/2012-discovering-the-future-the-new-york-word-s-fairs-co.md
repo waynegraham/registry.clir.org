@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Discovering the Future: The New York Word's Fairs Collections of 1939 and 1964 at the Museum of the City of New York and the Queens Museum of Art
+title: "Discovering the Future: The New York Word's Fairs Collections of 1939 and 1964 at the Museum of the City of New York and the Queens Museum of Art"
+year: 2012
+end_range: 1969
+formats: "NULL"
+geographic_extant: "The New York World's Fairs were held in Flushing Meadows, Queens, but the scope of the content extends to the national and international level."
+institution: "Museum of the City of New York"
+institution_type: "NULL"
+primary_contact: "Lindsay Turley"
+size: "367 boxes, 450 objects"
+start_range: "1930"
+summary: "MCNY and QMA together hold around 12,000 items (approximately 367 boxes and 450 oversize/irregular objects) documenting the New York World’s Fairs of 1939 and 1964, including books, pamphlets, printed ephemera, rare architectural blueprints, original artworks, film and audio recordings, photographic prints and negatives, architectural models, textiles, and realia. The varied formats and subjects of these materials present scholars with a uniquely holistic perspective on events that shaped the physical and cultural landscape of the city, even as their impact was felt around the globe. Increasing public access to the collections is extremely timely; with the 75th and 50th anniversaries of the Fairs in 2014, both museums anticipate heightened research interest in these materials. The museums steward many architectural plans and original design renderings from the Fairs, as well as official and unofficial photographs and home movies of the Fairs during construction and after they opened to the public. Realia is another important component of the two collections, and includes Fair-themed jewelry, scarves, buttons, plates, and other memorabilia. QMA holds a rare trove of photos, documents, and ephemera related to Salvador Dali’s 1939 Dream of Venus pavilion, as well as the entire Photography as Fine Art exhibit from the 1964 Kodak Pavilion. QMA is also home to The Panorama of the City of New York, a 10,000-scale architectural model commissioned by Robert Moses for the 1964 Fair."
+hc_id: "938"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Museum of the City of New York"
+address2:  "1220 Fifth Avenue"
+city:  "New York"
+state:  "NY"
+zip: "10029"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "Queens Museum of Art"
+grant_amount:  "$129,700"
+material_description:  "NULL"
 ---
-
-

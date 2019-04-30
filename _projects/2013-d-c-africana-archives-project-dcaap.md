@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: D.C. Africana Archives Project (DCAAP)
+title: "D.C. Africana Archives Project (DCAAP)"
+year: 2013
+end_range: 2004
+formats: "NULL"
+geographic_extant: "The geographic scope of the collections is primarily Washington, D.C., although some also include material on Virginia and Maryland."
+institution: "George Washington University"
+institution_type: "NULL"
+primary_contact: "Bergis Jules"
+size: "10000 linear feet"
+start_range: "1790"
+summary: "The collections selected for DCAAP have all been identified as having high scholarly research value and will contribute to the academic study of African American and African diaspora history in Washington, D.C. The collections chosen for this project date from as early as 1790 to 2004 and relate to the civil rights movement, Washington, D.C. politics, slavery, reconstruction, literature, and more. The materials include land and property deeds, photographs, audio and video recordings, and original manuscripts. Examples include Probated Wills, a collection that contains almost two centuries of District of Columbia records detailing the transfer of property, including slaves; the papers of Civil Rights activist Walter Fauntroy; the papers of W. Montague Cobb, the only black physical anthropologist in the United States before the end of the Korean War; the collection of bandleader and composer John Birks \"Dizzy\" Gillespie; and the papers of local music legend Chuck Brown, also known as the Godfather of Go-Go. While these collections largely document African American life in Washington, D.C., they also show the significant influence and contributions of other African diaspora populations to the District. Further, they add to the collective understanding of the role of these populations in American history."
+hc_id: "1079"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "2130 H St. NW"
+address2:  "NULL"
+city:  "Washington"
+state:  "DC"
+zip: "20052"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "District of Columbia Archives; Howard University Moorland-Spingarn Research Center; Historical Society of Washington, DC; National Museum of American History Archives Center; Martin Luther King Jr. Memorial Library"
+grant_amount:  "$495,900"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Archives of the Network of Religious Communities
+title: "Archives of the Network of Religious Communities"
+year: 2016
+end_range: 1857
+formats: "NULL"
+geographic_extant: "The eight counties of Western New York with particular focus on Buffalo, NY and Niagara Falls, NY."
+institution: "Network of Religious Communities (NRC)"
+institution_type: "NULL"
+primary_contact: "Dr. G Stanford Bratton"
+size: "NULL"
+start_range: "1857"
+summary: "The Network of Religious Communities (NRC) is a multi faith organization of denominations and religious organizations located in and serving Western New York with roots back to 1857. The collection itself is a compilation of the various religious and social justice projects of the Network and collaborating organizations during the past 150 years. We believe this considerable historical collection is irreplaceable as well as in fragile condition and should be shared as widely as possible as per the Hidden Collection values. Although this is a regional collection, we feel it has value to researchers across the country who are engaged in social justice and ecumenical and inter religious projects. The NY Heritage website will host our collection after it has been digitized by the BIELS firm."
+hc_id: "21655767"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Network of Religious Communities"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>200 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$84,810"
+material_description:  "The NRC collection consists of business records (meeting minutes, correspondence, event records and publications) of the NRC and its predecessor organizations ( e.g. Buffalo Area Council of Churches and Buffalo Area Metropolitan Ministries). These include religious and social justice organization projects and collaborative organizations dating back from 1857 to the present. There are also collections of now defunct groups which bequeathed or abandoned their records at the NRC. These include records of the Buffalo City Federation of Women's Clubs from the 1900's to the 1940's. There have been collaborative efforts in housing and migrant ministries, community school/religious education and campus ministries and regional church planning. Additionally, some of the social justice projects include community protests against the creation of Casinos in New York State, Buffalo Coalition for Common Ground (developed after national protests on abortion took place in Buffalo), Love Canal (environmental clean up and anti cover ups), police accountability (after the Rodney King beating), Project Equality (to increase diversity in the work place), Food for All (hunger advocacy program) and Roll Call Against Racism, to name but a few."
 ---
-
-

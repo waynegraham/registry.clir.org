@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The California Audiovisual Preservation Project: Illuminating Hidden Histories of Migration and Settlement
+title: "The California Audiovisual Preservation Project: Illuminating Hidden Histories of Migration and Settlement"
+year: 2016
+end_range: 2011
+formats: "NULL"
+geographic_extant: "Northern California; Southern California; Central Valley; San Joaquin Valley; Eastern Sierra; Death Valley; San Francisco Bay Area; Sacramento; Silicon Valley; San Diego"
+institution: "Califa Group"
+institution_type: "NULL"
+primary_contact: "Mr. Barclay Ogden"
+size: "NULL"
+start_range: "1929"
+summary: "The proposed two-year project, Illuminating Hidden Histories of Migration and Settlement, will create a thematically-oriented collection of historically significant audiovisual recordings drawn from the holdings of 10 partner archives, libraries, and museums. The California Audiovisual Preservation Project (CAVPP) will digitize, preserve, and make available online 4,396 hidden audio, film and video recordings documenting the immigrant experience throughout California's modern history. From coastal California to the Eastern Sierras, the California Light and Sound (CLS) collection will map California's living history through sound and moving image to support the work of scholars and educators across a broad array of disciplines, including social science, political science, cultural studies, sociocultural anthropology, urban and environmental studies, and media studies."
+hc_id: "22169126"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "California Audiovisual Preservation Project"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>1706 Audio Recordings</li>"
+collaborating_institution:  "California State University, Bakersfield; California State University, Sacramento; Center for Sacramento History"
+grant_amount:  "$497,017"
+material_description:  "Partners nominated collections that illuminate mass migration and settlement patterns that contributed to California's, and by extension the United States', rapid development from the early 20th to the early 21st century. Each of the collections offers an in-depth, comprehensive treatment of a local migration history. Brought together in the statewide context of the CLS collection, these materials will inform broader historical research and education regarding immigration patterns and experiences. The population and economy of California has developed alongside key industries, such as agriculture, aerospace, and information technology. The collections detail the myriad ways in which each of these industries have both relied upon and driven mass migration in California and the country at large. The collections span a century of modern history. Beginning with early settler days, the San Joaquin Valley Oral History Project (Bakersfield); Eastern California Museum Oral History Collection (Independence); and Castner Oral History Project (Dixon) include recordings focusing on issues of agriculture, farm labor, and relationships with local Native Americans. The San Francisco Jews of Eastern European Origin Collection (San Francisco) and Sacramento Ethnic Survey Collection (Sacramento) document the early days of various immigrant communities in major cities. The “Greatest Generation”  Oral History Collection (San Diego), in particular, illuminates the story of immigrants who worked in the city's aerospace factories during WWII. In 1965, the Hart-Celler Immigration and Nationality Act resulted in accelerated and diversified immigration to the United States. From 1970 to 2010, the number of Californian immigrants jumped from 1.8 million to 10 million. Putting a face to this statistic, the Cambodians in California Collection (Sacramento); Vietnam War Indochina Resettlement Collection (San Diego); KNTV Channel 11 News Archive (San Jose); and Valencia Gardens Oral History Project (San Francisco) all provide personal stories of establishing new communities during a period of tumultuous social and civil change."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Hidden Photo History of the Forest Service and Wildland Fire, 1910-2010
+title: "Hidden Photo History of the Forest Service and Wildland Fire, 1910-2010"
+year: 2012
+end_range: 2010
+formats: "NULL"
+geographic_extant: "The continental US, with an emphasis on the Rocky Mountain West."
+institution: "National Museum of Forest Service History"
+institution_type: "NULL"
+primary_contact: "David Stack"
+size: "5000 objects"
+start_range: "1910"
+summary: "The collection includes approximately 5,000 Forest Service photographs (prints, slides, negatives) as well as some 8- and 16 mm films and VHS documenting the history of wildland fires and fire-related research over a period of 100 years. Materials include photographs of 50+ years of field and lab-based fire research as well as photographs documenting fire and fuel conditions. These will prove particularly useful as researchers attempt to document change over time in the national forests and other national wildlands in the Rocky Mountain West. Historians of science, the environment, and the American West also will find the materials of interest as they document the history of fire research and the evolution of Forest Service fire policy. Other photographs and related materials (e.g., early fire danger rating meters) document key fire-related events in the region such as the 1910 fires in Idaho and Montana that helped define the Forest Service's approach to fire suppression; early air fire patrols in California c. 1919; the early years of smoke jumping in the Missoula area; work of the CCC in the region; the 1949 Mann Gulch fire in Montana that killed 13 men and led in part to the funding of the Missoula Fire Sciences Laboratory; and early research related to changes in fire policy, including the 1972 Prescribed Natural Fire Plan for wilderness areas."
+hc_id: "991"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "PO Box 2771"
+address2:  "NULL"
+city:  "Missoula"
+state:  "MT"
+zip: "59806"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

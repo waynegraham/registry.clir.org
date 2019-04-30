@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Caleb Fiske Harris Collection on Slavery & the Civil War
+title: "Caleb Fiske Harris Collection on Slavery & the Civil War"
+year: 2008
+end_range: 1890
+formats: "NULL"
+geographic_extant: "North America (main focus), Atlantic world, Caribbean, and western Africa"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Richard Ring"
+size: "250 linear feet, 10000 objects"
+start_range: "1750"
+summary: "The Harris Collection originally comprised about 9,300 items, and came into the library’s possession in September of 1884 by purchase from the estate of Caleb Fiske Harris (1819-1881), a Rhode Island-born entrepreneur whose success in business in New York enabled him to retire at age 40 and devote his life to book collecting. 609 volumes were added from the Rhode Island Soldier’s and Sailor’s Historical Society, and later gifts included two Civil War scrapbook collections numbering over 100 folio volumes. There are almost 3,000 “books” (works issued in stiff covers, often multi-volume) in the collection, as well as almost 400 bound volumes containing roughly 6,000 pamphlets ranging in date from the early 1700s to the 1880s."
+hc_id: "310"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "150 Empire Street"
+address2:  "NULL"
+city:  "Providence"
+state:  "RI"
+zip: "2903"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

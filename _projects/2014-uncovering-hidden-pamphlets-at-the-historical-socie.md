@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Uncovering Hidden Pamphlets at the Historical Society of Pennsylvania
+title: "Uncovering Hidden Pamphlets at the Historical Society of Pennsylvania"
+year: 2014
+end_range: 1989
+formats: "NULL"
+geographic_extant: "Philadelphia region (primarily); also U.S. and Europe"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Lee Arnold"
+size: "10000 objects"
+start_range: "1821"
+summary: "The Historical Society of Pennsylvania seeks to support a 12-month cataloging project that will create access to approximately 10,000 of HSP's pamphlets for the first time. The project will use a streamlined approach to cataloging--modeled after \"more product, less process\"--that will make more material accessible in an efficient manner."
+hc_id: "11653073"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

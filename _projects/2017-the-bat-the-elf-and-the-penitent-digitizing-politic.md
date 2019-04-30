@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Bat, the Elf, and the Penitent: Digitizing Political, Cultural, and Religious Serials and Ephemera of Peru
+title: "The Bat, the Elf, and the Penitent: Digitizing Political, Cultural, and Religious Serials and Ephemera of Peru"
+year: 2017
+end_range: 1791
+formats: "NULL"
+geographic_extant: "Most titles are from Lima, the coastal Peruvian capital city. Others, however, are from highlands indigenous cities such as Cuzco (the former Incan capital), Arequipa, Ayacucho, and Puno. As such, these items convey perspectives and concerns of Peru’s creole elite as well as those of its rural, native populations."
+institution: "University of Notre Dame du Lac"
+institution_type: "NULL"
+primary_contact: "Dr. Erika Hosselkus"
+size: "NULL"
+start_range: "1791"
+summary: "This project proposes the digitization of a corpus of rare nineteenth-century Peruvian serials, ephemeral circulars, and popular song and verse imprints held in the José E. Durand Collection at the University of Notre Dame’s Hesburgh Libraries. These unique materials support new scholarship on diverse political, religious, and cultural topics in Peruvian history. They also offer new insights on the worldwide nineteenth-century revolution in print culture, providing fodder for comparative work by scholars in and across many disciplines. The materials will be re-catalogued or described for the first time, enhanced with OCR, and incorporated into a digital collection (approximately 21,000 images) within the Libraries’ repository that allows users to browse and to search and sort according to research interests. Along with uniting a wide variety of valuable, difficult-to-access sources together in one location, this project effectively returns these materials to Peruvians through its commitment to open access."
+hc_id: "26251696"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Notre Dame"
+p2_name:  "Ms. Tracy Bergstrom"
+p2_institution:  "University of Notre Dame"
+p3_name:  "Ms. Ruth Tillman"
+p3_institution:  "University of Notre Dame"
+material_string: "<li>19994 Serials</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$233,563"
+material_description:  "The source materials include issues of 106 early Peruvian serials, 119 circulars and broadsides, and 33 examples of printed popular song and verse. These items date largely to the nineteenth century (1791–1913, bulk 1808–97) and belong to the University of Notre Dame’s José E. Durand Collection. A Peruvian scholar and bibliophile, Durand amassed an unparalleled collection of early Peruvian imprints and periodicals, including these rare items. The University acquired Durand’s library in 1995. These materials come from presses in Lima, the Peruvian capital, and from provincial towns including Cuzco, Arequipa, and Ayacucho. This diverse selection offers an intimate and unique perspective on Peruvian political events and cultural and religious practices from the country’s birth in 1825 to the twentieth century, appealing broadly to scholars of Latin American literature, culture, history, and theology. Political periodicals provide liberal and conservative views of key events in Peruvian history, including the independence battles of the 1820s, the Peru-Bolivian Confederation, and the War of the Pacific. Many are satirical, or joco-serio, and include searing critiques of local, national, and foreign political figures. The cultural imprints include literature and poetry by Peruvian writers, popular songs, and jokes. They also highlight fashion trends and discuss local events. Religious titles convey the Peruvian Church’s position on political issues of the day. Political cartoons and advertisements supplement text as additional fodder for research and teaching. Even beyond insights on Peruvian life and views of the outside world, these materials attest to the nineteenth-century worldwide revolution in print culture."
 ---
-
-

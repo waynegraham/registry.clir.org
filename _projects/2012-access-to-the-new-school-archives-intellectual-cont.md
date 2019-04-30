@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Access to The New School Archives: Intellectual Control and Collection-Level Description
+title: "Access to The New School Archives: Intellectual Control and Collection-Level Description"
+year: 2012
+end_range: 2010
+formats: "NULL"
+geographic_extant: "Documents intellectual and cultural life of New York City, as well as the work of international scholars addressing national and world affairs."
+institution: "The New School"
+institution_type: "NULL"
+primary_contact: "Wendy Scheir"
+size: "369 boxes, 500 linear feet"
+start_range: "1919"
+summary: "The New School (TNS) archives represent the extraordinarily rich and wide range of intellectual and creative work produced across TNS from its founding in 1919 through the 2000s. The archives document the school's formation as an educational experiment, the University in Exile (established in 1933 to provide safe harbor to European Jews and dissidents suffering under fascism), and on through the merger with Parsons School of Design (1970) and Mannes College of Music (1989). Also here is evidence of lesser-known aspects of TNS history, including its role in fostering major 20th century modernist art, theater, dance, and music projects. Aaron Copland and Martha Graham spent formative periods of their lives at TNS, as did John Cage, Berenice Abbott, Alexey Brodovitch, and others. Hundreds of recordings document visiting luminaries such as Martin Luther King, Jr.; Romeo Dallaire; Anais Nin; and Marina Abromovic; papers include those of Arnold Brecht and Frieda Wunderlich. Never before adequately described or made fully accessible, these collections are of national significance, affording researchers a unique lens through which to study many of the most important and dramatic transformations throughout 20th century American society, culture, arts, education, and politics, telling the complex story of a university continually at work on innovative models of rigorous academic inquiry tethered to civic engagement and novel forms of transdisciplinary education."
+hc_id: "967"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "66 Fifth Ave., lobby level"
+address2:  "NULL"
+city:  "New York"
+state:  "NY"
+zip: "10011"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

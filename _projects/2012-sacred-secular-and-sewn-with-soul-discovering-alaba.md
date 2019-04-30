@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Sacred, Secular, and Sewn with Soul: Discovering Alabama's Folk Culture
+title: "Sacred, Secular, and Sewn with Soul: Discovering Alabama's Folk Culture"
+year: 2012
+end_range: 2012
+formats: "NULL"
+geographic_extant: "The state of Alabama."
+institution: "Alabama Department of Archives and History"
+institution_type: "NULL"
+primary_contact: "Mary Allison Haynie"
+size: "15000 objects"
+start_range: "1980"
+summary: "Located in the basement of the Alabama State Council on the Arts, private homes, and offices, Alabama's Folklife Collections include field recordings, slides, photographs, film, video, digital files, reel to reel tapes, cassettes, and ephemera that document music, foodways, and material culture. Recorded in churches, community centers, occupational sites, public facilities, and homes, these performances, interviews, and other items represent over 30 years of research across the state of Alabama. Sacred Harp singing, blues, old-time fiddle, and African American spirituals are just a few of the musical genres recorded. Traditions in quilting and basket-making are also documented in photographs, slides, and audio recordings. The audiences to be served by these collections include historians, folklorists, ethnomusicologists, filmmakers, cultural geographers, producers, educators, and students. Cataloging these collections as they are accessioned by the Archive of Alabama Folk Culture at the Alabama Department of Archives (ADAH) and History and publishing finding aids to the web will broaden access to these important materials. At ADAH, collections will be available to students, independent and academic scholars, and professionals who can use them for exhibits, teacher workshops, documentary films, educational programs, publications, research papers, books, presentations, and the production of CDs, DVDs, and other media projects."
+hc_id: "1018"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "5709 Belle Ridge Trail"
+address2:  "NULL"
+city:  "Birmingham"
+state:  "AL"
+zip: "35210"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "Alabama Department of Archives and History (ADAH), Alabama Center for Traditional Culture (ACTC), Archive of Alabama Folk Culture (AAFC)"
+grant_amount:  "$165,900"
+material_description:  "NULL"
 ---
-
-

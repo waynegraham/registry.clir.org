@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Benjamin Harrison Presidential Collection: Digitizing the Artifacts, Letters, and Documents of America's 23rd President, Benjamin Harrison, including artifacts from his grandfather William Henry Harrison and other family members.
+title: "The Benjamin Harrison Presidential Collection: Digitizing the Artifacts, Letters, and Documents of America's 23rd President, Benjamin Harrison, including artifacts from his grandfather William Henry Harrison and other family members."
+year: 2015
+end_range: 1948
+formats: "NULL"
+geographic_extant: "Containing artifacts from two US Presidents and their families, this 10,000 item collection represents almost every geographic region in the United States of America and even a few pieces from abroad. The states most heavily represented in the collection are Indiana, Ohio, Pennsylvania, Virginia, New York, and Washington DC."
+institution: "Trustees of Indiana University (Indiana University Purdue University (IUPUI) University Library Center for Digital Scholarship)"
+institution_type: "NULL"
+primary_contact: "Ms. Jennifer Johnson"
+size: "NULL"
+start_range: "1759"
+summary: "The IUPUI University Library Center for Digital Scholarship will collaborate with the Benjamin Harrison Presidential Site to digitize the documents, photographs, and artifacts of America's 23rd president. President Harrison served our country from 1889-1893, a period preceding the establishment of national Presidential Libraries. The collection at the Presidential Site encompasses American history though the Harrison family from the Revolution to the Gilded Age. The Presidential Site is a private, independently funded nonprofit museum dedicated to preserving and sharing Harrison's presidential legacy and largely hidden collection of more than 10,000 historical items. We propose to digitize 6,425 items from the collection, opening access to the world and safeguarding this piece of United States history for the future. A combination of digital and 3D printing will create a uniquely dynamic historical archive."
+hc_id: "16879867"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "IUPUI University Library Center for Digital Scholarhsip"
+p2_name:  "Ms. Jennifer"
+p2_institution:  "Vice President of Curatorship & Exhibition"
+p3_name:  "Ms."
+p3_institution:  "NULL"
+material_string: "<li>10000 Manuscripts</li>"
+collaborating_institution:  "Benjamin Harrison Presidential Site"
+grant_amount:  "$491,420"
+material_description:  "The Presidential Site collection includes artifacts from 21 US Presidents. Artifacts relating to Benjamin Harrison V (1726-1791), William Henry Harrison (1773-1841), Benjamin Harrison (1833-1901), Caroline Scott Harrison (1832-1892), and Mary Lord Harrison (1858-1949) span the decades and connect to various other family members, politicians, and famous people. Other Presidents represented in the collection include George Washington, John Quincy Adams, Grover Cleveland, William McKinley, and Theodore Roosevelt. The materials represent a wide range of mediums: historic photos, letters, documents, political memorabilia, household goods, clothing, and other personal items.\n\n \n\nThe letter collection dates from 1777 to the 1940s. Historical figures in the letter collection include George Washington, Robert Todd Lincoln, James Whitcomb Riley, Helen Keller, John Hay, William T. Sherman, and Booth Tarkington.\n\n \n\nDocuments date from 1759 to the early 1900s.\n\n \n\nPolitical memorabilia includes ribbons, medal, and trinkets for William Henry Harrison and Benjamin Harrison, as well as campaign fabrics for the latter. \n\n \n\nWhite House memorabilia includes calling cards, White House invitations, White House menus, and artifacts from the inaugurations of both Benjamin Harrison and William Henry Harrison. Harrison was the centennial president 100 years after George Washington; artifacts from that celebration include a walking stick, programs, medals, and photos.\n\n \n\nHistoric photos include pictures of family members, White House interiors, Harrison's summer home in the Adirondacks, and family photos from a European tour.\n\n \n\nItems from Harrison's 1891 \"Tour Through the South and West.\"  The grand transcontinental train trip took Harrison through 19 states and 72 cities for a total of 9232 miles.\n\n \n\nArtwork includes original watercolors and china painting by First Lady Caroline Harrison and several Tiffany & Co. artifacts.\n\n \n\nAutographs of performers and several notes come from late Victorian early 20th Century performers, including Richard Mansfield, Will Rogers, and Ruth Page.\n\n \n\nThe collection of newspapers dates from the 1840s through 1901."
 ---
-
-

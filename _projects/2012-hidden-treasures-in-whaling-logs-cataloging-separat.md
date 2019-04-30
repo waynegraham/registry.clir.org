@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Hidden Treasures in Whaling Logs: Cataloging Separations and "Inclusions"
+title: "Hidden Treasures in Whaling Logs: Cataloging Separations and \"Inclusions\""
+year: 2012
+end_range: 1925
+formats: "NULL"
+geographic_extant: "The geographic scope of American whaling is global. Logbooks include items from every part of the world, ranging from the Arctic to the South Pacific."
+institution: "New Bedford Whaling Museum"
+institution_type: "NULL"
+primary_contact: "Sara Meirowitz"
+size: "10000 objects"
+start_range: "1754"
+summary: "The New Bedford Whaling Museum Research Library and Archives holds 2300 individual volumes of whaling logbooks and journals dating from the mid-1700s to 1925. These are the combined collection of the Old Dartmouth Historical Society/New Bedford Whaling Museum and the former Kendall Whaling Museum which closed in 2000. These volumes document whaling voyages that sailed through every ocean on the planet. Many are personal journals kept by captains, officers or foremast hands. In the cataloging process, items that were tucked away or pasted into the books were removed from the volumes and stored separately. These items, all together, number in the thousands. These materials have never been cataloged and are virtually invisible to researchers. They represent a wide array of cultural, historical, biological and artistic items, from newspaper clippings to poetry to manuscript maps, business accounts, personal correspondence, organic materials like botanical specimens (pressed leaves, flowers and seeds) animal parts (fish fins, scales and other organic matter), receipts, recipes, etc. The proper identification, cataloging and promotion of the availability of these materials could add exponentially to scholars—understanding of not only the objects themselves but their relationship to the people who kept them in the first place. Many logs are covered with textiles which are of significance in themselves, as they represent a wide range of historic patterns and weaves."
+hc_id: "1004"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "18 Johnny Cake Hill"
+address2:  "NULL"
+city:  "New Bedford"
+state:  "MA"
+zip: "2740"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

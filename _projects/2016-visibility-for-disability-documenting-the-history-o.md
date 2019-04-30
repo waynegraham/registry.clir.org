@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Visibility for Disability: Documenting the history of disability in America and the growth of the disability rights movement
+title: "Visibility for Disability: Documenting the history of disability in America and the growth of the disability rights movement"
+year: 2016
+end_range: 1863
+formats: "NULL"
+geographic_extant: "The collections included in this project are rooted in the northeastern United States, particularly New England. However, some of the activists represented (e.g. Chamberlin, Gwin, Perske) operated nationally or internationally, and both the Clarke School and ICD have had a marked national influence."
+institution: "University of Massachusetts"
+institution_type: "NULL"
+primary_contact: "Dr. Robert Cox"
+size: "NULL"
+start_range: "1863"
+summary: "The Visibility for Disability project will provide a freely available, fully accessible digital foundation for exploring the history of disability and the evolution of the disability rights movement. Considering both the depth of coverage and national historical significance, Special Collections and University Archives at UMass Amherst (SCUA) will select 100 linear feet of content for digitization from sixteen collections. Together these span more than 150 years of American experience, providing valuable insight into the social, intellectual, political, and cultural context of disability in America and the ways in which a new form of cross-disability, rights-based activism grew within the broader civil rights struggle. Drawing on both the personal papers of activists and the records of organizations devoted to disability issues, this project will reveal the significant impact of disability activism on American politics and culture, while also providing rich resources for exploration of the experience of physical and psychiatric disability."
+hc_id: "22329813"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Massachusetts"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>95000 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$245,563"
+material_description:  "The sixteen collections comprising the Visibility for Disability project provide both a long-term context for understanding the experience of disability in America and a closely focused perspective on the rise of the modern disability rights movement. Three collections in the project -- the Clarke School (beginning in the 1860s), the International Center for the Disabled (beginning after the First World War), and the Belchertown School (beginning in 1922) -- represent innovative institutional responses to the \"problems\" of disability and provide both a frame of reference and historical background for ideas of normality, accessibility, inclusion, segregation and integration, and ability -- terms that suffuse contemporary discourse about disability. In exploring the development of the modern disability rights movement, we will focus on two distinct but interrelated strands where our collections are particularly deep: the struggle for full civic participation for people with physical disabilities and the struggle for the rights of those with psychiatric or developmental disabilities. Our collections include notable material from pioneers in the struggle for public access (Bartels, Karuth), material from exceptionally creative (Kahn) or radical voices (Gwin), and important content on the regional mobilization around the AIDS crisis (Boston AIDS Consortium, McVeigh). Our collections for the psychiatric survivors' movement include extraordinary materials on the movement's founders and influential organizations such as the Mental Patients Liberation Front (Chamberlin, Unzicker, Miller), to which we will add rich content for critical junctures in the history of deinstitutionalization (Belchertown) and for critiques of the contemporary legal system (Perske). These collections contain both published and manuscript materials, a rich visual record, and some video content. Most of these collections have been donated to SCUA by their creators within the past eight years, with full transferal of right. Materials closed to research for reasons of medical or educational privacy are excluded from this project."
 ---
-
-

@@ -1,10 +1,34 @@
 --- 
 layout: project 
-title: American Music Research Center (AMRC)
-
-Glenn Miller Archive (GMA)
-
-Digitization of the Edward Burke, Richard March and Walter C. Scott Collections
+title: "American Music Research Center (AMRC)\n\nGlenn Miller Archive (GMA)\n\nDigitization of the Edward Burke, Richard March and Walter C. Scott Collections"
+year: 2015
+end_range: 2000
+formats: "NULL"
+geographic_extant: "The United States and the United Kingdom"
+institution: "University of Colorado Boulder"
+institution_type: "NULL"
+primary_contact: "Mr. Dennis Spragg"
+size: "NULL"
+start_range: "1920"
+summary: "The AMRC is a repository of historic and precious musical materials. The GMA, part of the AMRC, is housed and curated in the University Libraries on the Boulder campus. The GMA is a national treasure preserving thousands of rare and unique audio recordings, documents, photographs and memorabilia from the Big Band Era. The legacies of many prominent artists and private collectors are entrusted to the GMA. The objective of the GMA is to preserve, enhance and share this musical tradition. Among the 56 Collections preserved by the GMA are the Edward Burke, Richard March and Walter C. Scott Collections. The analog recordings in these key collections are among most important private compendia of circa 1930-1960 broadcasts and recordings in existence. The goal of this project is to digitize recordings, photographs, documents and periodicals to make these significant collections available for scholars, students and the public."
+hc_id: "17604655"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Colorado Boulder AMRC Glenn Miller Archive"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>3.2 Audio Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$250,000"
+material_description:  "The materials were collected by Ed Burke, Dick March and Walter Scott (all deceased) with the assistance of other collectors, musicians, radio stations, networks, record companies, producers and others from 1949 through 2009. The accumulated collections contain the work product and property of many hundreds of individuals and organizations."
 ---
-
-

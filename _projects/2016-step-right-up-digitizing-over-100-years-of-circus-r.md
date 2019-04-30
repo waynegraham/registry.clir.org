@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Step Right Up: Digitizing Over 100 Years of Circus Route Books
+title: "Step Right Up: Digitizing Over 100 Years of Circus Route Books"
+year: 2016
+end_range: 1969
+formats: "NULL"
+geographic_extant: "United States; Canada; Cuba; Mexico; South America; Europe"
+institution: "The Board of Trustees of Illinois State University"
+institution_type: "NULL"
+primary_contact: "Dr. Dallas Long"
+size: "NULL"
+start_range: "1842"
+summary: "Step right up and enter the astounding world of circus! For centuries, circuses brought the wonders of the world to cities and towns along the shows' routes. Similar to yearbooks, route books contain information about people, positions, events, and the show's season. Currently, these volumes are difficult to access for researchers, yet no other publication covers as much unique information. Our goal is to provide online access for researchers who are currently limited to physical access to these primary sources. Circus World, Illinois State University, and The Ringling will accomplish this goal in three years by digitizing 315 route books (out of 400 known in existence). This project will facilitate discovery by applying a controlled vocabulary to metadata and aggregating images into a single digital collection. Illinois State University and The Ringling will digitize their respective collections on-site, whereas Illinois State University will also digitize Circus World's collection."
+hc_id: "23080842"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Illinois State University"
+p2_name:  "Mr. Pete Shrake"
+p2_institution:  "Circus World"
+p3_name:  "Ms. Deborah Walk"
+p3_institution:  "The Ringling"
+material_string: "<li>313 Books</li>"
+collaborating_institution:  "Circus World; The John and Mable Ringling Museum of Art (The Ringling)"
+grant_amount:  "$268,139.00"
+material_description:  "Route books were published at the end of the circus season to describe the show's activities for that year. They were made available to employees of the show and circus fans. The name \"route book\" is derived from the listing of planned and/or contracted show engagements, listed by date, state, and city, a compilation known as the \"route.\" By their very name they indicated and underscored the itinerary of the circus. In addition to the venue, route books also list the show managers, performers, and other personnel and their roles at the time the books were compiled. Grander volumes hold much more information about the show's activities, listing generally by department, the names and positions of staff, such as the show managers, the performers, the band, the cookhouse, concert and sideshow, wardrobe, canvas men, menagerie, and more. Ticket sales information and production costs are represented, along with anecdotes and photographs capturing performers, baggage wagons, dressing rooms, tent and street scenes. Route books often listed railroads used and the number of miles traveled. Provenance for the rote books varies, as books were acquired from circuses, circus employees, individuals, booksellers, antique dealers, and other middlemen. Route books represent a diverse range of traveling entertainments, from large circuses to dog and pony shows."
 ---
-
-

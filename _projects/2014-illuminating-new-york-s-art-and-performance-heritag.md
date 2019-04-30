@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Illuminating New York’s Art and Performance Heritage from the 1960s to the Present: Solomon R. Guggenheim Museum Archives Audiovisual Collections
+title: "Illuminating New York’s Art and Performance Heritage from the 1960s to the Present: Solomon R. Guggenheim Museum Archives Audiovisual Collections"
+year: 2014
+end_range: 2010
+formats: "NULL"
+geographic_extant: "The materials primarily cover events in New York City, however, a small percentage documents activities abroad, such as international exhibition tours"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Francine Snyder"
+size: "348 cubic feet"
+start_range: "1960"
+summary: "This two-year project will allow the public to discover and access, for the first time, unique audiovisual collections documenting the Solomon R. Guggenheim Museum's influential and vibrant history of exhibitions, performances, and public programs from the 1960s to present. Despite the cultural and intellectual value of these collections, they remain hidden to the public. Recordings have only been identified at the box level as “audiovisual,”with no formal arrangement or description, making it difficult for even the most experienced researchers to discover them. With support from CLIR, an estimated 298 cubic feet of audiovisual recordings and over 50 cubic feet of paper records will be made available to scholars, students, and the public."
+hc_id: "12990287"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1071 Fifth Avenue"
+address2:  "NULL"
+city:  "New York"
+state:  "NY"
+zip: "10128"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$122,208"
+material_description:  "NULL"
 ---
-
-

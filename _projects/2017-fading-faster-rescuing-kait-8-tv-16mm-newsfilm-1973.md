@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Fading Faster: Rescuing KAIT 8 TV 16mm Newsfilm (1973-1980) from Evanescence
+title: "Fading Faster: Rescuing KAIT 8 TV 16mm Newsfilm (1973-1980) from Evanescence"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Arkansas State University - Jonesboro"
+institution_type: "NULL"
+primary_contact: "Dr. Natasha Margulis"
+size: "NULL"
+start_range: "NULL"
+summary: "Archives & Special Collections at the Dean B. Ellis Library, Arkansas State University proposes to digitize the collection of KAIT-8 TV’s 16mm color newsfilm with sound. This twelve month project will digitize film reels to create high-­quality digital surrogates of this analog collection which was created by KAIT-8 between 1973 and 1980. The project will result in item level metadata, finding aids, and digital access copies of these records which will be posted on our portal hosted by Preservica. This moving image collection is the only one of its kind for Northeast Arkansas and Southeast Missouri. Although the content of these reels seems to focus on localism, it will substantially enrich the scholarly narratives of the late stages of the Civil Rights movement, the worldwide energy crisis, the marginalization and impoverishment of rural America, and the activity of local politicians' in national political affairs on behalf of fellow Arkansans."
+hc_id: "26694466"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Dean B. Ellis Library, Archives & Special Collections, Arkansas State University"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "120 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$49,555"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Uncovering Hidden Audio Visual Media Documenting Post-Modern Art at the Archives of American Art
+title: "Uncovering Hidden Audio Visual Media Documenting Post-Modern Art at the Archives of American Art"
+year: 2011
+end_range: 1989
+formats: "NULL"
+geographic_extant: "The collections document artistic movements that began in New York and Southern California, but transcend regionalism or nationalism."
+institution: "Archives of American Art"
+institution_type: "NULL"
+primary_contact: "Barbara Aikens"
+size: "155 linear feet, 1091 objects"
+start_range: "1960"
+summary: "This project will support the archival processing and creation of EAD (Encoded Archival Description)finding aids for twelve media-rich manuscript collections totaling 155 linear feet. Collections contain a mix of traditional paper records and 1091 media objects, including material in seven video formats, three audio formats, and two film formats. Collections include the papers of American artists, art critics, and scholars; the records of gallery exhibitions; and collections of documentary film and radio productions. They represent a fair sampling for developing guidelines and benchmarks to support an archival processing approach for media-rich archival collections. The audio visual media in these collections are unique and rare archival documentation of a period of contemporary American art when ephemeral and dynamic new visual art forms were emerging in studios, art communities, galleries, and art spaces across the country. These collections contain media-based elements of the artwork itself, such as sound art, video art, or multi-media art forms. They also contain media-based archival documentation of ephemeral art forms such as installation, environmental, conceptualism, performance, minimalism, or technology-based arts such as video art, kinetic sculpture, or light sculpture. In many instances, this archival documentation may be the only remaining evidence of the artwork itself."
+hc_id: "769"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "PO Box 37012, Victor Bldg., Suite 2200"
+address2:  "MRC 937"
+city:  "Washington"
+state:  "DC"
+zip: "20013-7012"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$222,700"
+material_description:  "NULL"
 ---
-
-

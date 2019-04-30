@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Describing the World: Cataloging the Keystone-Mast Ledgers
+title: "Describing the World: Cataloging the Keystone-Mast Ledgers"
+year: 2012
+end_range: 1963
+formats: "NULL"
+geographic_extant: "Worldwide - photographers based in the United States and Australia traveled to all continents and documented world cultures virtually everywhere."
+institution: "UCR ARTSblock"
+institution_type: "NULL"
+primary_contact: "Jonathan Green"
+size: "53000 objects"
+start_range: "1870"
+summary: "The Keystone-Mast Collection is the world's largest stereoscopic archive. The Keystone-Mast's 17 ledger books (containing an estimated 8,000 pages) and 45,000 file cards, dating from the early to mid-20th century and describing materials from the 1870s through 1960s, served as the Keystone View Company's internal record of every negative that they created or acquired. The ledgers detailed a description of each stereoscopic negative, the location where it was made, and typically included information on the photographer, date of creation, and original source of negatives purchased from other stereoscopic companies. The file cards individually listed images which were to be printed as mass-produced stereo cards, and included their titles and a list of what stereo card sets they were published in and the dates of those sets. These ledgers and file cards are essentially a detailed index to the Keystone-Mast stereoscopic archive. The information contained in the ledgers is extremely useful in contextualizing photographs in the collection for research. Dates, artists, and title information is of primary interest to all researchers, and this data often cannot be gleaned from the photographs themselves. Information on how the images were used commercially is also of keen interest to researchers eager to understand what images may have been seen by the American public, and in what context they were viewed."
+hc_id: "974"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "3824 Main St."
+address2:  "NULL"
+city:  "Riverside"
+state:  "CA"
+zip: "92501"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

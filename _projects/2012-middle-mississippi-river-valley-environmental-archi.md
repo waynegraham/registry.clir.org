@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Middle Mississippi River Valley Environmental Archives Processing Project
+title: "Middle Mississippi River Valley Environmental Archives Processing Project"
+year: 2012
+end_range: 2011
+formats: "NULL"
+geographic_extant: "The Middle Mississippi River Valley region, centered on southern Illinois and southeast Missouri"
+institution: "Board of Trustees"
+institution_type: "NULL"
+primary_contact: "Pam Hackbart-Dean"
+size: "145 cubic feet, 250 linear feet, 11000 objects"
+start_range: "1907"
+summary: "Government agencies administer environmental laws and regulations, and businesses, communities, while organizations and individuals seek to balance environmental issues and other needs and concerns. Organizations and groups that face this challenge have widely varying viewpoints and interests. The environmental collections held by both SIUC and SEMO include extensive holdings in environmental history, especially the rural environment, illuminating their relationship, past and present, of humankind to the natural environment in the Middle Mississippi River region. This vast topic includes natural resources (air, energy, land, and water), their conservation and related environmental issues, the effect of environmental hazards on humans and other species, and the development of public policy and planning related to the environment. Records cover organizations established to promote environmental conservation, preservation, and increased awareness of environmental affairs through education, advocacy, or public action; businesses which make direct use of natural resources or respond actively to environmental issues; and individuals prominent in environmental affairs"
+hc_id: "885"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Morris Library (MC 6632)"
+address2:  "605 Agriculture Dr."
+city:  "Carbondale"
+state:  "IL"
+zip: "62901"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

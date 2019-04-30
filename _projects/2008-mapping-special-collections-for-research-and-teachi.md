@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Mapping Special Collections for Research and Teaching at Goucher College
+title: "Mapping Special Collections for Research and Teaching at Goucher College"
+year: 2008
+end_range: 2000
+formats: "NULL"
+geographic_extant: "Baltimore, Maryland, United States; England, Europe"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Tara Olivero"
+size: "73 boxes, 35 cubic feet, 125 linear feet, 3000 objects"
+start_range: "1701"
+summary: "Goucher’s James Wilson Bright Collection contains 4,000 books (1539-1926) collected by pioneering Johns Hopkins philologist, James Wilson Bright. This collection includes some of Goucher’s most valuable artifacts. For this project, we focus on 2,000 18th- and 19th-century items on the history of English studies, German editions of Middle and Old English works of literature, studies of Anglo-Saxon philology, and polyglot dictionaries. Selections from the college’s Manuscripts and Archives Collection include eighteen collections of mostly 20th- century records relating to women’s studies, Jane Austen, education, and history. Most collections are American, but the Austen materials contain correspondence from Anglo-American collectors. The notebooks (1829-1850) of John Mitchell Kemble, an Anglo-Saxonist and art historian, preserve the research on his publication of the history of Anglo-Saxon and its grammar. The papers of 20th century writer H.L. Mencken, and southern writer Sara Haardt Mencken, (his wife, a Goucher alumna, and professor), include more than 700 letters (1923-1935) that discuss love, politics, Hollywood, writing, events, and individuals. The Chrystelle Trump Bond Dance and Music Collection includes 1,000 pieces of American and European popular music and portfolios of dance music, 1820-1962. Strengths include 19th-early 20th-century social and theatrical dance and is valuable for reconstruction of dances and cultural studies of dance."
+hc_id: "209"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1021 Dulaney Valley Road"
+address2:  "NULL"
+city:  "Baltimore"
+state:  "MD"
+zip: "21204"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$198,121.00"
+material_description:  "NULL"
 ---
-
-

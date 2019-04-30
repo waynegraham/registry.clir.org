@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Wake Forest University Manuscript Collections
+title: "Wake Forest University Manuscript Collections"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "U.S. primarily, but particular focus in the Mandelbaum collection in Italy and parts of Western Europe"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Sharon Snow"
+size: "300 boxes"
+start_range: "1908"
+summary: "The collections of Olin T. Binkley, Randall Lolley, Wayne Oates, and Allen Mandelbaum reflect the lives of renowned scholars and thinkers. Binkley, Oates, and Lolley were religious educators, leaders in the fields of higher education administration, ethics, pastoral care and counseling, psychology of religion, psychiatry and psychoanalysis, medicine and theology, spirituality and health, and religion and society. They shared Southern Baptist roots, leaders who served as examples in moving towards moderate and tolerant positions, calling for social justice, inclusivity, and ecumenism within the nation's largest denomiation. The American Psychiatric Association granted Oates the Oskar Pfister Award for his contributions to the relationship between psychiatry and religion. Binkley served as President of the Assoc. of Theological Schools. The Mandelbaum collection reflects the work and writings of an internationally renowned scholar of Dante, Virgil, and Homer. Mandelbaum's writings and research on the literature, culture, and history of ancient Greece and Italy include translations and verse as well as notes and annotations. Mandelbaum was awarded the National Book Award for his Aenid, the Presidential Prize for Translation from Italy, and the Presidential Cross of the Order of the Star of Italian Solidarity, Italy's highest award. All collections consist of correspondence, manuscripts, lectures, translations, sermons, minutes, presentation notes, and publication drafts."
+hc_id: "337"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Box 7777 Reynolda Station"
+address2:  "NULL"
+city:  "Winston-Salem"
+state:  "NC"
+zip: "27109"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

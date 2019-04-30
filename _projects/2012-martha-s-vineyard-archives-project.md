@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Martha's Vineyard Archives Project
+title: "Martha's Vineyard Archives Project"
+year: 2012
+end_range: 2012
+formats: "NULL"
+geographic_extant: "Massachusetts and other states, including Alaska, Hawaii, California; European and Asian countries; New Zealand, Australia. Many documents created at sea."
+institution: "Martha's Vineyard Museum"
+institution_type: "NULL"
+primary_contact: "Nancy Cole"
+size: "812 cubic feet, 180 linear feet"
+start_range: "1652"
+summary: "Situated on a busy coastal seaway, Martha’s Vineyard has played an important part in American and world history since the 1600s. The Martha’s Vineyard Museum’s (MVM) archival collections reflect the strong connections between the Island and the world. Colonial Period collections record the activities and interactions of the English and the Wampanoag, as well as trade and political interactions with the other colonies and with Europe. These themes continue after independence, when the Vineyard thrived as a maritime center. The collections contain British maritime maps, whaling logbooks, whaling account books, maritime charts, diaries, a large collection of ships’ papers and documents, and rare customs records. Other maritime holdings relate to coastal shipping and shipbuilding. The Island’s commercial fishery dates back to the 1700s. Our archives contain accounting records, images, and 20th-century oral history interviews related to that trade. In the mid-19th century, the Vineyard became a religious and vacation resort. Our collections contain artwork, documents, oral histories, and an extensive photographic collection from this period. These images are particularly significant because they show the diversity of peoples on the Vineyard throughout its history, including African-American, Portuguese and Brazilian peoples."
+hc_id: "881"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P.O. Box 1310"
+address2:  "59 School Street"
+city:  "Edgartown"
+state:  "MA"
+zip: "2539"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$293,900"
+material_description:  "NULL"
 ---
-
-

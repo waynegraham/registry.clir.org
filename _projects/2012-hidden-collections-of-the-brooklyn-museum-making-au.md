@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Hidden Collections of the Brooklyn Museum: Making Auction Catalogs Accessible for Research
+title: "Hidden Collections of the Brooklyn Museum: Making Auction Catalogs Accessible for Research"
+year: 2012
+end_range: 2012
+formats: "NULL"
+geographic_extant: "The materials represent art produced in all geographic regions of the world: the Americas (North/South), Africa, Asia, Europe, Middle East and Oceania."
+institution: "Brooklyn Museum"
+institution_type: "NULL"
+primary_contact: "Deirdre Lawrence"
+size: "30000 objects"
+start_range: "1819"
+summary: "Auction catalogs are vital for research within the art community and in other disciplines such as anthropology, archaeology, history, economics and the study of the art market. However, auction catalogs are a challenge both in terms of knowledge of their existence and discovery of the content held within them. The Brooklyn Museum Library auction catalog collection represents sales of art with an encyclopedic range of objects from antiquity to contemporary art. The majority of the catalogs represent sales held in America, Europe and Asia, with additional catalogs from the Middle East. An estimated 50% of the catalogs represent sales of American art, ethnographic art (African, Oceanic, Native American) and the arts of Latin America. Several of these curatorial areas are underrepresented in research collections as well as lack coverage in traditional art indexing tools. The subject coverage includes fine arts, decorative arts and ethnographic objects. The publication dates range from the nineteenth century up to the present period. The catalogs showcase objects offered in public sales and very often feature entire personal and private collections. Rich with textual and visual documentation, the catalogs offer insight into the art market and the provenance of each object. Many of the catalogs include sale price or ownership information that is hand annotated or printed. Preliminary searching indicates that close to 50% of these catalogs are not listed in WorldCat. The majority of the research collections held in the Brooklyn Museum Libraries are listed in the following internationally available online tools: OCLC WorldCat and Arcade, the shared Library Online Catalog of the New York Art Resources Consortium (NYARC). Since the Brooklyn Museum Library Online Catalog was launched in 2002, approximately 95% of the research collections have been recorded in this online tool. However only 10% of the auction catalog collection is listed in OCLC WorldCat and Arcade. This small percentage of the cataloged collection represents auction catalogs that contain information about objects either bought or sold by the Brooklyn Museum and public and private collections of deep interest to the Museum. The collections we now wish to make accessible include all rare or unique historic auction catalogs held by the Brooklyn Museum Library. By historic, we wish to focus on the earliest nineteenth century catalogs in the collection ranging from 1819 to the 1950's. Many of these catalogs contain handwritten annotations concerning sale prices and buyers which is unique information. Additionally, we want to fully catalog the following areas of interest to the Museum that are not readily available in the NYARC or other art museum libraries: (1) catalogs for historic American art sales; (2) catalogs for all Asian art sales; (3) catalogs for all ethnographic art sales; and (4) catalogs for all Latin American art sales. The proposed project will result in these currently uncataloged hidden resources being listed in OCLC WorldCat (SCIPIO database) and Arcade and available to the researchers working locally, nationally and internationally. As part of the proposed plan, we also want to: (1) weed out duplicates from the Library collection that do not fall in the categories listed above and are in other New York City art museum libraries. We hope to place the duplicates in an appropriate repository. (2) And develop a collection plan that outlines what the Brooklyn Museum collects in addition to what is held by NYARC and other local art museum collections 9n the New York City area as a guide for researchers."
+hc_id: "977"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "200 Eastern Parkway"
+address2:  "NULL"
+city:  "Brooklyn"
+state:  "NY"
+zip: "11238"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing Over Fifty Years of Jukebox Music News: Cash Box, 1942-1996
+title: "Digitizing Over Fifty Years of Jukebox Music News: Cash Box, 1942-1996"
+year: 2015
+end_range: 1996
+formats: "NULL"
+geographic_extant: "Cash Box primarily covers the United States, but later issues include sections relating to the music industry in Canada, Europe, Japan, and Mexico."
+institution: "College of William & Mary, Earl Gregg Swem Library"
+institution_type: "NULL"
+primary_contact: "Mr. Jay Gaidmore"
+size: "NULL"
+start_range: "1942"
+summary: "Swem Library is working with the Internet Archive to digitize, perform optical character recognition (OCR), and make freely available online for research the issues of Cash Box, a weekly magazine published from 1942 through 1996 for the music and coin-operated machine industries in the United States and elsewhere. Cash Box is an important and internationally significant resource for the study of music history and popular culture. Acquired directly from the publisher along with the copyright, Swem Library's set of issues is by far the most complete in existence. Although WorldCat indicates that sixty libraries worldwide have copies of Cash Box, most of them have limited runs. This project will digitize 190,000 pages and make them available online through both the William & Mary Digital Archive and the Internet Archive. OCR will allow for keyword searching by individual issue or across issues."
+hc_id: "18603591"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Swem Library, College of William & Mary"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>190000 Serials</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$60,214"
+material_description:  "Cash Box is an invaluable source for the study of music, the music industry, and popular culture in the second half of the twentieth century. Swem Library's holdings of Cash Box consist of 163 bound volumes containing 3912 issues, totaling 190,000 pages. Cash Box was a weekly magazine dedicated to the music and jukebox industries published from July 1942 to November 1996. An alternative to Billboard Magazine, Cash Box included regional chart data, hit songs by city, radio station, and record sales, popularity by jukebox, and charts by genre including country and R&B music. Initially, Cash Box listed songs with artist and label information, alphabetized by label, making it easier to track the impact of specific labels on the music scene. It also featured news of tours, insider gossip, album summaries, and photographs found nowhere else, as well as stories on thousands of singers, bands, and musicians, both famous and not so famous, rising stars and fading meteors, long-time stars and one-hit wonders. Later issues included sections relating to the music industry in Canada, Europe, Japan, and Mexico. In addition to the information about music and albums, the magazine also included information about the jukebox industry, including equipment for sale. Since Cash Box based its charts and content on the music played on jukeboxes rather than through record sales, it covers the music interests of a less affluent clientele and a different demographic. Not everyone could afford buying records, but did frequent communal places of entertainment and social interaction that had jukeboxes. These places were located in inner cities, rural communities, small towns, and ethnic enclaves. Consequently, Cash Box includes information about under-documented communities that are not available in other, similar sources."
 ---
-
-

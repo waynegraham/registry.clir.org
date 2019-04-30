@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Hidden Past of the Pass: A journey through the history and culture of El Paso, Texas
+title: "The Hidden Past of the Pass: A journey through the history and culture of El Paso, Texas"
+year: 2015
+end_range: 1973
+formats: "NULL"
+geographic_extant: "While the nominated collections primarily focus on El Paso, Texas, they also include the surrounding borderland region of west Texas; Ciudad Juarez, Mexico; northern Mexico; and southern New Mexico."
+institution: "City of El Paso Public Library"
+institution_type: "NULL"
+primary_contact: "Ms. Dionne Mack"
+size: "NULL"
+start_range: "1880"
+summary: "The Hidden Past of the Pass is a two-year project that will focus on the hidden history of the area known as \"the Pass\" , which includes El Paso, Texas; Ciudad Juarez, Mexico; west Texas; northern Mexico; and southern New Mexico. This project will digitize currently inaccessible historical photographs and historical archives of the El Paso Public Library (EPPL). The project will include historical photographs from EPPL's Aultman, Blumenthal and Calleros collections; the Trost and Trost architectural archives; maps; newspapers; cemetery records; and yearbooks. Metadata will be created for all digital images and the digital images will be cataloged, indexed and uploaded to EPPL's interactive, bilingual web portal. A variety of marketing and outreach strategies will be used to disseminate information about the digitized collections to scholars, academics, historians, genealogists, teachers, students and the general public."
+hc_id: "17284188"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "City of El Paso Public Library"
+p2_name:  "Ms. Martha"
+p2_institution:  "Southwest Librarian"
+p3_name:  "Ms."
+p3_institution:  "NULL"
+material_string: "<li>3286 Photographs</li>"
+collaborating_institution:  "NA"
+grant_amount:  "$113,311"
+material_description:  "El Paso Public Library Border Heritage Collections\n\n\n\nThe Aultman Collection includes approximately 8,000 photographs by professional photographer Otis J. Aultman from 1880 to 1940 of the City of El Paso and its people; Fort Bliss; the Mexican Revolution in Ciudad Juarez; and Pancho Villa's raid in Columbus, New Mexico. Approximately 40% of the collection has already been digitized; however, none of the collection has metadata and not all of the digitized photos are currently available online. \n\n\n\nThe Blumenthal Collection includes approximately 1,800 photographs of news events from the 1930s and 1940s. None of this collection has been digitized.\n\n\n\nThe Trost and Trost Collection of the well-known Southwestern architectural firm includes 400 architectural renderings and blueprints, over 800 photographs, correspondence, a diary and other materials from approximately 1890 to 1925. The Trosts designed and built iconic buildings in El Paso, Albuquerque, Phoenix and several towns in West Texas. Some images have been digitized on request; however, no metadata has been created and no images are available online. \n\n\n\nOther materials in EPPL's Border Heritage Center collections to be digitized include the Calleros Collection of approximately 619 photographs from Who's Who of El Paso and Boys of the World's War; the Chicano Studies Series newspapers; El Paso Continental newspapers; El Paso High School yearbooks; cemetery records for the Concordia and Evergreen cemeteries; and maps."
 ---
-
-

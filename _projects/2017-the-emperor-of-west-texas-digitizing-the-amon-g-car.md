@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Emperor of West Texas: Digitizing the Amon G. Carter Papers
+title: "The Emperor of West Texas: Digitizing the Amon G. Carter Papers"
+year: 2017
+end_range: 1956
+formats: "NULL"
+geographic_extant: "The bulk of the papers and negatives originated in Fort Worth, Texas, but document the national and international scope of Carter’s businesses dealings and influence. The materials cover 31 states and major cities in Europe and Asia."
+institution: "Texas Christian University"
+institution_type: "NULL"
+primary_contact: "Ms. Mary Saffell"
+size: "NULL"
+start_range: "1929"
+summary: "In this one-year project, Texas Christian University’s Mary Couts Burnett Library (TCU) and the University of Texas at Arlington Libraries (UTA) will digitize and provide metadata for 34.5 linear feet of papers and 15,000 negatives documenting the life and career of Texas businessman Amon G. Carter. Carter (1879-1955) was born into poverty and left school at 11. From this hardscrabble beginning, Carter grew to publish the largest newspaper in Texas; play a major role in the nascent airline industry; lure major manufacturing to Fort Worth, Texas; and host everyone from humorist Will Rogers to President Dwight Eisenhower. Combined, the collections at TCU and UTA reveal a deep wellspring of Carter’s business and personal accomplishments and of his single-handed efforts to shape the national and world perception of Texas in the early twentieth century. Digitized materials will be available and searchable online through a jointly managed web portal."
+hc_id: "26211429"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Texas Christian University"
+p2_name:  "Ms. Brenda McClurkin"
+p2_institution:  "University of Texas at Arlington"
+p3_name:  "Ms. Ramona Holmes"
+p3_institution:  "University of Texas at Arlington"
+material_string: "<li>34.5 Mixed Archival Collections</li>"
+collaborating_institution:  "University of Texas at Arlington (UTA)"
+grant_amount:  "$72,544.00"
+material_description:  "The Carter Papers at TCU extends 204.5 linear feet. To successfully complete a one-year project, TCU staff selected 34.5 linear feet of documents and photographs recording Carter’s involvement in the commercial aviation industry, his associations with prominent individuals, his son’s imprisonment as a World War II POW, and a sampling of his business and personal correspondence. Carter was the owner and publisher of the Fort Worth Star-Telegram; helped establish Big Bend National Park; was director and part owner of American Airways, now American Airlines; and built the defense industry in Fort Worth by luring Bell Helicopter and Convair, now Lockheed Martin, to the city. These efforts led to relationships with Eleanor and Franklin Delano Roosevelt, William Randolph Hearst, Gen. Douglas MacArthur, Bob Hope, Clara Bow, Amelia Earhart, and Nelson Rockefeller. The Amon Carter Museum donated the papers to TCU in 1999. UTA holds the photographic archives of the Fort Worth Star-Telegram—a collection comprising over 4 million negatives. A subseries of 15,000 negatives visually documents Carter’s activities in Texas and the United States and includes Carter with Presidents Roosevelt, Truman, and Eisenhower; candid photos of Lyndon and Lady Bird Johnson; and John Nance Garner, FDR’s vice-president. The Star-Telegram made several donations of the paper’s photographic archives to UTA between 1984 and 1999. Upon Carter’s death, his widow Minnie Meacham Carter received condolence telegrams from notable figures worldwide. UTA will digitize 637 messages for this project, part of the Meacham-Carter Family Papers donated to UTA in 2003 by Mrs. Carter’s estate."
 ---
-
-

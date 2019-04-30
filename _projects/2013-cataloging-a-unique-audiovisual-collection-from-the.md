@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging A Unique Audiovisual Collection from The Wende Museum
+title: "Cataloging A Unique Audiovisual Collection from The Wende Museum"
+year: 2013
+end_range: 1989
+formats: "NULL"
+geographic_extant: "East Germany"
+institution: "The Wende Museum"
+institution_type: "NULL"
+primary_contact: "Donna Stein"
+size: "17000 objects"
+start_range: "1949"
+summary: "East German Collection: 1) Films. 6,500 films: 16mm, 8mm, super 8mm, and filmstrips, with very few duplicate titles. The majority of the movies are documentary and educational films. Home movies constitute about 15% of the collection. Feature films comprise less than 5%. There are also numerous animated films for children. Until now, only 12% of the Wende's audiovisual collection has been accessioned (approximately 700 films). Of those, some 200 items have been cataloged, a little over 3% of the current collection. 2) Audio Recordings. 500+ records and audiotapes, including homemade mixed tapes, commercial and official recordings. Recordings and transcripts of hundreds of interviews made in the 1980s about everyday life in the GDR aired on public radio programs. Subjects include political officials and a cross-section of individuals from GDR society. These interviews complement the home movies and family photo albums in the Wende's AV collection, which also capture the everyday perspective. 3) Slides and Filmstrips. 10,000+ slides: About 75% are personal; the remainder are educational slides."
+hc_id: "1185"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "5741 Buckingham Parkway"
+address2:  "Suite E"
+city:  "Culver City"
+state:  "California"
+zip: "90230"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

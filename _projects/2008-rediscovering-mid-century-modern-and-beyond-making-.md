@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Rediscovering Mid-Century Modern and beyond: Making Unknown Design Collections Available
+title: "Rediscovering Mid-Century Modern and beyond: Making Unknown Design Collections Available"
+year: 2008
+end_range: 1980
+formats: "NULL"
+geographic_extant: "Primarily California, also New York, Philadelpha, most of the United States and some international locations."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Waverly Lowell"
+size: "17 boxes, 348 cubic feet, 41213 objects"
+start_range: "1940"
+summary: "The materials to be addressed in this project were created by architects and landscape architects during the middle of the 20th Century. The records created include thousands of sketches, drawings, photographs, and project files for mid-century homes, suburbs, schools, parks, gardens, and commercial centers. They provide a wealth of material that encourages understanding of the design aesthetic of the era and supports the increasing scholarship interest in this period as evidenced by a growing number of publications, exhibits, presentations, dissertations, and journals. Although many of the buildings, landscapes, institutions, and commercial venues included in this project were built in California, others were located throughout the United States and internationally. These collections are relevant to individuals in numerous ways. They provide the history and context of existing public buildings and private homes, as well as the information needed to renovate and restore them. They and the scholarship they generate increase understanding of the physical world we live in. When the structures no longer exists, these records are all that remain to provide this knowledge. It is critical to insure their preservation and provide access to them. Collections: Mario Ciampi (1907-2006), Warren Callister (1917-2008), Walter Guthrie (1932-2006), Jack Hermann (1917-1989), Ernest Kump (1911-1999), Karl Linn (1923- 2005 ), Hans Ostwald (1913-1973), Donald Olsen (c. 1920-)."
+hc_id: "179"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Environmental Design Archives"
+address2:  "University of California"
+city:  "Berkeley"
+state:  "CA"
+zip: "97420-1820"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

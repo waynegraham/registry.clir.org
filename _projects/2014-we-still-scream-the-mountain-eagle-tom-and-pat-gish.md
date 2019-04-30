@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: We Still Scream: The Mountain Eagle/Tom and Pat Gish Archives
+title: "We Still Scream: The Mountain Eagle/Tom and Pat Gish Archives"
+year: 2014
+end_range: 2005
+formats: "NULL"
+geographic_extant: "The materials cover the town of Whitesburg, KY, Letcher County, KY, state of Kentucky, central Appalachia and covers a national range as well."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Caroline Rubens"
+size: "365 cubic feet"
+start_range: "1957"
+summary: "Appalshop seeks to create public and scholarly access to the historic paper and mixed media archives of the crusading publishers Tom and Pat Gish and The Mountain Eagle newspaper. This regional weekly in rural Appalachia is a nationally recognized model of journalistic courage, commitment to community and investigative reporting, and holding power to account in strained economic circumstances. The collaborative project will assess at-risk materials, create a catalog record and series-level finding aid in EAD format, and develop an outreach plan for access. The accessible collection will be useful across scholarly disciplines, reaching a wide user base via OCLC, Archive Grid, and sites such as Kentucky Digital Library."
+hc_id: "12990414"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "91 Madison Ave."
+address2:  "NULL"
+city:  "Whitesburg"
+state:  "KY"
+zip: "41858"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "The Mountain Eagle"
+grant_amount:  "$90,605"
+material_description:  "NULL"
 ---
-
-

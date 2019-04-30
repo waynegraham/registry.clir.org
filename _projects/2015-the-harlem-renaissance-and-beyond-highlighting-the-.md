@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Harlem Renaissance and Beyond: Highlighting the Struggle for Civil Rights and the New Cultural Aesthetic it Helped Create through the Digitization of the papers of Alain Locke, Arthur B. Spingarn, Joel Spingarn, and Georgia Douglas Johnson.
+title: "The Harlem Renaissance and Beyond: Highlighting the Struggle for Civil Rights and the New Cultural Aesthetic it Helped Create through the Digitization of the papers of Alain Locke, Arthur B. Spingarn, Joel Spingarn, and Georgia Douglas Johnson."
+year: 2015
+end_range: 1971
+formats: "NULL"
+geographic_extant: "The materials in these collections were primarily created in the Northeastern United States, with the bulk of the materials created in either Washington, DC or New York. However there are materials from other parts of the United States, Canada, Europe, Africa, and the Antilles."
+institution: "The Howard University"
+institution_type: "NULL"
+primary_contact: "Dr. Lopez Matthews"
+size: "NULL"
+start_range: "1841"
+summary: "Howard University's Moorland-Spingarn Research Center is seeking a grant of $177,608 to fund a two year project for the digitization of four manuscript collections: the papers of Alain Locke (the first African-American Rhodes Scholar, and the leading philosopher of the Harlem Renaissance); Arthur Spingarn (a civil rights litigator, noted collector of books and manuscripts created by persons of African descent, and President of the N.A.A.C.P.), Joel Spingarn (a noted literary critic, publisher, member of the Niagara Movement, and President of the N.A.A.C.P.), and Georgia Douglas Johnson (poet, lyricist, essayist, playwright, novelist and musician). Together these collections, none of which are well known or utilized, give unique insights into the fight for civil rights during the early 20th Century, as well as insights into the literary and popular cultures of the same eras."
+hc_id: "17292280"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Howard University Libraries and The Moorland-Spingarn Research Center"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>128 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "177608"
+material_description:  "Alain Locke (1885-1954) was a philosopher, professor, and author. The papers include correspondence, writings, photographs and ephemera reflecting his involvement in a wide range of cultural, literary, educational, and civic activities. Some notable correspondents include: Langston Hughes, Zora Neale Hurston, Arthur Fauset, and Countee Cullen. In addition to drafts of his published writings, the papers contain a sizable amount of unpublished writings, lectures, and educational materials. The papers also document his involvement with a variety of organizations including the NAACP, the Associates in Negro Folk Education and the American Association for Adult Education. \n\n\n\nArthur Spingarn (1878-1971) was a lawyer, collector, and president of the NAACP. The papers consist of personal papers; legal files--including the last will and testaments of Langston Hughes and W.E.B. Du Bois; correspondence (some notable correspondents include Langston Hughes, W.E.B. Du Bois, and Zora Neale Hurston); material relating to the NAACP for the period 1957 - 1960, although some extend back to 1929; programs, photographs, book reviews, and awards.\n\n\n\nJoel Spingarn (1875-1939) was a publisher, professor, critic, and civil rights activist. The papers focus on the Amenia Conference (1933); Niagara Movement (1905-1909); and the growth of the NAACP (1915-1939). The Collection includes correspondence with W.E.B. Du Bois, Emmett Scott, Mary Church Terrell, E. Franklin Frazier, Archibald Grimke, Langston Hughes, Samuel Gompers, James Weldon Johnson, and Claude McKay.\n\n\n\nGeorgia Douglas Johnson (1877-1966) was a poet, lyricist, essayist, playwright, novelist and musician. The papers reflect her wide range of activities and her relationships with some of the literati of the Harlem Renaissance. Well documented in the collection is the transformation of Douglas' home into a literary salon hosting weekly meetings between writers such as Jean Toomer, Langston Hughes, and William Stanley Braithwaite. It also includes correspondence with notables such as W.E.B. Du Bois, Zora Neale Hurston and Wallace Thurman."
 ---
-
-

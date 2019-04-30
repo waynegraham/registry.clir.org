@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Summit County Archives Digitization
+title: "Summit County Archives Digitization"
+year: 2015
+end_range: 1979
+formats: "NULL"
+geographic_extant: "All materials are related to Summit County's history."
+institution: "Summit Historical Society (SHS)"
+institution_type: "NULL"
+primary_contact: "Dr. Sandra Mather"
+size: "NULL"
+start_range: "1800"
+summary: "The Summit Historical Society is partnering with the Breckenridge Heritage Alliance to digitize collections held by each organization. We have worked collaboratively within the last year to establish the Sandra F. Pritchard Mather Archive Room where all of our cartographic, photographic, and ledger collections will be housed and made readily available to the public for research. Over 700 maps and 800 photographs have already been rehoused and moved to this location, but require further processing as we move through the digitization project. In addition, the ledgers need full processing. The Society is creating a new website and, using Omeka, we will be able to display digitized collections in virtual exhibits. Our materials range from canvas to linen maps and ledgers on onion-skin paper. We need to process the photographs more thoroughly to determine all formats."
+hc_id: "17462955"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Summit Historical Society"
+p2_name:  "Ms. Susan"
+p2_institution:  "Senior Archivist Consultant"
+p3_name:  "Ms. Ms. Kris Ann"
+p3_institution:  "Archivist Consultant"
+material_string: "<li>89.5 Mixed Archival Collections</li>"
+collaborating_institution:  "Breckenridge Heritage Alliance"
+grant_amount:  "$143,100"
+material_description:  "Our map collections cover the history of Summit County, Colorado. It includes mining, railroad, topographical and blueprints for many areas throughout the County. Our photo collections range from the 1800s through the 1970s. The photos are of various geographical locations in Summit as well as important historical figures including Father Dyer, Edwin Carter, Anders Haugen and many other individuals who contributed to building Summit County. In addition, we have photos of sites that no longer exist and sites that have changed drastically from the mining era through the ski industry boom. We have action shots taken by John Topolniki, photos of the fire in Montezuma and many other events that marked time here. The ledgers we are looking to digitize include rolls, dues and other previously sealed information on the Women of Woodcraft. In addition we have ledgers for the Finding Hardware Store, sheriff's warrants and witness certifications, court records, naturalizations and births and tax records. We will also be digitizing a collection on long-term loan by the Breckenridge Masons Lodge A.F. & A.M. No. 47, chartered in 1882 and sill in service present day."
 ---
-
-

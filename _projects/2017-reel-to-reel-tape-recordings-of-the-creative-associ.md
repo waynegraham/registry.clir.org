@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Reel to Reel Tape Recordings of the Creative Associates Recitals at the University at Buffalo, 1964-1980
+title: "Reel to Reel Tape Recordings of the Creative Associates Recitals at the University at Buffalo, 1964-1980"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "The Research Foundation for SUNY on behalf of University at Buffalo"
+institution_type: "NULL"
+primary_contact: "Dr. John Bewley"
+size: "NULL"
+start_range: "NULL"
+summary: "Project to reformat 173 reel to reel tapes containing circa 627 musical works presented on recitals by the University at Buffalo's Creative Associates, 1964-1980. The Associates were members of the Center of the Creative and Performing Arts, established by Lukas Foss and Allen Sapp in 1964. These recitals were the concerts the Associates programmed themselves as supplements to the Center-scheduled concerts. As such they represent the musical interests of the Associates ranging from early music to contemporaneous music. Many performances of contemporary works were either performed by their respective composers or under their direction. Close to 20 premieres are included. The roster of performers and composers is exceptional. It represents a high number of luminaries of contemporary music of the period, including Crumb, Berio, Wuorinen, Carter, Copland, Bussotti, Scelsi, Feldman, Cage, as well as lesser-known figures whose representation here may be even more unique."
+hc_id: "26878040"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "University at Buffalo Music Library"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "173 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$34,136"
+material_description:  "NULL"
 ---
-
-

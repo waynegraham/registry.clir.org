@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Maritime World in Photographs: Cataloguing the Photo Negatives of The Mariners' Museum
+title: "The Maritime World in Photographs: Cataloguing the Photo Negatives of The Mariners' Museum"
+year: 2014
+end_range: 1959
+formats: "NULL"
+geographic_extant: "Most of the photographs are of US ships, ports and maritime activity. One collection, however, is largely made up of photographs of European ports."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Jay Moore"
+size: "48425 objects"
+start_range: "1860"
+summary: "The Mariners’ Museum Library, the largest maritime library in the Western Hemisphere proposes cataloging at the item level over the next three years its most significant holdings of 19th and early 20th century photographic negatives. These negatives, numbering over 48,000, have never been printed or cataloged, yet they contain images of a vanished maritime world captured by photographers of recognized artistic merit. The images are of ships, steamboats and small craft from around the world and of the people who built and worked in them. The photos are also of port cities and towns that may no longer exist. Scholars, teachers and artists will benefit from the story these photos tell about our past and potentially about our future."
+hc_id: "12990295"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "100 Museum Drive"
+address2:  "NULL"
+city:  "Newport News"
+state:  "VA"
+zip: "23606"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$318,000"
+material_description:  "NULL"
 ---
-
-

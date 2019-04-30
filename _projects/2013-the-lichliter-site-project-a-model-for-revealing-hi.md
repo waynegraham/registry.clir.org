@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Lichliter Site Project: A Model for Revealing Hidden Archaeological Collections
+title: "The Lichliter Site Project: A Model for Revealing Hidden Archaeological Collections"
+year: 2013
+end_range: 1000
+formats: "NULL"
+geographic_extant: "The culture represented by this site encompasses the Ohio River Valley, but relates to concurrent developments across much of the Eastern U.S."
+institution: "Dayton Society of Natural History"
+institution_type: "NULL"
+primary_contact: "Frieda Brigner"
+size: "84 cubic feet"
+start_range: "450"
+summary: "All collection materials relate to the Lichliter site, a prehistoric archaeological site covering several acres. The collection is the result of an excavation undertaken by DSNH from 1962-1970. The site is a Late Woodland period (Ohio River Valley, A.D. 450-1000) village in Montgomery County, OH. The collection as a whole consists of artifacts, field notes, maps, and printed photographs. CLIR funds are requested only to support the cataloging of the artifact collection. Artifacts include ceramic sherds, projectile points and other stone tools, carbonized botanical samples (seeds, nutshell, and wood fragments), animal bone, and soil samples. A small percentage of the overall collection is represented by finished formal tools or ornaments. The majority of artifacts represent waste products or byproducts of human activity across a broad range of domestic activities such as the manufacture of tools, butchering animals, processing plant foods, and cooking. The site is one of only a few Late Woodland sites discovered and one of the most completely excavated sites of this period. In the Ohio River Valley, the Late Woodland period refers to a poorly known, yet highly important period of dynamic cultural change. Within this time period, archaeologists recognize the collapse of Middle Woodland predecessors (known widely as the earthwork builders termed “Hopewell”); the formation of the first nucleated villages; and the adoption of maize agriculture."
+hc_id: "1057"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "2600 DeWeese Parkway"
+address2:  "NULL"
+city:  "Dayton"
+state:  "OH"
+zip: "45414"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$91,000"
+material_description:  "NULL"
 ---
-
-

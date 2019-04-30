@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Addressing the Global Significance of the Henry Shelton Sanford Papers
+title: "Addressing the Global Significance of the Henry Shelton Sanford Papers"
+year: 2011
+end_range: 1901
+formats: "NULL"
+geographic_extant: "Florida, Connecticut, Michigan, Minnesota, Louisiana, South Carolina, Germany, Paris, Russia, Belgium, Central & South America, American West, Africa"
+institution: "University of Central Florida"
+institution_type: "NULL"
+primary_contact: "Jamie Desena"
+size: "80 linear feet, 50000 objects"
+start_range: "1769"
+summary: "The collection resides at the Sanford Museum in Sanford, Florida. It encompasses letters, diaries, legal documents, speeches, articles, and other documents composed by Henry S. Sanford and others. Sanford was a lawyer, diplomat, and investor who purchased and developed the land that would become Sanford, Florida. Subjects covered in the collection include Sanford's schooling in the United States and Europe; American business and diplomatic endeavors in the Congo; legal endeavors in Central and South America; businesses in Connecticut and Michigan; the unification of Germany after the Franco-Prussian War; life in the American West before it was settled; a sugar plantation in Louisiana owned by Sanford and his brother-in-law; Sanford's citrus groves and the issues surrounding them, including the importation of Swedish workers; domestic and diplomatic issues during the Civil War; the slave trade and more."
+hc_id: "824"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "4000 Central Florida Blvd."
+address2:  "Colbourn Hall, Room 551"
+city:  "Orlando"
+state:  "FL"
+zip: "32816-1350"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

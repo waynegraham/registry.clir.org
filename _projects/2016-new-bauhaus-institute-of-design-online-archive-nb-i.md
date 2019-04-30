@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: New Bauhaus & Institute of Design Online Archive (NB&IDOA)
+title: "New Bauhaus & Institute of Design Online Archive (NB&IDOA)"
+year: 2016
+end_range: 1955
+formats: "NULL"
+geographic_extant: "Chicago, Illinois; other areas in Illinois; Germany."
+institution: "Illinois Institute of Technology"
+institution_type: "NULL"
+primary_contact: "Dr. Sharon Bostick"
+size: "NULL"
+start_range: "1937"
+summary: "Illinois Institute of Technology, Paul V. Galvin Library, with the support of IIT's Institute of Design, proposes a twelve-month project to digitize a substantial portion of the Institute of Design Records, 1937-1955, to celebrate the Bauhaus centennial (1919-2019). The Institute of Design has given permission to share this trove of materials online, which include departmental records, correspondence, photographs, thesis materials, and departmental publications, which will be shared via an Islandora digital repository and will be discoverable through the Institute of Design Records finding aid. This project will make available a large collection of previously-hidden materials which are vital to the study of the Bauhaus movement throughout the world."
+hc_id: "22337396"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Paul V. Galvin Library, Illinois Institute of Technology"
+p2_name:  "Mr. Benn Joseph"
+p2_institution:  "Paul V. Galvin Library, Illinois Institute of Technology"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>27 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$79,965.00"
+material_description:  "Academic and creative materials of The New Bauhaus (aka American School of Design), School of Design, and Institute of Design, 1937 - 1955. The collection includes academic catalogues, class and school activities announcements, and biographical materials on faculty (including founder László Moholy-Nagy) and students. Also included are examples of artistic works, exhibit catalogues and announcements of student and alumni professional activities. Also essays, speeches, periodical articles, newsclippings by and about the school and its members. Some materials concern specific courses, such as Camouflage Course, Rehabilitation and Occupational Therapy, Summer Art Camp and Junior Workshop. Exhibit materials include catalogues from Maremont Collection, Fernand Leger, and Moholy-Nagy exhibits. A small amounts of individual student and group projects are found here. Photographs include black & white images depicting completed class projects arranged by class or medium, classroom and studio settings, exhibitions (includes the Harvard Exhibit). Additional 8x10 photographs depict student designs and inventions, product designs; school buildings and faculty and additional exhibit installations (GKF graphic arts exhibit of 1954, social documentary and industrial design exhibits, and others). This collection is entirely unique, making it a prime source for information on Moholy-Nagy, the Institute of Design (prior to 1955) and its predecessor schools. The collection represents the only known official records of The New Bauhaus and School of Design and the early years of the Institute of Design."
 ---
-
-

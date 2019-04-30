@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Secrets Reveal'd: A Project to Digitize Early Modern Printed Books of Alchemy and "Chymistry"
+title: "Secrets Reveal'd: A Project to Digitize Early Modern Printed Books of Alchemy and \"Chymistry\""
+year: 2016
+end_range: 1723
+formats: "NULL"
+geographic_extant: "Printed works in Latin, German, English, French, and Italian, by Continental and British authors, as published in cities from Toulouse to Paris to Amsterdam, Nuremberg, Rome to Geneva to Copenhagen, Oxford to Gdansk."
+institution: "University of Wisconsin-Madison Libraries"
+institution_type: "NULL"
+primary_contact: "Mr. Doug Way"
+size: "NULL"
+start_range: "1521"
+summary: "The University of Wisconsin-Madison Libraries propose a 2-year project to digitize cover-to-cover rare printed works of alchemy and early chemistry (known as \"chymistry\") from our strong history of science holdings. Scholarship about Isaac Newton's reading in these subjects has guided selection of the 174 volumes (1521-1723) to be digitized; a few of the specific copies to be digitized are in fact known to be Newton's own copies. The Libraries will make available an online collection entitled \"Secrets Reveal'd\" accessible through our discovery platform and consisting of more than 72,000 pages relevant to scholars in fields as diverse as history of science, literary studies, and material, print, and visual culture studies. Files will also be shared with current scholarly projects elsewhere facilitating OCR specific to early modern printed texts and coding/tracking Newton's manuscript reading notes on alchemy/\"chymistry.\""
+hc_id: "22229991"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "UW-Madison Libraries"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>174 Books</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$138,600"
+material_description:  "Built on Greco-Egyptian origins and expanded by Arabic authors, alchemy was enjoying a golden age in Britain and on the Continent by the time Isaac Newton turned his attention to a fast-growing literature of metallic transmutation, chemical medicine, and chemical technology, overlapping subjects for which scholars (and we) use the early modern term “chymistry.” Chymistry's cultural valence soared in the 16th and 17th centuries, engaging “artists, poets, humanists, playwrights, devotional writers, [and] theologians”  as well as “chymists”  (Principe 2013: full references at http://go.wisc.edu/ui61p4) and spurring ambitious publishing projects about “the golden calf, which the world adores & desires” (Helvetius 1670). Newton's reading of \"chymical”  literature in print was both explicit and expansive, as evident in his elaborate manuscript reading notes and library. The starting point for materials we propose to digitize are those printed books relevant to “chymistry”  and known to Newton (as documented in Harrison 1978, \"About Newton's Library”  at \"The Newton Project,”  and scholars' work on Newton's \"Index Chemicus”  and related manuscripts, most recently via the ongoing \"Chymistry of Isaac Newton”  project based at Indiana University). The IU project's transcription/TEI coding of extant Newton \"Index Chemicus”  manuscripts has highlighted often cryptic bibliographical references (following the lead of Figala et al. 1992). By matching those references to Harrison and other bibliographical tools, the IU project has identified 122 titles, of which the University of Wisconsin-Madison Special Collections holds 94 titles. When other early printed editions/translations/versions of these 94 texts in our strong alchemy/ “chymistry”  holdings are added, the number of physical volumes to be digitized grows to 174, acquired by purchase and gift: many contain more than one title, and we plan to digitize cover-to-cover. A few of our holdings (notably Starkey's “Secrets reveal'd,” with copious annotations in Newton's hand) are in fact Newton's own copies."
 ---
-
-

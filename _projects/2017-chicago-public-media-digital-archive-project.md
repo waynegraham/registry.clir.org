@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Chicago Public Media - Digital Archive Project
+title: "Chicago Public Media - Digital Archive Project"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Chicago Public Media"
+institution_type: "NULL"
+primary_contact: "Mrs Bea Bosco"
+size: "NULL"
+start_range: "NULL"
+summary: "Chicago Public Media (CPM) has nearly 20,000 audio recordings documenting over 25 years of the Chicago region’s history. These recordings include interviews with former elected officials, music and cultural events, original programming created by WBEZ and other significant historical emblems of our region's past. From the political machinery of Richard Daley to the ascent of Barack Obama, from the founding of the electric blues to the birth of American sketch comedy, CPM has captured pieces of history and stored them as physical archives. This project is a three-year effort to preserve and publish audio recordings. The end result of this initiative will be a thriving home for a wealth of historical, informational and cultural content. Evaluation of impact will be conducted using highly reliable metrics and by soliciting regular user feedback. CPM will monitor the number of institutions that present our archival site as a resource to constituents."
+hc_id: "26905545"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "4293 items<li>392 Open Reel Audio Tape</li><li>783 Digital Audio Tape (Dat)</li><li>6953 Cd</li><li>50 Mini Discs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$50,000"
+material_description:  "NULL"
 ---
-
-

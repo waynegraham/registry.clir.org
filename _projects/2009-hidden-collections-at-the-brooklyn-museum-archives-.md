@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Hidden Collections at the Brooklyn Museum: Archives and Institutional Files
+title: "Hidden Collections at the Brooklyn Museum: Archives and Institutional Files"
+year: 2009
+end_range: 2007
+formats: "NULL"
+geographic_extant: "These research collections illuminate the art and culture of the following geographic areas: Africa, the Americas, Asia, Europe and the Middle East."
+institution: "Brooklyn Museum"
+institution_type: "NULL"
+primary_contact: "Deirdre Lawrence"
+size: "510 boxes, 700 linear feet"
+start_range: "1870"
+summary: "We wish to process and catalog two groups of rare or unique research materials on art and cultural history from around the world spanning antiquity to contemporary times. These materials provide insight into the history of objects and their cultural context focused on the encyclopedic collections represented in the Brooklyn Museum and are relevant to researchers interested in the cultures represented in the Museum's collection. 1. Archives: Approximately 700 linear feet of unique archival collections from the following curatorial departments: Asian Art; Decorative Arts; Arts of Africa, Pacific, and Americas; Egyptian, Classical and Ancient Middle Eastern Art; European Painting and Sculpture; American Painting and Sculpture; Contemporary Art; and Prints, Drawings, and Photographs. 2. Institutional Files: Approximately 5,000 files of rare exhibition catalogs, pamphlets and checklists under 50 pages reflecting an encyclopedic cultural and geographic scope. Many are not listed in Arcade or in WorldCat. Of those records found in WorldCat, many are held by only a few institutions. We hope to catalog these rare publications on art and cultural history so that their existence and location are known."
+hc_id: "422"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "200 Eastern Parkway"
+address2:  "NULL"
+city:  "Brooklyn"
+state:  "NY"
+zip: "11238"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

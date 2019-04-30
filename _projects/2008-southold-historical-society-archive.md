@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Southold Historical Society Archive
+title: "Southold Historical Society Archive"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "Includes items from several hamlets and villages located within Southold Township, which was founded in 1640."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Geoffrey Fleming"
+size: "350 linear feet"
+start_range: "1664"
+summary: "The Southold Historical Society Archive contains: documents, letters, ledgers, receipts, bills, books, pamphlets, photographs, maps, etc., relating to the history of the North Fork of Long Island, NY. This includes several hamlets and villages located within Southold Township, which was founded in 1640. The collection includes items dating from 1664 to the present, with the majority of items dating c. 1780-1950. The Archive is a resource used regularly by amateur and professional historians. Recent researchers included Brooklyn based archaeologists and a history professor from the University of Connecticut."
+hc_id: "87"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P.O. Box 1"
+address2:  "NULL"
+city:  "Southold"
+state:  "NY"
+zip: "11971"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

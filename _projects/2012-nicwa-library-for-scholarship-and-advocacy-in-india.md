@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: NICWA Library for Scholarship and Advocacy in Indian Child Welfare
+title: "NICWA Library for Scholarship and Advocacy in Indian Child Welfare"
+year: 2012
+end_range: 2012
+formats: "NULL"
+geographic_extant: "The scholarly and culturally relevant materials in our collection pertain to ICWA's federal protections for children of the 565 recognized US tribes."
+institution: "National Indian Child Welfare Association"
+institution_type: "NULL"
+primary_contact: "Jen Rountree"
+size: "33 boxes, 3300 objects"
+start_range: "1960"
+summary: "The National Indian Child Welfare Association (NICWA) was established as a central source of information, advocacy, and technical assistance on the Indian Child Welfare Act of 1978 (ICWA). ICWA was passed in response to the number of children that were being removed from their homes by public and private agencies. A 1976 study found that 25-35% of Indian children were being placed in out-of-home care. Eighty-five percent of those children were being placed in non-Indian homes or institutions. ICWA seeks to keep Indian children, who have a unique political status as members of sovereign tribal governments, with Indian families. ICWA sets federal requirements that apply to state child custody proceedings involving an Indian child who is a member of, or eligible for membership in, a federally recognized tribe. The implementation of ICWA has been difficult because of the geographic dispersion of tribes and Indian children, the complexity of the law, and lack of knowledge about ICWA among those who must apply it—social workers, attorneys, and judges, many of whom have never encountered the law. The NICWA library serves as the central clearinghouse for the collection, preservation, and dissemination of documents concerning ICWA. This project will catalog NICWA's special collection of books, articles, scholarly papers, and rare tribal and legal documents and make them accessible to our constituents: social services and legal professionals, scholars, and family members."
+hc_id: "1025"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "5100 SW Macadam Avenue, Suite 300"
+address2:  "NULL"
+city:  "Portland"
+state:  "OR"
+zip: "97239"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

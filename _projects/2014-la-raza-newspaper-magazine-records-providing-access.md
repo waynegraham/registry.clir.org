@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: La Raza Newspaper & Magazine Records: Providing Access to the Mexican American Civil Rights Movement
+title: "La Raza Newspaper & Magazine Records: Providing Access to the Mexican American Civil Rights Movement"
+year: 2014
+end_range: 1977
+formats: "NULL"
+geographic_extant: "This project documents the experiences of Mexican Americans living in Los Angeles and across the American Southwest."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Chon Noriega"
+size: "24698 objects"
+start_range: "1967"
+summary: "This three-year project will catalog a collection of 24,698 photographic negatives documenting the Mexican-descent community of Los Angeles between 1967 and 1977. These long inaccessible negatives were recovered in 2013, and represent an unprecedented decade-long photographic project involving eighteen photographers associated with La Raza. The bilingual publication-a tabloid newspaper from 1967-1970 and a magazine from 1970-1977-developed in the context of community-based journalism that sought broad documentation of events, achievements, and issues reflecting readers' lives. Since La Raza could only print a small portion of photographs, this collection constitutes a rare and broad visual record of the community during this period."
+hc_id: "12990430"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Office of Contract and Grant Administration"
+address2:  "MC 951406"
+city:  "Los Angeles"
+state:  "CA"
+zip: "90095-1406"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$148,021"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Memories of a by-gone era: Providing researchers information about a culture that has all but disappeared in America, through access to hand-written community diaries and original hand-produced student seminary publications from a Catholic order of priests called Redemptorists in the United States during the 19th and early 20th century
+title: "Memories of a by-gone era: Providing researchers information about a culture that has all but disappeared in America, through access to hand-written community diaries and original hand-produced student seminary publications from a Catholic order of priests called Redemptorists in the United States during the 19th and early 20th century"
+year: 2015
+end_range: 1980
+formats: "NULL"
+geographic_extant: "Materials are from Redemptorist communities and seminaries in the Midwest, south and west part of the United States. This is known as the Redemptorists Denver Province: Louisiana, Mississippi, Kentucky, Oklahoma, Texas, Missouri, Idaho, Illinois, Minnesota, Michigan, Wisconsin, Arizona, California, Alaska, Oregon and Washington."
+institution: "The Redemptorists Denver Province"
+institution_type: "NULL"
+primary_contact: "Ms. Jennifer Murphy"
+size: "NULL"
+start_range: "1840"
+summary: "This 18 month project of the Redemptorists Denver Province entails the digitization of thousands of manuscripts and print items related to the history of their seminaries and communities. Materials consist of hand-written school and community annals and hand-made original school publications dating from the mid-19th to mid-20th century. Most of the items are bound and many are fragile, requiring a minimum amount of handling, so they will be scanned using a book scanner with book cradle. Metadata will be created simultaneously. The digitization and metadata production of these materials will enable scholars from multiple disciplines to access this unique collection in order to research the way in which religious orders lived, worked and studied at the height of religious fervor in the United States."
+hc_id: "17204516"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Redemptorists Denver Province"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>116 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$72,000"
+material_description:  "Materials include hand-written annals for approximately 42 Redemptorist communities that are in bound books dating from 1840 to 1980 that detail the daily lives of the priests/brothers living in each community. \n\nMost of the Seminary publications are bound volumes and are the original copies. The content includes; hand-drawn illustrations, photos, hand-typed, original poetry, essays, and commentary created by the students at the seminary from 1920 to 1980. Some publications are not bound, but stapled together by issue."
 ---
-
-

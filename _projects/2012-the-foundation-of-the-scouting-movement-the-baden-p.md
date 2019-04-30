@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Foundation of the Scouting Movement: The Baden-Powell Papers
+title: "The Foundation of the Scouting Movement: The Baden-Powell Papers"
+year: 2012
+end_range: 1976
+formats: "NULL"
+geographic_extant: "Scouting is a global and transnational organization with 30 million members in 161 countries; origins in USA; UK, Canada, Australia, NZ, and S.Africa."
+institution: "Howard Gotlieb Archival Research Center at Boston University"
+institution_type: "NULL"
+primary_contact: "Sean Noel"
+size: "15 linear feet"
+start_range: "1900"
+summary: "The Baden-Powell Scouting Papers were donated to Boston University (BU) and contain important correspondence from the founder of the Boy Scouts and leader of the Scouting movement, Lord Robert S.S. Baden-Powell, as well as his wife, Lady Olave Baden-Powell, Chief Guide of the Girl Guides, (the predecessor to the Girl Scouts of America). This is a unique and historical archive, containing letters and papers from the Baden-Powells; including the founder's own letters to his Personal Secretary, Eileen Wade, and extensive correspondence with his first publisher and editor, all dating from the early 20th century--the formative years of the Boy Scouts and Girl Guides. Original unpublished correspondence from Lady Olave Baden-Powell to Eileen Wade is contained in nine binders ranging in date from 1912 to 1973. The collection is divided into four general categories. The first three categories are comprised of approximately 6.33 linear feet of material, primarily relating to (1) Lord Robert Baden-Powell (RBP); (2) Lady Olave Baden-Powell (OBP); and (3) the Boy Scouts organization itself, including voluminous materials regarding a controversy involving Baden-Powell, Daniel Beard, and Ernest Seton Thompson, as to who deserved to be credited as the true founder of the Boy Scouts. The fourth category consists of approx. 9 linear feet of memorabilia, framed items, Boy Scout medals, badges and awards, and porcelain items, all relating to the Baden-Powells."
+hc_id: "1005"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Howard Gotlieb Archival Research Center"
+address2:  "771 Commonwealth Avenue"
+city:  "Boston"
+state:  "MA"
+zip: "2215"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

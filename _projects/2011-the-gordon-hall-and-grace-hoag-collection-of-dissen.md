@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Gordon Hall and Grace Hoag Collection of Dissenting and Extremist Printed Propaganda, Part II
+title: "The Gordon Hall and Grace Hoag Collection of Dissenting and Extremist Printed Propaganda, Part II"
+year: 2011
+end_range: 1999
+formats: "NULL"
+geographic_extant: "United States (local, regional, national)"
+institution: "Brown University Library"
+institution_type: "NULL"
+primary_contact: "David Banush"
+size: "800 boxes, 2400 linear feet, 700000 objects"
+start_range: "1945"
+summary: "Gordon Hall began compiling what became the Hall-Hoag Collection when he returned from World War II and encountered U.S. domestic hate groups at both ends of the political spectrum. Along with a group of volunteers, including Grace Hoag, he infiltrated and investigated radical and dissenting groups, collecting their printed propaganda as part of his efforts to preserve these irreplaceable materials for posterity. Only the 168,000 items and 5,500 organizations found in Part I have been processed, documented and made available to the public. The project focused on the much larger, unprocessed and inaccessible Part II, comprised of 800 cartons (2,400 linear feet or ca. 700,000 items). Its sheer size speaks to a monumental and unique contribution above and beyond what is available in Part I. A quick comparison of de-duped organizations represented in Part I and those identified in the portion of Part II that has been partially sorted indicates a two-fold increase. With over 300 additional cartons yet to be sorted, many more unique organizations and materials will be revealed. Hall-Hoag Part II is greater in size and breadth than the sum of the combined related political collections held at other institutions. Providing public access to a collection of this magnitude and uniqueness will be a very significant contribution to the documentary record, enabling increased scholarship and research."
+hc_id: "845"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Box A"
+address2:  "10 Prospect St."
+city:  "Providence"
+state:  "RI"
+zip: "2912"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$376,100"
+material_description:  "NULL"
 ---
-
-

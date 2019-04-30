@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Accessing South Carolina Studio Photography Collections
+title: "Accessing South Carolina Studio Photography Collections"
+year: 2013
+end_range: 2010
+formats: "NULL"
+geographic_extant: "The targeted collections are from three towns of different size and in different geographic locations in SC: Columbia, Newberry, and Dillon."
+institution: "South Caroliniana Library"
+institution_type: "NULL"
+primary_contact: "Henry Fulmer"
+size: "402 boxes, 502 linear feet"
+start_range: "1925"
+summary: "The hidden collections targeted in this proposal are an important part of a significant and growing visual resource within SCL. They are intact collections from local photographic studios that were fixtures within their communities. They consist of: 1. The Carolina Studio in Dillon, SC. Opened at the end of WWII and a family business for 42 years, its owner also did full time work for the Dillon Herald newspaper. Collection includes photographs and negatives (mainly acetate base) of weddings, school annuals, portraits, town events, civic and religious organizations, and the building of South of the Border, one of the first highway tourist sites in the U.S. The only studio in Dillon, they had an integrated clientele and recorded events in both the black and white communities. (59 boxes) 2. The Nichols Studio in Newberry, SC opened in 1933. The collection is mostly negatives (mainly acetate base) with some prints. Sports, scouts, businesses, weddings, school annuals, portraits, town events, religious and civic organizations. Collection contains notable images of the black community especially schools before integration. (103 boxes) 3. The Alt-Lee Studio in Columbia, SC opened at the end of WWII and operated until 2010. In addition to a comprehensive collection of negatives and prints it is notable for acquired portions of two older studios with glass plate negatives of portraits and panoramic views of the early 20th century. (230 boxes)"
+hc_id: "1096"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "South Caroliniana Library, University of South Carolina, 910 Sumter Street"
+address2:  "NULL"
+city:  "Columbia"
+state:  "SC"
+zip: "29208"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

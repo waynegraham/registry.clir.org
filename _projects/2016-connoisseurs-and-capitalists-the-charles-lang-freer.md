@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Connoisseurs and Capitalists: The Charles Lang Freer Papers and Histories of Collecting in Gilded Age and the Progressive Era America
+title: "Connoisseurs and Capitalists: The Charles Lang Freer Papers and Histories of Collecting in Gilded Age and the Progressive Era America"
+year: 2016
+end_range: 1919
+formats: "NULL"
+geographic_extant: "Freer's travels and correspondence encompassed large portions of Asia and the Middle East, including China, Japan, India, Egypt, Syria and Europe."
+institution: "Freer Gallery of Art and Arthur M. Sackler Gallery"
+institution_type: "NULL"
+primary_contact: "Mr. David Hogge"
+size: "NULL"
+start_range: "1876"
+summary: "Charles L. Freer, founder of the Smithsonian's Freer Gallery of Art, was a shrewd businessman, world traveler, and visionary collector. Freer's correspondence with art collectors and dealers, scholars, artists, and others provides an extraordinary account of the formation of aesthetic judgments of Asian art that still resonate today. This two-year project will digitize and catalog 31,000 pages of Freer's correspondence and purchase records, which will be transcribed and linked to art objects in Freer's collection. Records will be publicly accessible through the Smithsonian Collections Search Center where searches will also locate related material at other Smithsonian museums. Researchers will be able to trace Freer's purchases, his influences and how he influenced others. For scholars of the new discipline, the history of art collections, Freer's papers will provide critical information unavailable before. Others will find revelations about the Gilded Age and the Progressive Era and our evolving engagement with Asia."
+hc_id: "20883712"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Freer|Sackler"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>31000 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$189,640"
+material_description:  "Detroit industrialist Charles Lang Freer (1854-1919), donated his collection of Asian and American art of the Aesthetic Movement to the nation in 1906 to form the Freer Gallery of Art of the Smithsonian. Freer is unique among collectors in the degree in which he kept detailed records of his correspondence and the purchase vouchers for all 9,000 objects in the original Freer bequest. Freer's papers, held in the museum's Archives, include copies of his outgoing correspondence (kept in fragile letterpress books) and all received letters from more than 500 individuals and institutions related to his acquisitions, exhibitions and research activities. Freer wrote to such influential dealers, artists, scholars and collectors as Sigfried Bing, James McNeill Whistler, Bernard Berenson, and H. O. Havemeyer, and to historical figures such as President Theodore Roosevelt. These carefully maintained records provide researchers an opportunity to place other Asian art collections in an historical context that will create new scholarship not only in art history, but also aesthetics, international trade, diplomacy and American history. In the 1980s, the correspondence and purchase records were organized and made available through an online finding aid, which is currently the primary mode of access for researchers. At the same time, portions of the Freer papers were recorded on microfilm, although quality was poor and only 2 sets were made. Digitizing and making publicly available this collection would be invaluable to researchers from multiple disciplines because it would, for the first time, offer an integrated approach to Freer research, serving to make connections impossible through standard physical access."
 ---
-
-

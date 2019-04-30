@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Since our donor prefers to remain anonymous, the collection is alternately referred to as "Private Collector" in public and the "Greg Gaar Collection" internally.
+title: "Since our donor prefers to remain anonymous, the collection is alternately referred to as 'Private Collector'  in public and the \"Greg Gaar Collection\"  internally."
+year: 2015
+end_range: 1980
+formats: "NULL"
+geographic_extant: "The collection documents the San Francisco Bay Area, primarily San Francisco but also Daly City, Pacifica, Marin, Santa Cruz, and popular vacation areas for residents, such as Lake Tahoe."
+institution: "Western Neighborhoods Project"
+institution_type: "NULL"
+primary_contact: "Dr. Leslie Woodhouse"
+size: "NULL"
+start_range: "1850"
+summary: "In early 2014, the WNP received a large collection of historical photographic materials from Greg Gaar, a local photographer and collector, in order to conserve, digitize, and make these images available to the public via the WNP website. Since that time, the WNP has surveyed, processed, cataloged, rehoused, and digitized 20 linear feet of the Gaar Collection through part-time volunteer labor, while approximately 385 linear feet of materials remain in the donor's possession and await transfer to the WNP for processing and digitization. Much of these materials originated from private collections and are unique, having never been released to the public prior to this project. The end goal of the project is to enable the addition of metadata crowd-sourced from local historians and historical associations, with digital files made available at lower resolution to an unrestricted population via our website, and at a higher resolution upon request for all activities."
+hc_id: "17475629"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Western Neighborhoods Project"
+p2_name:  "Mr. David"
+p2_institution:  "Technical Director"
+p3_name:  "Mr. Ms. Nicole"
+p3_institution:  "Project Archivist"
+material_string: "<li>275 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$192,900"
+material_description:  "All materials in the Private Collection were amassed by a private San Francisco photographer and collector from the 1960s though the early 2000s. The Collector purchased original negatives (glass and film) and photographs, and also made copy negatives and copy prints from collections held by local museums, libraries, historical societies, and city agencies.\n\nPhotographs in the Private Collection were taken by commercial and amateur photographers, and provide a comprehensive overview of San Francisco, its residents and environs from the 1850s through the 1970s. Content includes infrastructural improvements as documented by the Department of Public Works, the Department of Parks and Recreation, and the San Francisco Municipal Transportation Authority; residential and commercial architecture (existing and demolished), including amusement parks like Playland at the Beach; pivotal events in San Francisco history, such as the 1906 San Francisco earthquake and fire and the 1915 Panama-Pacific International Exposition; prominent San Franciscans, such as Adolph Sutro and John McLaren; as well as informal street scenes, and snapshots of daily life."
 ---
-
-

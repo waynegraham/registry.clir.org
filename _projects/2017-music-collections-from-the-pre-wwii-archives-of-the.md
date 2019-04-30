@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Music Collections from the Pre-WWII Archives of the YIVO Institute for Jewish Research
+title: "Music Collections from the Pre-WWII Archives of the YIVO Institute for Jewish Research"
+year: 2017
+end_range: 1890
+formats: "NULL"
+geographic_extant: "RG 7 Music (Vilna Archives) consists of music from Poland, Russia, Ukraine, Lithuania, and Latvia, as well as from the United States, Argentina, and England. RG 37 Jewish Music Societies contains materials from the following cities in the Russian Empire/Soviet Union: St. Petersburg/Leningrad, Moscow, Vinnitsa, Kiev, and Riga."
+institution: "YIVO Institute for Jewish Research"
+institution_type: "NULL"
+primary_contact: "Dr. Jonathan Brent"
+size: "NULL"
+start_range: "1890"
+summary: "A two-year project to process and digitize two important music collections from the pre-World War II archives of the YIVO Institute for Jewish Research. RG 7 Music (Vilna Archives) consists of over 35 linear feet of manuscripts of musical works for the Yiddish theater, including music for about 450 operas and operettas, from the 1890s to the 1930s. RG 37 Jewish Music Societies is a smaller collection containing records of Jewish music societies in Eastern Europe from 1908-1931. Both collections contain unique primary sources for the study of Jewish music by musicologists, theater historians, and musicians, and are now largely inaccessible. The digitized images will be made available, via EAD finding aids, on the free-access website of the Edward Blank YIVO Vilna Collections project, a 7-year international initiative, begun in 2015, to reunite collections that were looted by the Nazis and dispersed among four repositories in Lithuania and New York."
+hc_id: "26255295"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "YIVO Institute for Jewish Research"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>35.5 Musical Scores</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$193,550"
+material_description:  "Both of the music collections to be digitized are from the pre-World War II archives of the YIVO Institute for Jewish Research, founded in 1925 in Wilno, Poland (present day Vilnius, Lithuania), and relocated to the United States in 1940. During the war, YIVO’s collections were looted by the Nazis. These collections are among the materials that survived, and which were rescued with the help of the U.S. Army and transferred to YIVO in New York. The large RG 7 Music (Vilna Archives) collection was originally part of YIVO’s prewar Esther Rachel Kaminska Theater Museum. It consists of rare and often unique musical works for the Jewish theater, including music for about 450 operas, operettas, and vaudeville skits. Most of the music was written for Yiddish and Hebrew theatrical works, but there are also pieces for plays in English, Russian, Polish and other languages. Composers and playwrights include some of the most famous and prominent in the history of Jewish theater. There are also manuscripts and printed sheets of art, popular, dance, and liturgical music. RG 37 Jewish Music Societies relates to several Jewish music societies in Eastern Europe, including the Society for Jewish Folk Music, St. Petersburg; Society for Jewish Music, Moscow; Carmel-Jewish Musical, Dramatic and Literary Society, Riga; Kultur Lige - Music Section, Kiev; Jewish Historical and Ethnographic Society, Music Section, Leningrad; Winchevsky Jewish Folk Kapelye, Vinnitsa; and Institute for Jewish Proletarian Culture- Department of Music, Kiev."
 ---
-
-

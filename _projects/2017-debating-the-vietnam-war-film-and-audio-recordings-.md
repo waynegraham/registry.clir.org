@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Debating the Vietnam War: Film and Audio Recordings from the 1960s and 1970s
+title: "Debating the Vietnam War: Film and Audio Recordings from the 1960s and 1970s"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Swarthmore College Peace Collection"
+institution_type: "NULL"
+primary_contact: "Dr. Wendy Chmielewski"
+size: "NULL"
+start_range: "NULL"
+summary: "This project will digitize 144 open reel-to-reel, magnet tapes and 52 motion picture films from speeches, conferences, films and other programs which included public figures who spoke out to end the Vietnam War in the 1960s and 1970s. The metadata records in the Peace Collection, for these recordings will be extended to meet current standards. These recordings, which are unique, will be made available to the general public, via the Internet Archives and the Peace Collection web site. The voices and images of Vietnam Veterans, anti-war activists, business leaders, religious leaders, civil rights leaders, women peace activists, entertainers, U.S. public policy figures, and Vietnamese activists, will be made available for the first time, richly adding to our understanding of the history of the U.S. in the middle of the twentieth century, to peace history, and the workings of social justice movements."
+hc_id: "26671950"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Swarthmore College Peace Collection"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "144 items<li>50 16mm Film</li><li>2 8mm Film</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$44,405"
+material_description:  "NULL"
 ---
-
-

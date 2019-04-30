@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Open Plan, Open Access: Increasing Researcher Access to Modern Architectural Records
+title: "Open Plan, Open Access: Increasing Researcher Access to Modern Architectural Records"
+year: 2010
+end_range: 2009
+formats: "NULL"
+geographic_extant: "Materials in the collections document architectural projects throughout the United States, but with an emphasis on Southern California."
+institution: "Getty Research Institute"
+institution_type: "NULL"
+primary_contact: "Susan M. Allen"
+size: "450 linear feet"
+start_range: "1949"
+summary: "The papers of Ray Kappe and William Krisel, two hidden architectural collections at the Getty Research Institute (GRI), are explorations of the Modernist goal of creating housing that is well-designed yet affordable. Incorporating project files, drawings, photographs, models and ephemera, these archives reflect the development of modern open-plan residential architecture in the second half of the twentieth century, especially in Southern California. During his fifty-year career, Ray Kappe has designed and built close to 100 houses. Kappe’s major contribution to the field of architecture is the development of pre-fabricated, modular and sustainable residential architecture. He introduced principles of \"green\" architecture, such as recycled materials and energy- and water-saving systems, into his designs long before most other architects. William Krisel is best known for the thousands of tract houses he designed and built in greater Los Angeles and Palm Springs during the 1950s and 1960s, through which he brought “modernism to the masses.” Krisel firmly believed in the power of good design to improve people’s lives and in contrast to many of his contemporaries, he did not think that designing large-scale, affordable housing developments was an activity unworthy of creative energy. In the 1970s Krisel’s focus shifted to high-rise residential and commercial structures, in which he again pursued creative design solutions to avoid the problem of monotony."
+hc_id: "602"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1200 Getty Center Dr."
+address2:  "Suite 1100"
+city:  "Los Angeles"
+state:  "CA"
+zip: "90049-1688"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$154,600"
+material_description:  "NULL"
 ---
-
-

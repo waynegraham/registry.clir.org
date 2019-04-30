@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: "To uplift his morals and save his soul": Digitizing the Records of the American Seamen's Friend Society, 1828-1975.
+title: "To uplift his morals and save his soul: Digitizing the Records of the American Seamen's Friend Society, 1828-1975."
+year: 2015
+end_range: 1975
+formats: "NULL"
+geographic_extant: "ASFS was active in 28 ports in North America, 25 in Europe, nine in Asia and nine \"on islands on the high seas.\"  Port cities such as Mobile, New Orleans, Canton, Lahaina, Marseilles and many more are represented in the collection. New York and Boston are major representatives."
+institution: "Mystic Seaport Museum, Inc."
+institution_type: "NULL"
+primary_contact: "Mr. Paul O'Pecko"
+size: "NULL"
+start_range: "1828"
+summary: "This 2-year project will digitize the papers and particular publications of the American Seamen's Friend Society, a seamen's benevolent association. Included are letters from shipmasters, reports on sailors' homes in ports worldwide, bethel ship reports, shipboard library reports and testimonials, meeting minutes, periodicals and brochures of the A.S.F.S. from the founding of the Society in 1828 until the time it closed its doors in 1975.Of special interest are such papers as the \"Colored Sailors Home Reports,(New York), 1855-1866,\"  detailing the plight of black sailors and including descriptions of the N.Y. Civil War Riots of 1863. The papers and publications will greatly enhance the collection of the A.S.F.S. publication, The Sailor's Magazine, already digitized by Harvard and Princeton. Valuable as a source for religious, social and labor studies, the collection will be accessible through the Library's website, the National Maritime Digital Library (www.nmdl.org) and the Internet Archive."
+hc_id: "17619444"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Mystic Seaport Museum, Inc."
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>60000 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$191,150"
+material_description:  "The archives of the American Seamen's Friend Society were deposited at Mystic Seaport in 1976 when the Society was dissolved after 148 years in existence. The papers contain the records of the human side of the merchant marine, and the story of a trust founded by a group of men of great vision and humanity who recognized the importance of seamen as individuals and as factors in our national economy. The constitution stated the objects of the Society to be, \"To improve the social and moral condition of seamen, by uniting the efforts of the wise and good in their behalf; by promoting in every port boarding houses of good character, savings banks, register offices, libraries, museums, reading rooms and schools; and also the ministrations of the gospel, and other religious blessings.\" \n\n\n\nBy the 1830's, there were more than forty auxiliary societies within the national ASFS and one of the most significant contributions the missionaries made to the general welfare of seamen was the social education they provided in counseling their clients against the evils of the harbor. One such missionary of the Society was Rev. Samuel C. Damon who sailed for Honolulu in 1841 to minister to the thousands of whalemen that called in that port each year. In his more than four decades of ministry he also published a monthly newspaper, The Friend, for distribution to sailors. It was one of a number of publications produced by the ASFS. The providing of libraries for seamen on ships and on shore also constituted one of the paramount objectives of the Society. The annual report of the Society for 1930 records that the whole number of libraries sent to sea since 1859 totaled 30,040 libraries."
 ---
-
-

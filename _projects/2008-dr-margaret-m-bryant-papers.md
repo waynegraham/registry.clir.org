@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Dr. Margaret M. Bryant Papers
+title: "Dr. Margaret M. Bryant Papers"
+year: 2008
+end_range: 1993
+formats: "NULL"
+geographic_extant: "South Carolina, New York, Kansas, West Virginia, Sweden"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Gina White"
+size: "67 boxes, 67 linear feet, 134000 objects"
+start_range: "1900"
+summary: "Dr. Margaret M. Bryant (1900-1993) educator, author, and international authority on linguistics and folklore, was on the faculty at Brooklyn College, NY for over 40 years. She wrote 12 books and over 100 articles and reviews including English in the Law Courts, Psychology of English, Current American Usage, and Modern English and its Heritage, and served on the editorial and advisory boards of several dictionaries. Bryant was also a visiting professor at the Universities of Uppsala, and Stockholm in Sweden and taught summer courses at a number of US universities, including Columbia, Rutgers, and Hunter College. She was an active member and office holder in numerous professional associations, including the Linguistic Society of America, The National Council of Teachers of English, the American Association of University Women, and the American Folklore Society. Her papers consist of professional, organizational, and personal files including correspondence; research files pertaining to topics such as geolinguistics, word usage, American and world folklore, proverbs, onomastics, dialects, children’s folklore/rhymes, and new words; her travels, teaching, and involvement with women’s organizations such as AAUW. She earned her BA from Winthrop College in Rock Hill, SC in 1921, MA in 1925 and PhD in 1931 from Columbia University. Researchers interested in linguistics, philology, the history of the English language, and American and world folklore will benefit from her unpublished research."
+hc_id: "231"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Louise Pettus Archives and Special Collections"
+address2:  "Dacus Library"
+city:  "Rock Hill"
+state:  "SC"
+zip: "29733"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

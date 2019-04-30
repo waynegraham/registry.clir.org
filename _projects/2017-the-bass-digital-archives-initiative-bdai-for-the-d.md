@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Bass Digital Archives Initiative (BDAI) for the Digitization of the Institutional, Cultural, and Artistic Holdings of the Bass Museum of Art and Expansion of Miami Beach’s Cultural Heritage and Preservation
+title: "The Bass Digital Archives Initiative (BDAI) for the Digitization of the Institutional, Cultural, and Artistic Holdings of the Bass Museum of Art and Expansion of Miami Beach’s Cultural Heritage and Preservation"
+year: 2017
+end_range: 2017
+formats: "NULL"
+geographic_extant: "The main location represented through the collection is Miami Beach, Florida, United States. The artists’ provenance represent Ukraine, the city of New York, and Austria."
+institution: "The Bass Museum of Art"
+institution_type: "NULL"
+primary_contact: "Ms. Sherry Zambrano"
+size: "NULL"
+start_range: "1930"
+summary: "To create a digital repository of the institutional archives of The Bass Museum of Art (The Bass) in Miami Beach, Florida. Since 1963 when the museum opened its doors to the public, photographs, works on paper, architectural papers, institutional documents about the museum’s history, and the personal papers of the founders John and Johanna Bass were safely stored in the former Miami Beach Public Library and Art Center. The Bass museum building undergoes a rehabilitation plan since 2015. The museum’s archives are also being rehoused, thus this is the right moment to begin digitization and make the archives fully available to the public. The BDAI will create a free and open to all digital repository, with a collection of approximately 35,000 images in two years, as part of Florida International University’s Digital Collections, dPanther."
+hc_id: "26183590"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Bass Museum of Art"
+p2_name:  "Dr. Paula De La Cruz-Fernández"
+p2_institution:  "Bass Museum of Art"
+p3_name:  "Dr. Kenneth Lipartito"
+p3_institution:  "Florida International University"
+material_string: "<li>120 exhibition records, correspondence, historical photographs and documents, audio and video recordings, architectural proposals, scrapbooks, printed material and ephemera.</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$186,752"
+material_description:  "The Bass Museum of Art was founded in 1963 through the donation of a private collection by John and Johanna Bass to the City of Miami Beach. The museum opened in the former Miami Beach Public Library and Art Center, a 1930s Art Deco building designed by Russell Pancoast, grandson of Miami Beach pioneer John S. Collins. The building itself is representative of Miami Beach architectural history as the first public art exhibition space in South Florida. The Bass Museum was placed on the National Register in 1978. The archives and other institutional documents pertaining to the museum’s history were discovered in art storage during a mass inventory before closing for renovations in 2015. The archives are organized in three different collections. First, the artists’ collection, which includes documents and objects by renowned architects and artists containing photographs, sketches, and renderings of historic landmarks of the Miami Beach’s Art Deco and MiMo districts. Architects Russell Pancoast, Lawrence Murray Dixon, and Morris Lapidus are featured in the collection. The personal papers, photographs, drawings and maquettes of Gustav Bohland, the sculptor of the bas-reliefs and the seagull-gargoyles on the corners of The Bass historic building, are also part of the artists’ collection. Second, the founders’ collection. The John and Johana Bass archives are composed of personal letters, photographs, and newspaper clippings. Third, the Bass History collection, containing mixed documents, objects, and papers from the museum’s institutional past, past exhibitions, curators’ papers, and building renovation proposals."
 ---
-
-

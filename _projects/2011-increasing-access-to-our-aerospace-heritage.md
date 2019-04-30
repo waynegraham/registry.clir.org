@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Increasing Access to Our Aerospace Heritage
+title: "Increasing Access to Our Aerospace Heritage"
+year: 2011
+end_range: 1995
+formats: "NULL"
+geographic_extant: "The collections encompass air and space history and technology within the United States, focusing primarily on Southern California."
+institution: "San Diego Air & Space Museum"
+institution_type: "NULL"
+primary_contact: "Katrina Pescador"
+size: "3000 cubic feet"
+start_range: "1870"
+summary: "The Museum's Library & Archives houses one of the most significant collections of aviation related research materials in the world and holds the third largest collection of its kind in the United States.From the dawn of powered flight to the space age, Southern California has maintained an important role in shaping the nation's aviation and aerospace industry. San Diego is the birthplace of naval aviation, and was a critically important contributor to the nation's WWII defense effort. Today, its defense industry continues to develop new concepts in flight. The Museum's archival and special collections include the corporate records of significant San Diego-based aerospace companies, such as Pacific Southwest Airlines, Ryan Aeronautical, and Consolidated Aircraft Corporation; a number of aerospace pioneers, including T. Claude Ryan, Ed Heinemann, George Hallett, William T. and Benjamin Douglas Thomas (Thomas Brothers); and famous aviators such as Jacqueline Cochran, Helen Richey, Charles Lindbergh, Richard E. Byrd, and Bernt Balchen. The “Increasing Access to Our Aerospace Heritage” project will raise awareness of these historically important hidden collections by providing broader and easier access online. For this project, the staff will create finding guides for 186 archival collections of individuals, three organizational records from San Diego-based corportions (Ryan, Consolidated Aircraft Corporation/Convair, and Pacific Southwest Airlines), and 144 photo albums."
+hc_id: "717"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "2001 Pan American Plaza"
+address2:  "NULL"
+city:  "San Diego"
+state:  "CA"
+zip: "92101"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

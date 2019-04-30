@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Memphis Coalition for Cultural Heritage Cataloging Project
+title: "Memphis Coalition for Cultural Heritage Cataloging Project"
+year: 2011
+end_range: 2005
+formats: "NULL"
+geographic_extant: "The Mid-South and particularly Memphis, the \"capital\" of this Delta region."
+institution: "Rhodes College"
+institution_type: "NULL"
+primary_contact: "Suzanne Bonefas"
+size: "162 linear feet, 778 objects"
+start_range: "1830"
+summary: "Overall focus is the Mid-South, esp. race relations in Memphis, this Delta region's \"capital.\" Period is Civil War through Civil Rights era. Specific Collections include - Rhodes: Brownsville KKK, 1960s-1970s; Shelby Foote (personal documents/memorabilia of novelist/Civil War historian). U of M: Sanitation Strike (150 interviews after 1968 strike and Martin Luther King assassination). MPLIC: Page/Lenox (labor organizer/former mayor of Lenox); Maxine Smith/NAACP (fight for racial equality, esp. in Memphis, 1958-1995); Frank Tobey (race relations while Memphis mayor, 1953-1955); Venson/Memphis Cotton Makers' Jubilee (event programs/correspondence since 1935 founding of African-American parallel to Memphis Cotton Carnival); Cultural Resources Survey/Vollentine-Evergreen Neighborhood/Everett R. Cook Oral History Program/Memphis Civic Clubs (development of Memphis neighborhoods); African-American Life in Memphis (contributions to Memphis, including businesses and churches); Beale St. ('Chitlin Circuit' clubs, 1930s-1960s). NCRM: Symbols of Segregation (signage, KKK paraphernalia, recordings, artwork, clippings file); Voices of Freedom (73 oral history interviews); Freedom Awards (annual ceremony recognizing civil and human rights leaders). Stax: From the Soul (materials on Soulsville, USA neighborhood, home to many Stax musicians); Here and Now (photographs/interviews with former Stax musicians); Club Paradise/Club Handy (two prominent Memphis blues venues)."
+hc_id: "714"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Rhodes College"
+address2:  "2000 NORTH PARKWAY"
+city:  "Memphis"
+state:  "TN"
+zip: "38112"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

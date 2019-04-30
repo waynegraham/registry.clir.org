@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Preserving An American Treasure: The Mount Vernon Ladies' Association's Early Records & Archives from 1852 to 1951
+title: "Preserving An American Treasure: The Mount Vernon Ladies' Association's Early Records & Archives from 1852 to 1951"
+year: 2016
+end_range: 1951
+formats: "NULL"
+geographic_extant: "The majority of the collection reflects activity at or near Mount Vernon, in Virginia and Washington, DC. However, Vice Regents often wrote letters and fundraising appeals from home, especially Miss Cunningham of South Carolina. Over the 99-year period, 168 women served as Vice Regents from 41 states plus DC."
+institution: "Mount Vernon's Fred W. Smith National Library for the Study of George Washington (aka - the Washington Library)"
+institution_type: "NULL"
+primary_contact: "Dr. Douglas Bradburn"
+size: "NULL"
+start_range: "1852"
+summary: "The MVLA has been a pathfinder for the American historic preservation movement. This two-year project will digitize, organize, describe, and make publicly accessible about 7,000 items, much of which focuses on the MVLA's earliest period from 1852-1891. Primary source material includes manuscripts, letters, newspaper clippings, and images related to the rich history of the Association. The archival collection will be fully processed to include the most modern of searchable finding aids, which will make this fascinating story widely available to benefit scholars, teachers, students, and life-long learners. This project combines a very human story with an unsung institutional history. Founded and governed by women, the MVLA forged a new industry for protecting America's cultural and historical heritage, while fulfilling their mission to preserve the legacy of George Washington's leadership and character along with his beloved, iconic home. Their patriotic leadership and resolve, individually and collectively, represents an important American achievement."
+hc_id: "22157643"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "The Fred W. Smith National Library for the Study of George Washington"
+p2_name:  "Mr. Mark Santangelo"
+p2_institution:  "The Fred W. Smith National Library for the Study of George Washington"
+p3_name:  "Ms. Michele Lee"
+p3_institution:  "The Fred W. Smith National Library for the Study of George Washington"
+material_string: "<li>7000 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$174,550"
+material_description:  "Our Early Records project documents MVLA's inception and evolution. This collection consists of approximately 7,000 items including manuscripts, financial and administrative records, printed material, bound volumes, and photographs. The provenance for much of this treasure trove of women's history stems directly from the MVLA founder, Ann Pamela Cunningham, and was acquired soon after her death in 1875. Later accessions were added to the collection during the 20th century, provided by family members of the first MVLA board (aka - Vice Regents). The latest meaningful additions were made in the 1980s. The portfolio is undergoing major reorganization so it can be studied with the full leverage with 21st-century scholarship. No digitization has occurred, but fortunately some prior work has been performed. Indexing and preservation efforts were undertaken in the 1940s and the 1960s, which resulted in a detailed, item-level card catalog filed by date and subject. To protect from disaster or theft, the content was microfilmed in 1964. Comprising 13 reels, only two copies were produced - one for MVLA and one for our longtime research partner, the University of Virginia. Access to these reels has been restricted (viewed only with the written permission of the MVLA board). Ann Pamela Cunningham, her secretaries, and the other board members were key figures represented in the early records. Their papers describe the MVLA's formative years, including struggles with fundraising to purchase the property and challenges to gain credibility as an organization made up entirely of women. Letters, reports, and military passes help evidence the difficulty of maintaining an historic site during the Civil War. As one of the nation's first historic preservation and women-led organizations, this time capsule of information is valuable to researchers from several disciplines. Our goal is to make it widely and freely available to all."
 ---
-
-

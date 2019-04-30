@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: College Women: Documenting the Student Experience at the Seven Sisters Colleges
+title: "College Women: Documenting the Student Experience at the Seven Sisters Colleges"
+year: 2015
+end_range: 1941
+formats: "NULL"
+geographic_extant: "While the women represented in the nominated collections spent their college days in the northeast, their writings represent lives lived across the U.S. and around the world; from New York, Boston, and Philadelphia to Europe, Asia, and South America."
+institution: "Bryn Mawr College"
+institution_type: "NULL"
+primary_contact: "Mr. Eric Pumroy"
+size: "NULL"
+start_range: "1837"
+summary: "The College Women project will bring together the extensive collections of letters, diaries, and scrapbooks created by students at the Seven Sisters Colleges in the late nineteenth and early twentieth centuries, and now held by Barnard, Bryn Mawr, Mount Holyoke, Smith, Vassar, and Wellesley Colleges, and the Schlesinger Library, Radcliffe Institute at Harvard. More than 80,000 pages of these student writings will be digitized during the project, and will be searchable through the new College Women portal for the history of women's education. The project will open up new avenues for research in American women's history by making the important but dispersed and underused writings of the first generations of educated women easily accessible through a single site."
+hc_id: "17483088"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Bryn Mawr College"
+p2_name:  "Ms. Joanna"
+p2_institution:  "Digital Initiatives Librarian"
+p3_name:  "Ms. Ms. Elisa"
+p3_institution:  "Director, Digital Strategies & Services, College Libaries"
+material_string: "<li>12348 personal letters (19th-20th century)</li>"
+collaborating_institution:  "Barnard College; Bryn Mawr College; Mount Holyoke College; Smith College; The Radcliffe Institute (Harvard); Vassar College; Wellesley College"
+grant_amount:  "$452,108"
+material_description:  "Materials nominated for digitization by the seven project partners will illuminate the undergraduate college careers and post-college experiences of women from the mid-nineteenth century (beginning with the opening of Mount Holyoke Female Seminary, now College) through the mid-twentieth century, when the seven institutions became known, collectively, as the \"Seven Sisters.\"  We have selected correspondence, diaries, and scrapbooks (containing news clippings, memorabilia, photographs, and ephemera) describing student life and campus climate, as well as local and world events. Important collections include the diaries and letters of some of Mount Holyoke's earliest graduates including Lucy Fletcher Hawley, Mary Quincy Brown, and Caroline LeConte Morris, whose writings illustrate the impact of early women's education leader Mary Lyon, founder of Mount Holyoke; the letters of Cornelia (James) Cannon (Radcliffe College Class of 1899), best-selling author and civic leader; the Hart-Lester Harris (Smith College Class of 1913) papers, which reflect a family tradition of attending Smith College; and the letters and diaries of Jean Scobie Davis (Bryn Mawr College Class of 1914), who later taught at women's colleges including Agnes Scott and Wells before turning to prison reform.\n\n\n\nIn sum, these materials illuminate a growing narrative of women expanding their roles beyond the domestic sphere by claiming their rightful place as educated members of their society. A number of letters reflect conversations between some of the earliest women's college graduates and their parents, illustrating the impact of higher education and living away from home. Topics included in these writings and scrapbooks range broadly from exams to professors, college and community social events (including campus traditions), sports and dramatics, cross-college events, politics, religion, home life, and travel."
 ---
-
-

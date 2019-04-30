@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing Southern California Water Resources: A proposal to the Council on Libraries and Information Resources' Digitizing Hidden Special Collections and Archives program
+title: "Digitizing Southern California Water Resources: A proposal to the Council on Libraries and Information Resources' Digitizing Hidden Special Collections and Archives program"
+year: 2016
+end_range: 2015
+formats: "NULL"
+geographic_extant: "The bulk of the collections center on Southern California - the Los Angeles basin, the San Gabriel and Pomona Valleys, and the Inland Empire region (San Bernardino and Riverside Counties). Some collections include materials about Central and Northern California, San Diego (CA) County, Arizona, Nevada, and Utah."
+institution: "Pomona College"
+institution_type: "NULL"
+primary_contact: "Ms. Carrie Marsh"
+size: "NULL"
+start_range: "1812"
+summary: "Over a 3-year period, the Claremont Colleges Library, A.K. Smiley Public Library, California State University Northridge Oviatt Library, California State University San Bernardino Water Resources Institute, National Archives and Records Administration at Riverside, Ontario City Library, and Upland Public Library will collaborate on digitizing materials that originated from a variety of sources such as federal, state, and local governments, water companies, local agencies, engineers, and other individuals involved in water development in the region from the 19th through the 20th centuries. This project targets more than 30 archival collections to be digitized, uploaded to an online digital asset management system, cataloged with descriptive metadata, and placed under a curation plan. The digitized collections will be accessible to all with internet access, provide a foundation for a \"distributed\" digital water resource archive, and facilitate and support digital scholarship for regional, national, and international researchers."
+hc_id: "23081420"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Claremont University Consortium"
+p2_name:  "Dr. Char Miller"
+p2_institution:  "Pomona College"
+p3_name:  "Mr. Stephen Kutay"
+p3_institution:  "California State University Northridge, Oviatt Library"
+material_string: "<li>46376 Mixed Archival Collections</li>"
+collaborating_institution:  "Pomona College (CA) (grant administrator); Claremont Colleges Library (CA); A.K. Smiley Public Library (Redlands, CA); California State University Northridge Oviatt Library"
+grant_amount:  "$333,574"
+material_description:  "Thirty one archival collections from the seven partner institutions are targeted to be digitized under this grant. These collections originate from a variety of sources, such as federal, state and local governments, water companies, local agencies, engineers and other individuals involved in water resources development in the region from the 19th through the 20th centuries. Noteworthy individuals and organizations include All-American Canal, Bear Valley Irrigation Company, California Division of Water Resources, George Chaffey, Claremont Domestic Water Company, Department of the Interior's Office of the Regional Solicitor in Los Angeles, Feather River Project Association, Charles Frankish, Duane L. Georgeson, Imperial Irrigation District, Willis S. Jones, Metropolitan Water District of Southern California, Catherine Rose Mulholland, William Mulholland, Ontario Land Company, Ontario Land and Improvement Company, Ontario Mutual Water companies, Charles N. Perry, Pomona Valley Protective Association, Jeffry Joseph Prendergast, Salton Sea Authority, San Antonio Water Company, San Bernardino County Flood Control District, J. Ralph Shoemaker, Southwest Water League, U.S. Geological Survey's Hydrographic Branch, Frank E. Weymouth. Subjects covered by the collections include contamination and pollution; floods and flood plains; irrigation; legal cases; the Colorado River Aqueduct; the Los Angeles Aqueduct; reservoirs and dams including Boulder dam, Davis dam, and Parker dam; the Salton Sea; watersheds; water companies and municipal water suppliers; water engineering; water rights, land ownership and other legal matters; design and building of dams; and related topics. The archival holdings across the institutions comprise blueprints, correspondence, ephemera, ledgers, legal papers, maps, pamphlets, photographs, plans, reports, scrapbooks, and technical documents."
 ---
-
-

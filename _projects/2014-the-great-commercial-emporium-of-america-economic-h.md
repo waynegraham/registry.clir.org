@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: "The Great Commercial Emporium of America": Economic History Archives at the New-York Historical Society
+title: "The Great Commercial Emporium of America: Economic History Archives at the New-York Historical Society"
+year: 2014
+end_range: 1955
+formats: "NULL"
+geographic_extant: "National in scope, with emphasis on New York; more broadly covering Europe, South America, Canada, Mexico, the Caribbean, Australia and New Zealand"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Henry Raine"
+size: "693 linear feet"
+start_range: "1791"
+summary: "The New-York Historical Society is proposing a three-year project to process eight previously undescribed, hidden and highly significant archival collections dating from the 1791 to the 20th century relating to the economic history of New York and the United States. They include the records of merchants, commission agents, shipping and mercantile firms, bankers, a commercial exchange, brokerage houses, an attorney and investors which together chronicle the history of business and finance in the United States. The project will result in the creation of finding aids, MARC records, a research guide, blog posts, and the dissemination of information about the collections through other social media."
+hc_id: "11629187"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

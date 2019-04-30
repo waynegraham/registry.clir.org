@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Delegates from Dixie: Southern Congressmen and Senators Since World War II
+title: "Delegates from Dixie: Southern Congressmen and Senators Since World War II"
+year: 2009
+end_range: 1994
+formats: "NULL"
+geographic_extant: "Although the Members of Congress represent the geographic states of Alabama and Mississippi, their public office has obvious national and at times international implications."
+institution: "The University of Alabama"
+institution_type: "NULL"
+primary_contact: "Clark E. Center, Jr."
+size: "2514 cubic feet"
+start_range: "1941"
+summary: "The W.S. Hoole Special Collections Library of the University of Alabama Libraries, the Modern Political Archives of the University of Mississippi Library, and the Congressional and Political Research Center of the Mississippi State University Library have chosen to undertake a collaborative effort to seek funding to process the papers of several Southern political figures of the second half of the twentieth century. The materials consist of the office records of Alabama Congressmen Albert M. Rains, 1945-1964 (12 linear feet), Kenneth A. Roberts, 1951-1964 (64 linear feet), and Carl Elliott, 1949-1964 (495 linear feet), Mississippi Congressman Jamie Whitten, 1941-1994 (1,743 linear feet), and an addition to the records of Mississippi Senator John Stennis, 1947-1988 (200 linear feet). The papers document state rights, civil rights, southern agriculture, housing, urban development, rural affairs, consumer protection, water resources, military affairs, and military preparedness. In addition, the materials documenting the creation of the Tennessee-Tombigbee Waterway by the US Army Corps of Engineers, to be added to the Stennis papers (200 linear feet), are relevant to the economic, ecological, and political history of the states of Alabama, Mississippi, and Tennessee."
+hc_id: "559"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Box 870266"
+address2:  "NULL"
+city:  "Tuscaloosa"
+state:  "AL"
+zip: "35487-0266"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

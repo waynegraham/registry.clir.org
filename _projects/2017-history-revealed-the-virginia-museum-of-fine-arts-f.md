@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: History Revealed: The Virginia Museum of Fine Arts' First 60 Years
+title: "History Revealed: The Virginia Museum of Fine Arts' First 60 Years"
+year: 2017
+end_range: 1935
+formats: "NULL"
+geographic_extant: "VMFA houses a remarkable permanent collection of more than 35,000 works of art from almost every major world culture. As such, these records document the formation and stewardship of those collections which encompass all geographic areas of the world."
+institution: "Virginia Museum of Fine Arts"
+institution_type: "NULL"
+primary_contact: "Ms. Courtney Tkcaz"
+size: "NULL"
+start_range: "1935"
+summary: "\"History Revealed: The Virginia Museum of Fine Arts' First 60 Years,\" will provide unprecedented access to the rich stories of the VMFA, the nation's first state-supported art museum. Through a collaboration with the Library of Virginia, which holds the museum's earliest records, the Director’s Correspondence (1933-1977), Exhibition Files (1936-1995) and Trustee Minutes (1932-1983) collections will be digitized in their entirety. Online public access to the digitized collections will be provided by the Library of Virginia, while VMFA will create five digital exhibitions related to important historical topics, including: Segregation during the time of Massive Resistance; Female Leadership from WWII through the 1960s; Fellowship Awards Supporting Virginia’s Artists (Cy Twombly, Benjamin Wigfall and Julien Binford); VMFA’s Artmobile: Bringing Arts Education to Virginia’s Rural Communities; and Landmark Exhibitions: American Painting 1950, Design in Scandinavia, Sport and the Horse, Painting in the South, German Expressionist Art, and Spirit of the Motherland."
+hc_id: "25685784"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Virginia Museum of Fine Arts"
+p2_name:  "Ms. Kathleen Jordan"
+p2_institution:  "Library of Virginia"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>229.15 Mixed Archival Collections</li>"
+collaborating_institution:  "Library of Virginia"
+grant_amount:  "$493,338"
+material_description:  "Each collection to be digitized was created by and remained in VMFA’s direct control until deposited with the Library of Virginia. The Director's Correspondence collection documents the terms of Thomas C. Colt, Jr. (1933-1948), Leslie Cheek, Jr. (1948-1968) and James M. Brown (1968-1976), as well as the terms of the World War II Interim Directors, Violet MacDougall Pollard and Beatrice von Keller, and long-term Associate Director Muriel Christison. Of interest is VMFA Board of Trustees correspondence; original building construction records; correspondence with artists (e.g. Edward Hopper and Alfred Stieglitz), donors and dealers; Statewide program development records (Virginia Art Alliance and Artmobile); and planning documents for the future direction and growth of the museum. Exhibition Files document over 1,080 exhibitions shown at the museum between 1936–1995 including landmark exhibitions such as American Painting 1950 (resulting in the controversial acquisition of Stuart Davis' then contemporary \"Little Giant Still Life\" painting), Design in Scandinavia, Sport and the Horse, Painting in the South, German Expressionist Art, and Spirit of the Motherland (the first exhibit of VMFA's entire 250-object African Art collection). Also included are long-running biennials of contemporary American painting and Virginia art, and correspondence with artists, collectors and dealers. Consisting of the microfilmed minutes of all VMFA Board of Trustee meetings 1935-1983, the Trustee Minutes demonstrate how the gubernatorially-appointed Board is vested with the full authority to manage, control, maintain and operate the museum. Accordingly, all major defining decisions and strategies adopted by the museum are documented within these meeting minutes."
 ---
-
-

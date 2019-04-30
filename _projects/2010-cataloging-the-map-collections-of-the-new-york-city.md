@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging the Map Collections of the New York City Municipal Archives
+title: "Cataloging the Map Collections of the New York City Municipal Archives"
+year: 2010
+end_range: 1980
+formats: "NULL"
+geographic_extant: "Five boroughs of the City of New York, and the immediate metropolitan area."
+institution: "NYC Department of Records"
+institution_type: "NULL"
+primary_contact: "Kenneth Cobb"
+size: "2676 cubic feet"
+start_range: "1800"
+summary: "The Municipal Archives is proposing to catalog its diverse and voluminous map records. Based on an initial survey of accession information, there are 111 collections that are described as maps; they total approximately 2,676 cubic feet, and span three centuries. The project will focus on city-government produced material. Published maps and atlases, including insurance maps (which account for approximately 250 cubic feet of the total), will not be included, unless it can be determined that they are unique and do not exist in any other institution. Maps in the Municipal Archives are identified as collections, as series within larger collections, and as individual items within series. They can be divided into several broad categories: property, waterfront, political subdivision, topography, and infrastructure. The “estate and farm” maps and the property-tax assessment maps, date back to the mid-eighteenth century. Often hand-colored, they indicate ownership of large tracts of land and their subsequent subdivision into building lots. Every inch of the city's many miles of waterfront is documented in a series of extraordinarily detailed survey maps. Other maps show the changing boundaries of political subdivisions within the city. Topographical maps indicate the natural features of the city. Maps that relate to construction of the city's parks, transportation, water and sewer infrastructure exist in significant quantities."
+hc_id: "626"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NYC Department of Records/Municipal Archives"
+address2:  "31 Chambers Street, Suite 305"
+city:  "New York"
+state:  "NY"
+zip: "10007"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

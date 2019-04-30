@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Hazelden Pittman Archives
+title: "The Hazelden Pittman Archives"
+year: 2016
+end_range: 1945
+formats: "NULL"
+geographic_extant: "The Hazelden Pittman Archives is made up of publications and materials collected from across the United States with a focus on the upper Midwest, East Coast, and upper West Coast."
+institution: "Hazelden Betty Ford Foundation"
+institution_type: "NULL"
+primary_contact: "Ms. Barbara Weiner"
+size: "NULL"
+start_range: "1828"
+summary: "The digitization of the Hazelden Pittman Archives would allow for the continued preservation of this historic collection of alcoholism literature and artifacts located at Hazelden's main campus in Center City, MN, USA. The collection is focused on the topic of alcoholism, along with the related topics of drug addiction, prohibition, temperance, Alcoholics Anonymous, treatment, counseling, and gambling. Currently the archives are available by appointment and digitizing the collection would open up a tremendous amount of history to thousands if not millions of individuals working to impact and study in the field of addiction prevention, treatment, and recovery."
+hc_id: "22142048"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Hazelden Betty Ford Foundation"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>175 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$250,000"
+material_description:  "The Hazelden Pittman Archives is a collection of historical alcoholism literature and artifacts located at Hazelden's main campus in Center City, Minnesota. Hazelden Betty Ford Foundation hopes to digitize the entire Pittman Archive collection which is comprised of over 1,500 books, and about 3000 pamphlets, letters, posters, postcards, trade labels, novelties, memorabilia, movies, journals, newspapers, magazines, and medicine bottles."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Loveliest Village: A Century of Transformation in the Upland South
+title: "The Loveliest Village: A Century of Transformation in the Upland South"
+year: 2008
+end_range: 1970
+formats: "NULL"
+geographic_extant: "The area covered is the Upland South, though many individuals moved into the community from other areas of the United States and Western Europe."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Thomas Sanders"
+size: "170 linear feet"
+start_range: "1858"
+summary: "The project focuses on the George Rainsford Fairbanks Collection, the Charles Todd Quintard Collection, the Guerry and Hodsgon Family Collections and university lease records. Fairbanks and Quintard were both founders of the university and made contributions far beyond Sewanee in the Episcopal church, law, medicine and scholarship. The Guerry Family Collection highlights the transition in the black community from slavery to integration. The Hodgson Family Collection documents a family prominent in the university and philanthropic in the community. They operated a charity hospital that provided most of the healthcare in the local community from its founding to the mid-1960s. Since its founding, the university has owned over 7,000 acres. Lease records offer a rare source for the study of the community, which includes university professors, professionals, and laborers. Together, these collections represent the history of the infrastructure and economic development of a sparsely populated section of the Cumberland Plateau in 1858, to the formation of a village, then a town of nearly 1,500 by the late 1960s. Through correspondence, diaries, official reports, unpublished manuscripts, town plans, drawings, surveys, court briefs, lease records, and newspaper accounts, we gain deep insight into the development of the railroad system, Reconstruction, healthcare, education, the African American community, gender roles, and socio-economic class relations."
+hc_id: "369"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "735 University Avenue"
+address2:  "Thompson Union"
+city:  "Sewanee"
+state:  "TN"
+zip: "37383-1000"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

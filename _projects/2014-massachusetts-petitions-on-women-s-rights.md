@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Massachusetts Petitions on Women's Rights
+title: "Massachusetts Petitions on Women's Rights"
+year: 2014
+end_range: 1925
+formats: "NULL"
+geographic_extant: "Massachusetts"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Daniel Carpenter"
+size: "3000 objects"
+start_range: "1619"
+summary: "The Radcliffe Institute for Advanced Study (RIAS), home of the Schlesinger Library on the History of Women in America, and the Massachusetts State Archives will conduct a three-year project to (1) catalog and digitize women's rights petitions sent to the Massachusetts state legislature from 1619 to 1925; (2) conduct collaborative research on these petitions in women's history, literature, and American legal and political history; and (3) join the records with data on anti-slavery petitions sent to the Massachusetts state legislature assembled from previous grants as part of an open-access website where the petition data can be used by teachers, researchers, citizens, genealogists, and the public at large for further research."
+hc_id: "11254328"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "State Archives of the Commonwealth of Massachusetts; Harvard University Library; Center for American Political Studies, Faculty of Arts and Sciences, Harvard University"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

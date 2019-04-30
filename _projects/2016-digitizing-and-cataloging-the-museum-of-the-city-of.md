@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing and Cataloging the Museum of the City of New York's Pamphlet Collection
+title: "Digitizing and Cataloging the Museum of the City of New York's Pamphlet Collection"
+year: 2016
+end_range: 2008
+formats: "NULL"
+geographic_extant: "The majority of the collection focuses on subjects, businesses, individuals, and events related to New York City. Approximately 5% or less discuss broader topics of national scope or statewide significance."
+institution: "Museum of the City of New York"
+institution_type: "NULL"
+primary_contact: "Ms. Lindsay Turley"
+size: "NULL"
+start_range: "1706"
+summary: "The Museum respectfully requests support to provide online access to one of our largest bodies of research materials, the Pamphlet Collection, through cataloging and digitization. This collection contains nearly 1,800 multipage items. The materials cover a variety of topics primarily related to New York City, including city statistics, historical accounts of events and organizations, proposals for infrastructure projects (some never realized), and small pictorial publications portraying the lives of specific individuals and places. Many of the materials in this collection were independently produced by small organizations and not widely distributed or retained. The bulk of the pamphlets range in date from the late 19th through 20th centuries, a small portion was published in the early 1700s, and many are undated. Upon project completion, the digital images and associated descriptive metadata will be freely available and publicly searchable via the Museum's online Collections Portal at http://collections.mcny.org."
+hc_id: "22274072"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Museum of the City of New York"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>92 pamphlets</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$122,132"
+material_description:  "As an object type, pamphlets are defined as printed and bound works with a soft cover that address a particular subject. The popularity of this communication form dates back to the 15th century when the advent of the printing press allowed for cheap production of multiples, increasing the ability of authors to communicate their ideas to a broad audience. Small groups like the Holland Society and the New York Scottish Societies, commercial organizations such as the Flushing Chamber of Commerce and the Bronx Board of Trade, and historical societies and neighborhood associations throughout the five boroughs independently produced much of the material in this collection. While the bulk of the material dates between the late 19th and 20th centuries, a small portion was published in the 1700s, and a considerable amount is undated. This material complements the Museum's other holdings, which largely document the personal, social, and civic lives of New Yorkers, by serving as testament to the everyday activities and interests that shape a metropolis the size of New York City. The pamphlets address a number of infrastructure projects such as highways, hospitals, post offices, and the Municipal Consolidation; and provide statistics on such topics as education and park use. The collection includes published addresses delivered on topics such as crime and real estate, and documents historical perspectives on subjects as wide ranging as General Washington and the Revolutionary War, the Civil War Draft Riots, and the history of many of the city's businesses. The Pamphlet Collection is an artificial collection assembled by Museum staff from the 1920s to the present from multiple donors, including collectors, authors, and institutions. Just under half of the collection is accessioned, roughly 3% has donor information but was never formally accessioned by the Museum, and the remainder lacks clear provenance."
 ---
-
-

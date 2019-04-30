@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Accessing Augusta: Photographs of a Changing Culture, 1940s to 1980s
+title: "Accessing Augusta: Photographs of a Changing Culture, 1940s to 1980s"
+year: 2016
+end_range: 1992
+formats: "NULL"
+geographic_extant: "Accessing Augusta represents the museum's mission which is a six county area of Georgia and South Carolina including Richmond, Columbia, Burke, McDuffie counties in Georgia, and Aiken and Edgefield counties in South Carolina. While all of the negatives were taken in these counties, their impact extends nationwide for scholarly research."
+institution: "Augusta Museum of History"
+institution_type: "NULL"
+primary_contact: "Ms. Nancy Glaser"
+size: "NULL"
+start_range: "1940"
+summary: "Founded as the second city of colonial Georgia in 1736, Augusta and its immediate environs has witnessed cultural changes. The Wilkinson and Fitz-Symms Photo Negative Collections at the Augusta Museum of History illustrate the mid-20th century culture, economy, and federal facilities of a changing South. The Accessing Augusta project aims to digitize and make public these photography collections to increase public accessibility and awareness. We will publish this content on the museum's website, the Digital Public Library of America, South Carolina Digital Library, and the Digital Library of Georgia. Over a two-year period, the project staff will scan and upload approximately 48,000 negatives from the collections along with their accompanying metadata. These images will be linked to other AMH collections the offer further support of the subject matter. As this project progresses the Museum will engage with scholars, teachers, and social media to impact national research."
+hc_id: "22229172"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Augusta Museum of History"
+p2_name:  "Ms. Lauren Virgo"
+p2_institution:  "Augusta Museum of History"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>48000 negatives</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$194,030.00"
+material_description:  "The collections of Robert Wilkinson Studio and the Fitz-Symms Studio represent the history of Augusta, Georgia and the river region known as the Central Savanah River Area (CSRA) during a time that changed the economic landscape of the 20th century. The studio of Robert Wilkinson Jr. operated from 1940 to 1992 while the Fitz-Symms Studio operated between 1946 and 2014. Their combined collections number around one million negatives. Both photography studios operated both privately and under contract for The Augusta Chronicle newspaper which is the oldest newspaper in the South. They photographed economic development, suburban growth, and nationally recognized projects, such as the Savannah River Site and the Clarks Hill Dam and Lake. These nationally recognized projects include the enlargement of the Fort Gordon military base, the building of the Clarks Hill Dam and Powerhouse which was the TVA equivalent for our region, and the Savannah River Site nuclear weapons plant that was built as part of the Cold War arms race. Robert Wilkinson Studio and the Fitz-Symms Studio also documented the post-WWII suburban expansion. Both collections include aerial and architectural views of Augusta and the river region, showing buildings and businesses that no longer exist and offering glimpses into the past. As a result of these images, a thought-provoking analysis of a person's life can be told from their home-life to their business employment - encapsulating a person's way of life."
 ---
-
-

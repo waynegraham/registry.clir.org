@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: International Boundary and Water Commission: Constructing the Border: The Work of the International Boundary and Water Commission
+title: "International Boundary and Water Commission: Constructing the Border: The Work of the International Boundary and Water Commission"
+year: 2013
+end_range: 1999
+formats: "NULL"
+geographic_extant: "Material covers the nearly-two-thousand-mile U.S.-Mexico border, ranging from the Pacific Ocean to the Gulf of Mexico."
+institution: "The University of Texas at El Paso"
+institution_type: "NULL"
+primary_contact: "Aaron Margolis"
+size: "1000 boxes, 1000 cubic feet, 1000 linear feet, 50000 objects"
+start_range: "1920"
+summary: "Materials were produced by the IBWC along the U.S.-Mexico border, extending from the Pacific Ocean to the Gulf of Mexico, and date from the 1920s through the 1990s. They include maps, photographs, and correspondence. The collection is an important source for both scholars and the general public interested in the demarcation and management of the border, as well understanding the twentieth-century relationship between Mexico and the United States. The archive covers such topics as the Chamizal Land Dispute; management of the Rio Grande and Colorado Rivers; and through the words and images of thousands of photographs and correspondence, the life of diverse communities that have called the border region home for the past hundred years."
+hc_id: "1068"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "501 Prospect Apt. 1"
+address2:  "NULL"
+city:  "El Paso"
+state:  "Texas"
+zip: "79902"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

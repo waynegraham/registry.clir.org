@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The New-York Historical Society American Almanac Collection
+title: "The New-York Historical Society American Almanac Collection"
+year: 2011
+end_range: 1940
+formats: "NULL"
+geographic_extant: "National, with emphasis on New York State and the Northeast."
+institution: "New-York Historical Society"
+institution_type: "NULL"
+primary_contact: "Heidi Wirth"
+size: "5500 objects"
+start_range: "1701"
+summary: "The New-York Historical Society has a collection of approximately 5,500 eighteenth, nineteenth, and early twentieth-century American almanacs, including an estimated 600 almanacs dating from before the year 1801. The collection is strongest in almanacs published in New York State, New Jersey, Pennsylvania, Connecticut, Rhode Island, Massachusetts, Vermont, and New Hampshire, but it also includes representative examples from other states east and west of the Mississippi. Highlights include the only known copies of early eighteenth-century editions of Daniel Leeds’s American Almanack, printed in New York by William Bradford; the earliest almanac printed in New Jersey, Poor Roger, 1760; and Confederate almanacs printed in Vicksburg, Mississippi, Mobile, Alabama, and Charleston, South Carolina."
+hc_id: "836"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "170 Central Park West"
+address2:  "NULL"
+city:  "New York"
+state:  "NY"
+zip: "10024"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$255,700"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: How Do You Get to Carnegie Hall? Digitizing Carnegie Hall’s Programs, 1953-2017
+title: "How Do You Get to Carnegie Hall? Digitizing Carnegie Hall’s Programs, 1953-2017"
+year: 2017
+end_range: 2017
+formats: "NULL"
+geographic_extant: "The programs in the nominated collection feature artists and repertoire from all over the world, as well as articles and program notes covering a wide range of geographic regions. The advertisements in the programs feature primarily businesses based in New York City or elsewhere in the US."
+institution: "Carnegie Hall"
+institution_type: "NULL"
+primary_contact: "Ms. Kathleen Sabogal"
+size: "NULL"
+start_range: "1953"
+summary: "Carnegie Hall proposes a 24-month project to digitize materials in the Programs Collection dating from 1953 to 2017. The project will digitize the final third of the Programs Collection, concluding a multi-year conservation and digitization initiative launched in 2012 with support from the Andrew W. Mellon Foundation. The Carnegie Hall Archives’ legacy collections chronicle a rich and varied event history over 125 years. The Programs Collection forms the backbone of the Hall’s legacy collections, which also include architectural drawings, booking ledgers, photographs, audiovisual items, and objects. The breadth of American musical, cultural, and social history is represented in the Programs Collection, including an extraordinary range of artists, repertoire, advertisements, articles, images, and graphics. To date, Carnegie Hall has digitized approximately two thirds of the 600,000 pages in the Programs Collection. The proposed project aims to digitize the remaining content, which totals approximately 202,000 pages and covers 17,062 events."
+hc_id: "26893297"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Carnegie Hall"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>202220 Ephemera</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$250,000"
+material_description:  "The Programs Collection documents Carnegie Hall’s performance and event history since the Hall opened in 1891. The collection covers all three of Carnegie Hall’s performance spaces: Isaac Stern Auditorium / Ronald O. Perelman Stage (SA/PS), Zankel Hall (ZH), and Weill Recital Hall (WRH). Carnegie Hall has digitized programs for events in SA/PS from 1891-1976 and programs for events in WRH from 1891-1952. Programs for events in SA/PS and ZH from 2010-2017 are born-digital and do not require digitization. Programs for events produced by Carnegie Hall in WRH from 2010-2017 are also born-digital; programs for rental events in WRH from 1953-2017 exist in paper form only. The purpose of this grant is to digitize all of the remaining materials in the Programs Collection that exist only in paper form and to make the full collection (1891-2017) accessible online via Carnegie Hall’s Digital Collections portal. The programs proposed for digitization cover 17,062 events from 1953-2017: SA/PS: 1987-2010 (6,556 events; 90,835 pages); ZH 2003-2010 (986 events; 11,385 pages); WRH: 1953-2017 (9,520 events; 100,000 pages). The Programs Collection is an essential resource for researchers interested in the performers, politicians, speakers, causes, and events that have appeared at Carnegie Hall, or in American cultural history, international music history, or in New York City history. The provenance of the programs varies. Carnegie Hall has collected programs since 1986, when the Carnegie Hall Archives was founded. Over the past 31 years, thousands of programs have been collected, purchased, or donated to the Archives."
 ---
-
-

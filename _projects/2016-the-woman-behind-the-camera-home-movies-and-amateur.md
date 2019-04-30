@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Woman Behind the Camera: Home Movies and Amateur Film by Women, 1925-1997
+title: "The Woman Behind the Camera: Home Movies and Amateur Film by Women, 1925-1997"
+year: 2016
+end_range: 1997
+formats: "NULL"
+geographic_extant: "The collections represent a diverse geographic sample. At least two collections show women traveling alone, or with female companions, around the world in the 1920-30s. Many regions of the US are represented as are parts of Asia, Africa, South America, and Europe."
+institution: "Northeast Historic Film"
+institution_type: "NULL"
+primary_contact: "Ms. Karin Carlson"
+size: "NULL"
+start_range: "1925"
+summary: "This project will create high-quality digital surrogates of analog collections of home movies and amateur film and video made by women between 1925 and 1997. The collections are held by Northeast Historic Film, the Lesbian Home Movie Project, and Chicago Film Archives. The project will result in item level catalog records, finding aids, and newly digitized surrogates from film and video made by women filmmakers that will be shared online via a project website that links users back to the holding institutions' websites. Most of these works are original camera reversal, meaning no other copies exist. Protecting original analog media with excellent digital surrogates advances research and preservation. The project holds great significance for scholarship by providing online access to films currently unavailable for off-site viewing and by challenging the notion that women were simply the subjects of home movies and amateur film, rather than filmmakers themselves."
+hc_id: "23080987"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Northeast Historic Film"
+p2_name:  "Ms. Nancy Watrous"
+p2_institution:  "Chicago Film Archives"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>330 Audiovisual Recordings</li>"
+collaborating_institution:  "Lesbian Home Movie Project (LHMP); Chicago Film Archives (CFA)"
+grant_amount:  "$322,092"
+material_description:  "The films nominated for digitization are diverse in subject matter and provenance: each film or video was created by a female amateur filmmaker active in the twentieth century. The collections include films that document families and friends--including the travels, home lives, interests, and significant moments in each woman's history. For example, Anna B. Harris (1896-1979), an African American resident of Manchester, Vermont, shot 8mm films of her community between 1949 and 1958, depicting four seasons of Vermont life among people of color. JoAnn Elam (1967-1990) was a feminist experimental filmmaker. She worked as a letter carrier and as a tax accountant for filmmakers to make a living. Within this collection is a work print of an unfinished film, \"Everyday People.\" It documents the lives of postal workers, yet has the beginnings of poetic pacing that underscores her visuals. These moving image works are essential to the study of women-made film and to women's lives. The women who made the films were business people, artists, activists, parents, teachers, and community leaders. The collections are unequaled representations of domestic life and vocational interests, with geographical range at home and abroad. The project will bring forward representations of lesbian women long before many were able to safely live out and open lives. These films and videos impart insight into the way the women who made them saw the world and what they judged important enough to document. They challenge the notion that women shied away from new technologies. In her 2008 essay, \"As If by Magic,\" Heather Norris Nicholson says, \"Home moviemaking provides striking testimony of social relations in a variety of direct and indirect ways but...only sometimes does it reinstate those experiences neglected or omitted from other historical sources. Those rarities are all the more significant for being so unique.\""
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing SFAI's Hidden Archives
+title: "Digitizing SFAI's Hidden Archives"
+year: 2015
+end_range: 2015
+formats: "NULL"
+geographic_extant: "San Francisco Bay Area"
+institution: "San Francisco Art Institute"
+institution_type: "NULL"
+primary_contact: "Dr. Rachel Schreiber"
+size: "NULL"
+start_range: "1878"
+summary: "SFAI's collections trace a cultural history that encompasses the San Francisco Bay Area and at the same time has significant international scope and impact. The collections amassed during SFAI's nearly 150-year history include audiotapes of public and classroom lectures, and catalogs, images, press, ephemera, and other documentation from decades of seminal exhibitions\"”all of which shed light on a broad swath of social and cultural history in the San Francisco Bay Area, and, by extension, the world. The collections that reflect this illustrious history comprise a rich resource for scholars in a range of disciplines, from art and art history to politics, literature, architecture, history, physics, geography, and many others. Locally, nationally and internationally, the researchers who consult the archives are students, academic scholars, curators, filmmakers, journalists, writers, and others. What they glean from their research becomes known to the world through lectures and college courses, books, films, exhibitions, and articles."
+hc_id: "17598205"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "San Francisco Art Institute"
+p2_name:  "Mr. Jeff"
+p2_institution:  "Special Collections Librarian"
+p3_name:  "Mr."
+p3_institution:  "NULL"
+material_string: "<li>102 Mixed Archival Collections</li>"
+collaborating_institution:  "n/a"
+grant_amount:  "$232,390"
+material_description:  "The San Francisco Art Institute (SFAI) archives contain a wealth of primary source material pertaining to art, culture, and American arts education in the 19th through the 21st centuries. The archival collection includes manuscripts, account books, minutes, photographs, broadsides, clipping files, and ephemera documenting the history of the San Francisco Art Association (1871-1961), the California School of Design (1874-1916), the Mark Hopkins Institute of Art (1893-1906), the San Francisco Institute of Art (1907-1916), the California School of Fine Arts (1916-1961), the San Francisco Museum of Art (1916-1935), the Palace of Fine Arts (1915-1924), and the San Francisco Art Institute (1961-Present). Collections also include audio and video recordings of public programs, classroom lectures, and other events. Highlights include:\n\n\"¢\u0001Art exhibition catalogs and support documentation, 1871-present. \n\n\"¢\u0001Artists' files of manuscript material, clippings, and ephemera pertaining to California artists and people associated with the institution since 1871. \n\n\"¢\u0001A collection of photographs documenting the school's history from the 1890s through the present. \n\n\"¢\u0001Materials pertaining to Diego Rivera's \"Making of a Fresco, Showing the Building of a City\" mural in 1931. \n\n\"¢\u0001Materials documenting the founding of the California School of Fine Arts Photography Department by Ansel Adams in 1945. \n\n\"¢\u0001Documentation of the 1949 Western Roundtable on Modern Art organized by Douglas MacAgy. Participants included Gregory Bateson, Kenneth Burke, Frank Lloyd Wright, Marcel Duchamp, George Boas, Mark Tobey, Darius Milhaud, Robert Goldwater, Andrew Ritchie, and Alfred Frankenstein\n\n\"¢\u0001The Douglas MacAgy Papers (CSFA Director, 1945-1950). \n\n\"¢\u0001The Louise Dahl-Wolfe Collection of materials pertaining to her time as a student. \n\n\"¢\u0001The John Collier, Jr. Collection of material relating to his time as a photography faculty member, 1958-1992. \n\n\"¢\u0001Audio recordings capturing the voices of SFAI guests including John Cage, Robert Rauschenberg, and Angela Davis, among hundreds of others."
 ---
-
-

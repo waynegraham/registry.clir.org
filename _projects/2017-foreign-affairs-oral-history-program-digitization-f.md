@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Foreign Affairs Oral History Program: Digitization for Improved Access
+title: "Foreign Affairs Oral History Program: Digitization for Improved Access"
+year: 2017
+end_range: 2017
+formats: "NULL"
+geographic_extant: "The collection includes narratives of US foreign relations with over 170 countries. In addition to the listings of oral histories by specific countries of assignment, regional references include Europe, Western Hemisphere, Near East, and Asia."
+institution: "Association for Diplomatic Studies and Training"
+institution_type: "NULL"
+primary_contact: "Ms. Susan Johnson"
+size: "NULL"
+start_range: "1920"
+summary: "The goal of the Digitization for Improved Access project is to transform a unique, invaluable archive of over 2000 interviews from United States Foreign Service Officers and other foreign affairs officials since WWII into an easily accessible research tool for today’s and tomorrow’s scholars, students, journalists, practitioners and interested public. The archives detail the conduct of American diplomacy in over 170 countries. The collection offers rare insights into the formulation and implementation of US foreign policy and the role of the State Department, White House and Congress in this process. The two year project will: 1. establish a framework for managing existing and future content so that all interviews can be accessed in a free, online, full-text searchable archive on the organization’s website, 2.complete the process of digitization by indexing and cataloging the existing collection, and 3. lay the basis for improved on-line access by the user community."
+hc_id: "26215222"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Association for Diplomatic Studies and Training (ADST)"
+p2_name:  "Mr. Mark Tauber"
+p2_institution:  "Association for Diplomatic Studies and Training (ADST)"
+p3_name:  "Ms. Marilyn Bentley"
+p3_institution:  "Association for Diplomatic Studies and Training (ADST)"
+material_string: "<li>148088 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$250,000"
+material_description:  "The source materials are over 2,000 unique full-length oral history interviews from United States Foreign Service Officers and other foreign affairs officials since WWII. The interviews are conducted by peers and are unclassified. The time span of the collection is from 1920 to the present and includes well known names such as Charles Bohlen, Alfred Atherton, Strobe Talbott, Lawrence Eagleburger, Thomas Pickering, and Terence Todman as well as lesser known but important diplomatic practitioners. The narratives also cover key multilateral international organizations and foreign policy issues stretching from the Arab-Israeli conflict and US-USSR relations to arms sales, narcotics trafficking, human rights and women and minorities in diplomatic service."
 ---
-
-

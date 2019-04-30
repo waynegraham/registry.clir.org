@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Grove Press and a New American Morality
+title: "Grove Press and a New American Morality"
+year: 2010
+end_range: 1985
+formats: "NULL"
+geographic_extant: "Grove Press records are international in scope. This project will be based in Syracuse, New York, where the Grove Press records are located."
+institution: "Syracuse University Library"
+institution_type: "NULL"
+primary_contact: "Suzanne Thorin"
+size: "545 linear feet, 2500 objects"
+start_range: "1953"
+summary: "The records of avant-garde publisher Grove Press span the years 1953 to 1985. While Grove was based in New York City, its list of titles, authors, and subjects was international in scope. Subjects and genres range from Victorian erotica and literary modernism to post-colonial Latin America and Africa. Grove's author list included such luminaries as William Burroughs (America), Samuel Beckett (England), Jean Genet (France), Bertolt Brecht (Germany), Frantz Fanon (Martinique), Kenzaburo Oe (Japan), and Pablo Neruda (Chile). The archive itself is comprised of manuscript drafts, correspondence, and photographs, as well as editorial, film, and publicity files for Grove and for its landmark literary magazine \"The Evergreen Review.\" There are extensive legal records relating to the obscenity trials sparked by the publication of \"Lady Chatterly's Lover\" and \"Tropic of Cancer.\" The collection includes 2,500 print titles, many of them first editions in excellent condition."
+hc_id: "650"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "222 Waverly Ave"
+address2:  "NULL"
+city:  "Syracuse"
+state:  "NY"
+zip: "13244"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$143,100"
+material_description:  "NULL"
 ---
-
-

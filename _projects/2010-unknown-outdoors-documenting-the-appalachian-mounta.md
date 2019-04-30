@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Unknown Outdoors: Documenting the Appalachian Mountain Club's Collections
+title: "Unknown Outdoors: Documenting the Appalachian Mountain Club's Collections"
+year: 2010
+end_range: 2010
+formats: "NULL"
+geographic_extant: "The primary focus is the Northeast United States, Western United States, and mountain ranges of the world."
+institution: "Appalachian Mountain Club"
+institution_type: "NULL"
+primary_contact: "Rebecca Fullerton"
+size: "200 linear feet, 20000 objects"
+start_range: "1870"
+summary: "The Photographic Collections of the AMC Library and Archives to be cataloged are divided into four segments by material type. The photographic print collections consist of approximately 10,000 items housed in boxes, filing cabinets and albums. A small subset of approximately 2,000 film negatives duplicate many of the works already in print form, but others exist solely as negatives. Approximately three thousand 35mm color slides record the last fifty years of the club in pictures. Several hundred films and videos are also included. The Manuscript Collections contain primary sources on hiking and climbing all over the world, but especially the Northeastern United States. Summit logs from the late 19th and early 20th century are the sole records of visitors to White Mountain summits in the Golden Age of New England tourism. Log books in the collections also record the thousands of visitors to AMC's wilderness huts and lodges since 1888. The Map Collection is a repository of almost every map ever made for AMC, and of maps collected by members during their travels around the globe. Numerous sketches and completed maps by noted cartographer George P. Bond, who created the first detailed map of the White Mountains, are also housed here. A huge backlog of AMC's Institutional Records (including ephemera and oral history interviews) that document the club's conservation, recreation and education activities over the course of the past 80 years will also be cataloged."
+hc_id: "583"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "5 Joy Street"
+address2:  "NULL"
+city:  "Boston"
+state:  "MA"
+zip: "2108"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

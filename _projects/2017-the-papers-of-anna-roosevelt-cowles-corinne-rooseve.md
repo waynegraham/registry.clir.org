@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Papers of Anna Roosevelt Cowles, Corinne Roosevelt Robinson, and Edith Kermit Carow Roosevelt
+title: "The Papers of Anna Roosevelt Cowles, Corinne Roosevelt Robinson, and Edith Kermit Carow Roosevelt"
+year: 2017
+end_range: 1847
+formats: "NULL"
+geographic_extant: "The papers cover topics in New York, Washington, D.C., and across the United States and Europe. Robinson’s childhood diaries describe the Roosevelt family’s Grand Tours, first of Europe in 1869-70, and of the Middle East and northern Africa in 1872-73."
+institution: "Theodore Roosevelt Center at Dickinson State University"
+institution_type: "NULL"
+primary_contact: "Ms. Pamela Pierce"
+size: "NULL"
+start_range: "1847"
+summary: "The papers of Theodore Roosevelt’s sisters, Anna Roosevelt Cowles and Corinne Roosevelt Robinson, and of his wife, Edith Kermit Carow Roosevelt, are housed at Harvard College Library. These collections have received considerably less attention than those of the male representatives of the family. Through this two-year project and with Harvard’s cooperation, the Theodore Roosevelt Center at Dickinson State University will digitize, describe, and provide online access to 36 linear feet of material from these collections, including letters, diaries, speeches, scrapbooks, and other items. The documents will become part of the TRC’s Digital Library, which already contains more than 43,000 items from 26 repositories related to Roosevelt, his family, his presidency, and his legacy. Enhancing the existing collection with the newly digitized women’s papers will provide new insight into Theodore Roosevelt, while illustrating the power of the Roosevelt women in their own right."
+hc_id: "26211742"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Theodore Roosevelt Center at Dickinson State University"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>36 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$104,380.00"
+material_description:  "Anna Roosevelt Cowles was Theodore Roosevelt’s confidante, advisor, and eldest sister. Her papers include letters among the Roosevelt family, including their parents and grandparents, as well as the “Hyde Park” line: Eleanor, Franklin, and Sara Delano Roosevelt. Other correspondents are as varied as French ambassador John Jules Jusserand, author Owen Wister, and Red Cross leaders Mabel Boardman and Elisabeth Mills Reid. Corinne Roosevelt Robinson had a deep interest in political affairs. She supported her older brother’s political career and continued to back the Republican Party after his death. Socially prominent and a published poet, Robinson corresponded with writers in England and America, including Edith Wharton, Edgar Lee Masters, Kate Douglas Wiggin, Robert Bridges, John Jay Chapman, Henry Cabot Lodge, William Roscoe Thayer, Charles Grenfill Washburn, and Leonard Wood. First Lady Edith Roosevelt was also deeply interested in literature and in politics. However, recognizing that her husband’s prominence in American life would invite scrutiny of her own correspondence, she destroyed many of the letters she received and encouraged those with whom she corresponded to destroy hers, as well. The items to be digitized include rare collections that escaped destruction, having been preserved by her sisters-in-law and other correspondents. The women’s papers also include manuscript drafts, poetry, personal diaries and journals, scrapbooks, and other items."
 ---
-
-

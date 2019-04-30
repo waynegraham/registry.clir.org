@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: University of Rochester AIDS/HIV Education collection
+title: "University of Rochester AIDS/HIV Education collection"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "An international collection of posters and ephemera collected from 109 countries including North and South America, Europe, Africa, and Australia."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Melissa Mead"
+size: "6400 objects"
+start_range: "1982"
+summary: "The University of Rochester AIDS/HIV Education Collection (AHEC), received as a gift from Dr. Edward Atwater in 2006, contains over 6,000 AIDS/HIV education posters, in addition to hundreds of postcards, pins, hats, comic books, and other ephemera, all relating to education about and prevention of HIV/AIDS. The materials represent HIV/AIDS education efforts from 109 countries and date from 1982 to the present. As a history of the response to the first three decades of the HIV/AIDS epidemic, they provide a powerful an invaluable resource for study, while serving as a continuing resource for education and information as the disease enters its fourth decade. This proposal requests funds for the cataloging of a core collection of 4,000 unique AIDS/HIV education posters not available at other institutions. The remaining 1,400 posters, as well as the ephemera, will be cataloged by the University as part of the institutional contribution to the project. All the posters and postcards will be digitally photographed as part of the University’s commitment to making this collection accessible to as large an audience as possible."
+hc_id: "250"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Rare Books and Special Collections"
+address2:  "Rush Rhees library, Rm. 225"
+city:  "Rochester"
+state:  "NY"
+zip: "14627-0055"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

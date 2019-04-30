@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitization of an Important Family of Crop Plants (Fabaceae) in the United States National Herbarium
+title: "Digitization of an Important Family of Crop Plants (Fabaceae) in the United States National Herbarium"
+year: 2016
+end_range: 2015
+formats: "NULL"
+geographic_extant: "Members of the family Fabaceae can be found in every terrestrial biome worldwide, and our collection reflects that geographic breadth. However, we are especially strong in localities where legume species are more abundant, including North America, Neotropics, and Southeast Asia."
+institution: "Smithsonian Institution, National Museum of Natural History, Department of Botany"
+institution_type: "NULL"
+primary_contact: "Ms. Sylvia Stone Orli"
+size: "NULL"
+start_range: "1768"
+summary: "Digitization of biological specimens is gaining momentum in museums, universities, and botanical gardens worldwide. The sum of these specimen records represents a rich temporal and spatial perspective of biodiversity on our planet. It informs our understanding of past processes and provides guidance answering current and future questions of societal importance. The Smithsonian Institution is engaged in an ongoing effort to digitize our biological holdings in a strategic manner. We intend for the product of our work to be immediately useful in addressing both the past and future. This proposal aims to digitize our collection of Fabaceae, a plant family of great importance to crop production and other economic and cultural concerns. Using newly developed rapid capture digitization, technology, we will create digital records of 162,000 plant specimens at an unprecedented rate. All digital content will be made publicly available to scholars, content aggregators, and the general public."
+hc_id: "21856546"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Smithsonian Institution, National Museum of Natural History, Department of Botany"
+p2_name:  "Mr. Kenneth Rahaim"
+p2_institution:  "Smithsonian Institution, Office of the Chief Information Officer, Digitization Program Office"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>162000 Specimens</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$249,780"
+material_description:  "The subjects of this digitization project are plant specimens that are pressed, mounted, and maintained in the National Museum of Natural History as part of our mission to document and study plant life on our planet. Specimens have been collected as part of in-house research projects or have been conveyed to us by organizations (universities, museums, botanical gardens) around the world who are engaged in similar kinds of academic inquiry. These specimens are the product of field work conducted by botanists, either working alone or in teams (expeditions), over a period of two centuries in localities around the globe. The focus of the work, for which this request is being made, is the plant family Fabaceae (legumes). Members of this family represent important crop species (e.g. peas, beans, lentils, soybeans, peanut), forage crops (e.g. clover, alfalfa, vetch), and ornamentals (e.g. wisteria, coral tree, lotus, brazilwood). Other species are important sources of gums and natural dyes. Although a small number of specimens date from the 18th century, such as those collected by Joseph Banks and Daniel Solander as part of the First Voyage of Capt. James Cook (1768-1771), by Hipólito Ruiz L. and José Antonio Pavón J. in Peru in 1778, and by José Celestino Mutis in New Granada (Colombia) in 1789, the preponderance of material ranges from the early 19th century, specifically the result of the exploratory work of the U.S. Exploring Expedition (1838-1842), to the present. Our most recent collections have been made by our resident legume expert, Dr. Ashley Egan, in areas throughout Southeast Asia and South America. Each specimen represents a unique collecting event defined by its date, location and species. These data provide a critical resource for better understanding of biodiversity and other scholarly studies of this important crop family."
 ---
-
-

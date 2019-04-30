@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: National Educational Television Collection Catalog
+title: "National Educational Television Collection Catalog"
+year: 2014
+end_range: 1972
+formats: "NULL"
+geographic_extant: "Primarily across the US but also some international topics"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Karen Cariani"
+size: "10000 objects"
+start_range: "1952"
+summary: "The American Archive of Public Broadcasting will develop a national catalog of National Educational Television (NET) titles. NET (1952-1972) comprises the earliest public television content, about 8-10,000 titles, including some incisive social documentaries. WGBH, WNET, Indiana University and the Library of Congress (hold the largest collections of NET materials. Programs are scattered, descriptions are limited and in obscure sources, and there is no publicly accessible list of titles. A national catalog with descriptive data gathered during this project will give scholars access to the NET collection. With CLIR funds, WGBH will develop the catalog and contract with LOC to process its NET materials for inclusion."
+hc_id: "12990383"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "One Guest St"
+address2:  "NULL"
+city:  "Boston"
+state:  "MA"
+zip: "2135"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "Library of Congress"
+grant_amount:  "$458,619.00"
+material_description:  "NULL"
 ---
-
-

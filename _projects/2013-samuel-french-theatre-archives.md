@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Samuel French Theatre Archives
+title: "Samuel French Theatre Archives"
+year: 2013
+end_range: 2013
+formats: "NULL"
+geographic_extant: "United States and England"
+institution: "Amherst College"
+institution_type: "NULL"
+primary_contact: "Michael Kelly"
+size: "400 boxes"
+start_range: "1840"
+summary: "Samuel French entered the publishing business in New York City in 1853. In 1873, he bought out his British partner, Thomas Lacy, making Samuel French the world's largest theatrical publisher. Our collection consists of thousands of plays, including those published by Lacy from the 1840s through 1873, along with manuscripts of plays, business records, scrapbooks, and ephemera. We suspect we may have a complete set of the company's published output, but it is impossible to say for certain without item-level processing. The collection is rich in correspondence with playwrights and producers in the United States and England. Business correspondence reflects the company’s interest in and influence on international copyright law. The company pioneered the business of marketing scripts and supporting material to encourage productions by amateur theatre groups, in addition to their work with professional theatres in major cities. The business records include information on productions of plays published by Samuel French throughout the United States and the process by which European plays were acquired and adapted for American audiences. Scrapbooks of newspaper clippings, publicity photos, playbills, tickets, and other ephemera document both professional and amateur productions. Manuscripts and typescript drafts of both music and scripts are another major component of the collection that will be of enormous interest to students and scholars."
+hc_id: "1178"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P.O. Box 5000"
+address2:  "NULL"
+city:  "Amherst"
+state:  "MA"
+zip: "1002"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$144,300"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Ken-Way United Photographs Collection
+title: "Ken-Way United Photographs Collection"
+year: 2012
+end_range: 2000
+formats: "NULL"
+geographic_extant: "The United States of America with emphasis on central Illinois."
+institution: "Illinois State University - Milner Library"
+institution_type: "NULL"
+primary_contact: "April Anderson"
+size: "80 linear feet"
+start_range: "1900"
+summary: "The Ken-Way United Photographs Collection contains photographic prints and negatives that document the history of nationally known companies, famous celebrities and politicians and Midwestern culture from the late 1890s to the 1990s in the central Illinois region. This collection is a visual and diverse history of life in the Midwest. The Ken-Way Photography Company was started in the early 1940s by Kenneth Berglund, a Bloomington, Illinois photographer. Berglund purchased another local photograph company, United Photo, to create the base for his newly formed photography business. A large portion of the collection is comprised of images documenting local businesses with national significance. Several of these businesses were founded or home based in Bloomington including Steak & Shake, State Farm and Beer Nuts. Caterpillar, based in Peoria is also featured as well as Standard Oil, Nestle Beich, Funk Brothers Seed Company and Bridgestone/Firestone Tire who have significant operations in region. Local born politicians are heavily featured in this collection including Ronald Reagan and Adlai Stevenson. The home and relatives of Supreme Court Justice David Davis can also found in this collection. The American Passion Play, performed continuously since 1923 was photographed by Berglund who took show images and head shots of performers each year, providing a photographic history of the annual event and of the families who participated for generations."
+hc_id: "875"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "2016 Warehouse Road"
+address2:  "NULL"
+city:  "Normal"
+state:  "IL"
+zip: "61790"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

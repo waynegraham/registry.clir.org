@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Segregated Japanese American Military Units of World War II: A Collaborative Cataloging Project of Oral Histories, Photographs and Documents
+title: "Segregated Japanese American Military Units of World War II: A Collaborative Cataloging Project of Oral Histories, Photographs and Documents"
+year: 2013
+end_range: 2013
+formats: "NULL"
+geographic_extant: "Primarily the United States, Italy, France and Pacific Theatre."
+institution: "Go For Broke National Education Center"
+institution_type: "NULL"
+primary_contact: "Barbara Watanabe"
+size: "82 boxes, 156 linear feet, 9000 objects"
+start_range: "1920"
+summary: "GFBNEC's oral history collection includes 1,185 interviews from across the U.S., making it the largest collection of its kind in the country. Significant effort was invested in locating Nisei veterans whose wartime experiences were unique or significant, such as Medal of Honor awardees, those who fought in significant battles, the three JA soldiers who served as translators onboard the USS Missouri when Japan surrendered. GFBNEC uses studio-quality equipment, and clips from this collection have been used by the Smithsonian Institution, National Park Service, Museum of Tolerance, and other museum and independent filmmakers. The four Nisei Veteran Related Organizations (NVRO: JA WWII veterans groups and related organizations) have a total of 192 oral histories, primarily of veterans from their community. Some of the earliest are audiotaped interviews. GFBNEC's photo and documents collection includes photos from the era (from early childhood, photos taken during the war in Europe and the Pacific Theatre, post-war family life and career), letters home from the battlefront, personal journals, monthly action reports of the 442nd Regimental Combat Team from June 1944-June 1946, newspaper articles from Hawaii and Los Angeles area, and other related documents. The NVRO's photos and document collections are of similar content and vintage for the veterans in their community. We propose to catalog 5,000 items from GFBNEC and 2,500 from NVRO collections."
+hc_id: "1100"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "367 Van Ness Way, Suite 611"
+address2:  "NULL"
+city:  "Torrance"
+state:  "CA"
+zip: "90501"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

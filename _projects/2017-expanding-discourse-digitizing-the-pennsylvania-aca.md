@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Expanding Discourse - Digitizing the Pennsylvania Academy of the Fine Arts' Visiting Artist and Symposium audio collections
+title: "Expanding Discourse - Digitizing the Pennsylvania Academy of the Fine Arts' Visiting Artist and Symposium audio collections"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Pennsylvania Academy of the Fine Arts"
+institution_type: "NULL"
+primary_contact: "Mr. Hoang Tran"
+size: "NULL"
+start_range: "NULL"
+summary: "PAFA will provide the Northeast Document Conservation Center (NEDCC) analog audio media to be professionally preserved and digitized. NEDCC will utilize their new audio preservation service that employs a “high-touch, high quality workflow”. The pilot program leverages NEDCC’s expertise so the digitization of PAFA’s Visiting Artist and Museum Symposium audio collections adhere to national standards and guidelines. Once the collections are digitized and digital assets returned, PAFA will take the necessary steps to continue the preservation of and access to the newly digitized collections. PAFA will place preservation files on secure servers, catalog and create appropriate metadata for each audio recording, and finally, upload audio access files online where patrons have free access. The two audio collections offer students, scholars, and the general public access to a hidden collection of primary sources to learn about the perspectives of individuals who might not otherwise appear in the (written) historical record."
+hc_id: "25439549"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Pennsylvania Academy of the Fine Arts"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "74 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$23,270"
+material_description:  "PAFA proposes the digitization of audio records generated from two distinct but important aspects from PAFA’s history as America's first museum and fine art school. First, audio records from the School’s Visiting Artists’ Program (1983-1985). Second, audio records of the Museum’s Symposium Program (1982-1986, 1994, 1999, 2003, 2005). All audio records were recorded in-house by PAFA staff members at the time of the events. Media was most likely stored in the library for students, faculty, and scholars to use when they were first created. There are no accession records to verify when the media transferred to the archives. It is safe to assume that the media was transferred to the custody of the archives within 1-2 years after creation. The two collections are currently arranged in the archives by format which includes 3 reels of tape and 74 compact cassettes, with an estimated 95 hours of content. The audio collection, in general, is not represented in the institution’s catalog or included in any finding aids or databases. Furthermore, the collection would be restricted since the archives does not have the proper equipment to provide proper access to the media. The only mention of audio collections can be found in a PDF file which is linked on PAFA’s website: https://www.pafa.org/sites/default/files/media-assets/GuidetoArchives_0.pdf (page 46). The description in the “Guide” is minimal and easily overlooked by researchers. Moreover, the audio collection would not be discoverable using our website’s search feature. The archives is currently working on building better discovery tools for the entire collection which includes the audio collection."
 ---
-
-

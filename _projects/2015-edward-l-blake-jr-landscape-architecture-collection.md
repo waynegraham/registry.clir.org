@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Edward L. Blake Jr. Landscape Architecture Collection of Slides.
+title: "Edward L. Blake Jr. Landscape Architecture Collection of Slides."
+year: 2015
+end_range: 2010
+formats: "NULL"
+geographic_extant: "The entire collections contains images from every US state except Alaska, and throughout Europe, Central and South America, China, and the Middle East. Blake's built works are primarily in the Great Plains and southeast regions of the US, but also include projects in China and the Middle East."
+institution: "Mississippi State University"
+institution_type: "NULL"
+primary_contact: "Mr. Stephen Cunetto"
+size: "NULL"
+start_range: "1965"
+summary: "The Mississippi State University (MSU) Libraries and Department of Landscape Architecture are collaborating on a project to provide access to the hidden collection of images of nationally known landscape architect, planner, critic, and Professor Edward L. Blake Jr. (1947-2010). The Blake Collection has considerable humanities research and teaching potential because it is a significant collection of high-quality, award-winning landscape architecture works. Researchers and educators who are interested in an exploration of Blake's process of developing his ecologically-based designs, would have access to the presentation plans, construction documents, research, notes, and preliminary works of individual projects. The project team has determined that a grant is needed to assess, digitize, and made discoverable the roughly 42,000 35mm slides, providing physical and digital access to the collection."
+hc_id: "17640173"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>42305 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$249,690"
+material_description:  "Mississippi State University (MSU) Libraries and the Department of Landscape Architecture are collaborating on a project to provide access to the slide collection of nationally known landscape architect, planner, critic, and Professor Edward L. Blake, Jr. (1947-2010). Blake was a prominent national and international figure in the profession of landscape architecture. He was a pioneer in an ecological assessment of landscapes and ecological landscape design, and was an important forerunner to the design profession's current emphasis on sustainable design. Blake's design process included a thorough study and analysis of a landscape's ecological processes and resulting vegetation patterns, which then directly influenced the patterns of the resulting landscape master plan. Ian McHarg, the father of ecological landscape design, wrote in his 1997 collection of writings To Heal the Earth, that very few landscape architects in America successfully engaged this distinct type of design process. \n\n\n\nThe collection contains circa 42,305 35 mm slides from Blake's professional portfolio. We intend to locate, digitize, and publish slides for Blake's seminal works\"”those works awarded or recognized by his peers as exceptional. Without access to these materials the full scope and breadth of Blake's work, and those portions of his work that are of most value to researchers, including his contemporarily unique design process, remain hidden. The entire archive is too large for such an undertaking at this time, so we are focusing on those projects and related items that are of most interest to scholars and researchers."
 ---
-
-

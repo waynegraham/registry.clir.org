@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Preservation of the H.K. Yuen Social Movement Audio Archive
+title: "Preservation of the H.K. Yuen Social Movement Audio Archive"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "The Regents of the University of California"
+institution_type: "NULL"
+primary_contact: "Ms. Serina Jensen"
+size: "NULL"
+start_range: "NULL"
+summary: "The UC Berkeley Ethnic Studies Library (ESL) will reformat and preserve selected at-risk, rare audio recordings (262 tapes; estimated 655 hours; dating ca. 1964-1980) from the H.K. Yuen Social Movement Archive. The entire collection consists of approximately 30,000 hours of audio recordings on reel-to-reel and cassette tapes documenting social activism in the San Francisco Bay Area including events at the UC Berkeley campus, the birthplace of the Free Speech Movement. Recordings to be digitized document a broad range of social movements including the Free Speech Movement, the United Farm Workers, the Black Panther Party, the American Indian Movement, the Women’s Movement, and more. These recordings, which are currently inaccessible to researchers, are valuable to scholars from a broad array of disciplines and will be added to the Internet Archive where they will be accessible to researchers from around the world."
+hc_id: "26895490"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "The Regents of the University of California"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "262 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$29,210"
+material_description:  "NULL"
 ---
-
-

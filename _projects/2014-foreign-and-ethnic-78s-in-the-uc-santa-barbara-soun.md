@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Foreign and Ethnic 78s in the UC Santa Barbara Sound Archives, Phase II: Edouard Pecourt Tango/Latin American Music Collection
+title: "Foreign and Ethnic 78s in the UC Santa Barbara Sound Archives, Phase II: Edouard Pecourt Tango/Latin American Music Collection"
+year: 2014
+end_range: 1960
+formats: "NULL"
+geographic_extant: "Latin America, Caribbean"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "David Seubert"
+size: "15000 objects"
+start_range: "1900"
+summary: "The UC Santa Barbara Library is requesting funding for Phase II of its previously funded project, \"Foreign and Ethnic 78s in the UC Santa Barbara Sound Archives.” Phase II consists of cataloging 15,000 78s, primarily from the Edouard Pecourt Tango/Latin American Music Collection of early recordings from Argentina, Uruguay, the Caribbean, Mexico, and the Latin American music diaspora. The discs date from 1900 to 1960, the bulk of which are from 1910 to 1950. These key resources are important to an increasingly global and interdisciplinary scholarly community in which historical recordings are used in the study of a variety of humanistic disciplines."
+hc_id: "11839456"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

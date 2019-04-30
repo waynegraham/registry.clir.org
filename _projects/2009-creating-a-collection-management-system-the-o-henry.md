@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Creating a Collection Management System: The O. Henry Collection at the Austin History Center
+title: "Creating a Collection Management System: The O. Henry Collection at the Austin History Center"
+year: 2009
+end_range: 1999
+formats: "NULL"
+geographic_extant: "The collection is national in scope, covering O. Henry's entire writing career, but most of the material focuses on his time in Austin and New York."
+institution: "Austin History Center"
+institution_type: "NULL"
+primary_contact: "Mike Miller"
+size: "100 linear feet, 1500 objects"
+start_range: "1879"
+summary: "The Austin History Center, part of the Austin Public Library, is the home of a significant collection of materials relating to the popular writer, O. Henry. O. Henry lived in Austin, still using his given name of William Sydney Porter from 1884 to 1895 and 1896 to 1897. The O. Henry Resources of the Austin History Center are comprised primarily of materials donated by Judge Trueman E. O'Quinn and augmented by items acquired from Jenny Lind Porter, Ethel Hofer, the Maddox family, the Heritage Society of Austin, and the Austin History Center Association. These resources include original typescripts, first edition books, periodicals, correspondence, manuscripts, autograph albums, phototgraphs, sketches, maps, paintings, audio recordings, jewelry, and furniture. Researchers are particularly delighted to find two autograph albums containing whimsical sketches and poems, one of which was written to Porter's first wife, Athol Estes. The collection includes letters written by Will Porter to associates, many involving requests for financial loans or advances. Nearly 400 periodicals, ranging in date from 1897 through 1983, and featuring illustrated stories by O. Henry are part of the collection. There are extensive holdings of Ainslee's, Everybody's Magazine, McClure's, The Golden Book Magazine, Bunker's Texas Monthly, and The Munsey. In addition, the History Center houses 360 books containing stories by O. Henry, some being first editions, and many bound in distinguished sets."
+hc_id: "414"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P.O. Box 2287"
+address2:  "NULL"
+city:  "Austin"
+state:  "TX"
+zip: "78768-2287"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

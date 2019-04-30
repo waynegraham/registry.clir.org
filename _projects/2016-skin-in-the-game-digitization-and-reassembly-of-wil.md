@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Skin in the Game: Digitization and Reassembly of William Miles' Black Champions Interviews
+title: "Skin in the Game: Digitization and Reassembly of William Miles' Black Champions Interviews"
+year: 2016
+end_range: 1984
+formats: "NULL"
+geographic_extant: "The collection consists of interviews with and about African-American athletes in the United States. The interviews address both American and international sporting events, such as the 1936 Olympics in Munich and the 1968 Olympics in Mexico City."
+institution: "Washington University in St. Louis"
+institution_type: "NULL"
+primary_contact: "Ms. Nadia Ghasedi"
+size: "NULL"
+start_range: "1984"
+summary: "The Skin in the Game project will provide complete public access for the first time to 32 interviews filmed by noted documentary filmmaker William Miles with prominent African-American athletes who broke down racial barriers and redefined the public image of African-Americans in sports. Conducted for the 1986 public television series, Black Champions, the interviews are held in the William Miles Collection at Washington University Libraries. Never before seen in their entirety, they feature stories from such legendary figures as Althea Gibson, Jim Brown and Sugar Ray Leonard. During the two-year project, an outside vendor will create digital video and audio files and initial metadata, and Libraries staff and student worker will reassemble the interviews, enhance metadata, and create fully-searchable interview transcripts and athlete biographies. We will provide complete public access to the interviews, transcripts, and metadata via the unrestricted, Hydra-based Goldenseal user interface, which offers synchronized video files and transcripts."
+hc_id: "22342647"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Washington University in St. Louis"
+p2_name:  "Dr. Brian Woodman"
+p2_institution:  "Washington University in St. Louis"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>129 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$54,848"
+material_description:  "William Miles (1931-2013) was an accomplished African-American documentary filmmaker whose films focused on the cultural experience and achievements of African-Americans in such diverse realms as the military, the space program, sports, and New York neighborhood life. Miles grew up in Harlem where he was immersed in the vibrant culture and contributions of African-Americans and keenly aware that they were ignored by the mainstream media. He dedicated himself to bringing these hidden stories to light. An Emmy Award winner and Academy Award nominee, Miles produced films documenting the African-American experience which were broadcast nationwide via PBS and other outlets. His works include I Remember Harlem (1981), a comprehensive look at the New York borough's diverse history; Men of Bronze (1977), the definitive story of the black American soldiers in World War I known as the \"Harlem Hellfighters;\" and Black Champions (1986), an examination of African-American athletes and their role in the fight against discrimination. The Washington University Libraries acquired the William Miles Collection in 2005 from the filmmaker. Materials in the collection, to which Washington University holds the rights, include interviews, stock footage, manuscripts, correspondence, and photographs, including the 32 rare interviews conducted for the three-part series Black Champions. Only selected short excerpts from these interviews appeared in the finished programs broadcast on public television. The complete Black Champions interviews encompass over 15 hours of footage featuring such prominent sports figures as Curt Flood, Arthur Ashe, Kareem Abdul-Jabbar, Wilma Rudolph, and Floyd Patterson. They provide an in-depth oral history of African-American life as it relates to sports and civil rights from the early 1900s to the 1980s. Unrestricted access to this collection of never-before-seen interviews will provide a substantial research and teaching resource for scholars and students investigating civil rights history and the role of athletics in U.S. culture."
 ---
-
-

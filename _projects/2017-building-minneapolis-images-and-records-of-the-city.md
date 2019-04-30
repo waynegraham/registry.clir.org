@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Building Minneapolis: Images and Records of the city’s houses, buildings and infrastructure from the 20th Century
+title: "Building Minneapolis: Images and Records of the city’s houses, buildings and infrastructure from the 20th Century"
+year: 2017
+end_range: 2000
+formats: "NULL"
+geographic_extant: "The scope of this project is the City of Minneapolis"
+institution: "Hennepin County Library"
+institution_type: "NULL"
+primary_contact: "Mr. Edward Hathaway"
+size: "NULL"
+start_range: "1900"
+summary: "Hennepin County Library, in collaboration with the City of Minneapolis, proposes to digitize and describe 15,000 photographs, and describe 20,000 previously digitized photographs recording the city’s houses, buildings, streets, bridges, schools, hospitals, libraries, construction and redevelopment projects, and various infrastructure elements. The Library also proposes to digitize and transcribe a WPA survey of Minneapolis housing from 1934, consisting of over 140,000 pages of handwritten data."
+hc_id: "26280096"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Hennepin County Library"
+p2_name:  "Mr. Josh Schaffer"
+p2_institution:  "City of Minneapolis"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>35000 Photographs</li>"
+collaborating_institution:  "City of Minneapolis"
+grant_amount:  "$129,500"
+material_description:  "The images to be digitized were created by staff from various departments of the City of Minneapolis over the course of the 20th century. These images record houses, buildings, streets, bridges, parks, gardens, various infrastructure elements, and community events in Minneapolis. The 1934 Housing Survey was conducted by WPA workers employed by the City of Minneapolis and records extensive detail on structural elements, demographics and living conditions for residential and commercial structures in Minneapolis."
 ---
-
-

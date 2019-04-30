@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: American and Catholic History at a Crossroads: Digitizing Catholic Newspapers from the Vatican II Era (1958-1972)
+title: "American and Catholic History at a Crossroads: Digitizing Catholic Newspapers from the Vatican II Era (1958-1972)"
+year: 2016
+end_range: 1972
+formats: "NULL"
+geographic_extant: "The geographic scope is the United States, with emphasis on major cities from coast to coast including Chicago, Hartford, Miami, New Orleans, New York, Philadelphia, Pittsburgh, San Francisco, and St. Louis."
+institution: "Catholic Research Resources Alliance (CRRA)"
+institution_type: "NULL"
+primary_contact: "Dr. Patricia Lawton"
+size: "NULL"
+start_range: "1958"
+summary: "The CRRA will digitize significant Catholic newspapers from Vatican II years, 1958-1972 and make them publicly available in the Catholic News Archive. Local papers include diocesan newspapers from Chicago, Hartford, Miami, New Orleans, New York, Philadelphia, Pittsburgh, San Francisco, and St. Louis; the national perspective represented by the Catholic News Service newsfeeds (the Catholic equivalent of Reuters) and the National Catholic Reporter. This project will digitize the papers and implement the publicly available Archive on the Veridian platform. Scholars note the importance of primary Catholic sources as the Church and the laity have shaped national policies, legislation and activities on major issues including civil rights,nuclear disarmament, the Vietnam War and subsequent anti-war movement, other world conflicts such as the Arab-Israeli Wars, and immigration. The significance of this project to scholars of American social, economic, and religious history is the ability to access and fully exploit these rich primary resources."
+hc_id: "22363983"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Catholic Research Resources Alliance"
+p2_name:  "Dr. Jennifer Younger"
+p2_institution:  "Catholic Research Resources Alliance"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>242701 Serials</li>"
+collaborating_institution:  "University of Notre Dame Hesburgh Libraries; Archdiocese of Hartford; St. Thomas Seminary; Archdiocese of Miami; Archdiocese of New Orleans; Clarion Herald Publishing Company; Archives of the Archdiocese of New York; American Theological Library Association (ATLA); Archdiocese of Philadelphia; Archdiocese of San Francisco; Archdiocese of St. Louis, Archdiocesan Records and Archives; Archdiocese of St. Louis; Catholic News Service Archives; United States Conference of Catholic Bishops (USCCB); Chicago Archdiocese; Duquesne University; Diocese of Pittsburgh; National Catholic Reporter; Philadelphia Archdiocesan Historical Research Center (PAHRC); Chicago Archdiocese; Catholic New World; St. Thomas University"
+grant_amount:  "$288,506"
+material_description:  "U.S. Catholic newspapers during the period of Vatican II (1958-1972) are the source material for this digitization project. Eleven papers have been chosen for digitization including nine from major US cities (Chicago, Hartford, Miami, New Orleans, New York, Philadelphia, Pittsburgh, San Francisco, and St. Louis) and two national: National Catholic Reporter (NCR) and the Catholic News Service newsfeeds (the Catholic equivalent of Reuters). The national perspectives are included to give scholars' the opportunity to compare national and local perspectives on key issues including but not limited to many social and political movements on civil rights, immigration and adaptation to new environments,anti-war, Hispanic and Chicano and nuclear disarmament. This was also the time when the U.S. elected the first Catholic president giving rise to interest and concerns on the influence of the Catholic Church. Source material is provided by CRRA's digitization partners, comprised of largely diocesan archives and publishers from which the newspaper emanates and by which the papers have been archived. Source providers also include university libraries that have acquired the papers as part of their collection development. The full list of partners is here: http://www.catholicresearch.net/cms/index.php/about/crra-groups/catholic-newspapers-committee/crra-digitizing-partners/ Provenance of the papers is generally of two types a) the paper was founded by the laity and later, the Bishop assumed ownership as publisher or b) a Bishop founded the paper, transferred publication to laity, and at a later date, again, the Bishop became the publisher. Papers today are owned by the Bishops. The papers cover news of the Catholic community - both officials and the laity, men, women, and children living in the community. These papers were intended for all manner of communication between and among the Church and the people with coverage of persons, groups, and events, for communicating with other communities caring to read them."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing 150 Years of San Francisco Art Institute Exhibitions History
+title: "Digitizing 150 Years of San Francisco Art Institute Exhibitions History"
+year: 2017
+end_range: 2017
+formats: "NULL"
+geographic_extant: "The collection’s geographic scope is notable, representing the emergence of modern and contemporary art in the West, which has been global in reach and impact. Artists who settled in California came from all over the country and the world; SFAI afforded many artists their first exposure in the U.S."
+institution: "San Francisco Art Institute"
+institution_type: "NULL"
+primary_contact: "Mr. Jeff Gunderson"
+size: "NULL"
+start_range: "1871"
+summary: "The San Francisco Art Institute (SFAI)’s project will digitize and make widely available online its extensive Exhibitions and Public Programs Archival Collections—which include a vast store of unique primary source materials—and audio and video recordings of decades of public programs. The collections represent a critical primary source for the emergence of modern and contemporary art history and provide a rich resource for scholars in a range of disciplines, from art and art history to politics, literature, architecture, history, geography, and many others. Digitization is an essential component of our larger goal of making these important collections easily found and accessible for a broad range of researchers—both scholarly and casual—throughout the world. We will make them available on the SFAI website and through the online archives platform CollectiveAccess. We request funding for the 24-month second phase of the project, launched in 2016 with initial funding from the IMLS."
+hc_id: "26893759"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "San Francisco Art Institute"
+p2_name:  "Mr."
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>102 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$237,410"
+material_description:  "The San Francisco Art Institute (SFAI) Exhibitions and Public Programs Archival Collectionses, held in the Anne Bremer Memorial LiIbrary, contain a wealth of primary source material that illuminates the trajectory of art, culture, and American arts education in the 19th through the 21st centuries through SFAI’s nearly 150-year exhibitions history. The source materials nominated for digitization will be drawn from this rich repository and will comprise a carefully curated selection of those materials determined to be both most distinctive, most representative, and of greatest significance to researchers. The archives include manuscripts, account books, minutes, photographs, broadsides, clipping files, and ephemera, as well as audio and video recordings of public programs, classroom lectures, and events. Broad categories include: art exhibition catalogs; installation images; brochures, fliers and posters; related correspondence; and other documentation, 1871-present; artists’ files of manuscripts, clippings, and ephemera pertaining to California artists and people associated with the institution since 1871; photographs documenting the school’s history from the 1890s through the present; audio recordings capturing the voices of SFAI guests including John Cage, Robert Rauschenberg, and Angela Davis, among hundreds of others; and video recordings of lectures and public programs, 1980-present. Among the many highlights are: aaterials pertaining to Diego Rivera’s \"Making of a Fresco, Showing the Building of a City\" mural in 1931; materials documenting the founding of SFAI’s Photography Department by Ansel Adams in 1945; and documentation of the 1949 Western Roundtable on Modern Art organized by Douglas MacAgy, with Frank Lloyd Wright and Marcel Duchamp, among"
 ---
-
-

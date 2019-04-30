@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Uncovering Egyptian Archaeology: Cataloging the Hidden Collections of Ancient Egypt Research Associates
+title: "Uncovering Egyptian Archaeology: Cataloging the Hidden Collections of Ancient Egypt Research Associates"
+year: 2013
+end_range: 2013
+formats: "NULL"
+geographic_extant: "Our collections represent AERA's work at four separate archaeological sites in Egypt."
+institution: "Ancient Egypt Research Associates"
+institution_type: "NULL"
+primary_contact: "Megan Lallier"
+size: "150 linear feet"
+start_range: "1978"
+summary: "The Ancient Egypt Research Associates (AERA) Archives and Special Collections encompasses the complete records of our survey, mapping, excavation, and material culture analyses from over 30 years of archaeological investigation in Egypt, as well as AERA's history as a research institution. The collections also document the professional career of AERA founder, Dr. Mark Lehner, and highlight the development of archaeological best practices. The AERA archive, which includes manuscript, photographic and slide, historic stereoview and postcard, and institutional records collections, is unique and irreplaceable resource of international significance for Egyptologists, archaeologists, anthropologists, Near Eastern scholars, and the interested public. The proposed project will enable the AERA Archives and Special Collections to provide access to outside scholars, promote international collaboration and discussion between archaeologists in the field and academic researchers, and participate in archaeology and information literacy education."
+hc_id: "1077"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "26 Lincoln St"
+address2:  "Suite 5"
+city:  "Boston"
+state:  "MA"
+zip: "2135"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

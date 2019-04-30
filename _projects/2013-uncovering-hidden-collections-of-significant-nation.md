@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Uncovering Hidden Collections of Significant National Organizations: A Cataloging Project of the American Jewish Archives
+title: "Uncovering Hidden Collections of Significant National Organizations: A Cataloging Project of the American Jewish Archives"
+year: 2013
+end_range: 2010
+formats: "NULL"
+geographic_extant: "These records focus primarily on the United States. Some B'nai B'rith material contains material on European Jewry, during the Holocaust era."
+institution: "American Jewish Archives"
+institution_type: "NULL"
+primary_contact: "Gary P. Zola"
+size: "900 linear feet"
+start_range: "1843"
+summary: "The five hundred feet of B'nai B'rith International records contain the documentary history of BBI from its founding in 1843 to the present. This consists of administrative files; material on BBI's philanthropic and communal work in the U.S. and abroad; and records on BBI's participation in rescue and relief activities during the Holocaust. The collection also includes Jewish sports history memorabilia, records of local and district lodges, and an extensive holding of motion picture film. The United States Holocaust Memorial Museum Collection of Alfred Gottschalk totals 50 feet. Gottschalk was a USHMM commissioner appointed by President Carter. These records, dating 1978-2000, document the creation and evolution of the USHMM from conception to reality and detail how the U.S. created an institution commemorating this dark era of Jewish life. The Central Conference of American Rabbis is the oldest and largest rabbinical association in North America. Founded in 1889, the CCAR was a pioneer American rabbinical organization in social action, church and state problems, religious education and interfaith relationships. The Union for Reform Judaism, founded in 1873, is an association of over 900 Jewish congregations in the United States and Canada. The nearly 350 feet of records for these two groups, dating approximately 1970-2010, provide a wide ranging view of American Jewish religious, social and cultural life that will be invaluable to scholars in many fields."
+hc_id: "1088"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Hebrew Union College"
+address2:  "3101 Clifton Avenue"
+city:  "Cincinnati"
+state:  "OH"
+zip: "45220"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

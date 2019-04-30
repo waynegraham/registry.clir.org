@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Bonjour!: The Franco-American Television Program.
+title: "Bonjour!: The Franco-American Television Program."
+year: 2017
+end_range: 1999
+formats: "NULL"
+geographic_extant: "Episodes were primarily recorded in Manchester, NH, and were distributed free of charge wherever the ACA had branch offices and in places with significant populations of French speakers including all five New England states, New York, Louisiana, Texas, and the Canadian provinces of Québec, Ontario, New Brunswick, and Nova Scotia."
+institution: "Saint Anselm College"
+institution_type: "NULL"
+primary_contact: "Mr. Keith Chevalier"
+size: "NULL"
+start_range: "1987"
+summary: "This project will create high-quality digital surrogates, transcriptions, translations, and a finding aid for 398 episodes of Bonjour!, a French language public access television program created by the Association Canado-Américaine (ACA) and the United Cable Company of Manchester, NH, and broadcast across parts of the US and Canada in the late 1980s-1990s. Each 30-minute magazine format episode includes studio interviews, segments recorded on location, and musical numbers. Interviews include a variety of Franco-American (Americans with French-Canadian heritage) immigrants and their descendants and prominent Franco-Americans in government, arts, education, and religious sectors from NH, ME, VT, MA, CT, RI, NY, TX, LA, and the Canadian provinces of Québec, Ontario, Nova Scotia, and New Brunswick. The collection of episodes is distributed among three institutions with Franco-American collections: Saint Anselm College, Assumption College, and the University of Maine (hereafter “Umaine”)."
+hc_id: "26306592"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Saint Anselm College"
+p2_name:  "Dr. Susan Pinette"
+p2_institution:  "University of Maine"
+p3_name:  "Dr. Leslie Choquette"
+p3_institution:  "Assumption College"
+material_string: "<li>199 Audiovisual Recordings</li>"
+collaborating_institution:  "University of Maine; Assumption College"
+grant_amount:  "$485,102"
+material_description:  "This project will create high-quality digital surrogates, transcriptions, translations, and a finding aid for 398 episodes of Bonjour!, a French language public access television program created by the United Cable Company of Manchester, NH and the Association Canado-Américaine (“ACA”). The latter was a fraternal organization serving members in New England, Louisiana, and Eastern Canada that sought to support the French-speaking diaspora in the US. As such, it reveals the connections between Quebec and Franco Americans that continued to exist one hundred years after their migration to the US. Bonjour! was broadcast across parts of the US and Canada in the late 1980s–1990s. Each 30-minute magazine format episode includes studio interviews, segments recorded on location, and music related to the Franco American experience. Interviews include a variety of Franco-American (Americans with French-Canadian heritage) immigrants and their descendants and prominent Franco-Americans in government, arts, education, and religious sectors from NH, ME, VT, MA, CT, RI, NY, TX, LA, and the Canadian provinces of Québec, Ontario, Nova Scotia, and New Brunswick. The collection of episodes is distributed amongst three institutions with Franco-American collections: Saint Anselm College, Assumption College, and UMaine. Bonjour! was the only French language program made in the US by Franco Americans for Franco Americans, who continue to be one of the largest French-speaking communities in the US. The collections of videotapes were produced and collected by the ACA. These videotapes and a number of Franco-American collections were transferred to Saint Anselm College in 2010."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Turbulent Times: Cataloging the Lawrence Journal-World Newspaper Photographic Collection, 1953-1975
+title: "Turbulent Times: Cataloging the Lawrence Journal-World Newspaper Photographic Collection, 1953-1975"
+year: 2009
+end_range: 1975
+formats: "NULL"
+geographic_extant: "The city of Lawrence, KS and Douglas County, KS"
+institution: "University of Kansas"
+institution_type: "NULL"
+primary_contact: "Sheryl Williams"
+size: "489 linear feet, 1275000 objects"
+start_range: "1953"
+summary: "The Lawrence Journal-World Photographic Collection contains the photographic archive of the daily Lawrence, Kansas newspaper from 1953-1994. The archive comprises 489 linear feet and includes both flexible negatives (4x5 and 35 mm) and selected prints. The Libraries also owns a complete run of the newspaper on microfilm. These unique photographs provide important social documentation of a Midwestern town and public university, recording grass roots politics, University of Kansas and Haskell Indian Nations University histories, and campus and community unrest in the 1960s and 1970s; and provide a window into the civil rights and women's movements, gay and lesbian activism, American Indian rights, and environmental, agricultural and economic issues from a Midwestern perspective. University-related photographs have been culled from the overall collection and reside in University Archives, arranged by general university-related subjects and chronologically within each subject area. The remaining component is in the Kansas Collection, with negatives separate from prints, arranged chronologically as received. Many earlier images are in original non-archival envelopes identified only by date, with some additional subject identification. This project will focus on providing description and access to a selection of the most historically important images from 1953-1975, with general access to the entire collection provided through a collection-level descriptive finding aid."
+hc_id: "564"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "2385 Irving Hill Rd"
+address2:  "NULL"
+city:  "Lawrence"
+state:  "KS"
+zip: "66045-7568"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

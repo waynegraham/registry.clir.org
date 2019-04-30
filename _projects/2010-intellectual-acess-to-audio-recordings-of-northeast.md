@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Intellectual Acess to Audio Recordings of Northeast Folklore and Oral History
+title: "Intellectual Acess to Audio Recordings of Northeast Folklore and Oral History"
+year: 2010
+end_range: 2010
+formats: "NULL"
+geographic_extant: "Maine and the Maritime Provinces of Canada primarily. Some materials from other New England states."
+institution: "Maine Folklife Center"
+institution_type: "NULL"
+primary_contact: "Pauleena MacDougal"
+size: "3629 objects"
+start_range: "1880"
+summary: "The Northeast Archives of Folklore and Oral History is perhaps the finest regional archive of its kind. Its collections of the traditional culture of Maine and the Maritime Provinces of Canada have no equal, either in the United States or Canada. In particular, NAFOH's strengths in documenting the occupational history and traditions of logging, farming, fishing, and other industries of this region make its collection of value well beyond the disciplines of folklife and oral history to include the subjects of ecology, environmental studies, cultural geography, labor studies, women's studies, ethnic studies, musicology, and many other areas of research. As a cross-border collection, this archive is one of the few to document the international relationships of traditional culture. One of the strongest features of this collection is the volume and quality of information dealing with the history of the lumber industries. With more than sixty accessions and 200 hours of interviews, and 1,000 photographs the series is one of the largest repositories of material on the daily life of the common woodsman and river-driver in the world. Some of this material has been published in several volumes of the Center's monograph series, Northeast Folklore, but the surface has barely been scratched. Other essential collections document coastal occupations, the lives of women and ethnic groups, especially Maine's Native American communities."
+hc_id: "664"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "5773 South Stevens Hall"
+address2:  "NULL"
+city:  "Orono"
+state:  "ME"
+zip: "04469-5773"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

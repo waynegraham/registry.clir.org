@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: A peak at over 50 years of WWII history and the Space Race
+title: "A peak at over 50 years of WWII history and the Space Race"
+year: 2014
+end_range: 1979
+formats: "NULL"
+geographic_extant: "Pacific Sea Region, including countries in Asia, and the United States"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Holly Gallagher"
+size: "1300 objects"
+start_range: "1940"
+summary: "The USS Hornet Museum is asking for assistance for a 12 -month long program to hire a conservation consultant and new staff person to catalog and re-housing part of our extensive hidden collection of 8mm and 16mm film reels, as well as our collection of color, and black and white photographs, negatives and slides from over 25 years of service by the USS Hornet Aircraft Carrier by the United States Navy. Since the technology is constantly changing and the film material naturally dissolves from age, the urgency to preserve these historic audiovisuals and photographs from WWII and the Apollo space rescue is vital for preserving the history of the United States."
+hc_id: "10867856"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

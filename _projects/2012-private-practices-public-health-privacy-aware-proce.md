@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Private Practices, Public Health: Privacy-Aware Processing to Maximize Access to Health Collections
+title: "Private Practices, Public Health: Privacy-Aware Processing to Maximize Access to Health Collections"
+year: 2012
+end_range: 2011
+formats: "NULL"
+geographic_extant: "Collections were created primarily on the east coast of the United States but include activities of national and international scope."
+institution: "Open Knowledge Commons"
+institution_type: "NULL"
+primary_contact: "Maura Marx"
+size: "335 cubic feet"
+start_range: "1917"
+summary: "We will catalog personal and professional papers of 7 leaders in the field of Public Health. Collections are held by the Alan Mason Chesney Medical Archives of the Johns Hopkins Medical Institutions (Hopkins) and the Center for the History of Medicine, Francis A. Countway Library of Medicine (Countway). Included are papers of Barbara Starfield, known for her work on primary care and health policy (Hopkins); Arnold Relman, former editor of the New England Journal of Medicine who has written on the economic, ethical, legal, and social aspects of health care (Countway); Frank Polk, early leading AIDS researcher (Hopkins); Stephen Lagakos, known for his AIDS research and research linking poor water conditions to public health problems (Countway); E. V. McCollum, who discovered vitamins A & D (Hopkins); William and Miriam Pauls Hardy, audiologists who pioneered the screening of children for hearing loss (Hopkins); and Erich Lindemann, specialist in social and disaster psychiatry and community mental health (Countway). Collections document the interactions of leaders in public health with colleagues worldwide. Collections include correspondence, research data, teaching materials, student notebooks, biographical material, manuscripts, reprints, publications, photographs, sound recordings, electronic records, and material culture. Project includes wide variety of media, including textual documents, still and moving images, audio, electronic records, and material culture objects."
+hc_id: "936"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "c/o Berkman Center at Harvard"
+address2:  "23 Everett Street"
+city:  "Cambridge"
+state:  "MA"
+zip: "2138"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "Alan Mason Chesney Medical Archives of the Johns Hopkins Medical Institutions"
+grant_amount:  "$202,900"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Social Activism in Western New York
+title: "Social Activism in Western New York"
+year: 2010
+end_range: 2000
+formats: "NULL"
+geographic_extant: "Western New York"
+institution: "University Archives"
+institution_type: "NULL"
+primary_contact: "Karen Walton Morse"
+size: "221 linear feet"
+start_range: "1852"
+summary: "Social activism--intentional action of individuals, groups, and institutions to change peoples' conditions--is organic to human history. Often overlooked in the telling of national or global history, local and regional histories offer rich insight into how people have organized and worked on behalf of evolving their communities. The University Archives' unprocessed social activism collections from the 19th and 20th centuries are the center of this project. The collections are YMCA Buffalo Niagara records, 1852-2000 (47.5 lin. ft.); Rev. Herman J. Hahn papers, 1888-1983 (10 lin. ft.); ACLU Niagara Frontier Chapter records, 1935-74 (57.5 lin. ft.); Western New York Peace Center records, 1967-2000 (51.25 lin. ft.); and David G. Jay Papers re. Arthur v. Nyquist, 1970-89 (55 lin. ft.). These collections from the Buffalo and Western New York area document for the period 1852-2000 the role of individuals and organizations in protesting against war and violence, promoting improved social and economic conditions, working to ensure equal rights for all, and promoting an environment in which all, regardless of race, religion, or ethnicity, can realize their full potential. Papers of local individuals, grass-root groups, and formal organizations will come together to tell vivid interrelated stories that mirror and further define national and world history."
+hc_id: "649"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "420 Capen Hall"
+address2:  "NULL"
+city:  "Buffalo"
+state:  "NY"
+zip: "14260"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

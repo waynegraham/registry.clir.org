@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: New York City Hall Park Archaeological Collections
+title: "New York City Hall Park Archaeological Collections"
+year: 2015
+end_range: 1900
+formats: "NULL"
+geographic_extant: "New York City Hall Park and its environs in Lower Manhattan, New York City."
+institution: "New York City Landmarks Preservation Commission"
+institution_type: "NULL"
+primary_contact: "Ms. Amanda Sutphin"
+size: "NULL"
+start_range: "1690"
+summary: "New York City Landmarks Preservation Commission, in partnership with the Museum of the City of New York, seeks to verify, catalog, and digitize the archaeological collection excavated in City Hall Park in Lower Manhattan. City Hall completed in 1811, stands in the midst of the City's former Commons which were an important Colonial gathering place. Over the past thirty years, eleven archaeological excavations have uncovered close to 100,000 artifacts. Unfortunately, these have remained largely inaccessible to researchers and the public. The City Hall Park Collection records will be integrated with the City's KeepThinking database and made available on a public search portal on nyc.gov. Entries will be enriched to include historical events, descriptions, and cross-referenced to other collections and over 10,000 high resolution photographs will be taken representing 10% of the collection. This innovative database, will allow the new identification of vertical and horizontal connections in this collection and others."
+hc_id: "17113947"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "New York City Landmarks Preservation Commission"
+p2_name:  "Ms. Camille"
+p2_institution:  "Project Manager for Archaeology"
+p3_name:  "Ms."
+p3_institution:  "NULL"
+material_string: "<li>502 Artifacts</li>"
+collaborating_institution:  "Museum of the City of New York"
+grant_amount:  "$499,856"
+material_description:  "New York City Hall Park is listed on the National Register and is within the African Burial Ground and the Commons Historic District as well as being an individually designated New York City landmark. The City Hall Park collection results from eleven public archaeological excavations in and around the park that occurred over a thirty year period. This collection includes 502 Banker boxes of archaeological materials containing over 100,000 artifacts, associated documentation, soil and other scientific samples. The artifacts include unique objects such as a Revolutionary era bayonet, 18th century coins and medals, liquor and patent medicine bottles, and personal objects such as buttons and eye glasses. They primarily date to the 18th and early 19th century and form one of the largest extant Urban Archaeological collections from this period in the world. Unfortunately, this collection has languished in obscurity due to a lack of funding to organize, standardize, and make them accessible. The majority of the archaeological excavations were completed as part of development projects and as the area is within the only designated New York City archaeological historic district, all construction in the area is regulated by the Landmarks Preservation Commission. The excavations were undertaken by professional archaeologists including: Hartgen Archaeological Associates, Chrysalis Archaeological Consultants, Linda Stone, Parsons Engineering Science, Grossman Associates, Brooklyn College Archaeological Research Center, Landmarks Preservation Commission. As all of the excavations occurred on land owned by the City of New York, the collections belong to the City which is obligated to ensure their appropriate curation. All the collections are now within New York City's climate controlled Repository. Digitization will allow the public and researchers from a variety of fields such as: social historians, economic historians, military historians, archaeologists, material cultural experts, historic architectural experts, art historians, historians of foodways, anthropologists, sociologists, and museums, access."
 ---
-
-

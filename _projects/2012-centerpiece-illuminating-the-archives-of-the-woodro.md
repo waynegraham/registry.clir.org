@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Centerpiece: Illuminating the Archives of the Woodrow Wilson Rehabilitation Center
+title: "Centerpiece: Illuminating the Archives of the Woodrow Wilson Rehabilitation Center"
+year: 2012
+end_range: 1999
+formats: "NULL"
+geographic_extant: "Fishersville, Virginia; Augusta County, Virginia; Commonwealth of Virginia"
+institution: "Woodrow Wilson Rehabilitation Center Foundation"
+institution_type: "NULL"
+primary_contact: "Rebecca Lamb"
+size: "245 linear feet"
+start_range: "1947"
+summary: "The materials consist of two collections that are significant in the study of vocational training for the disabled in both Virginia and the nation. The Woodrow Wilson Rehabilitation Center Collection traces the history of the nation's first state-owned and operated comprehensive vocational rehabilitation center. WWRC was established to provide medical treatment and job training so individuals with disabilities could secure employment and independence. Because Virginia established a vocational rehabilitation program prior to the passage of the first Federal Vocational Rehabilitation Act in 1920, its WWRC emerged as an early national leader in the field, helping to shape vocational rehabilitation as it exists today. The archives cover the start of the WWRC in the former Woodrow Wilson Army Hospital and trace changing programming and national attitudes toward disabilities and rehabilitation, moving from working with physically injured soldiers to serving anyone with a physical or mental disability. The Switzer Collection includes materials from Mary Switzer, who served under 9 presidents and was the highest ranking female bureaucrat in the Federal government when she retired in 1970. Switzer was director of the Office of Vocational Rehabilitation, administrator of the Social and Rehabilitation Service at the Department of Health, Education and Welfare and was instrumental establishing the World Health Organization and in the passage of the Vocational Rehabilitation Act of 1954."
+hc_id: "918"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "PO Box 1500 W191"
+address2:  "NULL"
+city:  "Fishersville"
+state:  "VA"
+zip: "22939"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

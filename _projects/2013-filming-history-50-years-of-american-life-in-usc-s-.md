@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Filming History: 50 Years of American Life in USC’s David L. Wolper Collection
+title: "Filming History: 50 Years of American Life in USC’s David L. Wolper Collection"
+year: 2013
+end_range: 2010
+formats: "NULL"
+geographic_extant: "Our focus is producer David L. Wolper and documentarian Robert Guenette, whose offices were in Southern California."
+institution: "USC Libraries"
+institution_type: "NULL"
+primary_contact: "Sandra Garcia-Myers"
+size: "1000 boxes, 1000 linear feet"
+start_range: "1928"
+summary: "The focus of Filming History is the collection of producer and documentary filmmaker David L. Wolper (1928-2010), which provides a comprehensive record of his life, career, and active involvement in politics. We also selected the collection of documentarian Robert Guenette (1935-2003), who worked closely with Wolper. Wolper's collection comprises more than 950 linear feet of papers, 5,000 to 8,000 photographs in 3 filing cabinets, and a wide assortment of film props, memorabilia, artwork, and ephemera. Wolper focused on historical subjects in his documentaries and the miniseries Roots but created films and TV productions in nearly every genre and even produced events like the 1984 Olympics with a far-reaching influence on American life. Wolper's collection provides a complete overview of his prolific career, starting with the launch of network TV after WWII and extending through the many social and political changes of the 1950s-1990s. Wolper's collection includes scripts; videotapes of his film and TV productions; business records; correspondence with figures ranging from Roots author Alex Haley to former President Eisenhower; and artifacts like a copy of General Patton's famous 1944 speech to his troops and Marilyn Monroe's adoption certificate and baby photos. Guenette's collection, comprising 50 linear feet, includes papers, video recordings, research materials, and other items related to They've Killed President Lincoln and his other award-winning documentary films."
+hc_id: "1154"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "3550 Trousdale Parkway"
+address2:  "DML G4a"
+city:  "Los Angeles"
+state:  "CA"
+zip: "90089-0185"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

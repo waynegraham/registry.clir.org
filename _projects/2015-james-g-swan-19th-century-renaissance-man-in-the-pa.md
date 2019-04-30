@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: James G. Swan, 19th Century Renaissance Man in the Pacific Northwest: Papers, Journals, and Correspondence from 1833 - 1909
+title: "James G. Swan, 19th Century Renaissance Man in the Pacific Northwest: Papers, Journals, and Correspondence from 1833 - 1909"
+year: 2015
+end_range: 1909
+formats: "NULL"
+geographic_extant: "Pacific Northwest Coast; Oregon; Washington; British Columbia; Alaska; San Juan Islands; Haida Gwaii (Queen Charlotte) Islands; Cape Flattery; Neah Bay; Makah Indian Reservation; Shoalwater Bay; Willapa Bay; Port Townsend, WA; Puget Sound; Jefferson County, WA; Pacific County, WA; Clallam County, WA; Tacoma, WA; Washington, D.C.; Vancouver B.C."
+institution: "University of Washington (UW)"
+institution_type: "NULL"
+primary_contact: "Ms. Anne Jenner"
+size: "NULL"
+start_range: "1833"
+summary: "The University of Washington (UW), University of British Columbia (UBC), and Seattle's Museum of History and Industry (MOHAI) propose a two-year project to digitize the three largest collections of James Gilchrist Swan's archival materials and make them available for the first time together via a freely-accessible online web portal. Swan (1818-1900), one of the most prolific chroniclers of Pacific Northwest pioneer life and Native American culture, was a tireless self-promoter who worked as businessman, anthropologist, teacher, judge, Indian agent, collector for the Smithsonian Institution, maritime commissioner, customs inspector, and Hawaiian Consul from the 1850s through the 1890s in Washington Territory, British Columbia, and Alaska. The project will digitize Swan's meticulously written diaries (1859-1898), voluminous correspondence, and other written and visual materials. Scholars in the disciplines of anthropology, ethnography, museology, political and social history, colonial studies, maritime studies, epidemiology, meteorology, and climate change will find rare treasures in this newly-consolidated collection."
+hc_id: "16945350"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Washington"
+p2_name:  "Ms. Larissa"
+p2_institution:  "Librarian, Digital Programs and Services"
+p3_name:  "Ms."
+p3_institution:  "NULL"
+material_string: "<li>12.95 Mixed Archival Collections</li>"
+collaborating_institution:  "University of British Columbia (UBC); Historical Society of Seattle and King County Dba Museum of History and Industry (MOHAI)"
+grant_amount:  "$101,989"
+material_description:  "The collections of James Swan papers at UW, UBC, and MOHAI consist of diaries, correspondence, personal and professional records and publications, family genealogies, and other documents. Swan lead a colorful and varied life as a lawyer, amateur anthropologist, notary public, judge, and pilot commissioner, among other adventures. His records touch on a number of historically relevant subjects, including Native American cultures, the history of the Pacific Northwest fishing industry, Chinese immigration, smuggling, and the activities of the Hudson's Bay Company, to name only a few. \n\n\n\nUW's James Gilchrist Swan Papers consist of two Accessions: No. 1703-1 (1841-1909), given to UW professor Edmond S. Meany by Hamilton Platt, an executor of Swan's will; and No. 1703-3 (1833-1900), donated to UW in 2004 by Gillian Moss, a Swan descendent. The collection includes 63 volumes of Swan's diaries (1859-1898); Swan family correspondence; drafts of articles on the Makah and Haida; an apparently unpublished manuscript, \"History of the Commencement of the Makah Indian Agency at Neah Bay, W.T.;\" newspaper articles; a sketch and notebook about Haida mythology; and other records and reports. \n\n\n\nUBC's collection, the James G. Swan Papers, 1852-1907 (James Swan fond), was purchased by UBC in 1989 from the estate of James Seavey. Most of the records were produced in the 1870s and 1880s during Swan's active years of work as a Notary Public, Judge, Pilot Commissioner, Hawaiian Consul, and collector of Northwest Coast Indian artifacts and fish specimens for various institutions. \n\n\n\nMOHAI's collection, donated in 1954, consists of 6 bound volumes of correspondence (1883-1896). Topics include compiled letters, personal correspondence, and Hawaiian Consulate business. \n\n\n\nAssociated people: Spencer F. Baird; Isaac I. Stevens; Franz Boas; Johnny Kit Elswa; Eda'nsa (Albert Edward Edenshaw).\n\n\n\nEvents: 1876 Philadelphia Centennial Exposition; 1893 World's Columbian Exposition"
 ---
-
-

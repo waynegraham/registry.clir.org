@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: David C. Driskell Archive Project
+title: "David C. Driskell Archive Project"
+year: 2012
+end_range: 2010
+formats: "NULL"
+geographic_extant: "United States"
+institution: "David C. Driskell Center"
+institution_type: "NULL"
+primary_contact: "Dorit Yaron"
+size: "576 boxes, 241 cubic feet, 261 linear feet, 50000 objects"
+start_range: "1950"
+summary: "Prof. David C. Driskell, among the most well-known scholars in the field of African American art, amassed a large collection of personal papers during the last six decades. The unique Driskell Archive includes approximately 50,000 objects from all aspects of Driskell’s professional career, including his activity as an art appraiser and a curator of Dr. Camille and Dr. Bill Cosby’s Art Collection; his academic career as Professor of Art and Department Chairman at several universities, including Maryland, Fisk, and Howard; and materials about two milestones in the development of the field of African American art: the first is communication related to the 1996 White House Acquisition Committee which recommended the acquisition of “Sand Dunes at Sunset, Atlantic City,” a painting by Henry Ossawa Tanner, the first by an African American artist to be a part of the White House art collection; Driskell was a member of the committee. Also included are correspondence and research material from the 1976 landmark exhibition, “Two Centuries of Black American Art” at the Los Angeles County Museum of Art [LACMA]; as curator, Driskell redefined the parameters for the study of African American art within the canon of American art; the material is one-of-a-kind as records at LACMA were destroyed in a flood. Finally, the Archive includes lectures, essays, and correspondence with colleagues, scholars, and artists, among them Georgia O'Keeffe, Romare Bearden, Elizabeth Catlett, and Jacob Lawrence."
+hc_id: "899"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1214 Cole Student Activities Bldg."
+address2:  "NULL"
+city:  "College Park"
+state:  "MD"
+zip: "20742"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$251,700"
+material_description:  "NULL"
 ---
-
-

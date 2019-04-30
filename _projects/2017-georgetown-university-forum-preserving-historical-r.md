@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Georgetown University Forum: Preserving Historical Radio
+title: "Georgetown University Forum: Preserving Historical Radio"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Georgetown University"
+institution_type: "NULL"
+primary_contact: "Ms. Karen O'Connell"
+size: "NULL"
+start_range: "NULL"
+summary: "Georgetown University Library proposes to preserve and make available over 600 hours (1,207 open-reel tapes) of public affairs radio programming from 1946-1972. These historic recordings are from the long-running Georgetown University Forum radio program. Program topics such as “European Refugees and Peace,” “Pre-Paid Health Care,” and “The Bill of Rights and Congressional Investigations” are as timely today as they were when originally broadcast. The content of these programs is currently inaccessible due to obsolescence of its analog format and potential for damage, making these unique and powerful recordings at risk of being lost forever. When reformatted and made available, students and scholars will be able to consider today’s issues in a broader historical context, and learn more about student engagement and attitudes over the decades. The entire collection has been arranged and described by archival staff; metadata has been created and will be enhanced for greater discoverability."
+hc_id: "26909693"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Georgetown University Library"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "1207 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$22,786"
+material_description:  "NULL"
 ---
-
-

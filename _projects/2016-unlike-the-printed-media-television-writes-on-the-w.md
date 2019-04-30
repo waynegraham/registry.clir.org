@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: "Unlike the printed media, television writes on the wind": Providing Access to KAIT 8's 16mm Color Newsfilm (1973-1980) from Northeast Arkansas and Southeast Missouri
+title: "Unlike the printed media, television writes on the wind: Providing Access to KAIT 8's 16mm Color Newsfilm (1973-1980) from Northeast Arkansas and Southeast Missouri"
+year: 2016
+end_range: 1980
+formats: "NULL"
+geographic_extant: "KAIT 8's regional coverage in the 1970s radiated out ninety miles from Jonesboro, AR and included Clay, Craighead, Greene, Independence, Izard, Jackson, Lawrence, Mississippi, Poinsett, Randolph, and Sharp counties in Arkansas and Butler, Dunklin, Oregon, Pemiscot, and Ripley counties Missouri."
+institution: "ASU Foundation, Inc."
+institution_type: "NULL"
+primary_contact: "Dr. Natasha Margulis"
+size: "NULL"
+start_range: "1973"
+summary: "The Archives & Special Collections department at the Dean B. Ellis Library at Arkansas State University proposes a twenty-four month project to digitize 215 reels of 16mm color film with sound to create 6450+ individual files of KAIT 8 television news footage. Access copies of these records will become part of an online collection that is self-hosted on the Dean B. Ellis library's instance of DSpace. These records, and their accompanying metadata, will be made discoverable through the library's catalog, OCLC (including ArchiveGrid and WorldCat), and internet search engines. This audiovisual collection is the only one of its kind for northeast Arkansas and southeast Missouri and the film reels have been inaccessible for research and instruction due to physically unplayable film reels and an unavailable searchable index of metadata and digital surrogates."
+hc_id: "20912605"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Arkansas State University"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>215 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$112,879"
+material_description:  "Produced by the news department of KAIT 8, the first and primary television station serving communities in northeast Arkansas and southeast Missouri, this collection of 225 reels of 16mm film covers the years 1973 through 1980. The collection's provenance harkens back to 1998 when Archives & Special Collections received the KAIT newsfilm collection as a transfer from the Arkansas State University Museum. The Museum had received it directly from KAIT 8, who were running out of storage space and switching to another format (videocassettes). The museum transferred these materials in their original, untouched format to the archives because its staff was unable to do anything with this film and they were out of storage space. The theme of these reels is local, regional, and national events and how they affected the Mississippi Delta community. The unique nature of these topics makes it difficult to assign existing descriptive metadata, because the subjects are not well represented in standard thesauri such as the Library of Congress's Subject Headings (http://id.loc.gov ). Some of the topics in these clips are not known to be preserved in any audiovisual formats. They present, therefore, a unique opportunity for the creation and curation of a digital collection that addresses an increasing demand for easy-to-find information in a keyword searchable environment. To enhance access to and context for these materials, we plan to preview the clips at civic, educational, and professional gatherings in the region. The key to the successful completion of this project is the construction of accurate and intuitive subject and geographic headings, personal identifiers, key words, universal tags, and search terms that render the digital objects discoverable and linkable to other collections--locally, regionally, and nationally."
 ---
-
-

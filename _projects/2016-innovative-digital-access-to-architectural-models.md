@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Innovative Digital Access to Architectural Models
+title: "Innovative Digital Access to Architectural Models"
+year: 2016
+end_range: 2010
+formats: "NULL"
+geographic_extant: "While most of the architects were based in California, many had international careers with projects throughout the world. The models represent projects from Oregon to New York in the United States, in Germany, France, Switzerland, Austria, Spain, The Netherlands, Canada, Argentina, Jamaica, Malaysia, Indonesia, Japan, and throughout Southern California."
+institution: "Getty Research Institute"
+institution_type: "NULL"
+primary_contact: "Ms. Andra Darlington"
+size: "NULL"
+start_range: "1928"
+summary: "The goal of this collaboration between the Getty Research Institute and the Art, Design & Architecture Museum at the University of California, Santa Barbara is to digitize and provide free integrated online access to 300 architectural models, many of which are inaccessible due to their large size and fragility. Using innovative 360ï‚° hemispherical photography, the project will produce hundreds of images of each model, and assemble them into seamless digital renderings. To maximize the research potential of the renderings, we will develop a new web-based viewer that allows researchers to rotate and magnify them for close study. Digitization of models will have a transformative effect on research in architectural history and promote interdisciplinary scholarship. The project partners will widely disseminate images and methodology, and make the viewer freely available as open-source code. Best practices for digitization will be extended to open new opportunities for collaboration among institutions with architectural models."
+hc_id: "22158167"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Getty Research Institute"
+p2_name:  "Dr. Maristella Casciato"
+p2_institution:  "Getty Research Institute"
+p3_name:  "Mr. Chris Edwards"
+p3_institution:  "Getty Research Institute"
+material_string: "<li>300 Architectural Models</li>"
+collaborating_institution:  "Art, Design & Architecture Museum, University of California, Santa Barbara"
+grant_amount:  "$336,653"
+material_description:  "The Getty Research Institute and the Art, Design & Architecture Museum at UC Santa Barbara seek to digitize approximately 300 architectural models using innovative 360-degree hemispherical photography. The project will provide online access to digital renderings of the models that can be rotated to allow study from any angle. Included are designs by more than 25 architects, such as influential modernists R.M. Schindler and Ray Kappe, postmodern visionaries Daniel Libeskind and Charles Moore, and historicist Lutah Maria Riggs, the first woman in California to be named a Fellow of the American Institute of Architects. Objects range from working models depicting different stages in the design process, to presentation models representing the finished version, to exhibition models made after a project ends. Designs convey the unique vision of each architect while reflecting broad trends in architectural history. While some represent iconic buildings, others are the only three-dimensional realizations of pioneering designs that were never built. Residential, commercial and institutional projects span the full spectrum of the built environment. Among the landmarks of residential architecture are Case Study Houses from the program that sought to redefine the modern home by inviting renowned architects to design model houses for the post-WWII housing boom in the United States. Examples include models of Whitney Smith's unbuilt Case Study Houses #5 and #12 (1946) and Pierre Koenig's Case Study House #22 (1960), one of the most famous houses in Los Angeles and an emblem of idealized modern living. Examples of commercial architecture include hotels, a car dealership, and office buildings such as Frank Israel's postmodern headquarters for Propaganda films (1988), which aspires to bring the urban streetscape into the workplace. Models of institutional architecture include museums, concert halls, universities, and John Lautner's Midtown School (1961), a cluster of small hexagonal buildings in his distinct modern style."
 ---
-
-

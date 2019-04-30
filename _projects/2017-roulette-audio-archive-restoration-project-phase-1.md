@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Roulette Audio Archive Restoration Project (Phase 1)
+title: "Roulette Audio Archive Restoration Project (Phase 1)"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Roulette Intermedium, Inc."
+institution_type: "NULL"
+primary_contact: "Mr. David Weinstein"
+size: "NULL"
+start_range: "NULL"
+summary: "The Roulette Archive Restoration Project supports the preservation, restoration, digitization, and accessibility of thousands of recordings on threatened media of historic avant-garde and experimental music concerts presented at Roulette Intermedium's New York venues since 1978. The project includes analysis and reconciliation of contents, condition assessment, legal and contract research, restoration procedures, digitization, and exploration of viability and benefits of moving the physical and digital contents to New York University's Fales Library and Special Collections, which is consulting on the project. This first phase will focus on 200 analog reel-to-reel tapes made in the 1980s; media in particular jeopardy and requiring special handling. The project also prepares the materials and permissions to insure access to scholars, artists, and the public. Subsequent phases of the project will address PCM-Digital recordings, DAT tapes, native digital, and video formats. There are nearly 4,000 total recordings in the collection."
+hc_id: "26932153"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Roulette Intermedium, Inc."
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "200 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$20,000"
+material_description:  "NULL"
 ---
-
-

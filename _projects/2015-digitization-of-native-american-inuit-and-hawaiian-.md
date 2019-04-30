@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitization of Native American, Inuit and Hawaiian Collections
+title: "Digitization of Native American, Inuit and Hawaiian Collections"
+year: 2015
+end_range: 2011
+formats: "NULL"
+geographic_extant: "Artifacts in the collection come from Native communities across the United States including tribes from the following regions Alaska, Apache, California, Great Lakes, Hawaii, Navajo, New England, New York, Northwest Coast, Plains, Plateau, Pueblo, Southeast and Southwest. Inuit artifacts from Canada are also part of the Native holdings."
+institution: "Boston Children's Museum"
+institution_type: "NULL"
+primary_contact: "Ms. Leslie Swartz"
+size: "NULL"
+start_range: "7000"
+summary: "Boston Children's Museum (BCM) requests support for the Native American, Inuit, and Hawaiian Collections Digitization Project, for a project involving two years of work to catalog, digitize and make electronically accessible objects from BCM's Native collections. One of only four children's museums with a collection, BCM holds approximately 3,500 artifacts from indigenous North American communities ranging from pre-contact archeological materials to the present day. This distinguished collection is little known outside of Boston and New England. The Digitization Project will allow BCM to gain intellectual control of these valued artifacts and enhance their accessibility through a searchable, online catalog. This will correct problems with incomplete and fragmented early card catalog and accession records, which currently make it difficult for researchers to discover and use. The creation of an online Native collections catalog will allow educators and scholars at all levels to learn about and study these primary resources."
+hc_id: "17569769"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Boston Children's Museum's"
+p2_name:  "Ms. Rachel"
+p2_institution:  "Collections Manager"
+p3_name:  "Ms."
+p3_institution:  "NULL"
+material_string: "<li>3500 Artifacts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$104,470"
+material_description:  "BCM has been collecting Native artifacts since it first opened in 1913. Throughout the Museum's history, these artifacts have been used in exhibits and programs, referenced in curriculum materials and shared in trainings with educators. Largely acquired through donation, the collection is comprised of approximately 3,500 artifacts that range from pre-contact archaeological materials to the present day. Although many museums stopped collecting new Native American materials mid-20th century, under the guidance and direction of Curator Emeritus, Dr. Joan Lester, BCM's collection continued to grow. \n\n\n\nToday, the collection contains artifacts that express the scope and variety of daily activities of Native peoples, highlighting the thriving and dynamic nature of these communities. The juxtaposition of old and new artifacts shows how important traditions express the continuity between past and present in Native cultures. The highlight of the Native collection is the depth and value of the Northeast artifacts, which have been most widely used and studied. But the diversity of holdings and Indigenous peoples represented is the collection's true strength. \n\n\n\nNative artifacts were acquired from donors in Greater Boston who traveled, lived or worked in regions across North America, from young servicemen stationed in Alaska, to missionaries and whalers who visited Hawaii, and the like. A sizable donation was made to BCM in 1979 from the estate of Katherine Hall Newell through the Massachusetts Indian Association. Newell, a past president of MIA, traveled widely through Indian territories including New England, the Plains and the Southwest. The collected artifacts date from 1875-1950 and showcase the adaptability of Native artists and craftsmen as they chose to interpret and share their culture with outsiders. The collection also includes a number of important archival records and photographs, which need cataloging and researching. The wealth of these captivating materials will continue to remain hidden without digitization."
 ---
-
-

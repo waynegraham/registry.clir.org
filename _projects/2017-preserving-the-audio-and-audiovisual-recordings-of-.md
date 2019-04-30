@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Preserving the Audio and Audiovisual Recordings of the L. Douglas Wilder Collection at Virginia Union University
+title: "Preserving the Audio and Audiovisual Recordings of the L. Douglas Wilder Collection at Virginia Union University"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Virginia Union University, L. Douglas Wilder Library and Learning Resource Center"
+institution_type: "NULL"
+primary_contact: "Mrs. Selicia Allen"
+size: "NULL"
+start_range: "NULL"
+summary: "The L. Douglas Wilder Library proposes to reformat recordings at-risk from the L. Douglas Wilder Collection. This collection includes 716 audio cassette tapes spanning from 1995-2001 and are primarily recordings of Wilder's popular WRVA radio talk show. Other tapes include public service announcements, campaign ads, press conferences and national news interviews. The collection also includes 370 VHS video tapes and 16 open reel recording tapes which spans the years 1983-2001. They include gubernatorial debates between Wilder and Marshall Coleman, political advertisements, public service announcements, Wilder’s inauguration ceremony, the State of the Commonwealth addresses, and national news show interviews. The project will contribute to research and scholarship as the first elected African American Governor in the United States. The Archives uses Eloquent Archives Management System to house the University’s digital assets, which will store digital content created through the project to make accessible to researchers following current copyright restrictions."
+hc_id: "26829012"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Virginia Union University"
+p2_name:  "Ms. Pamela Foreman"
+p2_institution:  "Virginia Union University"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "716 items<li>370 Vhs</li><li>16 Open Reel Audio Tape</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$50,000"
+material_description:  "NULL"
 ---
-
-

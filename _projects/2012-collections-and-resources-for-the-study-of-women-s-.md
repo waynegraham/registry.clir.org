@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Collections and resources for the study of women’s military history
+title: "Collections and resources for the study of women’s military history"
+year: 2012
+end_range: 2012
+formats: "NULL"
+geographic_extant: "Primarily from the United States, the collection includes a small amount of international material associated with armed forces activities abroad."
+institution: "National Museum of American History"
+institution_type: "NULL"
+primary_contact: "Margaret Vining"
+size: "100 linear feet"
+start_range: "1860"
+summary: "For more than 25 years the Smithsonian's Division of Armed Forces History, has collected artifacts, records, and biographical materials to document women's participation in military institutions. Although much of this material reflects the past century when women became official members of the armed forces, the archival and research resource collections proposed for this project also represent an expanded concept of military service. Throughout history, women have engaged in many activities, unofficial as well as sanctioned, that served military purposes, often indispensable but seldom acknowledged. Because military historians largely ignore women, while women's historians disdain the military, much of this history remains hidden. Our singular collection illuminates and documents this lost or undervalued history. It comprises a rich assemblage of publications, documents, records, diaries, correspondence, scrapbooks, graphics, videos, oral histories, exhibition scripts, and ephemera. Portions of the collection, notably material associated with the division's outstanding women's uniform collection, are readily accessible, but most of it lacks access points. We also plan to identify and link to much additional relevant material that resides in other Smithsonian collections and in major military repositories lacking the label of women's military history."
+hc_id: "933"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P.O. Box 37012, MRC 620"
+address2:  "NULL"
+city:  "Washington"
+state:  "DC"
+zip: "20013-7012"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

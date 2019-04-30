@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing the New York Quilt Project
+title: "Digitizing the New York Quilt Project"
+year: 2016
+end_range: 1990
+formats: "NULL"
+geographic_extant: "Most quilts documented in the New York Quilt Project were made in New York State, but not all. Some traveled with individuals as they migrated from place to place, seeking new fortune and following the American dream."
+institution: "American Folk Art Museum"
+institution_type: "NULL"
+primary_contact: "Ms. Mimi Lester"
+size: "NULL"
+start_range: "1988"
+summary: "The American Folk Art Museum seeks to digitize the New York Quilt Project, making the documentation for 6,333 quilts made in New York before 1940 accessible and searchable in the Quilt Index (QI), an international quilt digital repository developed and led by Michigan State University Museum (MSUM) and MSU's MATRIX: Center for Digital Humanities and Social Sciences. Quilt documentation has high research value--quilts reflect the political, social, and religious views of (mostly) women and their communities in early America that transcend state lines. Once digitized, this information will be uploaded to the Quilt Index (www.quiltindex.org) where it can searched and compared with data on more than 80,000 other records already in the QI. The addition of the New York Quilt Project to the Quilt Index will increase MSU's total holdings by nearly 10%, making a significant contribution of quilt research and scholarship widely available."
+hc_id: "23080906"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "American Folk Art Museum"
+p2_name:  "Ms. Beth Donaldson"
+p2_institution:  "Michigan State University"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>57.75 Quilt documentation-handwritten records and slides</li>"
+collaborating_institution:  "Michigan State University"
+grant_amount:  "$186,660"
+material_description:  "In 1988 the museum embarked on an ambitious and historic project--to document all quilts in New York made before 1940. The results of the New York Quilt Project were astounding. More than 6,000 quilts were documented over forty-five \"Quilt Days\" held throughout the state over a period of 21 months. Quilt Days were advertised in the local paper and the general public was invited to bring their quilts for review. Teams of museum registrars, curators, archivists, project coordinators, and specially trained volunteers collected information about the quilts. Two pages of survey information was filled out by the owners of the quilt--sometimes the descendants of the quiltmaker--and two pages of systematic, high-level description was recorded by an AFAM specialist, and several photos of the quilt was taken. Approximately 40% of the quilt owners were selected to record an oral history of their quilt, resulting in 450 audio cassettes. Each audio cassette contains 3-4 interviews. A small tag with a reference number was sewn onto the back of the quilt to indicate that it was recorded by the New York Quilt Project. The information collected measures 40 linear feet of materials in the archives of the American Folk Art Museum. Quilts documented in the New York Quilt Project represent a broad sample of every type of material, construction method, pattern, and subject matter that transcends state lines. Some quilt records have supplemental information such as a photo of the maker, an award from a county fair, or a full exhibition history. Others have become detached from their history, and leave us to wonder at the skill of the anonymous maker."
 ---
-
-

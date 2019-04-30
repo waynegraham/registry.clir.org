@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Erie Canal Photographic Collections Demonstration Project
+title: "Erie Canal Photographic Collections Demonstration Project"
+year: 2012
+end_range: 1980
+formats: "NULL"
+geographic_extant: "New York State and canal-related setting elsewhere in the US, and including the Panama Canal"
+institution: "Canal Society of New York State"
+institution_type: "NULL"
+primary_contact: "Michele Beilman"
+size: "16000 objects"
+start_range: "1860"
+summary: "More than 16,000 images are included. It is the most comprehensive collection related to New York's canals. They document the historic transportation landscapes and capture an unprecedented view of the state's built environment. The canal system dates to the 1790s and still functions as a waterway and icon. The Erie Canal and its laterals reached every corner of the State, from New York City to Buffalo. Views of the Erie chart the growth of cities such as Syracuse, Rochester and Lockport. Its success inspired others beyond New York. The photographs reflect all of these characteristics. The Society was formed in 1956, the first such group dedicated to the preservation of this canal heritage. It soon amassed collections of manuscripts, books, prints and other artworks and numerous other artifacts at a time when appreciation of this legacy was young. There are glass and film negatives (3,500), historic prints and postcards (8,500) and color transparencies (4,000) - albumen prints, glass negatives by Charles Steinmetz, negatives of building the Panama Canal, contractors' albums for today's Erie Barge Canal, early color aerial images, and family collections by those who worked the canal. Perhaps the most used portion includes those of more recent vintage, documenting the condition of historic structures and current operations. Perhaps the most untapped content remains with members of the Society who wait for a more accessible depository to place their materials."
+hc_id: "887"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "2527 Cherry Valley Turnpike"
+address2:  "NULL"
+city:  "Marcellus"
+state:  "NY"
+zip: "13108"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Preserving Historic SAIC Lectures: Stan Brakhage (1970-1976), and The Visiting Artists Program (1984-1996)
+title: "Preserving Historic SAIC Lectures: Stan Brakhage (1970-1976), and The Visiting Artists Program (1984-1996)"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "John M. Flaxman Library, School of the Art Institute of Chicago (SAIC)."
+institution_type: "NULL"
+primary_contact: "Ms. Carolyn Faber"
+size: "NULL"
+start_range: "NULL"
+summary: "Our goal is to preserve and improve access to 281 original audiocassette recordings of historic artists’ lectures given at SAIC: 83 recordings of Stan Brakhage’s classroom lectures (1970 - 1976) and 198 recordings of artists’ lectures from the Visiting Artists Program (VAP) (1984-1996). These rare audio artifacts reveal a deep cross section of artistic thought and practice among some of the most significant artists of the late 20th century. Age and format obsolescence require that the tapes are digitized for preservation and continued use. We will digitize all 281 tapes, creating preservation masters and access files, and updating metadata currently shared in our library catalogs. In keeping with our Core Values as educators, we are committed to making these original recordings as broadly available as possible for teaching, research and inspiration."
+hc_id: "26932592"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Flaxman Library - SAIC"
+p2_name:  "Mr. Christopher Day"
+p2_institution:  "Flaxman LIbrary - SAIC"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "281 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$11,440"
+material_description:  "NULL"
 ---
-
-

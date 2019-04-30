@@ -1,7 +1,34 @@
 --- 
 layout: project 
-title: Documents Pertaining to the Adjudication of Private Land
-Claims in California, ca. 1852-1892
+title: "Documents Pertaining to the Adjudication of Private Land\nClaims in California, ca. 1852-1892"
+year: 2016
+end_range: 1852
+formats: "NULL"
+geographic_extant: "California, Nevada, Arizona, and Baja California"
+institution: "The Regents of the University of California"
+institution_type: "NULL"
+primary_contact: "Dr. Elaine Tennant"
+size: "NULL"
+start_range: "1852"
+summary: "In 1851, the U.S. Congress passed \"An Act to Ascertain and Settle Private Land Claims in the State of California\" which required all holders of Spanish and Mexican land grants to present their title for confirmation before the Board of California Land Commissioners. This Act placed the burden of proof of title on landholders and initiated a lengthy process of litigation that resulted in most Mexican Californians, or Californios, losing their titles. While a majority of claims brought before the Board were confirmed, most decisions were appealed to U.S. District Court and some to the U.S. Appellate Court and the Supreme Court. Because land plays such a vital element in our understanding of the past, the Project intends to digitize the entire collection of 857 District Court cases and make it accessible on the Online Archive of California and DPLA."
+hc_id: "22302419"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "The Bancroft Library"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>857 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$248,932.00"
+material_description:  "In 1851, the U.S. Congress passed \"An Act to Ascertain and Settle Private Land Claims in the State of California\" which required all holders of Spanish and Mexican land grants to present their title for confirmation before the Board of California Land Commissioners. Most Mexican Californians, or Californios, lost their titles. Most decisions by the Board were appealed to U.S. District Court. The records of the District Court cases, the Land Case Files, were deposited on permanent loan in The Bancroft Library by the U.S. District Court in 1961 and this relationship has been repeatedly confirmed by the Court, most recently in 2011 with an additional donation. There are 857 total cases: Northern District Cases 1-458 and Southern District Cases 1-399. Because it is a record of the Federal Court, the collection falls in the public domain and can be made accessible using advanced digital technologies via the Internet. The process to confirm or deny land ownership required the engagement of lawyers, witnesses, translators, and surveyors. Thus, collection materials for each case include transcripts, witness depositions, correspondence, materials presented as evidence, maps, and other legal documents. The maps were transferred to the Map Collection of The Bancroft Library and have been fully cataloged. In 2009, the maps were digitized in their entirety and are accessible at the Online Archives of California (OAC). The records preserved in the Land Case Files offer evidence of life in early California from a wide range of perspectives. They have been used to research historical ecology, boundary disputes, property law, historical sites, Native California, women's history, genealogy, and many other topics."
 ---
-
-

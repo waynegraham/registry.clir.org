@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Preserving our musical culture before it fades away.
+title: "Preserving our musical culture before it fades away."
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "William Marsh Rice University"
+institution_type: "NULL"
+primary_contact: "Ms Mary Brower"
+size: "NULL"
+start_range: "NULL"
+summary: "Opened in 1975, the Rice University Shepherd School of Music has become one of the most prominent music schools in the country. Faculty and alumni include Pulitzer Prize and Grammy winners, and musicians who have performed at Carnegie Hall, the Metropolitan Opera, and other world class performing venues. \nThousands of performances by Rice faculty and students have been recorded and collected in multiple formats, with accompanying programs and other documentation. Many of these recordings --- particularly those made on reel-to-reel tape---are on the verge of being lost to media deterioration or technology obsolescence. Our primary goal is to convert these recordings to digital format through the NEDCC. We will preserve these newly digitized audio files through existing digital library preservation strategies and create descriptive metadata for them, ultimately making access versions of these performances available online at the university’s institutional repository so that the public may freely listen to them."
+hc_id: "26932360"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Rice University"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "103 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$23,778"
+material_description:  "NULL"
 ---
-
-

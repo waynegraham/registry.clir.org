@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: ARLIS Hidden Collections of Alaska Materials
+title: "ARLIS Hidden Collections of Alaska Materials"
+year: 2009
+end_range: 2004
+formats: "NULL"
+geographic_extant: "The materials are all related to Alaska, and other northern climates in the Arctic and circumpolar regions."
+institution: "Alaska Resources Library & Information Services"
+institution_type: "NULL"
+primary_contact: "Celia Rozen"
+size: "390 linear feet"
+start_range: "1890"
+summary: "1. Alaska Dept. of Fish & Game Annual Management Reports, 1929-1994: geographically based series compiled data in a cumulative manner for each regional fishery; 2. U.S. Fish & Wildlife Service Annual Narratives, 1960s-present: annual reports originating from various wildlife refuges in Alaska; 3. Exxon Valdez oil spill, raw footage, 1989-1991: Raw footage of the early days of the Exxon Valdez oil spill, its subsequent clean-up, shoreline evaluations, and other government-led activities related to the spill; 4. Exxon Valdez Oil Spill, Shoreline Surveys, 1989-1993: Surveys conducted by interagency groups to assess oiling conditions in the spill area; 5. Bureau of Land Management Wild and Scenic Rivers photograph and file collection, 1908-: Multi-agency collection of original files, slides, photos documenting selection of rivers, including candidate rivers; 6. Bureau of Land Management Iditarod Collection: documents landmarks of all miles of trial; 7. Environment & Natural Resources Inst.: Historical photos, pre-statehood to 1970s, related to particular industries important to Alaska and to cultural documentation; 8. Alaska Climate Center Ice Records, 1972-2004: community ice records and ice analysis; 9. ARLIS backlog: 44,000 items - only agency serial runs are under consideration. All are relevant to individuals & groups doing research in the natural sciences or having involvement in the environmental or development realms in Alaska."
+hc_id: "405"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "3211 Providence"
+address2:  "Library Suite 111"
+city:  "Anchorage"
+state:  "AK"
+zip: "99508"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

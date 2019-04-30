@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Archival Resources for the Post-Civil Rights Era
+title: "Archival Resources for the Post-Civil Rights Era"
+year: 2011
+end_range: 2007
+formats: "NULL"
+geographic_extant: "The United States."
+institution: "New York Public Library - Schomburg Center for Research in Black Culture"
+institution_type: "NULL"
+primary_contact: "Diana Lachatanere"
+size: "688 linear feet, 5827 objects"
+start_range: "1930"
+summary: "The last 3 decades of the 20th century saw extraordinary transformation in African-American history and culture, a time when the Black Power Movement, the Black Arts Movement, and the Black Studies Movement all came of age. These and other social movements coincided with the greater integration of blacks into mainstream America, and the development of numerous black organizations--political, economic and cultural. These aspects of black life have emerged as growing areas of interest, ripe subjects for the continuing development of new scholarship. The 12 hidden collections selected for cataloging provide greater insight into black literature and literary movements, black labor movements, and civil and human rights struggles, including the Civil Rights Movement. They document the lives and careers of 5 writer-activists, 3 scholar-activists, 3 social activists, and 1 activist organization, providing resources essential for studying their lives, work, and political, social and cultural activism. Taken together, these collections document aspects of the Civil Rights movement as well as the roots of the post-1960s movements that are the focus of this project. The collections include the professional papers and photographs of Maya Angelou, Jane Cortez, Quincy Troupe, Alice Childress, James Baldwin, John Henrik Clarke, Lawrence Reddick, Geraldine Wilson, Vicki Garvin, Benjamin McLaurin, Thomas R. Jones and records of the National Alliance Against Racism and Political Repression."
+hc_id: "731"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "515 Malcolm X Blvd"
+address2:  "NULL"
+city:  "New York"
+state:  "NY"
+zip: "10037"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

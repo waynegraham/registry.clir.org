@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Taylor Archives: Complete Photography Catalog
+title: "Taylor Archives: Complete Photography Catalog"
+year: 2015
+end_range: 2015
+formats: "NULL"
+geographic_extant: "The collection is worldwide in scope."
+institution: "Paul Taylor Dance Foundation"
+institution_type: "NULL"
+primary_contact: "Mr. Tom Patrick"
+size: "NULL"
+start_range: "1900"
+summary: "This project seeks to continue and expand the work of the Taylor Archives to preserve, document, and share the history of Paul Taylor's choreography and his companies. The primary goal of this project is to catalog, scan, upload, and share approximately 12,000 photos, contact sheets, negatives, and positives that help document Mr. Taylor's extensive career. This project safeguards the photographic content of the Archives and makes it readily accessible to scholars, dancers, choreographers, authors, journalists, and members of the public. Through this project, we hope to establish a model that encourages other dance companies to document, preserve, and promote the wealth of their past and thereby help ensure appreciation of and enthusiasm for America's original art of modern dance for generations to come."
+hc_id: "17579105"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Paul Taylor Dance Foundation"
+p2_name:  "Ms. Suzanne"
+p2_institution:  "Professor, Ph D"
+p3_name:  "Ms."
+p3_institution:  "NULL"
+material_string: "<li>60 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$200,000"
+material_description:  "The materials proposed for this digitization project include photographs, contact sheets, negatives, and positives collected by Paul Taylor and the Paul Taylor Dance Foundation over the course of Mr. Taylor's long choreographic career. The photographs in this collection depict Mr. Taylor's ancestors as well as other family members, friends, colleagues, dancers, and others from his childhood, his formative years at Syracuse University, and the American Dance Festival. There is also substantial photographic documentation of the early years of his dance career with Martha Graham and his 60 years as choreographer and Artistic Director of the Paul Taylor Dance Company."
 ---
-
-

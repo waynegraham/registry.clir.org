@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Un-Boxing Hidden HBCU Collections: Revealing the Historical Legacies of HBCUs
+title: "Un-Boxing Hidden HBCU Collections: Revealing the Historical Legacies of HBCUs"
+year: 2015
+end_range: 2014
+formats: "NULL"
+geographic_extant: "The majority of the collection will be from HBCUs located in Florida, Georgia, Louisiana, Mississippi, North Carolina, Missouri and Pennsylvania. Some records refer to programs in parts of Africa."
+institution: "HBCU Library Alliance"
+institution_type: "NULL"
+primary_contact: "Ms. Sandra Phoenix"
+size: "NULL"
+start_range: "1724"
+summary: "The Un-Boxing Hidden HBCU Collections twenty-four month project seeks to digitize and improve discoverability and access to the cultural heritage of HBCUs, providing insight into their impacts on local communities, African-American communities and national higher education community. The HBCU collections proposed for digitization span from 1724 to 2014, document leadership, scholarship, community service and history through photos, slave ship manifests, presidential letters, speeches and papers (especially of the Civil Rights Movement and World War II era), audiovisual recordings, and research documentation regarding African-American life. The Atlanta University Center Woodruff Library, Bethune-Cookman University, Johnson C. Smith University, Lincoln University Missouri, Mississippi Valley State University, Morehouse School of Medicine, Savannah State University and Xavier University will contribute materials to this collaborative project through the HBCU Library Alliance, creating standard processes that integrate best practices among participants and using a collaborative portal for public access within the context of existing HBCU digital collections."
+hc_id: "17242907"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "HBCU Library Alliance"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>734480 Mixed Archival Collections</li>"
+collaborating_institution:  "Atlanta University Center Woodruff Library, Georgia"
+grant_amount:  "$421,238"
+material_description:  "The combined collections represent the unique stories of the development and evolution of HBCUs dating back to the early 1800s. Topics covered in these collections include the following: (1) Papers of prominent HBCU Presidents, faculty and alumni documenting leadership, educational issues, and community service primarily during the 20th century, including special focus on the World War II and Civil Rights Movement eras; (2) Documentation of late 20th century community service programs sponsored at HBCUs in the areas of biology, sociology, history and biomedical studies related to African-Americans; (3) Historical collections about HBCU faculty and organizational involvement with the Black Presbyterian Church, Worker's Conference, international relationships in Africa, and the Attica Prison Riot of 1971; and (4) Historical records collected by HBCUs about slaves and free blacks in the 19th century. The photographs in this digitization project will provide access to images of African-Americans in higher education throughout the 19th and 20th centuries, including early images of Mary McLeod Bethune. The collection includes a 1905 formal portrait of Lydia Howard Wright, wife of Richard R. Wright Sr., the first President of Georgia State Industrial College for Colored Youths (now Savannah State University) and a circa 1880-1891 portrait of Richard R. Wright Sr. Wright, who served as first principal of Edmund Asa Ware High School, the first public high school for African-Americans in Georgia. Wright later served from 1891 to 1921 as the first President of Georgia State Industrial College for Colored Youths (now Savannah State University.) The combined collections represent the hidden jewels in HBCU archives that are essential to expanding research and understanding of the many roles that HBCUs have played within the African-American and higher education communities. Collections have either been collected as organizational records or donated by faculty, Presidents and alumni of HBCUs."
 ---
-
-

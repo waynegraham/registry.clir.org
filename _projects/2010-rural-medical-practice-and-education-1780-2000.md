@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Rural Medical Practice and Education, 1780-2000
+title: "Rural Medical Practice and Education, 1780-2000"
+year: 2010
+end_range: 2000
+formats: "NULL"
+geographic_extant: "New England, primarily New Hampshire and Vermont with a focus on the Upper Valley of the Connecticut River."
+institution: "Dartmouth College Library"
+institution_type: "NULL"
+primary_contact: "Jay Satterfield"
+size: "300 linear feet"
+start_range: "1780"
+summary: "A well-contextualized body of research material for the study of public health issues through the lens of rural medical education and practice. Chronological listing of parts: (1) Account Books: 24 account books (4,600 pages) ca. 1780-1915, of rural physicians, documenting costs of care, diagnoses, and treatments prescribed. Some include diary entries and vital statistics for communities served. (2) Physician Papers: 7 manuscript collections (44 ft.) of the records of seven area physicians, including the founder of the Dartmouth Medical School, Nathan Smith (1762-1829), documenting their practices between 1796-1956. (3) Medical Lecture Notes: 33 volumes (12,000 pages) and one linear foot of loose material. Notes taken by students in the Dartmouth Medical School, between ca. 1806 and 1901, covering an array of health and medical issues taught at Dartmouth with an emphasis on epidemiology in rural settings. (4) Medical Theses: 1,150 theses, 1815-1882, covering health issues current at the time in rural areas: from puerperal fever to small pox to water-borne diseases such as cholera. (5) Institutional Records: Records of the Mary Hitchcock Memorial Hospital, 1893-1985, (21 ft) documenting the early activities of a small rural hospital and its growth into a major region medical center. (6) Departmental Records: Community and Family Medicine Department of the Dartmouth Medical School (188 ft), 1970-2001, including the records of Center for the Study of Evaluative Sciences."
+hc_id: "596"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Rauner Special Collections Library"
+address2:  "6065 Webster Hall"
+city:  "Hanover"
+state:  "NH"
+zip: "3755"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

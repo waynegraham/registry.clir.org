@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Expeditionary Field Work at the American Museum of Natural History
+title: "Expeditionary Field Work at the American Museum of Natural History"
+year: 2012
+end_range: 2012
+formats: "NULL"
+geographic_extant: "The planet Earth."
+institution: "American Museum of Natural History"
+institution_type: "NULL"
+primary_contact: "Barbara Mathé"
+size: "4000 linear feet"
+start_range: "1869"
+summary: "Scientific expeditions and field work are the foundation for resource gathering by natural science museums worldwide; artifacts and specimens collected by AMNH researchers in the field, form the core of AMNH scientific research collections. The Lumholtz Expeditions to Mexico, 1890-98; the Jesup North Pacific Expedition, 1897-1902; the Vernay Hopwood Chindwin Expedition to Burma, 1934-35; the Whitney South Sea Expedition, 1921-37, the Archbold New Guinea, 1933-64 and the Central Asiatic Expeditions, 1921-30, are a few of the most prominent. Over 100 field trips still originate from the AMNH each year. Additional knowledge and the context for the objects in the scientific collections is found in the observations of the biology, cultural traditions and ecological conditions made by the scientists, artists, photographers and field assistants. These are documented in the notes and sketches, diaries, journals, specimen books, photographs, recorded sound, and moving images, held in each of the science department archives. The records also provide an essential social history of the people traveling in the field. This irreplaceable historical information is used alongside the object collections for research and publication in systematic biology, ecological, cultural and a growing number of interdisciplinary studies and the history of science as well as exhibitions and education for the millions of visitors to the Museum and its websites."
+hc_id: "897"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Research Library"
+address2:  "American Museum of Natural History"
+city:  "New York"
+state:  "NY"
+zip: "10024"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$320,400"
+material_description:  "NULL"
 ---
-
-

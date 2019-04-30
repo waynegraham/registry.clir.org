@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Nick Virgilio Haiku Archive
+title: "Nick Virgilio Haiku Archive"
+year: 2016
+end_range: 1962
+formats: "NULL"
+geographic_extant: "Virgilio lived in Camden, New Jersey, most of his adult life and his poetry often reflects the city itself or an urban existence more generally. Other prominent themes of his work are nature and the death of his brother during the Vietnam War."
+institution: "Rutgers-Camden"
+institution_type: "NULL"
+primary_contact: "Ms. Julie Still"
+size: "NULL"
+start_range: "1962"
+summary: "The Paul Robeson Library at Rutgers University-Camden proposes a twelve-month project to digitize the papers of Nicholas Virgilio (1928-1989), an internationally renowned haiku poet who spent most of his adult life in Camden, NJ. In 1999, ten years after Virgilio's death, his family asked Rutgers-Camden to hold his papers. In 2011, the papers were formally and legally deeded to the University, and in late 2014 they were moved to the Paul Robeson Library. The Virgilio papers are not a traditional literary or manuscript collection. Although they contain some correspondence and other material, the bulk of the collection is thousands of pages of haiku, typed on one or both sides of scrap paper, some on the back of ephemeral documents like grocery store flyers. This project will digitize Virgilio's poems, many of which remain unpublished, and other papers to make them available to scholars and enthusiasts around the world."
+hc_id: "22278201"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Paul Robeson Library"
+p2_name:  "Ms. Zara Wilkinson"
+p2_institution:  "Paul Robeson Library"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>10000 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$58,410"
+material_description:  "Camden, New Jersey, resident Nicholas Virgilio became interested in haiku after finding a book in the library of the College of South Jersey, which is now Rutgers University-Camden, in 1962. He began writing haiku and went on to become quite well-known in the haiku community, continuing to write haiku until his death in 1989. Virgilio was a frequent contributor to haiku journals and a charter member of the Haiku Society of America, which now sponsors an annual Nicholas A. Virgilio Memorial Haiku Competition for students in grades 7-12. . He was also a noted speaker on haiku and at his death was in Washington, D.C. to prepare for a television interview. After his death, Virigilio's papers were formally deeded to Rutgers University-Camden and have been housed in the Paul Robeson Library since its renovated special collections spaced opened in 2014. Despite his importance to the field of haiku, however, Virgilio only published one volume of poetry during his lifetime. Although another was published posthumously in 2012, most of the haiku found in his papers have never been published. The papers were not organized in any fashion when they were donated and, because there is little indication of chronology, present a challenge to organize. Each sheet contains at least five poems, often twice that number, typed in two columns per sheet. If blank, Virgilio used both sides of the paper. He also used scrap paper, such as the back of grocery store flyers. During the spring 2016 semester, a graduate history course at Rutgers-Camden organized the Virgilio papers according to what was on the other side of the paper. Digitizing the Virgilio papers will remove some of these physical limitations and make them available to scholars interested in haiku, American poetry, and an important figure in the literary history of Camden."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing the Black Academy of Arts and Letters Records
+title: "Digitizing the Black Academy of Arts and Letters Records"
+year: 2016
+end_range: 1970
+formats: "NULL"
+geographic_extant: "The primary geographic focus is the Dallas area, including Fort Worth and surrounding cities. Because TBAAL has produced events and activities in other locations in the United States and abroad, the geographic scope also includes Washington D.C., Africa, and the Caribbean."
+institution: "University of North Texas"
+institution_type: "NULL"
+primary_contact: "Mr. Robert Lay"
+size: "NULL"
+start_range: "1970"
+summary: "This two-year project will digitize, describe, and make manuscripts from the Black Academy of Arts and Letters, an African-American performing and visual arts organization based in Dallas, TX. Over the 24 month time span of the project, the University of North Texas will digitize approximately 146,000 pages and create approximately 43,000 metadata records. For forty-six years, the Black Academy has worked to honor and increase awareness of African-American artistic accomplishments and to foster young artists and scholars in the Dallas community. Providing digital access to the documents in this collection will enhance scholarship in the areas of African-American history and performing arts."
+hc_id: "22224228"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of North Texas Libraries"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>146000 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$241,408.00"
+material_description:  "Founded in 1977, The Black Academy of Arts and Letters (TBAAL) has grown into the premier outlet for African-American visual and performing arts in Dallas, TX. Throughout its history, TBAAL has showcased some of the biggest names in black theater, including actress and singer Eartha Kitt, jazz musician and composer Wynton Marsalis, R&B artists and former American Idol contestants Fantasia Barrino and Ruben Studdard, television actress and singer Kim Fields, and R&B singer/songwriter Peabo Bryson. TBAAL has also fostered the growth of black theater in Dallas, helping to launch the career of singer/songwriter and producer Eryka Badu, and through its education outreach to students in Dallas public schools. TBAAL's mission of promoting African-American arts is documented in the 146,000 pages nominated for digitization. Composed mostly of correspondence, memoranda, reports, and other office documents, the collection documents the growth of the organization from its time as the Junior Black Academy based inside the home of its founder, Curtis King; through its struggles to secure both funding and a permanent home; and its eventual move to the Dallas Convention Center with full financial support from the city. It includes correspondence from celebrities, politicians, foreign ambassadors, and the general public expressing praise and support for TBAAL's work to defend and advance the national and international recognition of African-American history and art. TBAAL is unique among non-profit theatres both in its founding ethos--modeled after both the American Negro Academy and the New York Black Academy of Arts and Letters, both long defunct--and the level of support and endorsement it receives from its host city--TBAAL is the only African-American arts organization to be housed in a major city convention complex."
 ---
-
-

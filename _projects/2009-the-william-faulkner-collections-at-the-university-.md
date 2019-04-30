@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The William Faulkner Collections at the University of Virginia
+title: "The William Faulkner Collections at the University of Virginia"
+year: 2009
+end_range: 2009
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "University of Virginia Library"
+institution_type: "NULL"
+primary_contact: "Jennifer Roper"
+size: "140 boxes, 54 linear feet, 10000 objects"
+start_range: "1900"
+summary: "William Faulkner, the pre-eminent 20th century author, chose the University of Virginia Library as the repository for the manuscripts and papers in his possession at the time of his death in 1962. The William Faulkner collections at the UVa Library are the largest group of his manuscripts in the world, but the bulk of this significant collection is hidden to scholars. The collections total 54 linear feet (approximately 10,000 pieces in 140 boxes) but most of it lacks the full cataloging and item level description needed to make it discoverable. The only Faulkner materials that are well known to researchers are the manuscripts and typescripts of the novels and short stories, but the UVa Library also holds photographs, audiovisual material, editors’ correspondence, and personal and family letters deposited over the years by Faulkner’s daughter. Additionally, there are holograph and typescript material from 19 published and 2 unpublished novels including the basic holograph manuscript for 7 of the novels and for all others some variant form of the typescript, often with holograph corrections. The Library holds typescript setting copies (or carbons) of all the novels (except The Unvanquished) from The Sound and the Fury onward; complete holograph manuscripts of Flags in the Dust, The Sound and the Fury, As I Lay Dying, Sanctuary, Light in August, The Wild Palms, a major portion of Mosquitoes and early typescript versions of Soldiers' Pay, Mosquitoes, and Flags in the Dust."
+hc_id: "513"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Alderman Library"
+address2:  "Room 215"
+city:  "Charlottesville"
+state:  "VA"
+zip: "22904-4108"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Vision Maker Media Historic Native American Film and Video Collection
+title: "Vision Maker Media Historic Native American Film and Video Collection"
+year: 2015
+end_range: 2013
+formats: "NULL"
+geographic_extant: "The films represent in the United States and Canada, with stories from nearly all fifty states, and strong representation in states with large Native populations, including South Dakota, North Dakota, Oklahoma, Nebraska, New Mexico, Arizona, Alaska, and California."
+institution: "Vision Maker Media"
+institution_type: "NULL"
+primary_contact: "Ms. Shirley Sneve"
+size: "NULL"
+start_range: "1976"
+summary: "Vision Maker Media, a non-profit documentary film company funded by the Corporation for Public Broadcasting, will work to digitize and make available a large collection of documentary films, television productions and raw footage, created between 1976 and 2010. Over 500 individual films will be digitized, with formats ranging from 1”  reels to Betacam Digital. The majority of this media is documentaries by and about American Indians and Alaska Natives and represent both historical and contemporary stories from Tribes all across the U.S. The documentaries that are represented in this collection tell Native stories from a Native viewpoint, and are representative of some of the most important works of Native American filmmakers in the late 20th century. The collection will be useful to scholars in many fields, Native American communities, and the public."
+hc_id: "17085495"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Vision Maker Media"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>300 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$92,374"
+material_description:  "Vision Maker Media (VMM) will digitize and make available over 500 individual films that represent the history of Native American documentary filmmaking in the United States. They focus on the history, culture, arts, language, and heritage of North American Indigenous peoples, and were made for public broadcast and distribution. Most of the materials to be digitized are the works of Native American documentary filmmakers, both final cuts and some raw footage. The films were funded and produced by Vision Maker Media (previously NAPT and NAPBC) starting in 1976, and reflect the work of the most influential native filmmakers of the 20th century Phil Lucas (Choctaw), Tracy Rector (Seminole), George Burdeau (Blackfeet), Larry Littlebird (Laguna/Santo Domingo Pueblo), Chris Eyre (Cheyenne/Arapahoe), Phil Lane Jr. (Rosebud Sioux), Dustin Craig (White Mountain Apache), Bennie Klain (Navajo) and others. The collection also contains footage and films created by NAPT both related to their work as native filmmakers, and documenting the process of founding and building the oldest member of the National Minority Consortium. All of the materials were given to the archives by the filmmakers themselves, or as part of a purchase of a film for distribution by VMM. The films show both the history of Native filmmaking in the 20th and 21st centuries and tell many different stories about the Native experience. Other copies of these programs may exist, but NAPT acquired the broadcast masters as the national distributor and liaison with PBS. There is also some raw footage from three productions with NAPT as the Producer or Co-Producer - the American Indian Artist Series-II (1986), Storytellers of the Pacific (1996), and Indian Country Diaries (2006)."
 ---
-
-

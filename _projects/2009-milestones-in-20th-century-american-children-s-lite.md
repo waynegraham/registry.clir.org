@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Milestones in 20th-Century American Children’s Literature at the Free Library of Philadelphia
+title: "Milestones in 20th-Century American Children’s Literature at the Free Library of Philadelphia"
+year: 2009
+end_range: 1990
+formats: "NULL"
+geographic_extant: "The text materials are in English, and all materials are primarily related to children's literature produced and published in the United States."
+institution: "Free Library of Philadelphia"
+institution_type: "NULL"
+primary_contact: "Anne Lee"
+size: "67 boxes, 47 linear feet, 7100 objects"
+start_range: "1910"
+summary: "The six archival collections proposed for this project -- the Lloyd Alexander, the Virginia Lee Burton, the Carolyn Haywood, the Evaline Ness, and the Tomi Ungerer collections and the Frederick R. Gardner collection of Robert Lawson -- are part of the Free Library of Philadelphia’s Children’s Literature Research Collection (CLRC) and were included among 59 unprocessed Free Library special collections described in a recent survey by the Philadelphia Area Consortium of Special Collections Libraries (PACSCL). The collections vary in size and contain a wide range of archival material, including original manuscripts, notes, etchings, drawings, illustrations, sketchbooks, correspondence, galley proofs, mock-ups, dummies, color separations, tapes, photographs, and slides, as well as some published books and reviews. Each of the individuals to whom these materials relate made important contributions to 20th-century American children’s literature as the authors and/or illustrators of well-known and enduring children’s books. Five of them won nationally-recognized literary awards for their work, such as the Caldecott and Newbery medals, the National Book Award, and the Hans Christian Andersen Award. Together, the archival materials in these collections offer key resources for studying the literary and stylistic development of these six authors and illustrators as well as valuable insight into the nature and development of 20th-century American children’s literature and culture."
+hc_id: "444"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1901 Vine Street"
+address2:  "NULL"
+city:  "Philadelphia"
+state:  "PA"
+zip: "19103"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$264,945"
+material_description:  "NULL"
 ---
-
-

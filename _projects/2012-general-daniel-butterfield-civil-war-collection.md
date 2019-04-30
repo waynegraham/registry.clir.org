@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: General Daniel Butterfield Civil War Collection
+title: "General Daniel Butterfield Civil War Collection"
+year: 2012
+end_range: 1920
+formats: "NULL"
+geographic_extant: "The geography includes all parts of the eastern US involved in the Civil War."
+institution: "Alan Aimone"
+institution_type: "NULL"
+primary_contact: "Michael LaRocco"
+size: "3 boxes, 433 cubic feet, 4 linear feet, 1200 objects"
+start_range: "1850"
+summary: "The Julia L. Butterfield Library's Gen. Daniel Butterfield's Civil War archives provide a unique insight into the American Civil War. The more than 1200 documents (consisting of 12,500 distinct pages of information) include rare correspondence regarding military relationships and strategy that scholars would find invaluable. There are correspondence from Union generals, telegraphs from Secretary of War Stanton and Gen. Sherman as he approached Atlanta, a battle map of Gettysburg, photos, handwritten casualty lists, a manuscript by a field officer detailing the Battle of Gettysburg, a note from President Lincoln's assistant secretary, the personal journals of Gen. Butterfield during the was and more. Bequeathed to this library by his widow Julia in 1927, the collection's historical significance was not known until April 2011 when the West Point Museum Director & Chief Curator David Reel reviewed the collection, and was subsequently confirmed in May 2011 by Alan Aimone, Military Affairs Librarian, Special Collections and Archives at West Point Library. “The historical importance of the collection is unquestionable as a comprehensive archive of a major figure of the American Civil War and contains documents and letters, telegrams from 1861-64 that are irreplaceable and significant in content. . . No doubt, scholars of United States History and specifically the American Civil War will find a treasure trove of original, period material within the archive,\" wrote Reel."
+hc_id: "976"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "10 Morris Avenue"
+address2:  "NULL"
+city:  "Cold Spring"
+state:  "NY"
+zip: "10516"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

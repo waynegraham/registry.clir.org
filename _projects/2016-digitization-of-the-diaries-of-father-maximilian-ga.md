@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitization of the Diaries of Father Maximilian Gaertner, O.Praem
+title: "Digitization of the Diaries of Father Maximilian Gaertner, O.Praem"
+year: 2016
+end_range: 1856
+formats: "NULL"
+geographic_extant: "Father Gaertner traveled to Wisconsin from Wilten Abbey, in Austria. He arrived in New York, and passed through Chicago on his way to the Madison, Wisconsin area. Most of the diaries focus on his activity in the southeastern area of Wisconsin including Sac Prairie and Columbus."
+institution: "St. Norbert College"
+institution_type: "NULL"
+primary_contact: "Ms. Sally Cubitt"
+size: "NULL"
+start_range: "1846"
+summary: "Over three years staff from St. Norbert College will partner with the Center for Norbertine Studies and an independent translator to translate and digitize the diaries of Father Maximilian Gaertner, O.Praem. In order to enhance our understanding of mid-nineteenth century immigration, the formation of Catholic parishes in Wisconsin, the experiences of clergy in a developing landscape, and the history of both the area and of religious attitudes of the time. Father Gaertner arrived in Wisconsin in 1846, and remained until 1858. His diaries are a meticulous and invaluable record of both his travels and of his missionary work during these years. The diaries are an important primary source that is not available elsewhere. The anticipated audience for the diaries range from members of the general public with a casual interest in the period, to scholars researching the state's early history."
+hc_id: "22300304"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "St. Norbert College"
+p2_name:  "Dr. Andrew Ciferni"
+p2_institution:  "Center for Norbertine Studies"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>10 Manuscripts</li>"
+collaborating_institution:  "Center for Norbertine Studies"
+grant_amount:  "$170,975"
+material_description:  "The diaries of Norbertine priest Father Maximilian Gaertner, O.Praem. are a handwritten chronicle of his experiences in Wisconsin in the mid-1800s. The diaries are annotated with charts, maps, drawings, and news clippings. The diaries are not just a documentation of daily activities, but contain Father Gaertner's thoughts and reflections on his experiences and his missionary activities in the area, and comparisons with his life back in Austria. Father Gaertner arrived in Milwaukee in October of 1846 to assist a fellow Norbertine, Father Adalbert Inama who had arrived in the area in 1845, and was instrumental in promoting the region. Father Gaertner's diaries are a meticulous and invaluable record of both his travels and of his missionary work during these years and the settlement of the area by German and Austrian immigrants. Although there are various histories of the state of Wisconsin during this time, most are politically focused and rarely document the ordinary experiences of the state's populace, especially concerning the spiritual welfare of the people and the importance of the parish community in the lives of the area's Catholic populace. There are numerous parish and diocesan histories, but they are simply records of the history of the church, while the contents of the diaries transcend these histories. The Gaertner diaries chronicle one person's insights into both the culture of the time, the religious attitudes of Father Gaertner's parishioners, and reflect on the relationships between the missionaries and the sponsoring Abbey. The translations of these diaries will provide researchers a substantial primary resource of both this time in the history of Wisconsin, and the religious attitudes and experiences in both rural and urban areas of the state."
 ---
-
-

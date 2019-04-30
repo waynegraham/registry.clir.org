@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Schoharie County Historical Materials
+title: "Schoharie County Historical Materials"
+year: 2016
+end_range: 2016
+formats: "NULL"
+geographic_extant: "The materials primarily cover Schoharie County, New York, with some related regional, state-wide, or broader tribal materials."
+institution: "Jared Van Wagenen Jr. Library at SUNY Cobleskill"
+institution_type: "NULL"
+primary_contact: "Ms. Beth Orgeron"
+size: "NULL"
+start_range: "1726"
+summary: "This project will digitize materials relating to the history of Schoharie County and its residents, from its Native American settlements to the current rural and small town populations. Materials on Native American history in the area are held by the Iroquois Indian Museum; those relating to the European colonization and early to modern American residents are held by the Schoharie County Historical Society; and those relating to the history of local post-secondary education (primarily agricultural) are held by SUNY Cobleskill. The materials will be digitally scanned, described, and uploaded into DSpace for wide access. Together the collections provide a broad history of human life and culture in the area for more than 800 years."
+hc_id: "22368753"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "SUNY Cobleskill"
+p2_name:  "Ms. Katherine Brent"
+p2_institution:  "SUNY Cobleskill"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>90000 Photographs</li>"
+collaborating_institution:  "Schoharie County Historical Society; Iroquois Indian Museum"
+grant_amount:  "$357,193"
+material_description:  "The materials include college-produced records, photographs, monographs, and serial publications relating to the operation of the college, student and alumni life and history, and local communities from SUNY Cobleskill; the negatives from the Harold Tolles photography collection, covering approximately four decades of 20th century community history in Schoharie County, and original land deeds for portions of the county dating to the 1700s from the Schoharie County Historical Society; and archaeological documentation and ethnographic research related to the Native American populations who have lived in the region for over 800 years from the Iroquois Indian Museum."
 ---
-
-

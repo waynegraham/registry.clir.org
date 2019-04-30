@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Fry Collection of Italian History and Culture
+title: "Fry Collection of Italian History and Culture"
+year: 2009
+end_range: 1987
+formats: "NULL"
+geographic_extant: "Italy, with special emphasis on northeastern Italy, including the Veneto."
+institution: "University of Wisconsin - Madison"
+institution_type: "NULL"
+primary_contact: "Kenneth Frazier"
+size: "395 linear feet"
+start_range: "1310"
+summary: "The Fry Collection of Italian History and Culture has been assembled and donated by William F. “Jack” Fry, professor emeritus of physics at the University of Wisconsin-Madison. It includes manuscripts and correspondence, broadsides, printed ephemera, periodicals, and books from the early Renaissance through the 20th century. The largest category consists of materials from the period of Italian Fascism, illustrating, for example, Fascist propaganda, educational policies and practices, youth and women's activities, racial policies, Italian colonialism, and anti-Fascist opposition. The next largest category documents aspects of the history of the Veneto from the 15th century through the 19th, with particular attention to the French and Austrian occupation of Veneto in the 19th century. Correspondence and printed ephemera are complemented by many official avvisi and manifesti. Other materials fall into the following categories, as assigned by the donor in his extensive notes on the collection: the Church and Italian culture, partisans in Italy during World War II, 20th-century Italian Communism, political culture in postwar Italy, documents from Istria and Latina, theater and music in Italy, the period immediately preceding the Fascist period, the Italian postal and telegraph service, and other rare books and manuscripts mainly from Italy (15th-20th century)."
+hc_id: "515"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Dept of Special Collections, General Library System"
+address2:  "990 Memorial Library"
+city:  "Madison"
+state:  "WI"
+zip: "53706"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

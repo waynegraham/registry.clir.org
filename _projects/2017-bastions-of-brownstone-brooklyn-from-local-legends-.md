@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Bastions of Brownstone Brooklyn: From Local Legends to a National Movement
+title: "Bastions of Brownstone Brooklyn: From Local Legends to a National Movement"
+year: 2017
+end_range: 2010
+formats: "NULL"
+geographic_extant: "The collection extensively documents New York City, especially the boroughs of Brooklyn and Manhattan. Other geographic areas represented include cities associated with the Back to the City Conference: St. Paul (MN), Hartford (CT), San Antonio (TX), Louisville (KY), Miami (FL), Cleveland (OH), Milwaukee (WI), Wilmington (DE), and Washington DC."
+institution: "Brooklyn Historical Society"
+institution_type: "NULL"
+primary_contact: "Ms. Julie May"
+size: "NULL"
+start_range: "1880"
+summary: "Brooklyn Historical Society (BHS) proposes a project to digitize and make accessible online the records of Everett and Evelyn Ortner as leaders in NYC’s historic preservation and urban revival movements across the country. The collection’s extensive evidence of the Ortner’s successful grassroots activism and influence on urban revival movements nationwide make it an essential source for scholars studying cultural movements, the transformation of post-industrial cities, gentrification, activism, architecture, and more. The collection reveals motivations and processes of work that were foundational to the current renewed interest in urban living and the explosive popularity of Brooklyn as a brand, adding an important source to look to in the evolving conversation on these topics. Digitization will provide exponentially increased access, particularly to remote and digital researchers, making possible new kinds of scholarship, both local and national in scope."
+hc_id: "26253037"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Brooklyn Historical Society"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>11558 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$87,035"
+material_description:  "The Everett and Evelyn Ortner papers and photographs (ca. 1880 – 2010, bulk 1940 – 2008) include photographs, audio recordings, moving images, and paper records that document the work of two key players of Brooklyn’s historic preservation and Brownstone Revival movements. The Ortner papers are comprised of administrative records of the Brownstone Revival Committee, founded in 1968 with Everett serving as its first president, including correspondence with local residents, housing tour files, brownstone renovation workshop files, and communications with community organizations, such as the Park Slope Civic Council and the Park Slope Betterment Committee. The files highlight the Ortners’ work with Brooklyn Union Gas Company, which was convinced to purchase and renovate homes in Park Slope for use as models to entice new residents to invest in the neighborhood. Everett was also the lead organizer of the Back to the City Conference series, which ran from the (1970s to 1980s). This conference brought together historic preservationists and community activists to meet and discuss strategies for revitalizing urban neighborhoods nationwide. The papers include records related to the conference and Board of Directors’ minutes. Everett was an avid photographer, who extensively documented the Park Slope neighborhood of Brooklyn, including panoramic shots of entire blocks of historic homes. These images were used to publicize the Brownstone Revival movement and secure the establishment of the Park Slope Historic District. Additionally, the collection includes audiovisual recordings of interviews with the Ortners, focusing on their roles as leaders in the Brownstone Revival movement."
 ---
-
-

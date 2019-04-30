@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Describing the Broun Collection
+title: "Describing the Broun Collection"
+year: 2012
+end_range: 1966
+formats: "NULL"
+geographic_extant: "Eastern Pennsylvania and South Pacific"
+institution: "Muhlenberg College"
+institution_type: "NULL"
+primary_contact: "Peter G. Saenger"
+size: "10 boxes, 20 cubic feet, 1500 objects"
+start_range: "1940"
+summary: "The Maurice Broun collection (1906-1979), noted ornithologist, conservationist, and author, and first curator at Hawk Mountain, a sanctuary that is on the National Historic Register of Historic Places, from its founding as a sanctuary in 1934 until his retirement in 1966. His library and papers, donated by his widow in 1981, consist of some 1,500 books and 20 cubic feet of diaries, correspondence, research notes and papers, clippings, journals and pamphlets, photographs and films in various formats, and other materials. Of particular note are his diaries, which include detailed daily entries of his activities from the 1930s to the 1970s; his collection of slides and films, all of which appear to be meticulously labeled; a poster from the first meeting of the North American Hawk Migration Association in 1974, which is signed by all the attendees, including nationally-known ornithologist Chandler S. Robbins; and original letters with the authors that are tipped into some of the volumes of his book collection. Among the latter, some of the correspondents, such as Rachel Carson, are important naturalists and environmentalists. Also noteworthy, is the Oversees Photo Records compiled by Broun during his service in the Navy in the South Pacific in World War II. These two oversize published volumes include dozens of annotated photographs taken by Broun of military activities and everyday life in the South Pacific during the War."
+hc_id: "949"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Muhlenberg College"
+address2:  "Acopian Center for Ornithology, Dept. of Biology"
+city:  "Allentown"
+state:  "PA"
+zip: "18104-5586"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

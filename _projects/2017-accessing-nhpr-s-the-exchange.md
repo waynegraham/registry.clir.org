@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Accessing NHPR’s The Exchange
+title: "Accessing NHPR’s The Exchange"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "New Hampshire Public Radio, Inc."
+institution_type: "NULL"
+primary_contact: "Mr. Andrew Parrella"
+size: "NULL"
+start_range: "NULL"
+summary: "Since 1995, The Exchange has been New Hampshire’s only state-wide radio call-in program. The public affairs program has been a place where policies and issues important to the state are discussed by knowledgeable guests; it is also a virtual “town common” where citizens ask questions of their elected officials and experts, and participate in the larger conversation. Recordings of the first 10 years (some 2,000 hours) of the program exist only on Digital Audio Tapes, and our goal is to continue the process of transferring those assets to uncompressed digital files. We have begun this process, as part of our larger commitment to ensure that all 21 years of this program are fully accessible to the public and for scholarly research."
+hc_id: "25584601"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NHPR"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "120 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$25,000"
+material_description:  "The collection of audio that is the focus of this proposal is comprised entirely of DATs recorded in 1999 by staff at New Hampshire Public Radio. Though the assets are now stored in a stable and climate controlled location, in the intervening years they have been stored in sundry locations less hospitable. There is no visible damage to any of the media, and in our experience transferring other (older) DATs from our archive there have been no problems with playback. The collection comprises 120 DATs, totaling 238 hours of audio, representing one calendar year of The Exchange broadcasts. We were fortunate enough to host a team from the American Archive Content Inventory Project in 2012, who provided us with an inventory of, among others, these assets. As a result the inventory has been incorporated into the database for the American Archive of Public Broadcasting. We are also making efforts to normalize our data to meet the standards of the New Hampshire History Network, which is a common reference for historians and scholars in the state. We are in the very early stages of making available the data and content of our audio collection, but we have plans to hire additional staff to redouble our efforts in digitizing legacy media, capturing meta-data, creating finding aids and producing content (a podcast and accompanying blog) to bring to light the interesting stories contained among these assets."
 ---
-
-

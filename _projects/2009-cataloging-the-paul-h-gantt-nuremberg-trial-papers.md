@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging the Paul H. Gantt Nuremberg Trial Papers
+title: "Cataloging the Paul H. Gantt Nuremberg Trial Papers"
+year: 2009
+end_range: 1949
+formats: "NULL"
+geographic_extant: "Primarily Nuremberg, Germany; Europe, including but not limited to Russia, Hungary, and France; United States (limited)."
+institution: "Archives"
+institution_type: "NULL"
+primary_contact: "Nadia Nasr"
+size: "21 linear feet"
+start_range: "1946"
+summary: "The Paul H. Gantt Nuremberg Trial Papers include materials related to Gantt’s work as a prosecutor in the Office of the Chief of Counsel for War Crimes, the United States prosecution office during the trials of Nazi war criminals before the Nuremberg Military Tribunals. These twelve trials took place from October 1946 to April 1949 following the four-power Allied trial of two dozen major war criminals before the International Military Tribunal (November 1945 to October 1946). Paul Gantt moved to the Towson area in 1976 and retired from private practice two years later. He bound his copies of transcripts and other documents concerning the trials into 48 volumes. Shortly before his death on June 7, 1979, he donated the volumes to the Albert S. Cook Library at Towson University. The Gantt Papers contain approximately 20,000 pages including correspondence related to his work on the trials, copies of briefs, indictments, and other court documents. Significant portions of the collection, in some cases more than one entire volume, focus on the trials against Erhard Milch (Case 2), Friedrich Flick et al. (Case 4), and Ernst von Weizsaecker et al. (Case 11). While funds have not been available to compile a proper finding aid or inventory for the collection, it is clear that the Gantt papers not only are another collection of Nuremberg transcripts and briefs, but also contain unique private letters and in-house memoranda that will attract scholarly attention."
+hc_id: "493"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Archives, Cook Library"
+address2:  "8000 York Rd."
+city:  "Towson"
+state:  "MD"
+zip: "21252"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

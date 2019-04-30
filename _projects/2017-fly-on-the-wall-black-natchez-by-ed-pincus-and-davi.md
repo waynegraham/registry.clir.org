@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Fly on the Wall: Black Natchez by Ed Pincus and David Neuman, Film Digitization for Access, 1965 and 1967
+title: "Fly on the Wall: Black Natchez by Ed Pincus and David Neuman, Film Digitization for Access, 1965 and 1967"
+year: 2017
+end_range: 1967
+formats: "NULL"
+geographic_extant: "Film footage documents events in Natchez, Mississippi, but is representative of the struggles of many southern African American communities during the period of the Civil Rights Movement."
+institution: "Amistad Research Center"
+institution_type: "NULL"
+primary_contact: "Ms. Brenda Flora"
+size: "NULL"
+start_range: "1965"
+summary: "The Amistad Research Center seeks to digitize the raw outtake film footage for the civil-rights-era documentary film, Black Natchez (1967) and the unfinished sequel film. The film, produced by filmmakers Ed Pincus and David Neuman, charts early attempts to organize and register Black voters and the formation of the self-defense group Deacons for Defense and Justice in Natchez, Mississippi in 1965. The filmmakers returned to Natchez in 1967 following the murder of Wharlest Jackson, the treasurer of the Natchez branch of the NAACP, to document Jackson’s funeral and the aftermath of his murder. Footage is shot cinéma vérité style, with the filmmakers acting as “fly-on-the-wall” observers to the action. This project will digitize and provide access to approximately ninety hours of rare black and white 16mm footage of the African American community in Natchez at the height of violence, racial tensions, and the fight for civil rights during the 1960s."
+hc_id: "26893716"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Amistad Research Center"
+p2_name:  "Ms. Laura Thomson"
+p2_institution:  "Amistad Research Center"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>90 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$250,000"
+material_description:  "The Ed Pincus Collection consists 90 hours of 16mm black and white film footage used to create two civil rights era documentaries, Black Natchez (1967) and Panola (1970), and includes raw footage for a sequel film to Black Natchez, which was never completed. For ten weeks in 1965, filmmakers Ed Pincus and David Neuman shot footage in Natchez, Mississippi, during which time George Metcalfe, president of the Natchez branch of the NAACP, was murdered. Footage from their 1965 work in Natchez also produced the short documentary Panola, which focused on the life of a single African American man at the height of the chaos. The sequel footage from 1967 shows the aftermath of a second murder, that of Natchez NAACP treasurer Wharlest Jackson. The footage captures the response of the African American community and local and national civil rights activists to the murders of Metcalfe and Jackson, including protest marches, meetings, and public sentiment. The rolls of film shot are cinéma vérité style, often candid “fly on the wall” portrayals. Everyone from prominent civil rights leader Charles Evers to the average man in the street is asked to express his thoughts and feelings about the racial tensions and violence in the city. Especially unique and important are scenes where the camera simply looks on and listens in while members of the community socialize and discuss the murders and the state of the city, as well as scenes of NAACP and Deacons for Defense and Justice meetings."
 ---
-
-

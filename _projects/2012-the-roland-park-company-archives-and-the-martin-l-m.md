@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Roland Park Company Archives and the Martin L. Millspaugh Archives
+title: "The Roland Park Company Archives and the Martin L. Millspaugh Archives"
+year: 2012
+end_range: 2010
+formats: "NULL"
+geographic_extant: "Most of the text materials are in English, with some correspondence and related items received by the company in German, Polish, French, and Japanese."
+institution: "Johns Hopkins University"
+institution_type: "NULL"
+primary_contact: "Jordon Steele"
+size: "390 cubic feet"
+start_range: "1891"
+summary: "A collection of international historic significance, The Roland Park Company Archives consist of the corporate records of the Roland Park Company, documenting an early suburban development that has enjoyed regional, national, and international influence. The collection contains a wide variety of informational and format types, including blueprints, architectural drawings, ledgers and other financial records, photographs and photograph albums, and correspondence from some of the most influential designers, planners, and technical experts of the twentieth century, who worked on other developments and trained a new generation of professionals after Roland Park. The collection dates from circa 1891 through 1962 (the life of the corporation). The Martin L. Millspaugh Archives (1950-2010) consist of 50 cubic feet of print and electronic records chronicling Millspaugh's central role in the development of the Inner Harbor, an urban planning project of international impact. Both collections were chosen because of the growing interest in the history of urban planning and community development and demonstrated research demand, which is detailed below. These records create important links between community development and broader historical and societal trends. If rendered accessible by this grant, these collections will serve as a unique and multifaceted way to examine the historical context of land planning and real estate development in Baltimore and beyond."
+hc_id: "880"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "3400 N Charles Street"
+address2:  "Sheridan Libraries"
+city:  "Baltimore"
+state:  "MD"
+zip: "21218"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$71,900"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: "All Day Singing": Preserving and Providing Access to Original Early Twentieth Century Field Recordings in the Frank Clyde Brown Collection
+title: "All Day Singing: Preserving and Providing Access to Original Early Twentieth Century Field Recordings in the Frank Clyde Brown Collection"
+year: 2015
+end_range: 1941
+formats: "NULL"
+geographic_extant: "Frank C. Brown collected songs from at least 52 of North Carolina's 100 counties, representing all regions of the state. Although Brown identified a handful of pieces as songs singers had learned in other states, he gathered approximately 95 percent of his overall collection in North Carolina."
+institution: "Duke University Libraries"
+institution_type: "NULL"
+primary_contact: "Mr. Winston Atkins"
+size: "NULL"
+start_range: "1921"
+summary: "Folklorist, professor of English, and Duke University administrator Frank Clyde Brown collected folk songs and ballads throughout North Carolina in the 1920s and 1930s. Housed at Duke University's David M. Rubenstein Rare Book & Manuscript Library, the collection of 1,367 songs on 136 wax cylinders and instantaneous discs is an important primary document of American folk song in the early 20th century. Many of the songs are published in volumes two through five of The Frank C. Brown Collection of North Carolina Folklore, a posthumous and comprehensive collection of Brown's folklore research, published between 1952 and 1964. However, the original recordings, fragile and difficult to play back, have never been widely accessible. \"All Day Singing\" will digitize the original field recordings using the Northeast Document Conservation Center's IRENE 2D and 3D imaging system, describe the content of the recordings based on Brown's field notes, and make the recordings available online."
+hc_id: "18603498"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Duke University Libraries"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>136 Audio Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$74,595"
+material_description:  "The collection contains approximately 1,367 songs on 60 wax cylinders, 25 aluminum discs, and 51 aluminum lacquer discs, representing songs unique to North Carolina, as well as American folk songs, British traditional ballads, and a range of other folk and popular songs. Approximately 972 of these songs were compiled in the groundbreaking, seven-volume Frank C. Brown Collection of North Carolina Folklore (CNCF), considered one of the most exhaustive studies of its kind. The CNCF illustrated Brown's efforts as well as that of editors Newman Ivey White, Jan Philip Schinhan, Henry M. Belden, Arthur Palmer Hudson, and, notably, Brown's colleague in the North Carolina Folklore Society, Maude Minish Sutton, whose own collecting provided a significant voice to the CNCF. In 1944-45 the collection was shipped to Washington, D.C. and transferred to glass lacquer discs at the Library of Congress, with one set of duplicates returned to Duke with the originals. This set will not be addressed as a part of the grant, but could be used afterward to strike better copies where original recordings may have suffered greater deterioration or, in the case of the aluminum discs, prove difficult to transfer. In preparation for digitization the collection has been rehoused and inventoried, with descriptive metadata coming from a number of legacy inventories, the most recent dating to the early 1970s. The materials will be transferred non-destructively, and in some cases where damage has occurred, reconstructed, using the IRENE 2D and 3D system at the Northeast Document Conservation Center, with cylinders imaged at a rate yielding 48 kHz/16-bit files, and with phonodiscs imaged at a rate yielding 96 kHz/24-bit files. Upon return to the Library derivatives will be clipped to reflect individual songs, which will be mapped to the inventory database as well as the CNCF."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: A 3D Archive of California Ethnography at Stanford University
+title: "A 3D Archive of California Ethnography at Stanford University"
+year: 2016
+end_range: 1950
+formats: "NULL"
+geographic_extant: "The nominated collection originates across California but primarily from northern California. Humboldt County is particularly well represented, comprising almost three quarters of the nominated collection. Given the indigenous nature of the collection, there are also items that likely originated from Mexico."
+institution: "Stanford University Libraries"
+institution_type: "NULL"
+primary_contact: "Mr. Michael Keller"
+size: "NULL"
+start_range: "1776"
+summary: "The Stanford University Libraries (SUL) proposes to create a 3D archive of 116 items comprising the Stanford University Archaeology Collections' (SUAC) California ethnography collection. These artifacts illuminate the daily life of indigenous peoples in California from the late 18th through 20th centuries, as well as Stanford's role in the transformation of California through its regional collecting history. This collection is currently discovered through word-of-mouth and viewed only on-site. 3D models will provide dispersed scholars, students, and tribal members an authentic object experience. Models may serve future uses, such as 3D printing to allow physical examination of otherwise inaccessible artifacts. Rather than consulting only after digitization, the proposed workflow will integrate consultation to produce metadata with enhanced cultural context and to ensure we handle, describe, and publicly disseminate objects appropriately. The project will contribute to best practices for the creation and management of 3D data in the cultural heritage sector."
+hc_id: "22143228"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Stanford University"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>116 Ethnographic artifacts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$248,220"
+material_description:  "The materials in the California ethnography collection were acquired by the Stanford family and the University Museum beginning in the 1890s, and are now managed by SUAC, the Stanford Archaeology Center. SUAC cares for the archaeological, ethnographic, and archival collections of the Stanford Archaeology Center; a teaching and research collection, which now includes over 30,000 global cultural artifacts. The largest, most significant collection is the California ethnography collection. Given the institutional location and the collection's research potential, it has been given priority for digitization. The ethnographic materials from California include items associated with at least seven different Native American tribes. A sample of the materials include: -John R. Daggett Collection of over 80 items from Hupa, Karuk, and Yurok peoples in Humboldt County, northern California, dating to the 1880s/1890s. Likely exhibited in the California Pavilion at the 1893 World's Columbian Exposition in Chicago. -Mabel L. Miller Collection of ethnographic materials from northern California, particularly Miwok beads. Early 20th century. -Baskets from the Eunice Colburn Collection. -Items used at Mission San Francisco de Así­s, San Francisco, some from 18th-century Mexico. -Other early University Museum collections. -Other items found unnumbered in collections. Many of the items in the collection were used from the late 18th through 20th centuries--a period of tremendous upheaval across the American West. They were mobilized as part of indigenous survivance strategies in contexts of Spanish, Mexican, Russian, and American imperialism. Topics include shifting tribal organizations and economies, structural violence and racism, human/environment relationships, and the economic and social history of California. When engaged by scholars, Stanford's California ethnography collection illuminates colonial structures and contemporary legacies. For tribal members, items revitalize practices through re-engagement with absented heritage. Digitization promises to support these codependent processes of research and restitution."
 ---
-
-

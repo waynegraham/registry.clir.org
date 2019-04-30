@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Jerry Brown Papers at USC Libraries
+title: "The Jerry Brown Papers at USC Libraries"
+year: 2014
+end_range: 1983
+formats: "NULL"
+geographic_extant: "Although this project includes papers from Brown's 1976 and 1980 presidential bids, to date he has only held public office in California."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Susan Luftschein"
+size: "2245 linear feet"
+start_range: "1970"
+summary: "We will arrange and describe USC's Jerry Brown papers dating from 1970 to 1983. At present, no finding aid is available to help researchers explore this vast, complex, and historically significant collection. Our project will provide access to correspondence, records, and other papers--as well as photographs and audiovisual materials—documenting Brown's term as secretary of state (1971-1975) and first two terms as governor (1975-1983). Then as now, California was a bellwether state, and Gov. Brown's decisions on issues ranging from environmental issues to gender equality and taxation had national repercussions. They anticipate many key debates in contemporary U.S. politics."
+hc_id: "11294056"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

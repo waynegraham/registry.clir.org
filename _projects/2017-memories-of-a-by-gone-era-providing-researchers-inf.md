@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Memories of a by-gone era: Providing researchers information about a cultural phenomenon that has all but disappeared in America through access to community diaries ,hand-produced “publications”, photographs and manuscripts from a Catholic congregation of priests called Redemptorists in the United States during the 19th and early 20th century
+title: "Memories of a by-gone era: Providing researchers information about a cultural phenomenon that has all but disappeared in America through access to community diaries ,hand-produced “publications”, photographs and manuscripts from a Catholic congregation of priests called Redemptorists in the United States during the 19th and early 20th century"
+year: 2017
+end_range: 1996
+formats: "NULL"
+geographic_extant: "Materials are from Redemptorist communities (educational institutions, retreat centers and parishes) in the Midwest, south and west part of the United States. This is known as the Redemptorists Denver Province: Louisiana, Mississippi, Kentucky, Oklahoma, Texas, Missouri, Idaho, Illinois, Minnesota, Michigan, Wisconsin, Colorado, Arizona, California, Alaska, Oregon and Washington."
+institution: "Redemptorists Denver Province"
+institution_type: "NULL"
+primary_contact: "Ms. Jennifer Murphy"
+size: "NULL"
+start_range: "1840"
+summary: "This 18 month project of the Redemptorists Denver Province entails the digitization of manuscripts, printed items and photographs related to the history of their educational institutions, parishes and communities. Materials consist of hand-written community and student annals and original school publications,dating from the mid-19th to mid-20th century. Many of the items are bound and many are fragile, requiring a minimum amount of handling, so they will be scanned using a book scanner with book cradle. Metadata will be created simultaneously and entered in to the collection management program. This collection of materials represents how intertwined religion was with everyday life in America during this time. The digitization and metadata production of these materials will allow scholars from multiple disciplines to access this unique collection enabling them to research the way in which religious orders lived, worked, studied and ministered at the height of religious fervor in the United States."
+hc_id: "25339859"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Redemptorists Denver Province"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>206 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$60,000"
+material_description:  "Materials include hand-written annals for approximately 40 Redemptorist communities (and some individual personal diaries) that are in bound books dating from 1840 to 1996 and detail the daily lives of the priests/brothers living in each community (\"Communities\" meaning individual parishes, seminaries and retreat centers). These writings outline their interaction with and influence on a variety of populations; African American, Native American, yellow fever victims, deaf population and soldiers during WWI and WWII, to name a few. In addition, there are photographs from all these communities that depict life at the time. For example, seminary life playing sports, studying, performing plays and living in dormitories; photographs from the WWII era depicting thousands of people attending individual churches every Sunday. Entries in hand-written ledgers that in turn attest to this fact. The first seminary began in 1840 in Chatawa, MS. The second opened in 1887 in Windsor Springs, MO where boys would begin attending in the 9th grade. After graduating they would go to the next seminary (college plus 2 years) in Oconomowoc, WI. There were a total of eight different seminaries between 1840 and 1996. These men had extraordinary educations and were prolific writers and artists as shown in their \"year books\" and student publications. Many of these young men went on to become priests and to fulfill their Redemptorist mission which is to minister to \"the poor and most abandoned.\""
 ---
-
-

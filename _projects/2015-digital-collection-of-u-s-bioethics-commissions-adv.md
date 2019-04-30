@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digital Collection of U.S. Bioethics Commissions, Advisory Committees, and Research Panels Materials
+title: "Digital Collection of U.S. Bioethics Commissions, Advisory Committees, and Research Panels Materials"
+year: 2015
+end_range: 2009
+formats: "NULL"
+geographic_extant: "United States"
+institution: "Bioethics Research Library, Georgetown University"
+institution_type: "NULL"
+primary_contact: "Mr. Mark Hakkarinen"
+size: "NULL"
+start_range: "1974"
+summary: "This project will create accessible digital files of local, state, and federal government documents related to the field of bioethics. The documents would be drawn from multiple governmental archival collections housed at the Bioethics Research Library, which cover a range of topics important to the early history (1970's) of the field through the present day including the ethics of health, the environment, and emerging technologies. The documents would be digitized and hosted in the open access repository, DigitalGeorgetown, with citations and keywords applied to assist with the discovery of digitized materials. This project will support the mission of the Library to make available the literature of essential areas of bioethics for use by worldwide researchers and policy makers, including international ethics committees, institutional review boards, and governmental ethics committees in more than 60 countries. To digitize the documents student employees will be trained and supervised in the processing of materials."
+hc_id: "17508936"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Georgetown University"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>50 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$51,371"
+material_description:  "Material consists of bound and unbound paper from local, State, and Federal Government agencies, departments, and partner institutions. Most documents are original copies, though many of the briefing books, subject files, and ancillary material relating to commission work are facsimiles as these were the copies given to commission members. All materials are currently housed at Georgetown University. Within the archival subject files are copies of articles and other materials that were used for background research and could not be digitized and distributed without consent.\n\n\n\nThe Bioethics Research Library has digitized selected reports from these collections but many materials remain accessible only by visiting the archival collection. Specific collections that will benefit from digitization are the following:\n\n\n\n The National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research, 1974-1978.\n\n\n\nIn the early history of bioethics, the Executive Branch's Department of Health, Education and Welfare established the National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research. The archive encompasses 43 meetings from 1974-1978 and includes briefing books, subject files, and transcripts from these meetings. 13.76 linear feet \n\n\n\nPresident's Commission for the Study of Ethical Problems in Medicine and in Biomedical and Behavioral Research, 1978-1983.\n\n\n\nThis congressionally mandated group was formed in 1978, succeeding the National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research. It worked independently from January 1980 to March 1983. The archive encompasses 28 meetings held between 1980 and 1983 and includes briefing books, subject files, and transcripts from these meetings. 28.35 linear feet\n\n\n\nEthics Advisory Board (EAB), 1978-1979.\n\n\n\nThis group began in 1978 under the auspices of the Department of Health, Education and Welfare. Its pronouncement on human embryo research in 1979, followed by the EAB dissolution, began a 15-year moratorium on such research. 1.66 linear feet"
 ---
-
-

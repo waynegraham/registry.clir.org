@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Providing Public Access to the Collections of John H. James and Samuel Fulton Covington
+title: "Providing Public Access to the Collections of John H. James and Samuel Fulton Covington"
+year: 2008
+end_range: 1899
+formats: "NULL"
+geographic_extant: "Development of banking, transportation of the inland waterways, politics as a delegate to the 1831 National Republican Convention"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Janet Stuckey"
+size: "302 linear feet"
+start_range: "1820"
+summary: "Two significant collections within the Walter Havighurst Special Collections at the Miami University Libraries provide information about the early history of communities west of the Alleghenies. The collections of John H. James (1800-1881) and Samuel Fulton Covington (1819-1889) reflect those individuals’ involvement in local, state and national politics; trade and commerce; banking; and inland navigation. Both collections reflect these men’s commitment to and concerns for the growth and development of the nation in which they lived."
+hc_id: "40"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Walter Havighurst Special Collections"
+address2:  "321 King Library"
+city:  "Oxford"
+state:  "OH"
+zip: "45056"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

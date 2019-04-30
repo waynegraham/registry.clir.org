@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing Storefront’s Archive for Web-based Public Access
+title: "Digitizing Storefront’s Archive for Web-based Public Access"
+year: 2017
+end_range: 1982
+formats: "NULL"
+geographic_extant: "Early records (1982-87) focus on New York City’s built environment. Subsequent material encompasses diverse local, national and international sites and issues."
+institution: "Storefront for Art and Architecture"
+institution_type: "NULL"
+primary_contact: "Ms. Chialin Chou"
+size: "NULL"
+start_range: "1982"
+summary: "Storefront for Art and Architecture requests CLIR support for an 18 month project to digitize and disseminate 47 cubic feet (cft) of core program files from its archive. Storefront’s archive contains 115 cft of material documenting over three decades of the organization’s activities. This project will address the archive’s urgent needs to digitally transfer and preserve its audio-visual records, and to digitize its most important and requested program records for substantially improved public, web-based access. Proposed project activities will benefit Storefront's current, predominantly local audience of 20,000+ design professionals and significantly expand this audience to include design education communities nationally and internationally, as well as the general public. The project will result in preserved A/V media and digital records freely available via Google Cultural Institute, Storefront's website, and the Internet Archive. By working with these prominent digital platforms, Storefront intends to maximize the project’s cost effectiveness, efficiency and impact."
+hc_id: "25997922"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Storefront for Art and Architecture"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>6000 Letter and legal size on standard paper documents (notes, articles, newspaper clippings, artist profiles and research, ephemera, financial documents, promotional and press materials, correspondence, project proposals, admin files, etc.)</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$209,393"
+material_description:  "As one of the first alternative spaces in the US dedicated to presenting innovative work at the intersection of art and architecture, Storefront has accumulated an archive documenting its diverse and influential program of over 280 exhibitions, performances, publications and events dating from its founding in 1982. Featuring work of 1,500+ architects, artists and designers, many now nationally and internationally recognized (See section 5), this material constitutes a unique design resource of national significance, that remains unpublished and not digitally accessible. The archive is arranged into three collections: Program Files (1982-2010, 75 cf) document all aspects of Storefront’s programming activities, including conception and research, implementation, and outreach; Institutional Records (1979-2008, 10 cf) document Storefront’s operational activities, primarily during its first two decades; and Original Artworks (1982-2006, 30 cf) contains 600+ original works on paper and 10+ 3D objects produced by program participants for exhibitions and events. The archive’s material spans diverse formats including text documents (press releases, correspondence, proposals, budgets, work plans, hand-written notes, proposals, clippings); images (photographic prints, 35mm slides, 35mm & medium format film negatives, newsletter films); publications (tabloid newsletters, catalogues and books) and audio-visual media (VHS tapes, DVDs, CDs and MiniDVs). Storefront has selected four series from its Program Files collection for item-level cataloging, digitization and web-based publication (See Section 3). These records have been prioritized according to two basic selection criteria: 1) A/V media that currently cannot be accessed and requires immediate preservation, digitization and description; 2) program records that are most frequently requested for research."
 ---
-
-

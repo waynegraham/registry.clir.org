@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Delegates from Dixie: Southern Senators and Congressmen since World War II
+title: "Delegates from Dixie: Southern Senators and Congressmen since World War II"
+year: 2008
+end_range: 1994
+formats: "NULL"
+geographic_extant: "The geographic scope of the project is the states of Alabama and Mississippi, though the impact reaches far beyond the borders of those states."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Clark E. Center, Jr."
+size: "3272 cubic feet"
+start_range: "1941"
+summary: "The materials consist of the office records of four Alabama congressmen, Albert Rains, Kenneth Roberts, Carl Elliott, George W. Andrews and William Nichols; one Alabama senator, Jeremiah Denton, one Mississippi congressman, Jamie Whitten, and an addition to the records of one Mississippi senator, John Stennis, all of whom served between 1941 and 1994. The papers document state rights, civil rights, southern agriculture, housing, urban development, rural affairs, consumer protection, water resources, military affairs, the rise of the Republican Party in the South, military preparedness, a growing concern with world-wide terrorism, and a host of litmus test issues associated with the resurgent right wing of the Republican Party. In addition, the materials documenting the creation of the Tennessee-Tombigbee Waterway by the US Army Corps of Engineers, to be added to the Stennis papers, are relevant to the economic, ecological, and political history of the states of Alabama, Mississippi, and Tennessee."
+hc_id: "306"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Box 870266"
+address2:  "NULL"
+city:  "Tuscaloosa"
+state:  "AL"
+zip: "35487-0266"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

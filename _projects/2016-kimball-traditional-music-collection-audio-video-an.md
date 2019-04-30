@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Kimball Traditional Music Collection: Audio, Video and Ephemera from Rural New York State to the World
+title: "Kimball Traditional Music Collection: Audio, Video and Ephemera from Rural New York State to the World"
+year: 2016
+end_range: 0
+formats: "NULL"
+geographic_extant: "The 1820-present collection focuses on traditional music material from rural New York State."
+institution: "State University of New York at Geneseo"
+institution_type: "NULL"
+primary_contact: "Mr. James Kimball"
+size: "NULL"
+start_range: "1820"
+summary: "This one-year project will accomplish the digitization, long-term preservation and dissemination of the James W. Kimball Traditional Music Collection. The materials document traditional New York State musicians in field and commercial recordings of interviews and performances, as well as extensive supporting information in print, photographic, manuscript and published media. The collection provides a unique opportunity for scholars of American Traditional Music with an emphasis on rural New York State. We will target audio and audiovisual recordings with the greatest risk of data degradation or loss. We will proceed to digitize print and ephemera with direct relationships to the recordings. This project is part of a larger initiative by SUNY Geneseo, the Genesee Valley Council on the Arts (GVCA) and community stakeholders to preserve and manage the entire collection. Partnering entities will develop a comprehensive, systematic plan of use, access, and sustainability for academic, artistic, and community constituencies."
+hc_id: "22368417"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "State University of New York at Geneseo"
+p2_name:  "Mr. Glenn McClure"
+p2_institution:  "State University of New York at Geneseo"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>150 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$121,732"
+material_description:  "The project focuses on the digitization of audio and audiovisual recordings, specifically cassette audio tape, reel-to-reel audiotape, VHS and 8mm videotape and 8mm motion picture film. Each item was reviewed by James Kimball and Karen Canning for basic content and condition, and organized according to artist, ensemble and/or genre. Recordings consist of musical performances and interviews of traditional NY State musicians. Some examples include: fiddlers Mark Hamilton, Clarence Maher, and Lewis Minckley; Eastern style square dances; Irish music concerts, including Marty O'Keefe, William Sullivan, Sean Walker and Ted McGraw; music festivals including the Genesee Country Museum annual Fiddlers Fair and those sponsored by the New York State Old Tyme Fiddler's Association; and regional music and dance from Danish American, Native American, Italian/Italian American, Gospel, Puerto Rican and Polish/Polish American traditions. Overall Totals and Condition: 832 Audio Cassettes--good condition, with 10-20 with some damage; 96 VHS tapes--good condition; 10, 8mm videotapes--good condition; 22 reel-to-reel audio tapes--poor condition (mold); 5, 8mm motion picture reels--fair condition. Other materials related to the proposed media to be digitized include: Manuscript tune books and sheets (1807 - early 20th c.), 30+; Published tune books (19th - 20th c.), 150+; Songsters (c. 1800 - 1940s), 150+; Folio song and piano collections (c. 1800 - 1940s), 100+; Sheet Music (1790s - 1980s), 10,000+; Bound Collections (1820s - 1870s), 50; Dance/Theater Orchestra sets of parts (1850s - 1930s), 500+; Village/military band music, including parts (1840s - 1920s), 50+; Hymn, singing school and gospel song books (1790s - 1940s), 300+; Diaries, 200+; Historical newspapers, 30+; Historical Trade catalogues & directories, 40+; Historical posters/flyers (19th - 20th c.), 300+; Dance cards, invitations and programs (19th - 20th c.), 2000; and Old photographs (music or dance related), 300+."
 ---
-
-

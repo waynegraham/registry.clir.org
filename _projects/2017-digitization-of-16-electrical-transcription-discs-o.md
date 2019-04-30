@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitization of 16” Electrical Transcription Discs of the National Music Camp 1938-1955
+title: "Digitization of 16” Electrical Transcription Discs of the National Music Camp 1938-1955"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Interlochen Center for the Arts"
+institution_type: "NULL"
+primary_contact: "Mr. Leo Gillis"
+size: "NULL"
+start_range: "NULL"
+summary: "Interlochen Center for the Arts (formerly the National Music Camp) holds a collection of approximately 1,000 broadcast transcription discs of music concerts performed at the Interlochen Bowl by the National High School Orchestra, Band and prominent visiting musicians. The discs date from 1938 to 1955 and contain approximately 500 hours of content. These fragile discs are at-risk and in need of being transferred to the digital domain. Interlochen Public Radio (IPR) will out-source the discs to be digitized by a third party, including the input of any available metadata. Digital copies will be in a high-resolution preservation copy and a low-resolution access copy. Once digitized, the program material will be integrated by IPR into original programming content for broad distribution via traditional broadcast, podcast, and online streaming, while respecting copyright. The audio material will also be made available on campus to researchers and/or alumni who participated in the concerts."
+hc_id: "26919608"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Interlochen Center for the Arts"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "950 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$49,550"
+material_description:  "NULL"
 ---
-
-

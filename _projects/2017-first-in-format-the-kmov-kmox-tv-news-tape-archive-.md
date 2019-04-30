@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: First in Format: The KMOV/KMOX-TV News Tape Archive 1977–1994
+title: "First in Format: The KMOV/KMOX-TV News Tape Archive 1977–1994"
+year: 2017
+end_range: 1994
+formats: "NULL"
+geographic_extant: "The broadcast range of KMOX-TV (Channel 4) covered St. Louis and all adjacent regions, including nine counties in Missouri and eight counties in Illinois. Beyond the broadcast range KMOX-TV set a national precedent for the ENG format, and the news stories included in this archive are global in scope."
+institution: "Missouri History Museum"
+institution_type: "NULL"
+primary_contact: "Mr. Christopher Martinez"
+size: "NULL"
+start_range: "1977"
+summary: "The Missouri Historical Society (MHS) will digitize and catalog 3,451 U-matic tapes from the KMOV/KMOX-TV News Tape Archive. In 1974, KMOX-TV (renamed KMOV-TV in 1986) was the first major-market station in the United States to abandon film-based newsgathering in favor of a fully electronic newsgathering (ENG) process. ENG rapidly became the national standard for television news stations, and KMOX-TV was at the forefront of this technologic shift. MHS will complete digitization of 60% of the U-matic portion of the archive, from 1977 to 1994. (Prior to 1977, KMOX-TV did not archive tapes; there is no record of what happened to these materials.) Many events of regional, national, and global significance occurred throughout these 17 years, from the oil crisis to the Rwandan genocide. The digitization process will include the production of a high-resolution master file and two derivatives, along with metadata. All videos and records will be publicly accessible."
+hc_id: "25593983"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Missouri Historical Society"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>3451 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$245,000"
+material_description:  "The KMOV/KMOX-TV News Tape Archive is among the oldest collections of magnetic news media in the country. In 1974, CBS selected KMOX-TV to test the electronic newsgathering process, making it the first major-market station to fully abandon film and move to live transmission and/or tape-based production. ENG dramatically increased the speed and mobility of news coverage. The experiment at KMOX-TV quickly revolutionized newsgathering and provided the model that every station on every network in the country went on to emulate. The complete KMOV/KMOX-TV News Collection spans from 1958 to 2007. This portion consists of three-quarter-inch U-matic cassette tapes. Though they were manufactured from 1971 to 2008, U-matics were primarily used from the 1970s through the 1990s. The tapes in this proposed project are from 1977 to 1994, and they capture events of local, national, and global significance, including four U.S. presidential elections, the appointment of the first female Supreme Court Justice, the nascence of personal computers, the fall of the Berlin Wall and the Soviet Union, Nelson Mandela’s release from prison, the formation of the European Union, the passing of NAFTA, and many more. During the same period the St. Louis region experienced significant changes, such as major urban-renewal projects of varying success, devastating floods, labor strikes, anti-smoking campaigns, and the desegregation of schools. On a single tape, viewers can see what was happening locally, nationally, and globally on multiple days in any given week—and often in different news cycles of the same day."
 ---
-
-

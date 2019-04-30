@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing the Sights and Sounds of the University of Montevallo: A Media Archive
+title: "Digitizing the Sights and Sounds of the University of Montevallo: A Media Archive"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Anna Crawford Milner Archives and Special Collections, Carmichael Library, University of Montevallo"
+institution_type: "NULL"
+primary_contact: "Mr. Carey Heatherly"
+size: "NULL"
+start_range: "NULL"
+summary: "The goal of this project is to digitize and make available all of UM’s recorded holdings. Much of the content exists on reel-to-reel, cassettes, or VHS. These formats are not ideal for research purposes, and the tape quality is degrading. Among the collection is a 1967 recording of a campus concert featuring Spanish composer Luis Benejam’s music, the last performed during his lifetime. Other recordings include interviews with Caldecott Medal winners, radio speeches/talks/lectures given by the station owner from his world travels that were broadcast to central Alabama in the 1950s and 1960s, radio commercial reels featuring local business ads, and the entire collection of VHS recordings of campus lectures, skits, etc. Digitizing UM’s complete holdings enables us to place content online for researchers, the community, and alumni. Interest is especially high as 2017-2019 marks the bicentennial celebrations of both the City of Montevallo and the State of Alabama."
+hc_id: "26937772"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Montevallo"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "1 items<li>11 Open Reel Audio Tape</li><li>4 Open Reel Audio Tape</li><li>61 Open Reel Audio Tape</li><li>55 Audio Cassette</li><li>43 Vhs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$28,336"
+material_description:  "NULL"
 ---
-
-

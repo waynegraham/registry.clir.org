@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Microfilm collection of municipal and parochial archives from the Mexican states of Coahuila, Nuevo LeÃ³n, San Luis PotosÃ­, Chihuahua, and others.
+title: "Microfilm collection of municipal and parochial archives from the Mexican states of Coahuila, Nuevo LeÃ³n, San Luis PotosÃ­, Chihuahua, and others."
+year: 2015
+end_range: 1972
+formats: "NULL"
+geographic_extant: "Our collections include documents from the National Archives in Mexico City and from the states of Coahuila, Nuevo LeÃ³n, San Luis PotosÃ­, Chihuahua, and Durango."
+institution: "Trinity University"
+institution_type: "NULL"
+primary_contact: "Mr. Michael Hughes"
+size: "NULL"
+start_range: "1599"
+summary: "In the late 1960s a consortium of Texas universities undertook to preserve Mexican documents of major research significance by microfilming them. The archives, which date to 1599, consist of ecclesiastical, governmental, and private familial records. Each of the 16 institutions in the consortium identified a different Mexican state in which to work, and each school was individually responsible for its microfilming activities. Some schools never completed their work, but others, including the four submitting this application, filmed millions of documents. Since the mid-1970s, when filming was completed, these collections have fallen into disuse. Some are not even cataloged and thus are hidden from the scholars who most need access to them. We propose to digitize these records and host them in the Portal to Texas History at the University of North Texas, where the public can easily access and use them in the creation of new knowledge."
+hc_id: "17512577"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Trinity University"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>7722 35mm microfilm</li>"
+collaborating_institution:  "University of Texas at Austin; University of Texas at El Paso; University of North Texas (Portal to Texas History); St. Mary's University, San Antonio"
+grant_amount:  "$500,000"
+material_description:  "Our collections include approximately 7,722 rolls of microfilm, or more than 3.86 million discrete documents, created in conjunction with Mexican institutions of higher learning. For example, Trinity University partnered with the Instituto Tecnologico y de Estudios Superiores de Monterrey (ITESM), which since 1962 had worked to save Nuevo LeÃ³n's archival records from deterioration. Similar projects were undertaken by the co-applicants: St. Mary's University worked in San Luis PotosÃ­; UT-Austin filmed records from the National Archives in Mexico City; and UT-El Paso worked in Chihuahua, Morelia, and Durango. These interventions resulted in microfilm collections of municipal, judicial, diplomatic, and military documents. The microfilms also contain church records of baptisms, confirmations, marriages, and funerals. According to librarian Katherine Pettit, who in 1986 created a finding aid to Trinity's collection, ITESM's filming was \"much more inclusive than that of the Genealogical Society of the Church of Jesus Christ of Latter-Day Saints.\" In other words, the collection contains original materials of major research significance that are not reproduced elsewhere."
 ---
-
-

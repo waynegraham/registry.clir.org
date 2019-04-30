@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Baldwin Library of Historical Children's Literature
+title: "Baldwin Library of Historical Children's Literature"
+year: 2008
+end_range: 1940
+formats: "NULL"
+geographic_extant: "British and American imprints, covering global subjects."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Nancy Poehlmann"
+size: "14000 objects"
+start_range: "1820"
+summary: "The Baldwin Library, internationally renowned for over 100,000 titles of 19th and 20th century British and American children’s literature, supports worldwide research in historical, cultural, social, or literary aspects of these texts. Its 800 early American imprints is the 2nd largest collection in the US. Three recent successful NEH grants cataloged nearly 25,000 titles and digitized over 4000, increasing access to scholars. However, 14,000 remain with only title and shelf location. Catalog entries of “15h1294, Election Day” hide the general citizenship subject, especially due to classification by size rather than subject. This gap in access to these hidden titles is a hindrance to scholars, who are counting on cataloging records to find primary sources. Gillian Avery travelled from Oxford, England to research Behold the Child, proving what Kenneth Kidd, associate professor at UF, says in his support letter, “Baldwin makes possible projects that aren’t viable anywhere else.” This statement is also true for scholars who are not children’s literature specialists. Horatio Sierra, Ph.D. candidate in Medieval and Early Modern Studies at UF, wrote “La Leyenda Negra in British and American Children’s Literature: 1583 to the Present,” using Baldwin materials. Between 1988 and 2005, scholars used Baldwin materials for more than 5 books, 7 articles, and 5 dissertations."
+hc_id: "55"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P O Box 117007"
+address2:  "NULL"
+city:  "Gainesville"
+state:  "FL"
+zip: "32611"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

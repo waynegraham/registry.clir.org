@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Leathersex Underground & the Formation of a Subculture: The Michele Buchanan and Jim Kane Digitization Project
+title: "Leathersex Underground & the Formation of a Subculture: The Michele Buchanan and Jim Kane Digitization Project"
+year: 2015
+end_range: 2006
+formats: "NULL"
+geographic_extant: "The nominated collections include content primarily from the San Francisco, CA metro area and the New York City, NY metro area."
+institution: "Leather Archives and Museum, Inc."
+institution_type: "NULL"
+primary_contact: "Ms. Samantha Smith"
+size: "NULL"
+start_range: "1950"
+summary: "The Leather Archives & Museum (LA&M), a library, museum and archives pertaining to leather, fetishism, sadomasochism, and alternative sexual practices is seeking $78,320 to fund the digitization of two collections, publication of online finding aids, and creation of associated metadata for the personal archival collections of Jim Kane and Michele Buchanan. The project is estimated to last 1 year and 7 months. The historically evolving significance and scholarship of sexuality collections has lead the LA&M to choose Buchanan and Kane's collections for this grant cycle. These collections showcase two prominent, innovative, and active members of the leather community whose contributions to articulating and enacting leather identity and practice helped shape and continues to inspire modern leather communities."
+hc_id: "17635822"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Leather Archives & Museum"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>140 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$78,320"
+material_description:  "Items selected for digitization from the Michele Buchanan Collection, donated by Michele Buchanan, are as follows: personal photographs of Michele, Vi Johnson, Leonard Dworkin; club and event ephemera for The Eulenspiegel Society, Lesbian Sex Mafia, and NY SM Pride; magazine mock-ups and originals from her time as an editor (credited as \"Antoinette\") and co-founder of the magazine, \"Black Leather in Color\", one of the first fetish magazines written by people of color for people of color. Letters in Michele's Collection include correspondence between herself and key people in the national and New York leather communities. Also included are writings and annotated articles related to her doctoral dissertation.\n\n\n\nItems selected for digitization from the Jim Kane Collection, donated by his surviving partner, are as follows: correspondence from Tom of Finland, Cynthia Slater, Guy Baldwin, Chuck Renslow, Robert Mapplethorpe and Sam Steward (Phil Andros), and letters to and from his longtime lover/slave Ike B.; materials belonging to Sam Steward (who wrote under the pen name Phil Andros and practiced the art of tattoo under the name Phil Sparrow) including tattoo flash, a sketch book, newspaper clippings authored by and about Sam Steward, and a series of instructional manuals entitled \"Zeis school of Tattooing : Secrets of the art of Tattooing\" ; event flyers, club materials, and artifacts related to Rocky Mountaineer Motorcycle Club (MC). Photographs will be taken of Jim's leather clothing (jackets, boots, shirts, chaps, pants, belts and hats) and SM and bondage equipment including penis pumping equipment, dildos and gas masks."
 ---
-
-

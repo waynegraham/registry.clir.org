@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Library of Congress Multi-Sheet Map Series Collection: Africa
+title: "Library of Congress Multi-Sheet Map Series Collection: Africa"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "Africa, including mapping at the continental, regional, national, first-level administrative division, and city plan levels"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Morgan Cundiff"
+size: "125000 objects"
+start_range: "1850"
+summary: "A multi-sheet map series is defined in \"Cartograhic Materials: a Manual of Interpretation for AACR2\" as \"A number of related but physically separate and bibliographically distinct cartographic units intended by the producer(s) or issuing body(ies) to form a single group.\" The individual sheets normally share unifying characteristics, including a collective title and common scale, symbols, and sheet identification system. The collection of 12,000 multi-sheet map series housed in the Library of Congress comprises an estimated 2.5 million map sheets covering all parts of the world, with every country represented by a variety of topographic and thematic map series at various scales. The focus of this application is on the subset of series maps of Africa, some 125,000 map sheets. The maps are primarily published in the 20th century, but with some content and coverage issued in the 19th century. The multi-sheet map series are often serial in nature, with sheet editions issued over the life of the series. The Library of Congress has systematically collected and retained all editions of each sheet that it has been able to acquire, resulting in an unparalleled documentation of geospatial change over time."
+hc_id: "311"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "101 Independence Avenue, SE"
+address2:  "NULL"
+city:  "Washington"
+state:  "DC"
+zip: "20540"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$240,240"
+material_description:  "NULL"
 ---
-
-

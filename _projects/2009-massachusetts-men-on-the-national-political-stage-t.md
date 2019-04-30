@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Massachusetts Men on the National Political Stage: The Papers of Richard Wigglesworth, Robert Valentine, C.P. Curtis, George Williams, & Richard Olney
+title: "Massachusetts Men on the National Political Stage: The Papers of Richard Wigglesworth, Robert Valentine, C.P. Curtis, George Williams, & Richard Olney"
+year: 2009
+end_range: 1962
+formats: "NULL"
+geographic_extant: "The collections cover US national politics and American foreign relations with Germany and all of Europe after World War II, South America and Canada."
+institution: "Massachusetts Historical Society"
+institution_type: "NULL"
+primary_contact: "Brenda Lawson"
+size: "196 linear feet"
+start_range: "1837"
+summary: "The MHS seeks funding to arrange and describe (i.e. process) the papers of five Massachusetts men who served on the national and international political stage: Richard B. Wigglesworth (1891-1960), counsel and representative for organizations created under the Dawes Plan following the default of German reparation payments after World War I, member of Congress, 1928-1958, and Ambassador to Canada,1958-1960; Richard Olney (1835-1917), US Attorney General, 1893-1895, and Secretary of State during the boundary dispute between Great Britain and Venezuela over British Guiana,1895-1897; Robert G. Valentine (1872-1916), commissioner of Indian affairs, 1909-1912, founder of the field of industrial relations counseling; and owner of the \"House of Truth,\" a Washington, DC location where intellectuals gathered to discuss issues of the early 20th century; Charles P. Curtis (1891-1959), Assistant to Under Secretary of State Sumner Welles, 1941, creator of Massachusetts's Fair Employment Practice Act, and author of The Oppenheimer Case: The Trial of a Security System (1955) about the revocation of J. Robert Oppenheimer's government security clearance in 1954 during the red scare; and US Representative and civil service reformer George Fred Williams (1852-1932). All five collections are closed to researchers pending processing. The project will result in five searchable EAD-encoded finding aids at the MHS website and recommend changes in processing and reference services at the MHS."
+hc_id: "542"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1154 Boylston St."
+address2:  "NULL"
+city:  "Boston"
+state:  "MA"
+zip: "2215"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

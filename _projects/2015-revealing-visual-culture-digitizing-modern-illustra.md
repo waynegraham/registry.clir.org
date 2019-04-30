@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Revealing Visual Culture: Digitizing Modern Illustrated Periodical Tear Sheets in the Walt Reed Illustration Archive
+title: "Revealing Visual Culture: Digitizing Modern Illustrated Periodical Tear Sheets in the Walt Reed Illustration Archive"
+year: 2015
+end_range: 2000
+formats: "NULL"
+geographic_extant: "The collection mainly consists of illustrations from periodical publications with national distribution in the U.S., and in some cases in Europe. Most illustrators are from the U.S., with some European illustrators represented."
+institution: "Washington University in St. Louis"
+institution_type: "NULL"
+primary_contact: "Ms. Skye Lacerte"
+size: "NULL"
+start_range: "1860"
+summary: "The Revealing Visual Culture project will create digital images and supporting metadata for 150,000 modern periodical illustration tear sheets contained in the Walt Reed Illustration Archive at Washington University Libraries. The tear sheets -from over 200 illustrated periodical publications dating from the 1860s to the 1990s - represent the largest known collection in the world. Featuring illustrations from magazine covers, fiction stories, advertisements, news and information articles, and visual essays, the tear sheets offer a rich resource for scholarly investigation in multiple fields. During the two-year project, an outside vendor will create digital files and initial metadata, and Washington University Libraries staff will supervise student assistants to enhance the metadata and perform quality control. The resulting image database will be searchable by illustrators, publication titles, subject matter, date and content. We will provide complete public access to high-resolution images and metadata through Artstor's Shared Shelf Commons."
+hc_id: "18603447"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Washington University in St. Louis"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>150000 Tear sheets</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$250,000"
+material_description:  "In 1974, Walt Reed opened Illustration House, a first-of-its-kind gallery specializing in the resale of original works of illustration including pulp magazine covers, magazine illustrations, advertisements, children's book illustrations, pin-ups, and comic strips and cartoons. Illustration House sold works on consignment for clients, as well as a substantial body of works owned by the gallery, including oils, works on paper and preliminary sketches. For decades, the New York gallery was the nation's premier advocate for illustration art, promoting it as a \"legitimate\" art form, worthy of collecting and study. In addition to hosting exhibitions, the gallery staged twice-yearly auctions and helped pioneer what has become a thriving market for original works of illustration. Reed was an active researcher and an accomplished author, penning The Illustrator in America 1860-2000, a fundamental reference monograph published in multiple editions. He also wrote books on the illustrators Harold von Schmidt, John Clement Coll, John Clymer and Harvey Dunn. Over the years Reed built a substantial body of reference material in support of his art dealing, including a collection of 250,000 tear sheets from illustrated periodicals spanning the 1860's to the 1990's, the largest known collection in the world. In 2012 Washington University Libraries acquired the Illustration House archives. The acquisition encompasses approximately 8,000 periodicals; 1,200 illustrated books; 250,000 magazine tear sheets; and 140 pieces of original art, ranging from sketches and drawings to production art and finished canvases, by 45 artists. The Walt Reed Illustration Archive includes materials that are important examples by dozens of major illustrators, with a particular emphasis on the late 19th and early 20th centuries. Academic access to this vast and comprehensive collection will substantially advance the growing field of visual culture research. Revealing Visual Culture will bring 150,000 tear sheets into the light, contributing to research, teaching and appreciation."
 ---
-
-

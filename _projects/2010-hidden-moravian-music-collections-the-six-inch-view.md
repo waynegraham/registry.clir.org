@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Hidden Moravian Music Collections: The Six-Inch View and the 30,000-Foot View
+title: "Hidden Moravian Music Collections: The Six-Inch View and the 30,000-Foot View"
+year: 2010
+end_range: 2010
+formats: "NULL"
+geographic_extant: "18th and 19th century Europe; early America, especially the Moravian settlements in PA and NC; Moravian hymnals from around the world"
+institution: "Moravian Music Foundation"
+institution_type: "NULL"
+primary_contact: "Nola Reed Knouse"
+size: "17700 objects"
+start_range: "1540"
+summary: "The collections of the Moravian Music Foundation contain almost 20,000 manuscripts and early imprints of vocal and instrumental music, sacred and secular, from the sixteenth through twentieth centuries. Not all of this was written by Moravian composers, but it is all music which the Moravians used and enjoyed. Included in the collections of the Moravian Music Foundation are works by Haydn and Mozart, J. C. Bach, Abel, Johann Stamitz, and a host of lesser-known composers. A number of these are the only known copies in the world. While those large manuscript collections have been cataloged and hopefully will be converted to digital form, there remain other uncataloged collections. Of MMF's 81 collections, 51.7 percent (42 collections) are uncataloged or inventoried/not cataloged. Although this seems a high percentage, it is a low percentage of the number of titles under the care of the Moravian Music Foundation. The preliminary assessment of uncataloged materials is that there are 170 flat-storage archival boxes, 40 folders, 13 bound volumes, and 34 manuscript books (not in boxes). These materials include manuscript and published music, some individual pieces of music and some bound together, some hymn tune books, some copies of items in other Foundation collections, some part books, the Lowens Collection of 18th and 19th century American tunebooks, collections of program booklets and lovefeast odes, some personal copy books, some orphaned parts, and media."
+hc_id: "620"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "457 South Church Street"
+address2:  "NULL"
+city:  "Winston-Salem"
+state:  "NC"
+zip: "27101"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Digitization of the Cranbrook Academy of Art Master's Thesis Collection
+title: "The Digitization of the Cranbrook Academy of Art Master's Thesis Collection"
+year: 2015
+end_range: 2015
+formats: "NULL"
+geographic_extant: "Although all of the theses were written at Cranbrook (located in Bloomfield Hills, MI) the students and alumni represent a broad range of countries. Currently 20% of the students at Cranbrook Academy of Art are international students."
+institution: "Cranbrook Educational Communitty"
+institution_type: "NULL"
+primary_contact: "Ms. Judy Dyki"
+size: "NULL"
+start_range: "1942"
+summary: "The digitization of the Cranbrook Academy of Art master's thesis collection from 1942 to 2015 will give scholars access to this rich source of information on Cranbrook's important contributions to 20th and 21st century art, design, and architecture. Cranbrook will contract with ProQuest to produce searchable PDFs of the theses which will be loaded on the Academy's web server. ProQuest will also provide MARC records for the library's online catalog to link to these PDFs. In addition, access to the PDFs will be provided through Cranbrook's CONTENTdm system. The project will also fund additional staff to help with securing permissions from alumni, loading MARC records into the library's SirsiDynix Horizon system, checking authority records, and linking to the PDFs. It is anticipated that the project will take 24 months to complete."
+hc_id: "17606144"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Cranbrook Academy of Art"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>4175 master's theses</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$156,550"
+material_description:  "The Cranbrook Academy of Art master's thesis collection began in 1942 when the school first became a degree-granting institution. The submission of a thesis is part of the graduation requirements. The text describes the student's work, materials, influences, and research during his/her two years at the Academy. There are also images of the student's artwork: printed on the page, photographs glued to the page, and in some cases slides in a sleeve in the back (requirements and formats changed over the years). The artwork reflects the disciplines taught at the Academy: architecture, ceramics, 2D design, 3D design, fiber, metalsmithing, painting, photography, printmaking, and sculpture. Currently 70-75 theses are added to the collection each year; there were fewer graduates each year in the earlier years of the program."
 ---
-
-

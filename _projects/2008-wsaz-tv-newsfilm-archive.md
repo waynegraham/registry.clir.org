@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: WSAZ-TV Newsfilm Archive
+title: "WSAZ-TV Newsfilm Archive"
+year: 2008
+end_range: 2003
+formats: "NULL"
+geographic_extant: "National (USA) and International (NBC footage and feeds); Regional - WV, eastern KY, southern OH, southwest VA; Local - Huntington, WV, Ashland, KY"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Nathaniel DeBruin"
+size: "609 linear feet, 3200 objects"
+start_range: "1952"
+summary: "This unique and valuable collection consists of raw and edited news film and video tape of the local NBC affiliate from 1952 through 2003 with annual additions continuing through the present. It contains rare documentary coverage of Appalachia, focusing on West Virginia, eastern Kentucky, southern Ohio and southwestern Virginia. Coverage includes natural and man-made disasters, local, state and national political campaigns and events, economic and educational issues, industry and labor disputes, interviews with visiting celebrities and dignitaries, and reaction and commentary by citizens regarding national events and topics. Also included are periodic reports from the members of the local Congressional delegation regarding pending national legislation. Footage includes editorial commentary by station management and scripts for voice-over reporting as read by anchors during broadcast, complete with hand written notes and corrections."
+hc_id: "71"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "401 11th St."
+address2:  "Suite 1400"
+city:  "Huntington"
+state:  "WV"
+zip: "25701"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

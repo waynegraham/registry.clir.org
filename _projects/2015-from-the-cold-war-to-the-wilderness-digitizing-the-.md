@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: From the Cold War to the Wilderness: Digitizing the Audiovisual Archives of Senator Frank Church
+title: "From the Cold War to the Wilderness: Digitizing the Audiovisual Archives of Senator Frank Church"
+year: 2015
+end_range: 2014
+formats: "NULL"
+geographic_extant: "Frank Church is an international figure. The topics cover the globe and include Vietnam, South America, Middle East, Russia, Eastern Europe, and Panama. There is U.S. national coverage with particular focus on the Northwest: Washington, Oregon, Montana, Utah, and often underrepresented Idaho."
+institution: "Boise State University"
+institution_type: "NULL"
+primary_contact: "Dr. Cheryl Oestreicher"
+size: "NULL"
+start_range: "1947"
+summary: "Over 1.5 years, Special Collections and Archives will digitize 1,162 audio items, 689 visual items, and 35,400 pages, and create closed-captioning from select items from four collections to create an online resource representing sixty years (1947-2014) of Idaho Senator Frank Church's political legacy. As Senator under six U.S. Presidents, Church was best-known as an early dissenter of the Vietnam War, facilitating the 1964 Wilderness Act, and chairing the mid-1970s Church Committee which investigated the FBI and CIA. Church was involved with many political issues such as: civil rights, wilderness, aging, health care, budget spending, campaigns, foreign relations, military, environment, labor, immigration, gun control, education, religion, and agriculture. Church's collection is frequently used by scholars, students, journalists, biographers, and documentarians. This project will advance scholarship by providing content on his high-demand subjects while bringing to the forefront the lesser-researched topics to demonstrate the breadth of Church's influence as a politician."
+hc_id: "17653770"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>1851 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$124,655"
+material_description:  "This project will bring together interviews, campaign publicity, speeches, and other audiovisual and paper materials from four collections: Frank Church Papers, Bethine Church Papers (wife), LeRoy Ashby and Rod Gramer Collection on Frank Church (biographers), and the Frank Church Institute (FCI). Together, the collections span 1947-2014. \n\n\n\nBoth the Frank Church and Ashby/Gramer collections have companion material to the A/V content. Frank's papers have transcripts of and handwritten speeches, press releases, notes, reports, Senate records, and other materials. The Ashby/Gramer collection consists of 350 interviews with transcripts with Church and others as the basis for their biography Fighting the Odds: The Life of Senator Frank Church. \n\n\n\nThe Bethine Church and FCI portions consist of A/V items. Bethine's content is video of local news stories and interviews. Also included are audio interviews with co-author Dan Williams for her auto/biography A Lifelong Affair: My Passion for People and Politics, which discusses her perspective as Frank's political partner, work on wilderness initiatives, and maintaining Frank's legacy. The videos of FCI's conferences and events adds more than thirty years (1982-present) to Church's legacy and includes speakers such as Douglas Brinkley, Walter Mondale, Karl Brooks, Gary Hart, George McGovern, Joe Biden, He Yafei, among others. \n\n\n\nAs a Democratic Senator in the majority Republican state of Idaho, Church had a unique view on a wide range of topics including: civil rights, wilderness, aging, health care, budget spending, campaigns, media, communications, foreign relations, transportation, military, natural resources, labor, immigration, spying, nuclear energy, gun control, education, abortion, religion, agriculture, public policy, conservation, global arms sales, national security and secrecy/intelligence, women in public service, Vietnam War, Watergate, Teton Dam disaster, Panama Canal, SALT I and II, Sagebrush Rebellion, Cuban Missile Crisis, JFK assassination, and numerous others. Church's ability to cross party lines influenced his contemporaries and followers."
 ---
-
-

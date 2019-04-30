@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: ONE Archives Arrangement and Description Project
+title: "ONE Archives Arrangement and Description Project"
+year: 2008
+end_range: 1997
+formats: "NULL"
+geographic_extant: "The United States, especially Los Angeles amd California, but also includes New York, Mississippi and elsewhere."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Greg Williams"
+size: "1100 boxes, 800 linear feet"
+start_range: "1850"
+summary: "The ONE National Gay and Lesbian Archives is the oldest Lesbian, Gay, Bisexual and Transgender (LGBT) organization in the U.S. and it holds the largest humanities collection of LGBT materials in the world. ONE began as the earliest national gay publication, ONE Magazine in 1953; it later developed into an Institute that conferred the first academic certificates in gay studies. In 1994, ONE merged with Jim Kepner’s International Gay Archives and in the last decade has functioned as a research center at the University of Southern California for the scholarly study of gender and human sexuality. The ONE Archives Arrangement and Description Project will catalog 19 collections (800 feet or 1100 boxes) of archival materials of pioneering LGBT institutions, writers and activists. These collections document the creation of a forum to discuss sexuality in the 1950s, gay rights in the U.S., pioneering gay activists, AIDS, gays and religion, gays in the military, gay journalism, and ONE Magazine. While the project collections have been used occasionally by researchers, they are almost completely inaccessible. This project will bring these collections to the attention of students, and scholars interested in the history of civil rights, health, religion, anthropology, gender studies, gay studies and various social sciences. These collections are critically relevant in documenting the evolution of social attitudes in the United States in the last half of the 20th century."
+hc_id: "272"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "909 West Adams"
+address2:  "NULL"
+city:  "Los Angeles"
+state:  "CA"
+zip: "90007"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

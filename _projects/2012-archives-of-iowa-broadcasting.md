@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Archives of Iowa Broadcasting
+title: "Archives of Iowa Broadcasting"
+year: 2012
+end_range: 2011
+formats: "NULL"
+geographic_extant: "The materials contained in the AIB originated in eastern and central Iowa, but they cover news and events concerning Iowa, the nation and the world."
+institution: "Vogel Library"
+institution_type: "NULL"
+primary_contact: "Amelia Holden-McMurray"
+size: "600 linear feet, 12189 objects"
+start_range: "1930"
+summary: "The holdings of the Archives of Iowa Broadcasting (AIB) consist of primary materials of Iowa television stations, radio stations, oral histories, papers of broadcasters, and miscellaneous recordings and ephemeral items. The bulk of the holdings is magnetic media, followed by 16mm motion picture film, then paper materials. The exact time period covered is not clear due to the lack of sufficient records, but administrators have identified items dating back to the 1930s up to the present. While representing materials from primarily broadcasters in eastern and central Iowa, the holdings contain coverage of news and human interest stories of local, regional, national and international significance. They give a profound glimpse at the perspective of these events from the views of America's heartland. AIB administrators do receive requests for information from around the state and the country on a variety of topics, ranging from a recent visit of a top Chinese official who visited Iowa in the 1970s to footage for a television documentary about crimes that happened in Iowa to coverage of the first-in-the-nation political caucuses through the years. In addition to being a superb documentation of the historical happenings in the 20th Century, both large and small, the collection also shows the evolution of broadcasting during the same time, reflecting a change in technology, cultural norms, societal attitudes and much more."
+hc_id: "893"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "100 Wartburg Blvd."
+address2:  "NULL"
+city:  "Waverly"
+state:  "IA"
+zip: "50677"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

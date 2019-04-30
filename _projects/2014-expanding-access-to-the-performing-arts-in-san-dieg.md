@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Expanding Access to the Performing Arts in San Diego
+title: "Expanding Access to the Performing Arts in San Diego"
+year: 2014
+end_range: 2014
+formats: "NULL"
+geographic_extant: "San Diego and around the world."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Chad Weinard"
+size: "10000 objects"
+start_range: "1945"
+summary: "The Balboa Park Online Collaborative (BPOC), San Diego Youth Symphony & Conservatory (SDYS), and San Diego Civic Youth Ballet (SDCYB) seek funding to catalog and make accessible a collection of up to 10,000 photographs, newspaper clippings, programs, and audio and video recordings from SDYS and SDCYB, San Diego's oldest youth performing arts institutions. The project will coincide with the institutions' 70th anniversaries, as well as the 2015 Balboa Park Centennial Celebration, providing a unique opportunity for SDYS and SDCYB to share their rich histories with scholars and the general public. Following the cataloging process, the collections will be made available on the Balboa Park Commons and Google Art Project online portals."
+hc_id: "10810193"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "San Diego Youth Symphony & Conservatory; San Diego Civic Youth Ballet"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

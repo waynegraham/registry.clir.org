@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitization of 50 Journals from 1877-1931 by Andrew A. Quarnberg
+title: "Digitization of 50 Journals from 1877-1931 by Andrew A. Quarnberg"
+year: 2015
+end_range: 1931
+formats: "NULL"
+geographic_extant: "Vermillion, South Dakota and the Washington Counties of Clark, Skamania and Klickitat."
+institution: "Clark County Historical Museum"
+institution_type: "NULL"
+primary_contact: "Ms. Katie Anderson"
+size: "NULL"
+start_range: "1877"
+summary: "CCHM will work with the Washington State University Vancouver Library to digitize, transcribe and translate 50 journals dating from 1877 to 1931 and associated ephemera. These journals were kept by Swedish immigrant and horticulturist Andrew Anderson Quarnberg to document daily weather patterns, the purchase and sale of trees and their produce, as well as the results of his experimentation with varieties of walnuts and filberts. The first 18 journals are in Swedish and have never been translated. These include the years from 1877-1891 when Quarnberg was a resident of South Dakota. We anticipate they will include information about the selection of Clark County as a new home. Quarnberg was well educated and in 1892, one year after moving to Vancouver, he was elected a County Commissioner. Elements of the journal, letters and other ephemera will relate to politics and his story as an immigrant."
+hc_id: "17579428"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Clark County Historical Museum"
+p2_name:  "Mr. Robert"
+p2_institution:  "Archives Specialist"
+p3_name:  "Mr. Ms. Nicole"
+p3_institution:  "Interim Library Director"
+material_string: "<li>50 Manuscripts</li>"
+collaborating_institution:  "Washington State University - Vancouver"
+grant_amount:  "$137,852"
+material_description:  "Andrew A. Quarnberg was a horticulturist, \"nut experimenter\" and pioneer who became a Clark County Commissioner just one year after moving here. During his six years as commissioner (1892-1898) the county bought its first rock crusher and road roller to construct the first macadamized road in the county. In the fall of 1895 he became weather observer for the State Agricultural College at Pullman for a year. He continued the work as cooperative observer of the United States weather bureau, recording the maximum and minimum temperatures; the amount of precipitation; the direction of the wind, the date of the flowering of the fruit trees and weather conditions during that period; amount of snow, sleet, hail and miscellaneous weather phenomenon each season. In 1909, Quarnberg was appointed district horticultural inspector and served four years in the territory including Clark, Skamania and Klickitat counties. After moving to Clark County in 1891, Quarnberg began experimenting with more than 70 varieties of filbert and walnut trees and was considered an expert by his peers. He prepared reports for various walnut grower and horticultural associations throughout the Northwest. His experiments with English walnuts resulted in a new strain known as the Quarnberg variety. Quarnberg was also a producer of prunes which was an industry that led Vancouver to be labeled the prune capital of the world due to the high per capita production. These journals and ephemera touch on many topics such as industry, agriculture, politics, immigration, linguistics, and weather. The journal ends two years before his death in 1933 and a decade before WWII which brought huge change to Clark County through the Kaiser shipyards. The journals, along with a weather box and rain gauge, were donated to CCHM in 1975 by two of AA Quarnberg's granddaughters Alice Quarnberg Bowers and Lucile Moss Harlow."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Unveiling Images of Our Southern Past: Increasing Access to Visual Materials through Innovative Arrangement, Description and Collaboration
+title: "Unveiling Images of Our Southern Past: Increasing Access to Visual Materials through Innovative Arrangement, Description and Collaboration"
+year: 2010
+end_range: 1990
+formats: "NULL"
+geographic_extant: "All images in the collection relate to South Carolina with a slight majority focusing on people and places in the Lowcountry region."
+institution: "The South Carolina Historical Society"
+institution_type: "NULL"
+primary_contact: "Mary Jo Fairchild"
+size: "180 linear feet, 30000 objects"
+start_range: "1670"
+summary: "The South Carolina Historical Society (SCHS) is the largest manuscript repository in the South Carolina Lowcountry. For more than 150 years, the SCHS has been dedicated to the acquisition, preservation and publication of archival material pertaining to the history and culture of South Carolina. In pursuit of these goals, the SCHS has accumulated over 30,000 photographs, drawings, albums, scrapbooks, etchings, silhouettes, and prints. This rich assemblage includes images of slave cabins, burial grounds, agricultural and industrial labor, rice cultivation, interior and exterior views of historic residences (many of which have been lost to floods, fires, hurricanes, or neglect), family gatherings, baptisms, urban street scenes, festivals, waterside commerce and much more. Collectively, these images document the daily lives of women, children, laborers, artisans, elite plantation owners, overseers,immigrants, refugees, and soldiers in both urban and rural settings. Currently, these valuable cultural artifacts remain an untapped resource for increasing the understanding of South Carolina's role in the shaping of America and the Atlantic World. With CLIR support for the \"Unveiling Images of Our Southern Past\" (hereafter referred to as the \"Unveiling Visual Materials\") project, the SCHS will have the means to process and catalog these tremendously valuable resources, making them available for research and interpretation at the local, state, and national levels."
+hc_id: "646"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "100 Meeting Street"
+address2:  "NULL"
+city:  "Charleston"
+state:  "SC"
+zip: "29401"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

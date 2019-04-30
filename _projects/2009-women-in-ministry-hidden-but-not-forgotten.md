@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Women in Ministry: Hidden but not Forgotten
+title: "Women in Ministry: Hidden but not Forgotten"
+year: 2009
+end_range: 2008
+formats: "NULL"
+geographic_extant: "Some national and international coverage, as well as thorough coverage of Washington state, partial coverage of the Pacific Northwest and California."
+institution: "Whitworth University"
+institution_type: "NULL"
+primary_contact: "Janet Hauck"
+size: "70 cubic feet, 56 linear feet"
+start_range: "1880"
+summary: "Christians for Biblical Equality Records, 1988-2008 - 5 ln ft - organization founded in 1988 to promote fundamental equality of men and women (http://www.cbeinternational.org/); Ruth Gothenquist Papers, 1942-2008 - 2 ln ft - founded Women's Aglow, International, a worldwide Christian women's organization (http://www.aglow.org/); First Free Methodist Church of Seattle, WA Records, 1880-1980 - 12 ln ft - collection contains papers of Emma Ray, a 19th century woman evangelist; Henrietta Mears Papers, 1910-1963 - 2 ln ft - she founded Gospel Light Publishing Co. (http://www.gospellight.com/); Stephanie Beans Papers, 1988-2009 - 2 ln ft - woman pastor and evangelist at interracial Church of Berachah, Spokane, WA; First Baptist Church of Spokane, WA Records, 1881-2001 - 10 ln ft - collection contains contextual records during 19th century pastorate of May C. Jones; Interfaith Council of the Inland Northwest Records, 1974-2008 - 18 ln ft - organization founded in 1942 as Spokane Council of Churches - collection contains work done by and for women; Lucinda Gorman Papers, 1971-2008 - 2 ln ft - first woman graduate of Fuller Theological Seminary to receive a solo pastorate; Evelyn Peterson Papers, 19Xx-19xx - 1 ln ft - 1930s woman pastor in Montana - her son, Eugene Peterson (http://en.wikipedia.org/wiki/Eugene_H._Peterson), wrote the bible translation \"The Message\"; May C. Jones Papers, 1882-1937 - 2 ln ft - one of the first ordained woman pastors in America."
+hc_id: "522"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Whitworth University Archives"
+address2:  "300 W. Hawthorne Road"
+city:  "Spokane"
+state:  "WA"
+zip: "99251"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

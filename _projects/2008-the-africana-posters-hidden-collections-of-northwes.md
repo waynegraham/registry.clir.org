@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Africana Posters: Hidden Collections of Northwestern and Michigan State University Libraries
+title: "The Africana Posters: Hidden Collections of Northwestern and Michigan State University Libraries"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "NUL posters cover the continent of Africa, most from and about Sub-Saharan Africa. MSU posters also cover Sub-Saharan Africa."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Lori Arp"
+size: "3000 objects"
+start_range: "1850"
+summary: "This project unveiled two of the most significant poster collections held in the United States concerning issues related to the study of Africa. Once cataloged, the combined currently hidden collections of over 3000 posters held by Northwestern and Michigan State University Libraries will be bibliographically accessible to scholars and students worldwide via a joint portal and through individual library catalogs. Descriptions of the collections are below. The Herskovits Library of African Studies at Northwestern University (NUL) maintains a comprehensive collection of over 3300 posters, 2700 uncataloged and hidden, published in Africa, Europe, North America, and the rest of the world. These posters, published from the mid 19th to the 21st century are about the continent of Africa and provide scholars with visual first-hand insight into the various issues that have been relevant to Africa. The posters represent the issues of concern within the continent and outside of it: politics, health and education, independence, the anti-apartheid movement, Biafra, Darfur, art, publishing and music, etc. Michigan State University Libraries (MSU), one of the larger Africana collections in the U.S., has some 300 Africana posters published 1960-2008 in Africa and beyond, including the U.S., Europe and Australia. These posters provide scholars with insights into the politics, health, economies and cultures of Africa, and are well-suited to current research paradigms."
+hc_id: "365"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Northwestern University Library"
+address2:  "1970 Campus Drive"
+city:  "Evanston"
+state:  "IL"
+zip: "60208"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "Michigan State University Libraries"
+grant_amount:  "$89,733.00"
+material_description:  "NULL"
 ---
-
-

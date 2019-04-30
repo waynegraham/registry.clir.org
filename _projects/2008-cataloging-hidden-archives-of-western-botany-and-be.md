@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging Hidden Archives of Western Botany and Beyond
+title: "Cataloging Hidden Archives of Western Botany and Beyond"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "Scope is mainly California but includes Mexico, North America and United Kingdom. Trips to South America and the Pacific are also well documented."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Brent Mishler"
+size: "355 boxes, 70 cubic feet, 50 linear feet, 1300 objects"
+start_range: "1820"
+summary: "The Herbaria contain 2.3 million botanical specimens in addition to our archives which are one of the primary resources for the history of western American botany from the 1860's on. The geographic scope is world-wide, but the main focus is California. The archives contain letters and field books of at least 200 individuals in addition to documents, photographs, slides and correspondence from scientists around the globe, including gaps in the history of the California Academy of Sciences, San Francisco, whose records were destroyed in the 1906 earthquake. The archives encompass botanical expeditions on a world-wide scale including seven trips to South America, and collections by women botanists such as Ynes Mexia and Laura May Dempster. Highlights include renowned botanist Willis Jepson’s 62 field books, 25 research books and 25,533 letters in 52 volumes, as well as his personal archives. Our archives also include John and Sarah Lemmons’ hundreds of correspondents, field books and manuscripts, including veteran J. Lemmons’ sketches of Confederate prisons. Our correspondents range from Asa Gray and William Hooker, to John Muir and the Red Cross’s Clara Barton. Subjects encompass Mexican and Pacific expeditions to world expositions, and the formation of Sierra Club and Save-the-Redwoods League. The image collection represents an historical record of people and ecological sites worldwide. The unique map collections (vegetation plots) are augmented by Jepson’s place name index."
+hc_id: "204"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1001 Valley Life Sciences Bldg."
+address2:  "University of California"
+city:  "Berkeley"
+state:  "CA"
+zip: "94720-2465"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$253,794"
+material_description:  "NULL"
 ---
-
-

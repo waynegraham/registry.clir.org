@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Gordon Hall and Grace Hoag Collection of Dissenting and Extremist Printed Propaganda
+title: "The Gordon Hall and Grace Hoag Collection of Dissenting and Extremist Printed Propaganda"
+year: 2008
+end_range: 1999
+formats: "NULL"
+geographic_extant: "United States (local, regional and national)"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "samuel streit"
+size: "800 boxes, 2883 linear feet"
+start_range: "1945"
+summary: "Gordon Hall launched the Hall-Hoag Collection when he returned from WWII and encountered U.S. domestic hate groups, both right and left wing. Appalled by their ideology and beliefs, Hall determined that such groups were a danger to democracy. He infiltrated and investigated the groups, collecting their printed propaganda and supporting himself by giving public lectures about the dangers posed by extremists and hate groups, using their literature as evidence. It became his life’s work. By the late 1960s, Hall had recruited volunteers to assist his collecting efforts, including Grace Hoag. She helped in sorting and organizing the materials. Although originally focused on extremist groups, eventually Hall and Hoag saw another trend emerge: groups not yet extremist but which may turn in that direction. They labeled these groups “dissenting” and began to add them to the Collection. The processed portion of the Collection (Part I), at 483 linear feet, contains over 168,000 items from more than 5500 organizations. The groups represented cover a very broad spectrum of militant political, social, and religious dissent in the US from 1945 through the 1990s, from far right to far left, and are as disparate as the Communist Party USA and the American Nazi Party. Part II, the focus of proposal, consists of 800 boxes (2,400 linear feet) and is thus 5 times larger than Part I. Providing access to these invaluable materials will be a significant contribution to the documentary record."
+hc_id: "371"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "john hay library"
+address2:  "20 prospect st."
+city:  "providence"
+state:  "RI"
+zip: "2912"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

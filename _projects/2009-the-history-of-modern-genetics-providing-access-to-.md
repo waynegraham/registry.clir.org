@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The History of Modern Genetics: Providing Access to Historic Reprint Collections at Cold Spring Harbor Laboratory Archives
+title: "The History of Modern Genetics: Providing Access to Historic Reprint Collections at Cold Spring Harbor Laboratory Archives"
+year: 2009
+end_range: 1960
+formats: "NULL"
+geographic_extant: "The collections' reprints are international in scope. Authors and publications are primarily from the US, Europe, former Soviet Union and Japan."
+institution: "Cold Spring Harbor Laboratory"
+institution_type: "NULL"
+primary_contact: "Ludmila Pollock"
+size: "10000 objects"
+start_range: "1868"
+summary: "CSHL Archives holds the Davenport and Demerec Collections of rare scientific reprints. These reprints were carefully collected by these two prominent scientists for their and their colleagues’ research from 1868 to 1960. The collections hold approximately 90,000 reprints, which are organized in alphabetical order by author. Many of the 10,000 reprints we will select for cataloging represent the surviving evidence of pioneering scientists’ work, or history of particular fields. Their distinctiveness, compared to other reprints, has been noted by scholars. Many of them are the only physically available copy, which otherwise have been lost to history. These reprints are from obscure and extinct foreign scientific journals, and those rare, short lived titles, that are generally missing from standard histories of their fields. In total these papers represent a history of modern biology, eugenics (anthropometry, anthropology), and natural history (zoology, embryology). They document key discoveries by scientists from many international institutions which lead to interdisciplinary innovations and practical applications in agriculture, health sciences, genomics, and other fields. The reprints span the ages of modern biological research: naturalist studies immediately following Darwin’s 1859 publication, Origin of Species; plant genetics which began with the rediscovery of Mendel in 1900; the development of classical genetics; and the dark social history born from eugenics."
+hc_id: "534"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1 Bungtown Rd."
+address2:  "Library/ Osterhout"
+city:  "Cold Spring Harbor"
+state:  "NY"
+zip: "11724"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: J. León Helguera Collection of Colombiana Broadsides Cataloging and Digitization Project
+title: "J. León Helguera Collection of Colombiana Broadsides Cataloging and Digitization Project"
+year: 2017
+end_range: 1950
+formats: "NULL"
+geographic_extant: "Represents Colombia (aka Nueva Granada, etc.) which included much of northern South America: current day Venezuela, Colombia, Ecuador and Panama, and includes a few Peruvian items (when Peru had jurisdiction over Colombia early on under Spanish rule). All broadsides are from this geographic region."
+institution: "Vanderbilt University"
+institution_type: "NULL"
+primary_contact: "Ms. Paula Covington"
+size: "NULL"
+start_range: "1800"
+summary: "The one-year project will catalog and digitize the rare late 18th- to early 20th- century broadsides of the J. León Helguera Collection of Colombiana at Vanderbilt University. These primary sources trace Latin America’s independence from Spain and northern South America’s development into the nation of Gran Colombia (contemporary Venezuela, Colombia, Ecuador and Panama). The rarest and largest portion of this private collection became part of Vanderbilt’s existing Helguera collection in November, 2016. Scholars from Europe, Colombia, and the US have visited and used the collection while in private hands and have urged that it be openly accessible. Malcolm Deas of Oxford writes “it is the leading collection, with no close rival anywhere.” Professor Frank Safford of Northwestern University states “it makes sense for the materials to be digitized, so Colombians can use it, as well as the rest of us.”"
+hc_id: "26301618"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Vanderbilt University"
+p2_name:  "Dr. Clifford Anderson"
+p2_institution:  "Vanderbilt University"
+p3_name:  "Ms. Kathleen Smith"
+p3_institution:  "Vanderbilt University"
+material_string: "<li>1200 Broadsides</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$79,800"
+material_description:  "Vanderbilt has acquired the J. León Helguera Collection of Colombiana. Professor Helguera was a lifelong collector of Colombian history and primary source materials that reflected the process of nation building in Latin America but also the events that shaped the daily lives of newly independent Colombians, from rural life to cosmopolitan Bogotá. He collected circulars that were posted on storefronts in the 19th century announcing the circus coming to town, tight-rope walkers of Niagara and Tequendama Falls, political duels, operas, and bullfights. It is remarkable to have these broadsides since they were normally thrown away. These such ephemera could be considered the blogs of their day; and which the appraiser of the recently acquired remainder of the collection describes as: “ephemeral items that are not recorded in any bibliography or database known to this appraiser.” Thus, the collection is truly distinctive for its social history as well as its political history of Latin America. These broadsides cover a wide range of subjects such as indictments of Simón Bolívar, debates on abolition and manumission, religious diatribes, defamation of a ship captain, hygiene, smallpox vaccination, crime and other social and political affairs. The appraiser describes the collection as “superlatively rare and important....in my 42 years of working in the field of rare Latin Americana I have only had a few of the titles present in these two boxes” (the earliest ephemera)."
 ---
-
-

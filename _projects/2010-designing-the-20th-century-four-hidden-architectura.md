@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Designing the 20th Century: Four Hidden Architectural Collections
+title: "Designing the 20th Century: Four Hidden Architectural Collections"
+year: 2010
+end_range: 1997
+formats: "NULL"
+geographic_extant: "Primarily California, also Texas, Illinois, the East Coast and throughout the United States, Virgin Islands, Middle East, Australia."
+institution: "Environmental Design Archives"
+institution_type: "NULL"
+primary_contact: "Waverly Lowell"
+size: "379 cubic feet, 51710 objects"
+start_range: "1937"
+summary: "Following World War II California was a leader in housing and school design and developing suburban communities. This project will promote rich archival collections created by four California modernists architects practicing during the later half of the 20th Century: Warren Callister (1917- 2008), Ernest Kump (1911 -1999), Donlyn Lyndon (1936 - ) and Donald Olsen (c. 1920 - ) and make them accessible for the first time. The collections include sketches, drawings, photographs, and project files for mid-century homes, suburbs, schools, commercial centers, and other elements of the built environment throughout California, the United States, the Virgin Islands, Australia, and the Middle East. They provide a wealth of material that encourages an understanding of the design aesthetic of mid-century modernism, the cultural and architectural influence of The Sea Ranch, and the architecture that came before and after. This project will support the increasing scholarly interest in this period demonstrated by a growing number of publications, exhibits, presentations, and dissertations. When the structures no longer exist, these records are all that remain to provide this knowledge about the history and context of the cultural landscape. Arrangement, description, and proper housing are essential in order to locate and provide records to scholars, students, architectural practitioners, preservationists, homeowners, and historical researchers without putting the material at risk."
+hc_id: "652"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Environmental Design Archives"
+address2:  "University of California"
+city:  "Berkeley"
+state:  "CA"
+zip: "97420-1820"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

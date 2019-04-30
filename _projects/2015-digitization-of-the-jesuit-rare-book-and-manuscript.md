@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitization of the Jesuit Rare Book and Manuscript Collection
+title: "Digitization of the Jesuit Rare Book and Manuscript Collection"
+year: 2015
+end_range: 1773
+formats: "NULL"
+geographic_extant: "Due to Jesuits missionary activities and scholarly interests, the collection covers the entire world known to 17th century Europeans. Particular geographic strengths include Asia, South America, and England. Works on ancient locations emphasize Egypt and Rome."
+institution: "Loyola Marymount University"
+institution_type: "NULL"
+primary_contact: "Ms. Shilpa Rele"
+size: "NULL"
+start_range: "1550"
+summary: "Loyola Marymount University proposes to digitize selections from the Jesuit Rare Book and Manuscript Collection, 1540-1800, that illuminates the intellectual and creative engagement of Jesuit scholars with the Enlightenment Era world. Items selected for digitization are unique due to the individual artifactual nature of early printed works and manuscripts. Digitization of these texts will increase their visibility and accessibility to a global audience, and allow the library to digitally preserve them for the future. It will also allow for future research and scholarship in the digital research environment and build new knowledge about this period of history. Digitization will be outsourced and will be conducted using established standards. The project activities will include digitization of the texts, metadata creation and promotion of the digitized materials via various channels of communication. A part-time Project Assistant will be hired to assist with all aspects of the project."
+hc_id: "17523906"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Loyola Marymount University"
+p2_name:  "Ms. Cynthia"
+p2_institution:  "Head, Archives & Special Collections"
+p3_name:  "Ms."
+p3_institution:  "NULL"
+material_string: "<li>173 books and manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$213,793"
+material_description:  "The Society of Jesus was established by the Catholic Church in 1540. Its founders, Saint Ignatius Loyola and his followers, were humanist scholars who believed that education in the arts and sciences provides a path to spiritual understanding. Throughout the Enlightenment, Jesuits engaged with learned communities, both religious and secular, sharing discoveries through letters and published books, contributing to the growth of scientific knowledge, and influencing European aesthetics and thought. Early practices of integration allowed Jesuit missionaries to cultivate extraordinary relationships with non-European cultures. Their unique history tells a story of devotion to the Catholic Church that coexisted with recognition of global multicultural exchange. In 1996, Loyola Marymount University's library and Jesuit Community collaboratively envisioned a distinguished Jesuit rare book collection that would demonstrate the impact our humanistic tradition has had on the development of learning. Established as a collecting priority, the Jesuit Collection grew rapidly to meet the teaching and learning needs of the campus. Today, this collection has grown to 537 titles, including rare books and manuscripts. The 169 titles (173 items) nominated for digitization cover the extraordinarily creative early period of Jesuit thought and experience from the 16th-18th centuries. Containing the most frequently requested materials for class instruction and independent research, this nominated group comprises one-third of the 537 titles within the Jesuit Collection. LMU intends to eventually digitize the entire collection. Among the materials are important editions of foundational texts, illustrated narratives of world cultures encountered through missionary work, scientific and literary achievements, and theological dialogue within the Reformation and Catholic Reformation. We have included items that no other institution in the United States is known to have, such as a 1579 manuscript papal brief confirming Jesuit missionaries' privileges in the Americas, and a circa 1600 Italian manuscript of the life of Francis Xavier."
 ---
-
-

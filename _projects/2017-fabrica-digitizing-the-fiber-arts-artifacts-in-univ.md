@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Fabrica: Digitizing the Fiber Arts Artifacts in University of La Verne’s Cultural & Natural History Collections—Indigenous Textiles, Baskets, Looms and other Woven Artifacts From Africa to the Americas
+title: "Fabrica: Digitizing the Fiber Arts Artifacts in University of La Verne’s Cultural & Natural History Collections—Indigenous Textiles, Baskets, Looms and other Woven Artifacts From Africa to the Americas"
+year: 2017
+end_range: 1950
+formats: "NULL"
+geographic_extant: "Textiles and baskets were collected from indigenous populations in North-, Central- and South America; various woven items (textiles, baskets, miscellaneous items) were collected from local populations by Brethren missionaries while in-service throughout Africa. The manuscripts document indigenous textiles in Central- and South America during Esther Funk’s pre-WWII scientific research expedition."
+institution: "University of La Verne"
+institution_type: "NULL"
+primary_contact: "Dr. Felicia Beardsley"
+size: "NULL"
+start_range: "1890"
+summary: "Proposed is a two-year project creating a publicly accessible digital resource for the fiber arts collections in University of La Verne’s Cultural & Natural History Collections. The Collections includes indigenous African and American textiles, baskets, looms and other woven artifacts, plus the unpublished manuscripts on Native American textiles by Esther Funk. Project activities include 1) photographing, digitizing and making discoverable online the CNHC fiber arts artifacts; 2) annotating the accompanying online catalog; 3) developing online collaborative exhibits with other institutions; 4) assuring availability of the digital resource for the broader community of students, researchers, scholars, artists, educators, heritage preservationists, curiosity seekers, and local- and global communities. Increased access, discoverability and visibility of this “hidden collection” supports the university’s educational mission and its core values of community engagement and lifelong learning. Digitization further ensures the continued integrity of the Collections’ fiber arts content, and moves the Collections into the 21st century."
+hc_id: "25781278"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of La Verne"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>512 Artifacts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$203,469"
+material_description:  "We seek to digitize the fiber arts artifacts within La Verne’s Cultural & Natural History Collections. These artifacts consist of 1) textiles produced by the indigenous peoples of Central and South America, collected during the 1930s by Esther Funk, mixed into this collection are ancient Peruvian grave cloths; 2) Funk’s unpublished manuscripts on these textiles, complete with interviews, hand-tinted photographs, hand-colored drawings and textile samples; 3) Native American baskets from over 30 western North American tribes, collected prior to WWII; 4) woven artifacts, including purses, bangles, furnishings, and other objects collected by Brethren missionaries from remote villages throughout Africa; 5) textiles from the Tarahumara of Northern Mexico, collected by Miriam Muehlenbach during the 1940s; 6) other miscellaneous woven artifacts, such as a Huichol diety chair (circa 1910) from Mexico. Each of these artifacts holds in common a demonstration in the artistic and aesthetic use of a variety of fibers—all natural and all drawn from the local environments, such as grasses, cottons, linens, wools, bamboos, and even porcupine quills. What differs are cultural patterns in the method and mode of weaving, whether by hand, loom or machine, as well as the use of colors and dyes, the patterns incorporated into the woven fabrics, and even the hand of practitioners who made specific items. Each woven artifact is like an individual time-capsule that embodies its own blueprint, but also encapsulates the values and aesthetics of a particular point in time, of a particular place in the world, and of a particular culture."
 ---
-
-

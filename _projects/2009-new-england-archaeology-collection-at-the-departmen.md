@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: New England Archaeology Collection at the Department of Anthropology, UMass Amherst
+title: "New England Archaeology Collection at the Department of Anthropology, UMass Amherst"
+year: 2009
+end_range: 1950
+formats: "NULL"
+geographic_extant: "New England: particularly the Connecticut River Valley, and also sites in Vermont, New Hampshire, Maine, and coastal and eastern New York."
+institution: "Department of Anthropology"
+institution_type: "NULL"
+primary_contact: "Elizabeth Chilton"
+size: "800 boxes, 600000 objects"
+start_range: "9999"
+summary: "The University of Massachusetts is the preeminent institution for the archaeology of New England, and our collections reflect that status. The Department of Anthropology’s New England Archaeological Collection consists of approximately 50,000 catalog entries representing 600,000 individual artifacts obtained through archaeological field schools, faculty and student research, and donations from private institutions and individuals. Over 100 archaeological sites are represented, including several on the National Register of Historic Places. Our collection’s pre-Contact and Contact material represent the 12,000-year history of Native Americans in New England. The majority of these materials consist of stone tools, ceramics, bone tools, shell, botanical and faunal remains, metals, and textiles. The post-Contact materials represent the entire period of European-American occupation in New England. Objects from these collection subsets include architectural hardware (nails, window glass, masonry, etc.), agricultural tools, and personal and domestic items (ceramics, buttons, glassware, etc.). Many of the represented excavations have accompanying paper-based (and in a few cases electronic) field notes and provenience records of artifact context (i.e. stratigraphy) that follow no authority control and inadequately describe artifacts. Currently, no print or web-accessible finding aid exists that would allow researchers to access our collection in a meaningful way."
+hc_id: "506"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "240 Hicks Way"
+address2:  "Machmer 211"
+city:  "Amherst"
+state:  "MA"
+zip: "1003"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

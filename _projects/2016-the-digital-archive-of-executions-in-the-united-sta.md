@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Digital Archive of Executions in the United States, 1608-2002: Digitization and Access to the M. Watt Espy Papers
+title: "The Digital Archive of Executions in the United States, 1608-2002: Digitization and Access to the M. Watt Espy Papers"
+year: 2016
+end_range: 2002
+formats: "NULL"
+geographic_extant: "United States"
+institution: "University at Albany, SUNY"
+institution_type: "NULL"
+primary_contact: "Mr. Brian Keough"
+size: "NULL"
+start_range: "1608"
+summary: "The project will digitize a portion of the M. Watt Espy Papers consisting of approximately 44 cubic feet of primary and secondary source material, and approximately 28,800 index cards. The Digital Archive of Executions will be a freely accessible online database of documents and Espy's analysis of government sanctioned executions in the United States from 1608-2002. Appealing to a broad range of potential researchers, students, and scholars, the project will increase access for those interested in history, political science, criminal justice, sociology or law. Future researchers might utilize specific records related to individual criminal cases, while others might review broader material to analyze umbrella issues, like innocents executed, or collect data to mount a legal defense. The Espy Papers, previously processed and rehoused, will be digitized and made full text searchable, with metadata available on individuals executed, their race, gender, crime, method of execution, and Espy's written analysis."
+hc_id: "23081088"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "University at Albany, SUNY"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>47 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$157,775"
+material_description:  "An October 21, 1987 The New York Times article described M. Watt Espy, Jr. as \"America's foremost death penalty historian'' widely known for his unique collection of files on capital punishment. Espy devoted nearly four decades of research to documenting more than 15,000 executions in America, dating from 1608 in colonial Jamestown. He traveled extensively, spending countless hours painstakingly compiling information about executions. The M. Watt Espy, Jr. Papers document his research and writing as a nationally recognized expert on legal executions in the United States. Beginning in 1970, with only his personal resources, Espy began his quest to verify all government sanctioned executions in the United States. The Espy Papers chronicle his extensive research efforts that led to the creation of the Capital Punishment Research Project and the identification of over 15,000 executions in the United States. Espy's research and writing profoundly shaped scholarship on capital punishment. Prior to his work, most scholars estimated there had been roughly 5,000 people executed in the United States. The Espy Papers contain 44 cubic feet of government records, unpublished material, and newspaper articles that he collected on individuals executed in the United States and its territories between 1608 and 2002. The collection also contains approximately 28,800 index cards Espy created containing detailed information about these executions on American soil (colonies, states, territories) since the 1600s. Espy's index cards include specific details of each executed person, their crime, judicial proceedings, execution details, and his perspective on each event. This rich source of information and the meticulous attention with which it was collected will fascinate generations of historians, scholars, activists, and anyone else interested in the men and women executed in the United States. Espy's work is an invaluable and unique contribution to the history of capital punishment in this country."
 ---
-
-

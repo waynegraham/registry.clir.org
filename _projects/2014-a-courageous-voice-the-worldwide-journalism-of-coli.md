@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: A Courageous Voice: The Worldwide Journalism of Colin Edwards
+title: "A Courageous Voice: The Worldwide Journalism of Colin Edwards"
+year: 2014
+end_range: 2013
+formats: "NULL"
+geographic_extant: "International and national - SF Bay Area"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Claude Marks"
+size: "3000 objects"
+start_range: "1940"
+summary: "The Freedom Archives seeks a planning grant as a necessary first step in the preservation of in-depth exclusive recordings by Colin Edwards (1924-1994), an internationally known radio journalist and commentator. In 1949 he began as a combat correspondent with the British army in Malaya, Burma, Indochina, and Korea. Over the next 30 years he broadcast documentaries from around the world on a wide range of topics. We will conduct a careful classification process, analyze the physical condition, catalog, make database entries and compile a finder's aid for his large body of work. The Freedom Archives has the expertise and technical facility to provide a firm foundation for preservation and future access by scholars."
+hc_id: "11791117"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

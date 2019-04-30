@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: When the Mills Went Dark: Digitizing a Hidden Collection of Materials Relating to Ethnic Diversity, the Social History of Economic Decline, and the Postindustrial Transition in a New England Mill City, 1879-Present
+title: "When the Mills Went Dark: Digitizing a Hidden Collection of Materials Relating to Ethnic Diversity, the Social History of Economic Decline, and the Postindustrial Transition in a New England Mill City, 1879-Present"
+year: 2016
+end_range: 2015
+formats: "NULL"
+geographic_extant: "Primarily Willimantic, CT, but secondarily other communities where American Thread had plants (Mansfield, CT; Fall River, MA; Milo, ME' Bristol, TN; Dalton, GA; Holyoke, MA; and Marion, NC)."
+institution: "Windham Textile and History Museum"
+institution_type: "NULL"
+primary_contact: "Dr. Jamie Eves"
+size: "NULL"
+start_range: "1880"
+summary: "Scholars know well the history of the rise of the New England textile industry in the nineteenth century, and of its heyday around the turn of the century; less well known is the story of its decline and subsequent postindustrial transformation, a process that began in 1879 with the first installation of electric lights, became noticeable in the 1920s, turned into a collapse after 1955, and then featured a rebirth as small craft industry after 2000. The Windham Textile and History Museum has a collection of more than 30,000 items that relate to the decline and transformation of the textile industry in Willimantic, CT, including documents relating to ethnicity and conflict -- few of which have been digitized. This project will digitize this collection and make it available to scholars and local researchers alike through the Connecticut Digital Archives at the University of Connecticut."
+hc_id: "22266607"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Windham Textile and History Museum"
+p2_name:  "Ms. Rita Allen"
+p2_institution:  "Windham Textile and History Museum"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>35 general flat paper documents of all sorts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$130,930"
+material_description:  "The Windham Textile and History Museum collects materials relevant to the history of the textile industry in eastern Connecticut, especially Windham, Tolland, and New London counties. About half of the items in the collection relate to the American Thread Company, formerly of Willimantic, Connecticut, and once the largest producer of thread in North America. Another quarter of the collection relates to the growth, development, and decline of Willimantic as an industrial city, with the final quarter focusing mostly on other textile mill communities in eastern Connecticut. About 90% of the items in the collection relate to the period 1880-2000, the era in which the New England textile industry experienced, first, slower growth, and then, after 1920, decline. The collection includes business records, photographs, and engineering plans left behind by American Thread, including rare internal documents relating to the ATCO textile strike of 1925. It also includes audio tapes and transcripts of oral history interviews with Willimantic textile workers, including union leaders. It also includes collections donated by two ethnic clubs, the Pulaski American Citizen Club and the Syrian (later Lebanese) Club, along with numerous items relating to other ethnic groups that worked in the mills, including French Canadians, Irish, Swedes, and Puertoriquenos, donated mostly by members of those communities over the past 25 years. It also includes government, school, and business records from or about Windham/Willimantic; photographs and documents of or from Windham/Willimantic residents; maps; records left by ATCO's predecessor, the Willimantic Linen Company; and a smaller collection of business records, photos, and other documents pertaining to ATCO plants in other communities."
 ---
-
-

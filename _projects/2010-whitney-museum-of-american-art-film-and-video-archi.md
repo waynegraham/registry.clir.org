@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Whitney Museum of American Art - Film and Video Archives 1960s to 2010
+title: "Whitney Museum of American Art - Film and Video Archives 1960s to 2010"
+year: 2010
+end_range: 2010
+formats: "NULL"
+geographic_extant: "The Film and Video Archives document the history of our exhibitions, programs/performances held in NY & CT over a period of nearly 50 years, 1960-2010."
+institution: "Whitney Museum"
+institution_type: "NULL"
+primary_contact: "Carol Rusk"
+size: "243 linear feet"
+start_range: "1960"
+summary: "This entire collection is 243 linear feet and reflects the history of American Film and Video as an art form and includes: (1) Film + Video Artist Files--paper materials kept on individual artists, artist collectives, and film companies that were maintained in conjunction with the film and video department's exhibitions: 30 linear feet. (2) The Film + Video Image Files--visual materials kept on individual artists, exhibitions, film companies, and artist collectives, project or exhibition documentation, photographs and film stills, other rare ephemera: 12 linear feet. (3) General files-- Film & Video curatorial records, exhibition, misc. files: 41 linear feet including: Film and video documentation / records of: American Film & Video Series (1970-1998); New American Film & Video Series (1999-2010); Biennials (1979-2010); Performing Arts Program held at at satellite locations, such as Equitable, Altria, Philip Morris, and Museum affiliates (1970-2010); Education programs, e.g. various Lecture Series, Programs for Docents, Curators' Symposium, Teachers' Courses, Poetry Readings (1960-2010); Adult and public programs, e.g. Seminars with Artists; Initial Public Offerings; Architecture Dialogues; Conversations on Art; Interviews with Artists (1960-2010); and the Media Collection--includes 35 mm, 16 mm and 8 mm film reels, video and beta tapes, audio recordings, laser discs, etc.: 140 linear feet."
+hc_id: "684"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "945 Madison Avenue"
+address2:  "NULL"
+city:  "New York"
+state:  "NY"
+zip: "10021"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

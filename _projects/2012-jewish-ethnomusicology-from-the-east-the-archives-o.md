@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Jewish Ethnomusicology from the East: The Archives of Johanna Spector
+title: "Jewish Ethnomusicology from the East: The Archives of Johanna Spector"
+year: 2012
+end_range: 2008
+formats: "NULL"
+geographic_extant: "Yemen; India; Azerbaijan; Egypt; Armenia; Israel; United States"
+institution: "Jewish Theological Seminary"
+institution_type: "NULL"
+primary_contact: "Kim Zeitman"
+size: "120 linear feet"
+start_range: "1947"
+summary: "The hidden collection of Dr. Johanna Spector (1915-2008) is a major repository of primary source materials related to dwindling Jewish communities in Africa, the Middle East, and Asia. Spector was a professor of Ethnomusicology at The Jewish Theological Seminary (1962-1985) as well as a world-renowned ethnomusicologist, author of several books and articles, prolific lecturer, and producer of four documentary films. Her archive sheds light on the cultural treasures of the nearly extinct Jewish communities of India, Yemen, Azerbaijan, Egypt, Armenia, and the Samaritan people. It is a window into the life of these communities in situ before their dispersal out of their native lands. The collection consists of 120 linear feet of musical notation transcriptions, drafts of lectures, research notes, 2,000 photographs, 2,000 slides, 950 reels of film taken during her travels, papers relating to her films, rough cuts of her four documentaries, 1,000 audio field recordings, and a number of musical instruments that she collected in her travels. The Spector Archives date from the mid-20th century and span a half-century of significant Jewish migrations. This collection, once discoverable, will attract a wide range of scholars and students of ethnography, history, anthropology, and music. It offers a fascinating exploration of non-Western Jewish religious and communal traditions, which developed and persisted over 2,000 years and which are uniquely documented in this archive."
+hc_id: "1002"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "3080 Broadway"
+address2:  "NULL"
+city:  "New York"
+state:  "NY"
+zip: "10028"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$175,300�"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Nursery and Seed Trade Catalog Collection at The New York Botanical Garden
+title: "Nursery and Seed Trade Catalog Collection at The New York Botanical Garden"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "North America, Europe, Japan"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Gordon McDaniel"
+size: "810 boxes, 500 linear feet, 43000 objects"
+start_range: "1804"
+summary: "The Nursery and Seed Catalog Collection of The New York Botanical Garden is one of the largest collections in the U. S., with approximately 43,000 catalogs from over 5,000 companies dating from 1804, with locations in North America, Europe and Japan. Seed catalogs are sources on the introduction of new plants into the U.S. and the use of plants in general, information important to plant scientists, and economic and agricultural historians, as it provides data on plants of economic or aesthetic interest. The collection is relevant to researchers in botany, garden design, agriculture, art, economic and social history and the development of color printing. Joanne Fuccello, partner in an antiquarian book dealer specializing in horticultural books, states: Much of our American Horticultural history is found in the seed catalogues of the time, and unless saved by libraries, researchers and collectors over time, these rare documents, which give us insight into the fabric of horticultural and agricultural history, will be lost to us. The stewardship of these ephemeral items is critical to their survival and through the efforts of libraries: preservation, standardization of cataloguing and access-- future generations will be able to “know” the seedsmen (and women), the plants, fruits, vegetables, flowers, trees and shrubs, garden designs and trends in history or commercial art and photography and to learn from intelligent, creative voices long gone.\""
+hc_id: "368"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "LuEsther T. Mertz Library"
+address2:  "New York Botanical Garden"
+city:  "Bronx"
+state:  "NY"
+zip: "10458"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

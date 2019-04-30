@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Thomas L. and Elizabeth Wood Kane family papers
+title: "Thomas L. and Elizabeth Wood Kane family papers"
+year: 2016
+end_range: 1690
+formats: "NULL"
+geographic_extant: "Items in the Kane family collections span the coasts of the United States, from California to Pennsylvania, as well as Europe, the islands of the Caribbean, and the Arctic. They primarily relate to the following regions: Pennsylvania; Utah and the Inter-Mountain West; Nebraska Territory; and, Washington, D.C."
+institution: "Brigham Young University"
+institution_type: "NULL"
+primary_contact: "Mr. Ryan Lee"
+size: "NULL"
+start_range: "1690"
+summary: "The primary focus of this project will be to digitize all the papers in the L. Tom Perry Special Collections at Brigham Young University related to Thomas and Elizabeth Kane and their family. These collections include several volumes of diaries, hundreds of letters, thousands of photographs, and other ephemera related to the life of this unique American family. These papers are unique in that they cover a variety of topics relevant to any student of 19th century America history, including early 19th Century US government; Arctic explorations by Elisha Kent Kane; Mormonism, Brigham Young, and the settlement of Utah; Civil War; early women photographers; women's progressive movements; 19th Century medical practice; and, the settlement of northwestern Pennsylvania. Some of these have been digitized, but this project will focus on updating metadata and digitizing the remaining items so that they can all be available for researchers online."
+hc_id: "21920739"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Brigham Young University"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>34 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$52,000"
+material_description:  "The primary focus of this project will be to digitize all the papers in the L. Tom Perry Special Collections at Brigham Young University related to Thomas and Elizabeth Kane and their family. These papers, spanning seven different collections, include several volumes of diaries, hundreds of letters, thousands of photographs, and other ephemera related to the life of this unique American family. These papers are unique in that they cover a variety of topics relevant to any student of 19th century America history, including early 19th Century US government; Arctic explorations by Elisha Kent Kane; Mormonism, Brigham Young, and the settlement of Utah; Civil War; early women photographers; women's progressive movements; 19th Century medical practice; and, the settlement of northwestern Pennsylvania. The majority of these items came from descendants of the Kane family, but some were purchased from vendors."
 ---
-
-

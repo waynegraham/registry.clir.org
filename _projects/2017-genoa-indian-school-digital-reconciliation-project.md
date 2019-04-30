@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Genoa Indian School Digital Reconciliation Project
+title: "Genoa Indian School Digital Reconciliation Project"
+year: 2017
+end_range: 1934
+formats: "NULL"
+geographic_extant: "The collection represents documentation about the Genoa Indian Industrial School, established on former lands of the Pawnee Nation in what became central Nebraska. Indian children from at least forty tribal nations attended the school, with a particular concentration of children from the tribal nations of the northern Great Plains."
+institution: "University of Nebraska-Lincoln"
+institution_type: "NULL"
+primary_contact: "Dr. Margaret Jacobs"
+size: "NULL"
+start_range: "1884"
+summary: "The History Department, the Center for Digital Research in the Humanities (CDRH), and University Archives & Special Collections at the University of Nebraska-Lincoln (UNL) propose to collaborate with the Genoa U.S. Indian School Foundation and National Archives branches in Kansas City and Denver to digitize, describe, and make accessible materials related to the Genoa U.S. Indian Industrial School, one of the largest U.S. Indian boarding schools, which was in operation from 1884 to 1934. We will process approximately 10500 pages (or 3368 items) of student case files, admittance forms, correspondence, censuses, administrative and health reports, photographs, artwork, ephemera, artifacts, and a student newspaper held by the National Archives and by the Genoa U.S. Indian School Foundation. Our project will make these hidden records accessible to the families of Indian people who attended the school, researchers who study the Indian boarding schools, and the general public."
+hc_id: "27373115"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "University of Nebraska-Lincoln"
+p2_name:  "Dr. Elizabeth Lorang"
+p2_institution:  "University of Nebraska-Lincoln"
+p3_name:  "Ms. Nancy Carlson"
+p3_institution:  "Genoa U.S. Indian School Foundation"
+material_string: "<li>9558 Manuscripts</li>"
+collaborating_institution:  "Genoa U.S. Indian School Foundation; National Archives at Denver; National Archives at Kansas City"
+grant_amount:  "$290,123"
+material_description:  "NARA branches at Kansas City and Denver and the Genoa U.S. Indian School Foundation hold various records documenting the role of Genoa Indian Industrial Boarding School in shaping the lives of Native children from at least forty tribal nations. The materials selected for digitization are nearly all federal records, and include: - Student Case files of Pine Ridge Students Attending Genoa Indian School, ca. 1913 - ca. 1933; - Other student case files from Winnebago, Rosebud Sioux, and Yankton Sioux students attending Genoa Boarding School,1903-1935; - Descriptive Statements of Children Sent, 1884-1907; - Applications for Admission, 1932-33; - Official administrative reports, 1906-1934; - Health reports, 1908-1934; - The Pipe of Peace; The Genoa Indian News, 1891-1892, 1920, 1930-1933; - Correspondence, circa 1885-1934; - Student Work Details, 1903-1907; - Ephemera such as commencement, concert, and play programs,sheet music, postcards; - Photographs, 1884-1934; - Wall murals by students, ca 1900; - Dishes, tools, furniture, shoes, uniforms, used by students,1884-1934. Prominent themes that emerge from the materials include American Indian health, disease, and medical treatment; children’s labor and compensation; family communication and contact; resistance, discipline and punishment; sports and other extracurricular activities; federal government efforts to assimilate Native Americans; and government categorization of Indian people. Gathered together in one place, these materials will provide users with greater insight into the history of American Indians, education, Nebraska and the Great Plains, and the U.S. more generally."
 ---
-
-

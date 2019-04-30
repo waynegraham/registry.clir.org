@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Pittsburgh Photographic Library
+title: "The Pittsburgh Photographic Library"
+year: 2012
+end_range: 1970
+formats: "NULL"
+geographic_extant: "The primary geographic scope is Pittsburgh, Pennsylvania and or Western Pennsylvania."
+institution: "Carnegie Library of Pittsburgh"
+institution_type: "NULL"
+primary_contact: "Jason Zelinko"
+size: "22500 objects"
+start_range: "1860"
+summary: "The Pittsburgh Photographic Library (PPL) is a repository consisting of numerous photographic collections that have been acquired by the Carnegie Library of Pittsburgh since 1960. The collection has been described as \"the most complete photographic documentation ever achieved by any American community.” The primary purpose of the PPL was to develop a documentary collection of photographs on Pittsburgh and Western Pennsylvania to record and preserve, visually, the life, customs, and activities of the people of this area with relation to their physical environment. When acquired, the PPL contained three collections, and these continue to form the nucleus of photographs and other graphic illustrations which document over 200 years of Pittsburgh history. The original collections include: 1,500 images used to illustrate the book, A Pittsburgh Album, in honor of the city's 1958-1959 bicentennial anniversary; the Bingaman collection of over 1,000 photographs taken in the first quarter of the century by Frank E. Bingaman, and a collection of roughly 18,000 photographs which were taken in the early 1950s as a documentation project. Today, after several decades of acquisition, there are 57,000 images that comprise the PPL."
+hc_id: "903"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "4400 Forbes Avenue"
+address2:  "NULL"
+city:  "Pittsburgh"
+state:  "PA"
+zip: "15213"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

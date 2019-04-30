@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Wellesley Centers for Women records
+title: "The Wellesley Centers for Women records"
+year: 2014
+end_range: 2012
+formats: "NULL"
+geographic_extant: "Worldwide"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Ian Graham"
+size: "50 linear feet"
+start_range: "1974"
+summary: "Processing the records of the Wellesley Centers for Women is a one-year project to catalog and create robust finding aids for an approximately 50 linear feet collection documenting the history and activities of one of the largest gender-focused research-and-action organizations in the world. There are also a number of born-digital files for the more current records, some of which are restricted by law, and electronic repositories currently used by Wellesley will be incorporated to manage those digital files."
+hc_id: "12990403"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "106 Central Street"
+address2:  "NULL"
+city:  "Wellesley"
+state:  "MA"
+zip: "2481"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$68,550"
+material_description:  "NULL"
 ---
-
-

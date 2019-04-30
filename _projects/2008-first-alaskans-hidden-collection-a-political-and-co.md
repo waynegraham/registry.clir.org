@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: First Alaskans Hidden Collection: A Political and Community Development History of Alaska’s Native People from 1965 to the Present
+title: "First Alaskans Hidden Collection: A Political and Community Development History of Alaska’s Native People from 1965 to the Present"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "The entire State of Alaska, approximately 571,951 square miles, and includes 210 Alaska Native villages and/or tribes."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Gloria Chythlook"
+size: "300 boxes"
+start_range: "1965"
+summary: "The political history of Alaska Native people and their leaders in the late 20th century is an epic story of modern America. The Alaska Federation of Natives (AFN) was formed in 1966 to address the Alaska Native aboriginal land rights and achieve passage of a just and fair land settlement. After five years of lobbying and legal work, the U.S. Congress passed the Alaska Native Claims Settlement Act (ANCSA) on December 18, 1971. ANCSA established thirteen regional corporations and hundreds of village corporations along with the right to select 44 million acres of land and a total of $962.5 million in compensation for the land they relinquished. In 1989, the Alaska Federation of Natives formed the First Alaskans Institute; it has become the informal repository for the collection of literature that documents this historical journey. Currently stored in boxes and file cabinets, materials are inaccessible to historians, scholars, Native leaders and the general public. As a result, general interpretations of this important historical account are often incomplete. First Alaskans Institute’s Information Clearinghouse is the repository envisioned to collect, organize and make accessible this priceless collection. Information provided through the Clearinghouse will help to magnify the voices of Native leaders, students and emerging Native scholars. Alaska Natives will be given greater access to information they need to address the many challenges Alaska Natives face and will aid them in developing policies and programs that can build healthy and sustainable communities."
+hc_id: "53"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "606 E Street, Suite 200"
+address2:  "NULL"
+city:  "Anchorage"
+state:  "AK"
+zip: "99501"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

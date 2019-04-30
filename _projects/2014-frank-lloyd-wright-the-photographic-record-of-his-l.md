@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Frank Lloyd Wright: the photographic record of his life and works at Avery Library
+title: "Frank Lloyd Wright: the photographic record of his life and works at Avery Library"
+year: 2014
+end_range: 1959
+formats: "NULL"
+geographic_extant: "FLW in settings across the US and international locations; domestic and public architecture projects in the US, Japan, Europe, and Iraq."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Carole Ann Fabian"
+size: "83450 objects"
+start_range: "1867"
+summary: "This three-year project will inventory, accession and catalog 83,450 multi-format images in the Frank Lloyd Wright Foundation Archives at Avery Library. This remarkable photographic record captures Wright's life from childhood through adulthood; in context with colleagues and significant contemporaries; photo documentation of his works from construction through completion; and digitized images of his drawings. Material types within this collection include original and copy photographic prints, film reels, stereographs, slides, and digital images. This project will establish a coherent methodology for cataloging multi-format analog and digital image materials across this singularly important architectural archive."
+hc_id: "11945248"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

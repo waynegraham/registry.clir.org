@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The St. Marianne Cope Collection Cataloging Project, consisting of an archive and a museum collection
+title: "The St. Marianne Cope Collection Cataloging Project, consisting of an archive and a museum collection"
+year: 2014
+end_range: 2012
+formats: "NULL"
+geographic_extant: "Central and Upstate New York (Oswego, Utica, Rome, Syracuse, Albany), Hawaiian Islands (Molokai, Oahu, Maui, Hawaii) and Rome, Italy"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Charlene Martin"
+size: "85 linear feet"
+start_range: "1860"
+summary: "The St. Marianne Cope Collection contains over a century of documentation about St. Marianne Cope, a Sister of St. Francis who in October 2012 was canonized as only the 11th Saint in U.S. history. The collection offers uncommon insight that will appeal to scholars. The primary outcome of the St. Marianne Cope Collection Cataloging Project (SMCC-CP) is the efficient processing and cataloging of diverse St. Marianne Cope Collection items in their native controlled vocabularies, in one software package that also produces an online searchable catalog. To accomplish this important project we seek a $57,675 grant to allow us to hire a full time project archivist, purchase the necessary software and training and complete the one year project."
+hc_id: "10798674"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

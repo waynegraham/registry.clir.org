@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: A Digital Archive of Massachusetts Women’s Rights Petitions
+title: "A Digital Archive of Massachusetts Women’s Rights Petitions"
+year: 2017
+end_range: 1925
+formats: "NULL"
+geographic_extant: "The petitions concern issues of women's rights in Massachusetts and Maine (part of Massachusetts until 1820)."
+institution: "The President and Fellows of Harvard College for the Radcliffe Institute for Advanced Study"
+institution_type: "NULL"
+primary_contact: "Dr. Daniel Carpenter"
+size: "NULL"
+start_range: "1619"
+summary: "The Radcliffe Institute for Advanced Study (RIAS) and its Schlesinger Library on the History of Women in America, along with associated faculty in History, Government, American Studies and African and African-American Studies, and in collaboration with the Massachusetts State Archives and the Harvard College Library, will conduct a two-year project to (1) catalog and digitize women’s rights petitions sent to the Massachusetts state legislature from 1619 to 1925 (estimated number between 2,500 and 2,800); (2) conduct collaborative research on these petitions in the fields of women’s history, literature, and American legal and political history; and (3) join the records with data on anti-slavery and Native American petitions sent to the Massachusetts state legislature assembled from previous grants as part of an open-access website where the petition images and data can be used by teachers, researchers, citizens, genealogists, and the public at large for further research."
+hc_id: "26893803"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Harvard University"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>2500 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$238,233"
+material_description:  "The project will encompass all petitions relating to women’s rights in the legislative collections at the MAC from 1619 to 1925. This includes between 2,500 and 2,800 petitions on women’s rights—including suffrage, but also rights regarding marriage, property, school committees and jury participation. Some of the most important leaders of state and national suffrage movements – Elizabeth Cady Stanton, Susan B. Anthony, and Lucy Stone – appear in these petitions. (See http://nrs.harvard.edu/urn-3:FHCL:10956316 for a petition in which these signatories appear. It is an anti-segregation petition and hence fell within the scope of our existing project.) We have already discovered the names of signatories and canvassers from African-American and Native-American women. The relevance of these patterns of black and Native women’s petitioning in Massachusetts is not only of historical interest but also of relevance to the value of creating digital archives, education materials and research collections today."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The David Sarnoff Collection Processing Project
+title: "The David Sarnoff Collection Processing Project"
+year: 2012
+end_range: 1986
+formats: "NULL"
+geographic_extant: "This collection is international in scope. RCA's operations in Japan and its impact on Russian television add to American documents."
+institution: "Hagley Museum and Library"
+institution_type: "NULL"
+primary_contact: "Erik Rau"
+size: "2800 linear feet"
+start_range: "1912"
+summary: "The David Sarnoff Collection, approximately 2,800 linear feet covering the years between 1912 and 1986, is the most significant collection on the 20th-century rise of American commercial broadcasting, telecommunications, and military and civilian electronics in existence. The collection came to Hagley in 2009 due to the closure of the David Sarnoff Library of Princeton, NJ. David Sarnoff (1891-1971) was a pioneer in the creation of 20th-century American radio and television broadcasting as well as the development of the American electronics industry. Included in the collection are Sarnoff's voluminous personal correspondence, films, negatives, photographs, recordings, interviews, and scrapbooks. These materials document his long career, beginning with the Marconi Wireless Telegraph Company of America, spanning his construction of a media empire based on the Radio Corporation of American (RCA) and the National Broadcasting Company (NBC), and involving his development of postwar telecommunications and consumer electronics, and battles with regulatory agencies. A comprehensive set of the notebooks, technical reports, and scientists' writings from RCA's laboratories document technological innovations including the development of FM radio, transistors, color television, videodisks, computers, and satellites. The collection also includes strategic corporate communications for RCA and NBC, as well as extensive marketing literature and correspondence."
+hc_id: "909"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P.O. Box 3630"
+address2:  "NULL"
+city:  "Wilmington"
+state:  "DE"
+zip: "19807"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

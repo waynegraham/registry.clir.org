@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Quick & Clean Cataloging of the Hidden Collections in The Rare Book & Manuscript Library of the University of Illinois at Urbana-Champaign
+title: "Quick & Clean Cataloging of the Hidden Collections in The Rare Book & Manuscript Library of the University of Illinois at Urbana-Champaign"
+year: 2008
+end_range: 2000
+formats: "NULL"
+geographic_extant: "Europe, North America, South America"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Valerie Hotchkiss"
+size: "42000 objects"
+start_range: "1190"
+summary: "The hidden collections at the University of Illinois consist of imprints from Europe and North and South America dating from the sixteenth century to the present. The library is already recognized as one of the world’s leading repositories of English imprints from 1475-1800, but other strengths exist in a variety of discrete collections acquired over the course of the last 80 years that are not accessible through formal cataloging. The collections we intend to bring to light include a remarkable array of early modern play scripts and dramatic works from several nations and periods (Spanish, Italian, and neo-Latin); a collection of Confederate state imprints, early and defining works in chemistry and economic literature, a wide-ranging Italian collection that includes material from the 12th to the 20th century; an important collection of Irish imprints, early travel literature, collections of early Mexican and Bolivian imprints, Carl Sandburg’s personal library, German theological dissertations, and a collection of free speech material. In all, some 42,000 items currently shelved as 25 individual “named” collections need to be cataloged. Under a Mellon-sponsored grant, we have cataloged some 30,000 items, but the collections mentioned above will remain uncataloged when that grant ends in 2009. Because of our experience, we can hit the ground running, maximizing production and the impact of a CLIR grant. We can finish the job and bring ALL our hidden collections to light."
+hc_id: "156"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1408 W. Gregory Dr."
+address2:  "MC-522, Room 346"
+city:  "Urbana"
+state:  "IL"
+zip: "61802"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

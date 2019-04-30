@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: ONE Archives 20th Century Activists Cataloging Project
+title: "ONE Archives 20th Century Activists Cataloging Project"
+year: 2010
+end_range: 2000
+formats: "NULL"
+geographic_extant: "Geographic scope of the material covers the United States with a focus on California."
+institution: "ONE Archives"
+institution_type: "NULL"
+primary_contact: "Greg Williams"
+size: "651 linear feet"
+start_range: "1900"
+summary: "The ONE National Gay and Lesbian Archives is the oldest Lesbian, Gay, Bisexual and Transgender (LGBT) organization in the U.S. and it holds the largest humanities collection of LGBT materials in the world. ONE began as the earliest national gay publication, ONE Magazine in 1953 and later evolved into a degree granting Institute and in the last decade has functioned as a research center at the University of Southern California. The ONE 20th Century Activism Cataloging Project will arrange, reveal and describe 17 collections (651 feet, 800 boxes) of archival materials of pioneering LGBT institutions, writers and activists. These collections document the creation of a forum to discuss sexuality in the 1950s, gay rights in the U.S., pioneering gay activists, AIDS, gays and religion, gays in the military, gay journalism, and ONE Magazine. While the project collections have been used occasionally by researchers, they are almost completely inaccessible and often lacking any order. This project will bring these collections to the attention of students, and scholars interested in the history of civil rights, health, religion, anthropology, gender studies, gay studies and various social sciences. These collections are critically relevant in documenting the evolution of social attitudes in the United States in the last half of the 20th century. Wider access to these materials will allow for discovery of numerous untapped research topics."
+hc_id: "632"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "100 E Victoria"
+address2:  "University Library LIB 5039"
+city:  "Carson"
+state:  "CA"
+zip: "90747"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

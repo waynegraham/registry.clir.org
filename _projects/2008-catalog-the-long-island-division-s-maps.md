@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Catalog the Long Island Division's Maps
+title: "Catalog the Long Island Division's Maps"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "Geographic Long Island: Kings, Queens, Nassau and Suffolk counties; Metropolitan New York City; and New York State"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "John Hyslop"
+size: "164 cubic feet, 5267 objects"
+start_range: "1639"
+summary: "The Long Island Division’s flat map collection of 5,267 maps is an incredibly rich resource documenting the United States’ most congested metropolitan area: Brooklyn, Queens, Nassau, Suffolk, Long Island, New York City, and New York State, and its transformation from 17th century rural, empty farm land into 21st century urban, suburban sprawl. The maps detail this region’s neighborhoods, villages, towns and counties, land ownership, homes, political and property boundaries, land formation, bodies of water, transportation routes, significant landmarks and more. Approximately 75% of them are rare and unique and the remaining 25% are duplicates and held by other libraries and archives. Their diversity of documentation is matched by their diversity in size from very small to very large, and type from hand-drawn surveyor’s maps to mass produced maps. One of the largest groups in this collection is the William G. DeBevoise Maps, 1815-1927, 1,481 maps. The William G. DeBevoise Maps (1,481 maps, 42 cubic feet, 1815-1925) contain the maps the two surveyors, William G. DeBevoise and John L. Nostrand, created. The maps document the buildings, streets, boundaries and property of the farms, neighborhoods, villages, towns and counties of Long Island; though the majority of the maps document the old towns of Brooklyn, Bushwick, Jamaica and Newtown."
+hc_id: "113"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "89-11 Merrick Boulevard"
+address2:  "NULL"
+city:  "Jamaica"
+state:  "NY"
+zip: "11432"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

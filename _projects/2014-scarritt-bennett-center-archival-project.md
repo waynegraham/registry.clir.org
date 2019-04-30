@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Scarritt-Bennett Center Archival Project
+title: "Scarritt-Bennett Center Archival Project"
+year: 2014
+end_range: 2014
+formats: "NULL"
+geographic_extant: "Kansas City, MO / Nashville, TN / Mission field countries world-wide."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Stephen Gateley"
+size: "490 linear feet"
+start_range: "1880"
+summary: "The Scarritt-Bennett Center's Virginia Laskey Research Library houses a significant archival collection concerning early women's missionary training; education of laity in the late 1800s' and early nineteen hundreds; and perspectives on the civil rights movement not documented before. That is why we believe the public should be more aware of it. With this project: finding aids, cataloging, indexing, and making it available by Internet will all be key in achieving a more publicly viewed collection."
+hc_id: "11973730"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

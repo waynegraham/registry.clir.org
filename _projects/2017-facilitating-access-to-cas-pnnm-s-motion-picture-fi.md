@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Facilitating Access to CAS/PNNM’s Motion Picture Film Collection for Ecological Research
+title: "Facilitating Access to CAS/PNNM’s Motion Picture Film Collection for Ecological Research"
+year: 2017
+end_range: 1988
+formats: "NULL"
+geographic_extant: "CAS/PNNM’s films document historic environments across North America (65%), with a strong emphasis on the Midwest (39%), but also including Florida, the Great Smoky Mountains, and the American Southwest. The collection also includes footage from other ecologically sensitive areas worldwide, including the Galapagos, Ireland, and Africa."
+institution: "Chicago Academy of Sciences / Peggy Notebaert Nature Museum"
+institution_type: "NULL"
+primary_contact: "Ms. Dawn Roberts"
+size: "NULL"
+start_range: "1925"
+summary: "The Chicago Academy of Sciences / Peggy Notebaert Nature Museum’s (CAS/PNNM) motion picture films document biodiversity from 1925 to 1988, providing a unique mechanism to study ecological change over time. Almost all of the films are original recordings taken during Academy field expeditions across the United States, featuring Midwestern environments and other ecologically important areas within the Great Smoky Mountains, the American Southwest, Louisiana, and Florida. CAS/PNNM films by Academy staff and local naturalists studying abroad also document sensitive ecosystems around the world. Because motion picture film becomes increasingly more fragile over time, digitization of these films is necessary to ensure that access to the information recorded is safely preserved and accessible for scholarly review. CAS/PNNM will contract the Chicago Film Archives to digitize 1,323 films from its collections over a two year period and make the resulting digital media globally available through Internet Archive and Arctos."
+hc_id: "26893312"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Chicago Academy of Sciences / Peggy Notebaert Nature Museum"
+p2_name:  "Ms. Erica Krimmel"
+p2_institution:  "Chicago Academy of Sciences / Peggy Notebaert Nature Museum"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>297941 Acetate Motion Film</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$249,309"
+material_description:  "CAS/PNNM’s motion picture film collection documents biodiversity from 1925 to 1988, providing a unique mechanism for studying ecological change over time. Of the 1,323 films in this proposal, 1,319 are original films found nowhere else. The majority of the films are silent (98%) and in color (92%). Many of the films record Academy field expeditions across the United States, predominantly featuring sensitive ecosystems in the Midwest and elsewhere. Expeditions often included faunal surveys, which helped inform scientific research and protection of wild areas such as Great Smoky Mountains National Park. Survey and film materials are a valuable record of past ecosystems, many of which have been heavily impacted by human activity in the interim years. As the Academy strived to educate its visitors about nature both in their backyard and in other regions of the world, the CAS/PNNM film collection captures environments on every continent except Antarctica. In addition to internal productions, the collection has films that were donated to the Academy by naturalists including Benjamin Gault, Clarence Randall, and Sidney Downey. Gault (1859-1942) was a Chicago ornithologist and conservationist whose specimens and archives are also deposited at CAS/PNNM. Randall (1891-1967), another Chicagoan, documented many bird species found in the Midwest. Downey (1905-1983) led safaris in and filmed the desert ecosystems of Africa. Finally, the collection includes a handful of commercial educational films featuring Academy staff or created in partnership with the Academy. Four of these have not been found available online, so are included in this proposal for digitization."
 ---
-
-

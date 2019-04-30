@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Citizens’ Council Radio Forums: Digitizing the Interviews of Segregationist Politicians, 1957-1966
+title: "Citizens’ Council Radio Forums: Digitizing the Interviews of Segregationist Politicians, 1957-1966"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Mississippi State University, Mitchell Memorial Library Special Collections"
+institution_type: "NULL"
+primary_contact: "Ms. Jessica Perkins Smith"
+size: "NULL"
+start_range: "NULL"
+summary: "The Citizens’ Council, founded in 1954 following the Brown v. Board decision, was very powerful in working to maintain segregation in Mississippi. They spread their message using several strategies, including television and radio segments; the Citizens’ Council Radio Forum ran from 1957-1966 and features dozens of national and Mississippi politicians, including James Eastland, George Wallace, and Strom Thurmond, and covered topics ranging from reaction to the Civil Rights Acts to the fear of Communism. The Citizens’ Council continues to be a topic of interest for scholars and Mississippi State University’s Citizens’ Council and Civil Rights era collections are heavily used by researchers from all over the country. Mississippi State is the only repository who has the Radio Forums and a grant would allow us to digitize the tapes and make them available to researchers in the form of a searchable digital collection on our existing library website."
+hc_id: "25881283"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Mississippi State University"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "406 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$25,000"
+material_description:  "The Citizens’ Council Radio Forums are comprised of 418 open reel ¼ inch magnetic audio tapes. Mississippi State Special Collections purchased the tapes in 2002 from former Citizens’ Council head William Simmons. The tapes are currently arranged chronologically and by tape number; while they are described on MSU’s Special Collection’s website and a link to the collection exists on the Library of Congress’ Folk Life Center website, the tapes themselves are not accessible to the public due to the questionable condition of the tapes and the cumbersome reel to reel equipment in the library. There is a complete inventory of the collection, including names of interviewees, dates of interviews, and the subject of discussion, and the tapes have also been partially transcribed. Those transcripts and inventories are not currently available on the Special Collections website, though the transcripts are available to researchers upon request. Prior to learning of this proposal call, plans were in place to post the Radio Forum transcripts to the Special Collections website; if awarded this grant, the transcripts could be linked to the digitized tapes and searchable on our website. The description for the collection reads: “Radio programs produced by the Citizens' Council of Jackson, Mississippi, 1957-1966, covering issues like states’ rights and integration. Transcripts available for the bulk of the tapes. Speakers include George Wallace and Strom Thurmond.” Below are the links to the Citizens' Council Radio Forum Collection from Mississippi State's Library website and the Library of Congress' American Folklife Center: http://lib.msstate.edu/specialcollections/collections/manuscripts/civilrights/#C; https://www.loc.gov/folklife/civilrights/survey/view_collection.php?coll_id=1254."
 ---
-
-

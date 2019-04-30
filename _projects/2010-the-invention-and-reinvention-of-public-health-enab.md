@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The (Invention and) Reinvention of Public Health: Enabling Access to Archival Collections that Inform Contemporary Discourse (TRoPH)
+title: "The (Invention and) Reinvention of Public Health: Enabling Access to Archival Collections that Inform Contemporary Discourse (TRoPH)"
+year: 2010
+end_range: 1999
+formats: "NULL"
+geographic_extant: "Collections are from public health initiatives both national (Mass., Mich., N.Y.) and international (Africa, Central America, China, and Europe)."
+institution: "Center for the History of Medicine"
+institution_type: "NULL"
+primary_contact: "Scott Podolsky"
+size: "400 cubic feet"
+start_range: "1911"
+summary: "The collections enable a broad examination of the origins and evolution of public health research, education, and practice in twentieth-century America. They further reveal the directions individual public health sub-disciplines, including industrial hygiene, tropical medicine, and community mental health, would take over the course of the century and beyond. Collections include: a) early administrative and decanal records reflecting the formation and expansion of the Harvard School of Public Health (HSPH), 1913 to 1999 (129 cubic feet); and b) the personal and professional records of seven leaders in diverse fields that shaped our modern conceptions of public health, 1911 to 1989 (271 cubic feet): Leslie Silverman, chair of the Department of Industrial Hygiene and internationally recognized expert on air pollution control, industrial ventilation, and nuclear safety, 1940-1966; Benjamin Greeley Ferris, Jr., early researcher in respiratory disease and environmental epidemiology, 1933-1989; Jean Mayer, international leader in the field of nutrition, 1953-1974; Erich Lindemann, ground-breaking researcher in community mental health, 1927-1976; Richard Pearson Strong, 1911-1945, pioneer in tropical medicine; and Geoffrey Edsall, 1934-1979, and Nobelist Thomas H. Weller, 1960-1980, authorities in bacteriology and immunology."
+hc_id: "604"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Center for the History of Medicine"
+address2:  "Countway Library"
+city:  "Boston"
+state:  "MA"
+zip: "2115"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

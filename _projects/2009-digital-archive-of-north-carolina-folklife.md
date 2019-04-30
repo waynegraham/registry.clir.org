@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digital Archive of North Carolina Folklife
+title: "Digital Archive of North Carolina Folklife"
+year: 2009
+end_range: 2009
+formats: "NULL"
+geographic_extant: "Most of the photographs are of North Carolina subjects, although some images are included of Cherokee heritage sites in Georgia and Tennessee, and traditional music venues and artists in Virginia. The North Carolina images document traditional cultures in all regions of the state. Mountain traditions are especially well documented, although the collection also holds extensive coverage of pottery traditions of the North Carolina Piedmont. Music, boat building, decoy carving, net making, crabpot making, fishing and numerous other subjects are covered in images from the eastern counties."
+institution: "North Carolina Folklife Institute"
+institution_type: "NULL"
+primary_contact: "Sarah Bryan"
+size: "40000 objects"
+start_range: "1930"
+summary: "The North Carolina Folklife Institute (NCFI) requests funding to support the creation of metadata for the Digital Archive of North Carolina Folklife (DANCF), a searchable, browsable, free database of images of traditional cultures in North Carolina drawn from a consortium of hidden collections. Plans are underway for the DANCF website to be designed and permanently hosted by the University of North Carolina’s Wilson Library, on its Documenting the American South site. At the heart of the DANCF will be selected collections from the NCFI/North Carolina Arts Council extensive archive of images, a little-known collection created over the course of NCFI’s 35-year existence. These images, most by accomplished documentary photographers, depict an array of traditional arts, occupational traditions, foodways, cultural landscapes, and tradition bearers. In addition, the DANCF will include other important hidden collections: those of the Concerned Citizens of Tillery, whose archive is a valuable resource for the study of African American agricultural heritage and New Deal resettlement communities; the Core Sound Waterfowl Museum, whose photographs document the threatened maritime culture of the North Carolina coast; and documentarian of traditional Appalachian music Alice Gerrard."
+hc_id: "473"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "2726 Croasdaile Rd."
+address2:  "Suite 203-B"
+city:  "Durham"
+state:  "NC"
+zip: "27705"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

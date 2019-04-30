@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Bringing Vaudeville into the Limelight: A Digital Representation of the Vaudeville Era from Institutions Coast to Coast
+title: "Bringing Vaudeville into the Limelight: A Digital Representation of the Vaudeville Era from Institutions Coast to Coast"
+year: 2017
+end_range: 1949
+formats: "NULL"
+geographic_extant: "Our materials represent vaudeville performers, administrators, and theaters countrywide. While vaudeville circuits spanned the US, circuits originated in the West and the Northeast. The physical location of the collections represented in our application spans from Boston, Massachusetts to Seattle, Washington. Together, the collections are representative of the Vaudeville era nationally."
+institution: "Emerson College"
+institution_type: "NULL"
+primary_contact: "Ms. Amy Bocko"
+size: "NULL"
+start_range: "1860"
+summary: "Over the course of 30 months, this joint initiative between Emerson College, Marshall University, University of Iowa, and University of Washington will digitize and make accessible our institutions unique and complementary vaudeville collections. We will create a digital representation of vaudeville materials in select academic institutions throughout the United States. Content will be hosted locally through our respective institutions’ digital repositories and presented/contextualized through an aggregated online portal. From the initial registration of an act with popular vaudeville registries, to the advertisement/payment of a performer, to ephemera collected to add to the historical record of vaudeville in America, our proposed collaboration will track the life cycle of vaudeville and offers the modern scholar an unprecedented level of access to vaudeville materials from disparate geographic locations."
+hc_id: "26893655"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Emerson College"
+p2_name:  "Ms. Bethany Davis"
+p2_institution:  "University of Iowa"
+p3_name:  "Mr. Paul Constantine"
+p3_institution:  "University of Washington"
+material_string: "<li>26 Mixed Archival Collections</li><li>140 Architectural Drawings</li><li>2 Audio Recordings</li><li>155 Mixed Archival Collections</li><li>140 Architectural Drawings</li><li>2 Audio Recordings</li><li>155 Mixed Archival Collections</li><li>140 Architectural Drawings</li><li>2 Audio Recordings</li><li>155 Mixed Archival Collections</li><li>140 Architectural Drawings</li><li>2 Audio Recordings</li><li>155 Mixed Archival Collections</li>"
+collaborating_institution:  "Emerson College; Marshall University; University of Washington; University of Iowa"
+grant_amount:  "$272,592"
+material_description:  "While our collections are diverse in both origin and materials, a commonality is that they have been rescued from uncertainty and thoughtfully preserved by lovers of vaudeville. The registries at Emerson came into the college’s possession in 2011 after an archivist from the Academy of Motion Pictures and Sciences learned the materials were slated to be destroyed at the Variety offices. The 26 foot collection contains all of the original correspondence between the performers and registries, including set-designs, sheet music, photographs, etc. In 2014, Marshall came into possession of their vaudeville materials after they were donated by the Huntington WV Keith-Albee Theatre. The collection is 155 linear feet and contains a wide variety of materials including financial ledgers and architectural plans. Included in the digitization will be two Edison Cylinders, donated independently in the 2000s. UW holds a number of collections with materials relating to vaudeville. Several of the collections are from people who were entertainers, in show business or booking agents. There are ca. 30,000 vaudeville era theatrical photographs, architectural drawings and papers about the Pantages Theater, 21 volumes of scrapbooks relating to vaudeville including the Orpheum Circuit scrapbooks, approximately 12 oral histories relating to performers, three reels of film from a collection of home movies showing amateur performances, and about 25 cubic feet of personal papers relating to vaudeville performers. For this grant, the University of Washington proposes digitizing 16 scrapbooks documenting vaudeville at Seattle’s Orpheum Theater and 500 photos and documents from a variety of other collections."
 ---
-
-

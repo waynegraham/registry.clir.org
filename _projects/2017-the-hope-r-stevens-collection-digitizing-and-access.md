@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Hope R. Stevens Collection Digitizing and Access Project
+title: "The Hope R. Stevens Collection Digitizing and Access Project"
+year: 2017
+end_range: 2004
+formats: "NULL"
+geographic_extant: "The Hope R. Stevens Collection highlights the Community of Harlem as well as other communities of the city and state of New York. The collection also highlights Mr. Hope’s birthplace in East End, Tortola, British Virgin Islands, Dominican Republic, where he first migrated; the United States, Africa, Europe, and Asia."
+institution: "The City College of New York"
+institution_type: "NULL"
+primary_contact: "Dr. Ramona Hernandez"
+size: "NULL"
+start_range: "1926"
+summary: "The Research Foundation of the City University of New York (RFCUNY), on behalf of the CUNY Dominican Studies Institute Archives at The City College of New York requests funding, in the amount of $164,049 from the Council on Library and Information Resources (CLIR) for one year project to digitize and make available for research the Hope R. Stevens Hidden Archives Collection (1926-2004) of one of New York’s most prominent Harlem attorneys, civil rights activist and renowned international leader. The collection was created by Hope R. Stevens during the course of his life and donated to the CUNY Dominican Studies Institute Archives by his son Anthony Stevens-Acevedo. The CUNY Dominican Studies Institute Archives will digitize, create a corresponding metadata, and make available for research approximately 25,000 images of historic documents, photographs, artifacts, certificates, correspondences, awards and other items related to Mr. Stevens’ community, national and international activities."
+hc_id: "26299836"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "The Research Foundation of CUNY- The City College of New York"
+p2_name:  "Mr. Idilio Gracia-Pena"
+p2_institution:  "CUNY Dominican Studies Institute Archives"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>25 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$164,049"
+material_description:  "The Hope R. Stevens Collection consists of approximately 25 cubic feet of correspondence, photographs, newspaper clippings, publications, and reports relating to his personal life, legal occupation and local, national, and international civic, as well as political activities from the 1930s to the 1980s. Stevens was a prolific lawyer in Harlem, starting in the late 1930’s until his death in the early 1980’s. Most noteworthy artifacts in this collection are Stevens’ award of the “Order of the British Empire” medal in its original case, a certificate along with the medal, and letters written to him congratulating him on his award. There are records and documents of Stevens’ private life, such as his will and testament, naturalization certificate, passports, personal correspondence to family and friends, his death certificate and memorial services. Other records and documents collected note Stevens’ professional work as a local Harlem lawyer and international lawyer, and his affiliations and activism with certain local and international organizations and projects. There is a collection of materials on the trail of Pol Pot, which Stevens took part in as an international lawyer, and these include legal reports, mission statement, and a speech given at the trail of Pol Pot. His affiliation with the Harlem Urban Development Corporation shows his involvement with the development of Harlem. Documents pertaining to other organizations in which he attended meetings and conferences, illustrate how prolific he was in different international organizations."
 ---
-
-

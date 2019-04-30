@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Preserving music concerts before they fade away
+title: "Preserving music concerts before they fade away"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "William Marsh Rice University"
+institution_type: "NULL"
+primary_contact: "Ms. Mary Brower"
+size: "NULL"
+start_range: "NULL"
+summary: "Opened in 1975, the Rice University Shepherd School of Music has become one of the most prominent music schools in the country. Faculty and alumni include Pulitzer Prize and Grammy winners, and musicians who have performed at Carnegie Hall, the Metropolitan Opera, and other world class performing venues. Thousands of performances by Rice faculty and students have been recorded and collected in multiple formats, with accompanying programs and other documentation. Many of these recordings --- particularly those made on reel-to-reel tape---are on the verge of being lost to media deterioration or technology obsolescence. Our primary goal is to convert these recordings to digital format through the NEDCC. We will preserve these newly digitized audio files through existing digital library preservation strategies and create descriptive metadata for them, ultimately making access versions of these performances available online at the university’s institutional repository so that the public may freely listen to them."
+hc_id: "26042689"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Rice University"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "103 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$23,778"
+material_description:  "The source materials consist of approximately 100 hours of Rice University Shepherd School of Music concerts recorded on ¼” open-reel tape between 1978 and 1989. During the early years of its existence, the Shepherd School did not have a designated building on the Rice campus; therefore, concerts were held in various locations on campus and around Houston, and were recorded by multiple sound engineers. The provenance for this collection is straightforward: The concert tapes remained in the custody of the administration of the Shepherd School after recording; they are currently arranged chronologically and stored at the Shepherd School. They are not accessible for public use and do not appear in any databases or finding aids in print or online; physical programs, however, are available in Rice’s Fondren Library and are currently being scanned in-house and placed in the Rice Digital Scholarship Archive, https://scholarship.rice.edu/handle/1911/77130."
 ---
-
-

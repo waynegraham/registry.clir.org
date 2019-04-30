@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: “Down we went into the maelstrom…” - The American Fighter Aces Oral History Digitization Project
+title: "“Down we went into the maelstrom…” - The American Fighter Aces Oral History Digitization Project"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "The Museum of Flight"
+institution_type: "NULL"
+primary_contact: "Ms. Amy Heidrick"
+size: "NULL"
+start_range: "NULL"
+summary: "The Museum of Flight will conduct a 12-month project to digitize a collection of interviews with American fighter aces and build an online repository of the digitized recordings and transcripts. The collection consists of 376 media items, mostly audio reels and cassette tapes, and features interviews with over 120 military aviators. The Museum is already working to digitize the cassette tapes using in-house equipment and are now seeking offsite digitization of the 143 audio reels, along with eight cassettes in need of specialized preservation attention. These interviews are rare historic records that feature candid conversations with fighter pilots as they discuss their training, missions, and experiences during World War I, World War II, and the Korean War. By preserving the contents of these oral histories, The Museum of Flight aims to provide a rich primary source for the study of aviation history, military history, and beyond."
+hc_id: "25587171"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "The Museum of Flight"
+p2_name:  "Ms. Ali Lane"
+p2_institution:  "The Museum of Flight"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "143 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$25,000"
+material_description:  "The AFAA Oral History Collection consists of interviews with over 120 American fighter aces in which they discuss their training, missions, and experiences during World War I, World War II, and the Korean War. The interviews are recorded on 376 media items, mostly ¼’’ audio reels and compact cassettes, and span a period of thirty years from the 1960s to the early 1990s. Most of these interviews were conducted for specific research purposes or during anniversaries, reunions, and other commemorative events. In many cases, there are no other known recorded histories of these fighter aces in existence. For this project, The Museum of Flight proposes to digitize the 143 audio reels, the oldest and most fragile items in the collection, as well as eight compact cassettes that are in need of preservation attention. This digitization effort coincides with our in-house project to digitize and transcribe the collection’s 200 compact cassettes. These combined efforts will greatly increase accessibility to the collection, which while technically available to researchers, is restricted due to item fragility, lack of onsite playback equipment, and lack of transcripts. Access and public awareness of the collection has also been limited due to lack of a proper, publicly available finding aid. The collection came to us with only a cursory inventory, but this project has given us the opportunity to prepare detailed documentation that can be distributed as a finding aid or as metadata for an online exhibit. The documentation will also assist us in updating the collection’s arrangement, which has not been done since the Museum received the AFAA materials in 2002. Currently, all 376 media items are housed together in five banker’s boxes and are roughly grouped together by interviewee and media type."
 ---
-
-

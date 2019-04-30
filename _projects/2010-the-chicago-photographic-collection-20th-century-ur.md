@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Chicago Photographic Collection: 20th Century Urban Architecture, Industry, and Labor
+title: "The Chicago Photographic Collection: 20th Century Urban Architecture, Industry, and Labor"
+year: 2010
+end_range: 1970
+formats: "NULL"
+geographic_extant: "The collection depicts nearly all of Chicago's many neighborhoods often over several decades, as well as the broader Chicago metropolitan area."
+institution: "UIC University Library"
+institution_type: "NULL"
+primary_contact: "Kathryn Stine"
+size: "215 linear feet, 41000 objects"
+start_range: "1890"
+summary: "The Chicago Photographic Collection is a vast resource with tremendous potential for engaging a range of researchers including those interested in the history and evolution of Chicago neighborhoods, urban planning, domestic and commercial architecture, labor unions and activities, and midwest industry throughout the 20th century. This collection consists of approximately 41,000 items in a range of photographic formats (4\"x5\" and 8\"x10\" black and white negatives and prints). Large format negatives predominate, conveying extraordinary visual detail of the many topics covered across the collection, including Chicago buildings and their construction and demolition, street scenes (often depicting people) in a majority of Chicago's many neighborhoods, documentation of industrial processes, and images of Chicago labor union banquets, picket lines, and other activities. The collection is organized into three main series: Chicago Streets and Sites (approx. 34,500 photographs), Midwest Industry (approx. 2,250 photographs) and Chicago Union and Club Events (approx. 4,250 photographs). Because the collection has never been fully processed or cataloged, many potential ways in which the collection could be used to advance research into the history of Chicago specifically and the evolution of American cities more broadly are inhibited. To date, nearly half of the photographs and negatives have been physically labeled, though only about 8,000 unique images have been described."
+hc_id: "661"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "University Library Special Collections and University Archives Department"
+address2:  "801 S. Morgan St."
+city:  "Chicago"
+state:  "IL"
+zip: "60607"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

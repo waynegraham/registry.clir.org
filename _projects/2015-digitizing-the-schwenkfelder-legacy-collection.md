@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing the Schwenkfelder Legacy Collection
+title: "Digitizing the Schwenkfelder Legacy Collection"
+year: 2015
+end_range: 1850
+formats: "NULL"
+geographic_extant: "The primary geographic areas of the collections are Germany, especially Lower Silesia and Saxony (Upper Lusatia), as well as the counties of southeastern Pennsylvania, including Montgomery, Berks, Lehigh and Bucks."
+institution: "Schwenkfelder Library & Heritage Center"
+institution_type: "NULL"
+primary_contact: "Mr. David W. Luz"
+size: "NULL"
+start_range: "1529"
+summary: "The Schwenkfelder Library & Heritage Center (SLHC) has designed a two-year project to digitize and create detailed metadata of the Schwenkfelder Legacy Collection. Once digitized, these hidden collections will be made available on POWER Library PA and WorldCat. This project will offer scholars and educators the opportunity to study and interpret foundational documents of a significant immigrant group. The Schwenkfelders were among the first wave of German immigrant groups who settled Pennsylvania. The SLHC holds thousands of manuscripts dating mostly from the 18th and 19th centuries relating to the spiritual and temporal life of the Schwenkfelders. Included in the collection are diaries, journals, correspondence, church records, rare German hymnals, medical records, and annotated books that bring early American history to life within the context of this one group."
+hc_id: "17584388"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Schwenkfelder Library & Heritage Center"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>18 bound manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$249,025"
+material_description:  "The Schwenkfelder Legacy Collection reflects the settling of Pennsylvania in a microcosm in its depiction of the daily and spiritual life of 18th and 19th century Schwenkfelder communities, as well as other German emigrant religious dissident communities including the Moravians, the Dutch Reformed Church, and the Mennonites. Having fled religious persecution in Silesia in the 1730s, the Schwenkfelders settled in Pennsylvania among German, English and Welsh neighbors, quickly establishing themselves religiously and economically. The SLHC collections tell the story through documents such as diaries, journals, educational records, correspondence, hymnals, recipes, and medicinal lists. The settling of Pennsylvania, early education in Pennsylvania, the French and Indian War, the Revolutionary War, early American hymnody, and the volatile relations between the neighboring cultures are all topics illuminated by these collections.\n\n\n\nIn 1884, Dr. Chester Hartranft spearheaded an initiative to collect records and material culture relating to founder and church reformer Caspar Schwenckfeld von Ossig (1489-1561) and the history of the Schwenkfelder communities in North America. The breadth of material collected was very wide, including many items from the neighboring religious cultures. Items were copied, donated, and/or purchased (with records retained), forming the core manuscript and book collections of the Schwenkfelder Library & Heritage Center, founded in 1890. Highlights of the manuscript and book collections include:\n\n\n\n\"¢\u0001Caspar Schwenckfeld's Worms Bible (1529) with his extensive manuscript annotations.\n\n\"¢\u0001Schwenkfelder Rosina Heydrich's midwife journal, circa 1770-1819, showing remedies for a variety of illnesses - especially for women and young children.\n\n\"¢\u0001A journal kept by Schwenkfelder immigrant David Schultz recounting his journey from Silesia to Pennsylvania. \n\n\"¢\u0001Correspondence between quietist and mystic Gerhard Tersteegen and Schwenkfelder Abraham Wagner.\n\n\"¢\u0001Schwenkfelder minister Christopher Schultz's manuscript notes on the 1762 Easton treaty council."
 ---
-
-

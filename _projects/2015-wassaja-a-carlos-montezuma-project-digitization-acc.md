@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Wassaja - A Carlos Montezuma Project: Digitization, Access, and Context for Yavapai Activist-Intellectual Carlos Montezuma Collections Held Across the Nation
+title: "Wassaja - A Carlos Montezuma Project: Digitization, Access, and Context for Yavapai Activist-Intellectual Carlos Montezuma Collections Held Across the Nation"
+year: 2015
+end_range: 2002
+formats: "NULL"
+geographic_extant: "Carlos Montezuma lived and practiced medicine in Chicago, but was originally from Arizona and much of his activism centered on Arizona and the Fort McDowell Yavapai Nation. He also practiced medicine at Carlisle Indian School, Pennsylvania. The Society of the American Indian and Wassaja are national in scope."
+institution: "ASU Foundation for a New American University, aka ASU Foundation"
+institution_type: "NULL"
+primary_contact: "Dr. David Martinez"
+size: "NULL"
+start_range: "1887"
+summary: "The proposed project would digitize and provide metadata for Carlos Montezuma manuscript material held by Arizona State University (ASU) Libraries, The University of Arizona Libraries' Special Collections, and the Wisconsin Historical Society; and provide metadata for material from Newberry Library's D'Arcy McNickle Center. The materials, including the newsletter Wassaja Freedom's Signal for the Indian, which Yavapai activist-intellectual Carlos Montezuma, MD (1866-1923) self-published during 1916-1922, will be preserved in the ASU Digital Repository. An online exhibition, developed in conjunction with the ASU Nexus Lab, will provide context and facilitate community interaction, including work with the Fort McDowell Yavapai Nation, forming an unprecedented network of resources and institutions. Uploading these difficult-to-access resources online would be invaluable to scholars in the fields of the American Indian Progressive Era, activism, journalism, and Indians of the Southwest, in addition to American Indian communities affected by Montezuma's work and legacy."
+hc_id: "16990984"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Arizona State University"
+p2_name:  "Ms. Joyce"
+p2_institution:  "Assocate Librarian"
+p3_name:  "Ms. Dr. Jodi"
+p3_institution:  "Postgraduate Associate"
+material_string: "<li>16466 Manuscripts</li>"
+collaborating_institution:  "University of Arizona Libraries' Special Collections; Wisconsin Historical Society; Newberry Library's D'Arcy McNickle Center"
+grant_amount:  "$408,729"
+material_description:  "Content includes Carlos Montezuma collections from ASU Libraries, University of Arizona Libraries' Special Collections, the Newberry Library, and the Wisconsin Historical Society. This will include issues of \"Wassaja Freedom's Signal for the Indian\" , a self-published newsletter written by Yavapai activist-intellectual Carlos Montezuma, MD (1866-1923), which circulated during 1916-1922. Wassaja was a vital source of news about Indian affairs and reports about the reservation in an era that had few outlets for such information. Much of the news was sent to Montezuma from his many American Indian subscribers. A prominent figure in the early 20th century struggle for Indian rights, a founder of the Society of American Indians, and popular public intellectual best known for his 1915 speech \"Let My People Go!\" , Montezuma was an effective critic of Indian Bureau mismanagement and was notorious for advocating an end to the reservation system and the abolition of the federal agency overseeing what he regarded as an oppressive bureaucracy. Other significant individuals and organizations featured in these collections include Richard Henry Pratt (1840-1924), the Carlisle Indian School (founded by Pratt), the Bureau of Indian Affairs, and the Society of American Indians.\n\nThe ASU collection was purchased in 1973 from Frank D. Novak of Chicago, Illinois. The Newberry's Carlos Montezuma Collection was received in 1984 by David Miller and Frederick Hoxie of the Newberry Library's D'Arcy McNickle Center for American Indian History. The papers were found in a trunk after the death of Montezuma's wife Marie and eventually were brought to the Newberry Library. The Wisconsin Historical Society Papers of Carlos Montezuma were purchased by the University of Wisconsin and the Wisconsin History Foundation in 1972 and donated to the State Historical Society of Wisconsin. The University of Arizona's Montezuma collection consists of materials purchased in 1966-1967 and supplemental materials added in the 1980s."
 ---
-
-

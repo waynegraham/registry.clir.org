@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: MCG Jazz Archive Project
+title: "MCG Jazz Archive Project"
+year: 2014
+end_range: 2014
+formats: "NULL"
+geographic_extant: "All materials relate to performances interviews and educational outreach at MCG Jazz and affiliated sites throughout the Greater Pittsburgh area"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Marty Ashby"
+size: "100 objects"
+start_range: "1987"
+summary: "Manchester Craftsmen's Guild (MCG) Jazz is cataloging its extensive archives of photographs, audio and video recordings, paper records and digital files from more than 2,000 concerts, spanning from 1987 to the present. Information from all of the above sources will be cataloged as metadata and made available on a special search-engine Website called The Jazz Commons. The data will provide a valuable historical record of performances and in-house recording sessions by acclaimed jazz master and emerging artists and ensure a permanent, searchable archive for use by students, scholars, historians and the general public. Much of the data also illustrates MCG Jazz' history of community outreach and educational activities."
+hc_id: "11813263"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

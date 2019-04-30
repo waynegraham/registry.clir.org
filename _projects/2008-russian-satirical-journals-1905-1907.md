@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Russian Satirical Journals 1905-1907
+title: "Russian Satirical Journals 1905-1907"
+year: 2008
+end_range: 1907
+formats: "NULL"
+geographic_extant: "These Satirical Journals were published Russia and the Baltic States."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Marcus Levitt"
+size: "800 objects"
+start_range: "1905"
+summary: "The Revolution of 1905, sometimes described as “the first Russian Revolution,” was a period of major social, political and cultural upheaval. The Revolution launched the country on its first experiment in constitutional democracy and a sudden exhilarating expansion of the public sphere, as the slackening of censorship precipitated unprecedented freedom of public expression that found dramatic outlet in the so-called Satirical Journals, arguably the most distinctive and characteristic artifact of this remarkable period. Somewhere between broadsides and newspapers, the Satirical Journals provide far more than just political commentary on the revolutionary events. Richly illustrated, the journals represent a collaboration of some of the best artists, writers, journalists, political writers and illustrators of the time, from a broad spectrum of literary, artistic, and political groups. Some of the most famous artists and writers include: Leonid Andreev, Leon Bakst, Alexander Benois, Ivan Bunin, Kornei Chukovsky, Maksim Gorky, Boris Kustodiev, Leonid Pasternak, Fedor Sologub and Konstantin Somov. The Satirical Journals have been neglected in scholarship, probably mostly due to their rarity, and present a rich untapped resource for exploration and study. They contain hundreds of extremely rich and beautiful works of art and literature, as well as a treasure trove of material chronicling a complex and important episode in Russian political, social and cultural life."
+hc_id: "261"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "USC Dept Slavic Languages"
+address2:  "Taper Hall"
+city:  "Los Angeles"
+state:  "CA"
+zip: "90089-4353"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

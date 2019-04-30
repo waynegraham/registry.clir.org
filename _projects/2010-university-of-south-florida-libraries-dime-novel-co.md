@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: University of South Florida Libraries Dime Novel Collection
+title: "University of South Florida Libraries Dime Novel Collection"
+year: 2010
+end_range: 1915
+formats: "NULL"
+geographic_extant: "The collection includes dime novels and story papers published in Britain (20%) and the United States (80%). All 6240 uncataloged items are American."
+institution: "Dr."
+institution_type: "NULL"
+primary_contact: "Mark Greenberg"
+size: "6240 objects"
+start_range: "1860"
+summary: "The University of South Florida Tampa Library Special & Digital Collections Department proposes an eighteen-month project to make its hidden collection of approximately 8,000 dime novels, penny dreadfuls, and story papers available for research through an innovative collaboration between graduate students in American literature and library science. Comprised of what previous generations often considered disposable fiction from the mid-nineteenth to the early twentieth century in England and America, the collection at USF features significant runs of titles from over 80 different series of dime novels, five and ten cent weeklies, and nickel backs. Some series, including “Pluck and Luck,” “Tip Top,” and the “New Tip Top Series,” are complete; others consist of extensive runs. The collection includes examples from across the genre's complete spectrum, featuring early prototypes of science fiction, westerns, school stories, detective yarns, sports stories, historical fiction, exploration adventures in the American west and around the world, and romances. Originally targeted at a youthful working class, dime novels now provide an avenue to study the development of popular reading material for young adults, popular culture, and the ways in which the dime novels' authors viewed themselves, their past, present, and future."
+hc_id: "674"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "4202 E Fowler Avenue / LIB 122"
+address2:  "NULL"
+city:  "Tampa"
+state:  "FL"
+zip: "33620-5400"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging Hidden Archives of the University of California Museum of Paleontology
+title: "Cataloging Hidden Archives of the University of California Museum of Paleontology"
+year: 2010
+end_range: 2009
+formats: "NULL"
+geographic_extant: "It documents paleontological and geologic fieldwork in 80+ countries and the historical and sociological contexts within which this work was done."
+institution: "University of California Museum of Paleontology"
+institution_type: "NULL"
+primary_contact: "Charles Marshall"
+size: "691 cubic feet, 1325 linear feet"
+start_range: "1871"
+summary: "The UCMP archives provide the paleontologic, geologic, historical, legal, and sociological context for the several million fossil specimens that comprise our unparalleled collections. They also document the lives of prominent western pioneers, such as Annie Alexander, Joseph LeConte, J.C. Merriam, and John Muir, and have bearing on the history of higher education, natural resources, public policy and public administration, and the establishment of many western National Parks, State Parks and National Forests. They include detailed field notes and annotated papers and maps made by more than 300 scientists and students, some of which document localities that are now lost or destroyed. Thousands of original drawings, newspaper clippings, and photographic documentation of specimens and field sites exist in a wide variety of formats [lantern slides, glass photo plates, large format negatives, 35 mm slides, negatives and prints]. For example, we have photographs of the paleontological artwork of William Gordon Huff, who sculpted the paleontological exhibits for the Golden Gate Exposition of 1939 and 1940; most of this artwork is now missing and presumed destroyed. Also included are the professional correspondence, research notes, libraries, and manuscripts from internationally acclaimed UC faculty, dating from the end of the 19th century to the present and representing the primary archive of this type of scientific work on the west coast."
+hc_id: "653"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Museum of Paleontology"
+address2:  "1101 Valley Life Sciences Bldg., #4780"
+city:  "Berkeley"
+state:  "CA"
+zip: "94720-4780"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$236,200"
+material_description:  "NULL"
 ---
-
-

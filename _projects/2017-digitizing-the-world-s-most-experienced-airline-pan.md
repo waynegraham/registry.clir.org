@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing the ‘World’s Most Experienced Airline’: Pan American World Airways Resources at the University of Miami, Duke University, and HistoryMiami and Development of an Aviation Portal
+title: "Digitizing the ‘World’s Most Experienced Airline’: Pan American World Airways Resources at the University of Miami, Duke University, and HistoryMiami and Development of an Aviation Portal"
+year: 2017
+end_range: 1991
+formats: "NULL"
+geographic_extant: "Pan Am was a global airline that developed and operated flight routes around the world. The materials selected for digitization are worldwide in scope, covering the United States, the Caribbean, Central and South America, Africa, Asia, Europe, and the Pacific."
+institution: "University of Miami Libraries"
+institution_type: "NULL"
+primary_contact: "Ms. Laura Capell"
+size: "NULL"
+start_range: "1921"
+summary: "The University of Miami, HistoryMiami, and Duke University will collaborate to digitize 88 boxes of archival materials, 66 boxes of magazine advertisements, and 500 artifacts related to Pan American Airlines - producing approximately 180,000 digital objects - and will work with the Digital Public Library of America to develop a curated portal on aviation. Pan Am attracts scholars from many disciplines including history, women’s studies, international studies, and labor history; this project will allow access to a significant coherent subset of Pan Am’s history. UMiami will digitize material on flight and route development, company histories, and press releases, HistoryMiami artifacts like uniforms, and Duke a significant collection of Pan Am advertisements. These promotional and operational records highlight the complexity and reach of Pan Am, a leader in globalizing aviation and shaping public perceptions of air travel. All material will be available through a DPLA portal to aviation history, a first."
+hc_id: "26893181"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Miami Libraries"
+p2_name:  "Ms. Béatrice Skokan"
+p2_institution:  "University of Miami Libraries"
+p3_name:  "Ms. Jacqueline Wachholz"
+p3_institution:  "Duke University"
+material_string: "<li>88 Mixed Archival Collections</li>"
+collaborating_institution:  "Duke University; HistoryMiami; Digital Public Library of America"
+grant_amount:  "$448,592"
+material_description:  "The UM Libraries has selected a subset of 88 out of 1500 boxes for digitization based on the high research value of the contents while the Duke University Libraries has selected approximately 45 boxes of magazine print advertisements and outdoor advertising executions for Pan American World Airways, created by two ad agencies, J.Walter Thompson and Wells Rich Greene. HistoryMiami has a collection of over 500 artifacts including uniforms, amenity kits, dining sets, plane models, and lapel pins. The selected items highlight both PanAm’s business operations and its public relations. This blend of promotional and operational records highlights the complexity and reach of Pan Am, which was a leader in globalizing aviation and shaping public perceptions of air travel. The Press Releases, Press Kits, Speeches, print advertisements, uniforms (many designed by major fashion houses), dining sets, and amenity kits are public-facing documents and artifacts portraying a carefully crafted public image. In contrast, the Flight & Route Information series, the Company Histories for Civil Aeronautics Board Cases subseries, and the Marine Bases & Terminals subseries document multiple aspects of Pan Am’s technical and operational history, ranging from the development of flight routes and the construction of facilities to business and regulatory dealings, and contractual work for the US military. This material covers the bulk of Pan Am’s history from its start in 1927 to its bankruptcy in 1991."
 ---
-
-

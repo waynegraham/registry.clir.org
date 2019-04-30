@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Iranian Periodicals up to the 1979 Revolution
+title: "Iranian Periodicals up to the 1979 Revolution"
+year: 2015
+end_range: 1979
+formats: "NULL"
+geographic_extant: "The great majority of these periodicals were published in Iran (in Isfahan, Mashhad, Qazvin, Rasht, Shiraz, Tabriz, Tehran and Yazd). Others are Persian periodicals published by and for Iranian eÌmigreÌ communities in Azerbaijan (Baku), Egypt (Cairo), England (London), India (Bombay, Calcutta), Iraq (Baghdad) and Turkey (Istanbul)."
+institution: "The Trustees of Princeton University"
+institution_type: "NULL"
+primary_contact: "Dr. David Magier"
+size: "NULL"
+start_range: "1854"
+summary: "Princeton University Library's proposal is for a two-year project to digitize and publish in its open-access digital library a selection of Persian language periodicals, covering the tumultuous stages of the intellectual, political and social history of Iran and the Iranian press, from the Qajar dynasty at mid-19th century, leading up to the 1979 revolution. The collection is held in its entirety by the Library's Near East Collections, and was selected for its importance to interdisciplinary scholarship, its documentation of a period of modern Iranian domestic history that is otherwise difficult to study, its mostly unique holdings at Princeton, the limited accessibility of the materials due to their fragility, and the difficulty of discovery due to collection-level cataloging. This hidden collection would be irreplaceable if lost: preserving it and making it discoverable and globally accessible online will provide an invaluable boon to students and scholars of Iran worldwide."
+hc_id: "17463834"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Princeton University Library"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>500000 Serials</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$246,534"
+material_description:  "From the turn of the 20th century, Princeton has been actively collecting Persian manuscripts and Iranian publications resulting in a vast and renowned collection. The collection contains, among other materials, one of the largest Persian manuscript collections in the US, and the single most comprehensive collection of Shiite law outside Iran. After WWII, the pace of collecting increased, creating much deeper holdings of contemporary Iranian imprints, including a vast body of journals dating from a decade and a half before the Constitutional Revolution of 1905-1907 up to the present.\n\n\n\nA key subset of Princeton's Persian collections consists of a core of 442 periodical titles published from the 19th century up to 1979, and amounting to approximately 500,000 pages in a range of print sizes and formats. This particular set of periodicals to be digitized under the current proposal was assembled as a distinct collection by Husayn Kay Ustuvan Tihrani (d.1969-70), himself an author and newspaper editor (most notably of the influential \"Ruznamah-i Muzaffar\"). Kay Ustavan was among the founding members of the Iranian Parliament (Majlis), and served as a diplomat representing Iran in China. He had assembled this personal collection of important, well-regarded Persian magazines, primarily of political and popular content, from his own and earlier eras. The collection covers the culturally and politically important late 19th century (the latter days of Iran's Qajar Period) up to the Pahlavi period -- a span including what is sometimes referred to as the \"Constitutional Period\" of Iran's political history. Rudolf Mach (Princeton's Curator of Near East Collections from the 1950s through the 1970s) purchased this collection from Khalil Mostofi (owner of Kitabforushi Mostofi), who acted as Kay Ustavan's family's representative after his death."
 ---
-
-

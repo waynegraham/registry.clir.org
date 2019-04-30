@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Historic Indigenous Media Collection
+title: "Historic Indigenous Media Collection"
+year: 2017
+end_range: 2013
+formats: "NULL"
+geographic_extant: "The films were created mainly in the United States, with stories from nearly all fifty states, especially states with large Native populations, such as California, Arizona, Oklahoma, Alaska and New Mexico."
+institution: "Vision Maker Media"
+institution_type: "NULL"
+primary_contact: "Ms. Shirley Sneve"
+size: "NULL"
+start_range: "1976"
+summary: "Vision Maker Media (VMM), a Native American nonprofit media organization, will work with 10 cultural institution partners to create high-quality digital copies of analog collections of Native American documentary films, television productions, interviews and raw footage currently archived across institutions in multiple formats. We will digitize over 4,000 films that span several decades. This American Indian and Alaska Native content represents historical and contemporary events and stories from Tribes and Native communities across the United States. The films capture moments of Native lives, tell stories from a Native viewpoint and include some of the most important works of Native American filmmakers in the late 20th century. The collection will be useful to scholars in many fields, Native American communities and the public. Vision Maker Media seeks to make these films publicly accessible as a collection for the first time."
+hc_id: "26893199"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Vision Maker Media"
+p2_name:  "Ms. Alana Stone"
+p2_institution:  "Vision Maker Media"
+p3_name:  "Ms. Susan Hartmann"
+p3_institution:  "Vision Maker Media"
+material_string: "<li>3200 Audiovisual Recordings</li>"
+collaborating_institution:  "Southern California Indian Center/InterTribal Entertainment; Sequoyah National Research Center; Oglala Lakota College; WyomingPBS; United Tribes Technical College (Year 2); American Indian Association of Illinois (Year 2)"
+grant_amount:  "$397,265"
+material_description:  "VMM will digitize and make available over 3,000 individual films that focus on the history, culture, arts, language and heritage of a diversity of Northern American Indigenous peoples, some of which were made for public broadcast and distribution. The materials to be digitized include the works of Native American documentary filmmakers and journalists and audiovisual recordings of interviews and events -- such as honorings, forums and trainings -- at the institutions and Native communities. All of the materials were produced by the collaborating institutions, given to the partners’ archives by the filmmakers themselves, or purchased for distribution by one of the partners. The films reveal many different aspects and stories of the Native experience and will be important to Tribes and education. Some films also show the history of Native American filmmaking in the 20th and 21st centuries. Most of the films are unique and inaccessible in their archived form."
 ---
-
-

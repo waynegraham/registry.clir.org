@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The KNTV Channel 11 News Archive: Revealing the 1960s Experience in San Jose and the Salinas Valley
+title: "The KNTV Channel 11 News Archive: Revealing the 1960s Experience in San Jose and the Salinas Valley"
+year: 2015
+end_range: 1968
+formats: "NULL"
+geographic_extant: "Primarily San Francisco Bay Area, California, with an emphasis on Santa Clara and Monterey Counties and the Salinas Valley."
+institution: "History San José"
+institution_type: "NULL"
+primary_contact: "Ms. Catherine Mills"
+size: "NULL"
+start_range: "1966"
+summary: "History San José will digitize a portion of the KNTV Channel 11 news archive between May 1966 and June 1968, including 1500 16mm black and white films and 276 transcripts, comprising daily broadcasts of local, state, and national news. Nearly 4500 films and 22 linear feet of transcripts were donated to the San José Historical Museum in 1983 by the KNTV Station Controller, spanning years 1965-1980. KNTV was the first television station located in San José, covering the California coast from Monterey north to San Francisco. These original films, never before available for research, constitute new access to this important time period. A small portion of the films, starting with the first film of October 12, 1965 up to May 23, 1966, are being digitized through the grant-funded California Audiovisual Preservation Project. This two-year project will begin digitizing chronologically from that date to provide a linear historical record."
+hc_id: "16947140"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "History San Jose"
+p2_name:  "Dr. Roxanne"
+p2_institution:  "Historian"
+p3_name:  "Dr. Mr. James"
+p3_institution:  "Curator Emeritus"
+material_string: "<li>1500 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$236,900"
+material_description:  "In 1983, 119 boxes of some 4,700 local news film (16mm) reels, shot between 1965 and 1980, were donated to the San JosÃ© Historical Museum by local station KNTV Channel 11. The films, both silent and with sound, were taken by KNTV cameramen. They include black-and-white and color footage, and are accompanied by several runs of newscast scripts and film storage logs. \n\n \n\nKNTV began in 1955 as the first independent television station in San JosÃ©. In 1960, it became an ABC affiliate, but maintained a reputation for strong local news and entertainment programming. Throughout this period, KNTV news continued to focus on local news for the South Bay and an emerging \"Silicon Valley,\"  and Monterey and Salinas--a region distinct from San Francisco-Oakland, or the North Bay. These newsreels cover a significant period of change as the small communities of the South Bay transitioned from a largely agricultural economy and rural-suburban demography to a region-wide, internationally known high-tech center. Coverage of national events--elections, civil rights, the war in Vietnam--also reflects a regional perspective as political debates, student protests, peace marches, and events surrounding local farm worker and tech worker organization were covered. \n\n\n\nDuring newscasts, stories often required at least two film chains (two projectors, synchronized and running simultaneously): the A roll featuring the anchor or reporter in the field, and the B roll, a highly edited silent piece used as background showing the subject as reported. The sound from A roll could continue for the broadcast while the TV image dissolved into the B roll. As a result, in this pre-video tape era, there was no single recording of the show as seen by the television viewer; instead, this is reflected in the written scripts, backed by the relevant film rolls."
 ---
-
-

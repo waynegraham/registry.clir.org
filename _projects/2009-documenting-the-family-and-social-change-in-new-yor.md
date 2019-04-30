@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Documenting the Family and Social Change in New York: A Collaborative Approach
+title: "Documenting the Family and Social Change in New York: A Collaborative Approach"
+year: 2009
+end_range: 1969
+formats: "NULL"
+geographic_extant: "New York State, primarily Whitestown, Jefferson County; Utica, Oneida County; Ithaca, Tompkins County; and New York City. Also other states."
+institution: "Cornell University"
+institution_type: "NULL"
+primary_contact: "Elaine Engst"
+size: "405 linear feet"
+start_range: "1686"
+summary: "These multi-generational family collections are drawn from two institutions to form one inter-related collection of New York State material, spanning the 17th through the 20th centuries. The materials include almost every non-digital format in which people recorded their experiences, including diaries, letters, court documents, maps, photographs, deeds, account books, leases, pamphlets, tax receipts, and church records. There are 21 separate family collections, which often intersect either through intermarriage and/or business relationships. Together they offer overlapping insights into understanding forces of social change that affected Americans, especially war, land development, the creation of transportation networks, and scientific advances. The families (with an example of the topics they illuminate) are: Anderson (Louis Kossuth); Burgess (political science); Chrystie (US Navy); (De Witt) Clinton (Erie Canal); Devereaux (Utica business development); Fish (Revolutionary War); Goldmark (American Chemical Society); Harison (Constitutional Convention); Hoyt (NYC social life); Jay (anti-slavery); Kane-Hand (railroads; Spanish-American War); Kent (Chancellorship of NYS); Kernan (railroads); Ludlow (estate records); Morgan (Congress); Mott (subdividing the Bronx); Renwick (physics,engineering); Sage (lumbering, subways, canals); Van Schaack (Tories); White (hydraulic cement, canals); and Williams (geology, paleontology)."
+hc_id: "435"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "2B Kroch Library"
+address2:  "NULL"
+city:  "Ithaca"
+state:  "NY"
+zip: "14853"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

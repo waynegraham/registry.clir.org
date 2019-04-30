@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing Newport Historical Society's Glass Format Photographic Collections
+title: "Digitizing Newport Historical Society's Glass Format Photographic Collections"
+year: 2015
+end_range: 1940
+formats: "NULL"
+geographic_extant: "These collections provide documentation of Rhode Island's Aquidneck Island, which consists of the towns of Newport, Middletown, and Portsmouth. Neighboring Jamestown, Tiverton, and Narragansett are also featured."
+institution: "Newport Historical Society"
+institution_type: "NULL"
+primary_contact: "Ms. Ruth Taylor"
+size: "NULL"
+start_range: "1910"
+summary: "The Newport Historical Society (NHS) seeks to create access to approximately 13,000 glass plate negatives and lantern slides through a comprehensive digitization initiative. This project will entail not only the digitization of these physically fragile materials, but metadata cataloging and inclusion in the NHS's online platforms for public access. The collections span circa 1910-1940 and represent an underemphasized period in scholarship about Newport's significant history. Of these, 7,405 comprise the Newport Daily News Glass Plate Negative Collection, significant for its documentation of current events from this time period. Over the course of 18 months, the Newport Historical Society will have the collection photographed off-site. A Project Cataloger will work with our librarian and historian to create descriptive metadata and catalog each digital image in an open source collections management system. Upon completing digitization and creating online access, scholarship and programming related to the collections will be provided to the public."
+hc_id: "17620168"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Newport Historical Society"
+p2_name:  "Ms. Chelsea"
+p2_institution:  "Archivist & Manager of Digital Initiatives"
+p3_name:  "Ms. Ms. Jennifer"
+p3_institution:  "Associate Curator of Photography & Costume"
+material_string: "<li>13000 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$92,270"
+material_description:  "The Newport Historical Society's photographic collection contains approximately 200,000 images that date from the beginning of photography to today and represents a comprehensive visual history of Newport, Rhode Island. The Society's glass format photographic collections are comprised of 7,405 glass plate negatives associated with the Newport Daily News, approximately 400 lantern slides, and approximately 5,500 additional glass plate negatives from various collections. All formats date from the same time period, ca. 1910-1940. A majority of the 5500 plates and 400 slides found in collection are of unknown provenance or have been separated from accession records. The Newport Daily News Glass Plate Negatives are the most thoroughly documented, with information about each image written on storage sleeves. \n\n\n\nThe glass format collection includes significant original works by prominent Newport photographers, including Clarence Stanhope (c.1852-1924) and Jonas Bergner (1859-1936). The scope of the glass format collection is broad, and touches on many aspects of daily life from the early-to-mid-20th century. Because of Newport's status during this period as an international resort and center for the Navy, these images are often of more than local interest. Associated subjects include architecture, social and cultural heritage organizations and activities, landscapes and streetscapes, industry and commerce (including Newport's working waterfront), local politics, significant local news events, technology and city infrastructure, urban development, and leisure and sporting culture. Examples of associated groups and organizations include the Boy Scouts, Girl Scouts, fraternal orders, Newport Fire Department, Newport Hospital, and United States Navy. Examples of associated people include U.S. Senator Theodore F. Green, Irish politician Eamon de Valera, aviator Hugh Willoughby, and President Theodore Roosevelt."
 ---
-
-

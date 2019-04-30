@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Voices of Photography: Lectures and Interviews from the Center for Creative Photography
+title: "The Voices of Photography: Lectures and Interviews from the Center for Creative Photography"
+year: 2016
+end_range: 2015
+formats: "NULL"
+geographic_extant: "Photographers, curators, scholars from or who work in Africa, Europe (including Italy, France, Spain, United Kingdom), Japan, Mexico, Middle East (including Afghanistan, Iraq), South America, United Kingdom, United States (all states)"
+institution: "Center for Creative Photography"
+institution_type: "NULL"
+primary_contact: "Ms. Leslie Squyres"
+size: "NULL"
+start_range: "1975"
+summary: "The Center for Creative Photography (CCP) at the University of Arizona proposes a two-year project to digitize 875 videotapes recorded during CCP's forty-year history. The recordings of interviews, lectures, symposia, workshops, and gallery walk-throughs offer insight into the creative process of photographers such as Ansel Adams and Garry Winogrand and perspectives of curators like John Szarkowski and Peter Bunnell. The videos cover photography movements such as pictorialism, modernism, portraiture, and photojournalism. They document the rise of galleries devoted to photography and the formation of photography institutions such as Friends of Photography. They illustrate the importance of photographers as teachers such as Linda Connor and Robert Heinecken. All analog videotapes will be digitized, catalogued, and made searchable on CCP's website, via WorldCat, and YouTube. Scholars, students, and the general public will gain insight into the creative processes behind culturally significant figures in the field of 20th century photography."
+hc_id: "21841452"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Center for Creative Photography / University of Arizona"
+p2_name:  "Ms. Denise GosÃ©"
+p2_institution:  "Center for Creative Photography, University of Arizona"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>875 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$243,593"
+material_description:  "The Center for Creative Photography (CCP) Voices of Photography collection includes 875 videotapes of interviews, lectures, workshops, and symposia with photographers, curators, and scholars. All videos were recorded at CCP between 1975-2015. CCP was founded in 1975 by photographer Ansel Adams. Its first director, Harold Jones, was also a photographer. CCP has enjoyed a longstanding history of collaboration with the most prominent photographers and photography curators of our time. Artists such as Ansel Adams, Harry Callahan, Louise Dahl-Wolfe, Robert Heinecken, Frederick Sommer, and Garry Winogrand, and curators and scholars such as Peter Bunnell, Beaumont Newhall, John Szarkowski and Beth Gates Warren helped shape CCP's collections and its mission. A tangible record of their visits to CCP exists in videotapes. As primary source materials, the videos document the evolution of artistic careers and growth of the field of photographic history. Galleries devoted exclusively to photography such as Helen Gee's Limelight Gallery, Witkin Gallery, and LIGHT Gallery are documented in the videotapes with lectures by early gallery owners. These first person accounts document the beginning of the photography art market that started in the mid-1970s. Their content will help us better understand the origins of our own era of image proliferation and market growth. Other videotapes document a 1975 CCP workshop with The Friends of Photography (est. in 1968). Ansel Adams, Judy Dater, Robert Heinecken, Frederick Sommer, and Jack Welpott were teachers at the workshop. Judy Dater is the only photographer now living. Other videotapes record symposia dedicated to individual photographers, such as Harry Callahan and Garry Winogrand. Videotapes also document collaborative symposia such as \"Patterns of Influence\" during which photography teachers and/or their students shared teaching methods. Combined, CCPs Voices of Photography videotapes bring together scholars, curators, and photographers to contribute to our understanding of photographic history and the medium."
 ---
-
-

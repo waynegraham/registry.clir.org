@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Do No Harm: Discovering the Hidden History of Occupational and Environmental Health in the Dr. Robert A.Kehoe Collection
+title: "Do No Harm: Discovering the Hidden History of Occupational and Environmental Health in the Dr. Robert A.Kehoe Collection"
+year: 2017
+end_range: 1981
+formats: "NULL"
+geographic_extant: "United States; France; Spain; Brazil (Portuguese); Germany; Italy; Sweden; Denmark; Chile; Egypt; China; Australia; Ireland"
+institution: "University of Cincinnati"
+institution_type: "NULL"
+primary_contact: "Ms. Leslie Schick"
+size: "NULL"
+start_range: "1920"
+summary: "Hosted at the University of Cincinnati Libraries, this project will provide digitized images with metadata for over 160,000 pages of manuscripts, diaries and other primary sources from the Kehoe collection. Dr. Kehoe was the pioneer in early lead studies and was considered by many to be the ‘father of environmental and occupational health.’ The project materials encompass lead paint and toys; occupational medicine with regards to lead toxicity exposure and cancer; environmental policy and law; ethical considerations - relationship of academic research institutions and industry; and personal diaries of lead exposed study subjects by Dr. Kehoe and Kettering Laboratory. This unique collection will fill the historical gaps in the areas of occupational and environmental health while highlighting the ways in which independent companies operated in an era absent federal regulations. Further, in light of modern environmental health concerns (Flint, Michigan) the collection will increase the accessibility of relevant historical records."
+hc_id: "25969771"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Cincinnati"
+p2_name:  "Dr. David Stradling"
+p2_institution:  "University of Cincinnati, McMicken College of Arts and Sciences"
+p3_name:  "Mr. Xuemao Wang"
+p3_institution:  "University of Cincinnati"
+material_string: "<li>160000 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$249,625"
+material_description:  "The Robert A. Kehoe collection spans 150 cubic feet and consists of research conducted by Dr. Kehoe in conjunction with the Kettering Laboratory from the 1920s to 1970s. The majority of the collection was submitted to the Henry R. Winkler Center, after Dr. Kehoe’s retirement from the Department of Environmental Health at the University of Cincinnati. Kehoe was recruited by national and international corporations to help determine employee risk for lead and other chemical poisonings. His research was instrumental in creating courses for medical students in Ohio and to train them for occupational health, thereby creating the institute for Industrial Health for the University of Cincinnati. Extensive subject areas and documentation include lead paint in toys; lead toxicity and exposure; tetra-ethyl lead; occupational and environmental medicine; environmental policy and law; the 1948 Donora, Pennsylvania smog incident which killed over 20 people in a 5-day period and was considered the ‘worst air pollution disaster in U.C. History’ and lead to Clean Air Laws; and ethical questions later raised regarding relationships between academic research institutions and industry leaders. Interspersed within these major topics are societal and historical insights detailed most visibly in the diaries of lead study participants (which encompasses over 10 boxes of material); providing a unique perspective into community health in the era prior to government standards and environmental regulations. Major organizations that are prominently featured throughout the collection include the University of Cincinnati, Kettering Lab, Shell Chemical Corporation, Standard Oil, General Motors, DuPont, and ALCOA (Aluminum Company of America)."
 ---
-
-

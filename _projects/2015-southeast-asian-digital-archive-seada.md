@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Southeast Asian Digital Archive (SEADA)
+title: "Southeast Asian Digital Archive (SEADA)"
+year: 2015
+end_range: 2015
+formats: "NULL"
+geographic_extant: "Initially, materials will be primarily collected from the Lowell/Lynn region in Massachusetts; later areas may include Dorchester, Revere, Chelsea and Boston, MA; Providence and Woonsocket, RI; and other areas with a significant Southeast Asian population in New England."
+institution: "University of Massachusetts Lowell"
+institution_type: "NULL"
+primary_contact: "Dr. Sue Kim"
+size: "NULL"
+start_range: "1956"
+summary: "UMass Lowell and its partner organizations - Light of Cambodian Children, Lowell Telecommunications Corporation, Lao Family Mutual Assistance Association, Khmer Cultural Planning Committee of Lynn, Cambodian Mutual Assistance Association, Lowell Historical Society, Angkor Dance Troupe, and others - propose a three-year plan to create a Southeast Asian Digital Archive (SEADA) of materials from the greater Lowell, MA, region. Materials numbering approximately 24,800 items include personal and institutional papers, photographs, audio and audiovisual recordings, books, ephemera, posters, serials, and other items. These literally hidden collections document the experiences of the large refugee and immigrant populations who have lived in the Lowell region since the late 1970s, but much of this material is in danger of being damaged, lost, or discarded. This project implements a number of innovative, efficient digitization and processing technologies and will produce an invaluable, unique resource to scholars across a range of disciplines, particularly history and cultural studies."
+hc_id: "16080194"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Massachusetts Lowell"
+p2_name:  "Mr. Anthony"
+p2_institution:  "Archivist and Metadata Specialist"
+p3_name:  "Mr. Ms. Sopheap"
+p3_institution:  "Program Director"
+material_string: "<li>104 manuscripts, photographs, books, ephemera, posters, serials, and other items</li>"
+collaborating_institution:  "University of Massachusetts Lowell; Light of Cambodian Children; Lowell Telecommunications Corporation (LTC); Lao Family Mutual Assistance Association; Khmer Cultural Planning Committee of Lynn, MA; Cambodian Mutual Assistance Association (Lowell, MA); War Lao Mixayaram - Lao Buddhist Temple; South Viet Nam Veterans Group; Lowell Historical Society; Southeast Asian Water Festival, Inc.; Angkor Dance Troupe"
+grant_amount:  "$498,998"
+material_description:  "The Southeast Asian Digital Archives initiative includes 16 unique collections from numerous community organizations. The entities partnering on this project comprise diverse groups within Eastern Massachusetts, including Cambodian, Lao, and Vietnamese immigrant communities, and include professional non-profits formed in the 1980s such as the Cambodian Mutual Assistance Association and Angkor Dance Troupe as well as informal groups like the South Viet Nam Veterans Group. The Archives can be divided into several subgroups: those collections that are currently accessioned and housed at the University's Library, and those that are actually controlled by the individual organizations. Processing, including the creation of inventories and finding aids, has occurred with only a select few record groups such as the Indochinese Refugee Foundation, Page One Productions, and New England Folklife Center Southeast Asian collections. As part of the University's contribution towards the project, the collaborative partners' archives will be accessioned and processed at the same time as the digitization will be occurring. Those collections not donated to the University at this time will be loaned to the University, processed as digital artifacts, and returned to the community partners. The types of materials are varied. They include such items as organizational records (articles of incorporation, minutes of board meetings, project/grant documents, etc.), event, health, religious or educational materials (programs, flyers, booklets, posters, etc.), photographs, books, manuscripts, and other ephemera. One important component is a series of local Asian language newspapers from the 1990s and early 2000s, which offer a unique historical voice. Also in the collections are video and audio recordings from local cable access and radio programs as well as some community-based history projects, such as oral histories. The subject and content of these collections focus on issues such as immigration, acculturation, cultural preservation, political participation, religious expression, and community organizing."
 ---
-
-

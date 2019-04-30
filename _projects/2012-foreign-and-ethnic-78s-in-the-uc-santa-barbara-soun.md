@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Foreign and Ethnic 78s in the UC Santa Barbara Sound Archives
+title: "Foreign and Ethnic 78s in the UC Santa Barbara Sound Archives"
+year: 2012
+end_range: 1960
+formats: "NULL"
+geographic_extant: "Western European and Latin American sound recordings, primarily from Argentina, Brazil, Cuba, France, Mexico, Peru, Portugal, and Spain."
+institution: "UC Santa Barbara"
+institution_type: "NULL"
+primary_contact: "David Seubert"
+size: "18000 objects"
+start_range: "1900"
+summary: "UC Santa Barbara’s Department of Special Collections holds one of the largest and most diverse collections of historical sound recordings in the United States. The 78rpm disc collection at UCSB numbers 193,000 items. We are requesting funds to catalog a portion of the collection, focusing on recordings from Iberia, France, and Latin America. The 18,000 discs to be cataloged are primarily from Argentina, Brazil, Cuba, France, Mexico, Peru, Portugal, and Spain and date from 1900 to 1960 (the bulk is from 1900 to 1940). The majority of the discs are from the Bruce Bastin/Interstate Music collection, the Edouard Pecourt collection, as well as smaller collections such as the Roberto Eyzaguirre collection of Peruvian 78s. No other public archive in the US has a similar quantity of European and Latin American recordings of popular, vernacular, and ethnic recordings from the first decades of the recording industry. The UCSB Library is a leader in documenting and providing access to early sound recordings. Foreign and ethnic 78rpm discs are increasingly sought after as the focus of scholars’ research expands into previously unexplored areas and we are the only U.S. institution to have a collecting emphasis on commercial foreign and ethnic 78s from around the world. These key resources are important to an increasingly global and interdisciplinary scholarly community where historical recordings are used in the study of a variety of humanistic disciplines."
+hc_id: "989"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Davidson Library"
+address2:  "University of California"
+city:  "Santa Barbara"
+state:  "CA"
+zip: "93106-9010"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$239,600"
+material_description:  "NULL"
 ---
-
-

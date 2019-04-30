@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Hourglass Cruise Comprehensive Digitization Project; Specimens, Data, Ships Logs, and Memoirs of the 1960's Gulf of Mexico Sampling Program
+title: "The Hourglass Cruise Comprehensive Digitization Project; Specimens, Data, Ships Logs, and Memoirs of the 1960's Gulf of Mexico Sampling Program"
+year: 2017
+end_range: 0
+formats: "NULL"
+geographic_extant: "The Hourglass project sampled in the west Florida Gulf of Mexico inshore and offshore waters at 16 stations between Tampa Bay and Fort Myers along the west Florida shelf between 20 and 240 feet deep."
+institution: "Florida Fish and Wildlife Commission- Fish and Wildlife Research Institute"
+institution_type: "NULL"
+primary_contact: "Ms. Robin Grunwald"
+size: "NULL"
+start_range: "0"
+summary: "In the 1960's, marine exploration and cruise sampling lacked systematic repetition for evaluating species life history and ecology. Overfishing in the Gulf of Mexico was showing early signs of future collapse so the Fish and Wildlife Research Institute, formerly the Marine Research Laboratory, ventured to obtain extensive biological data at sixteen stations of various depths on the Gulf of Mexico continental shelf. The sampling program was one of a kind for its systematic approach; the hourglass pattern for inshore and offshore stations launched the Hourglass Cruise program. This project proposes to 3D scan and photographically digitize Hourglass Cruise specimens and the associated field data, fish data, and ships logs- creating a comprehensive marine biological resource of linked data for the online public domain. All digitized matter will be cataloged, uploaded to the FWC publicly accessible digital repository, and all digital materials will be offered to the State Library of Florida."
+hc_id: "26893586"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Florida Fish and Wildlife Research Institute"
+p2_name:  "Mr. Paul Larson"
+p2_institution:  "Florida Fish and Wildlife Research Institute"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>1960 Specimens</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$66,669"
+material_description:  "The 1960's Hourglass Cruise sampling program was one of a kind for its systematic approach; repeated returns to sampling stations in various weather conditions, times of day, month, and year was a inspired approach at the time. Karen Steidinger, a current FWRI biologist researching marine dinoflagellates, was one of the original crew members of the HGC. She is still with FWRI, has provided a letter of support, and will assist with deciphering the data. The field notes to be digitized are the original HGC handwritten sampling notes on “Field Data” forms with information on date, time, and location by station, weather condition, sampling gear, hydrology, depth, specimen notes and remarks. They are completed by project; the data provided changes with the focus of the project. The fish larvae project field notes have ichthyoplankton data. Gonad and otolith data were taken at the lab, this information is compiled in a separate collection of data sheets. The nearly 5000 cataloged vertebrate lots include specimens representing 75 families and 267 species of fish, including bony and cartilaginous (sharks, skates, and rays) groups. These were collected by Robert F. Presley aboard the R/V Hernan Cortez from 1965 to 1967. Samples represent a range of depths and latitudes on the Florida Shelf in the northeastern Gulf of Mexico."
 ---
-
-

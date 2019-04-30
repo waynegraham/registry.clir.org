@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Estela and Ernesto Bravo Film and Video Collection
+title: "Estela and Ernesto Bravo Film and Video Collection"
+year: 2016
+end_range: 2011
+formats: "NULL"
+geographic_extant: "The geographic regions represented in the collection include the United States, Cuba, South Africa, Namibia, Angola, Grenada, and Jamaica."
+institution: "New York University Libraries"
+institution_type: "NULL"
+primary_contact: "Mr. Timothy Johnson"
+size: "NULL"
+start_range: "1983"
+summary: "Estela Bravo is a U.S. citizen who has lived in Cuba for more than fifty years and has been a filmmaker for nearly forty years. Ernesto Bravo is an Argentinian-born physician. Many of their works focus on the relationship between the U.S. and Cuba, tackling such topics as U.S. visitors and residents in Cuba to Cuban immigrants in the U.S. Their lens encompasses the views and experiences of politicians, activists, cultural figures, and everyday people. NYU's Tamiment Library has acquired the film and video archive of the Bravo's and proposes a two-year project to digitize several complete works, and dozens of unedited interviews that were conducted in the process of making those films. The existing formats of the media collection include U-matic and Betacam videotapes and 16mm and 35mm reels. The project intends to make these materials available on the Internet, where they will provide a previously unavailable source."
+hc_id: "23081308"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Tamiment Library, New York University"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>245 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$97,149"
+material_description:  "The Estela and Ernesto Bravo Film and Video Collection comprises the raw materials--interviews, filmed speeches, performances, demonstrations, conversations, archival footage and B-roll--amassed by Estela and Ernesto Bravo in the making of twenty-five films. [The films for this project are selected for their relation to U.S.-Cuba relations.] In July 2012 NYU's Tamiment Library received the collection, comprising 1365 analog videocassettes as well as 35mm and 16mm films, as a donation. The full-length works to be digitized for this project include \"Americans in Cuba,\" \"Los Marielitos,\" \"Those Who Left,\" and \"Flotilla to Cuba.\" \"Three Rafters\" and \"Miami-Havana.\" The films include interviews of cultural figures (Harry Belafonte, Alice Walker), politicians (Charles Rangel, Ricardo Alarcon), activists (Angela Davis, Jesse Jackson) and journalists (Saul Landau, Lee Lockwood), as well as average Cuban immigrants in Miami and U.S. citizens living in, or visiting, Cuba. A large number of the interviews were shot for Bravo's film, \"Fidel,\" which is widely available. Of course, only snippets of the interviews actually made it into the film. The subject coverage includes the Mariel Boatlift; the Pastors for Peace Caravans; the Cuban emigre community in Miami, and the U.S. emigre community in Cuba; Fidel Castro's visits to Harlem, Berkeley, and the Riverside Church in New York; pro- and anti- Castro demonstrations in the U.S.; Cuba's relations with African and Caribbean countries, and U.S.-Cuba relations from all vantage points."
 ---
-
-

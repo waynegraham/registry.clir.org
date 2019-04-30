@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging the Henry Hampton/ Blackside Collection
+title: "Cataloging the Henry Hampton/ Blackside Collection"
+year: 2009
+end_range: 2002
+formats: "NULL"
+geographic_extant: "U.S. for the most part, since the bulk of materials relate to 20th-century American history. However, one documentary examines democracy in Africa."
+institution: "Washington University Film & Media Archive"
+institution_type: "NULL"
+primary_contact: "David Rowntree"
+size: "600 linear feet, 20000 objects"
+start_range: "1900"
+summary: "Washington University’s Film & Media Archive is home to the Henry Hampton Collection. Hampton(1940-98), a St. Louis native and Washington University alumnus, created films that chronicle the 20th century’s great political and social movements, focusing on the poor and disenfranchised. He founded his Boston-based company, Blackside, Inc., in 1968. It became the largest African-American-owned film production company of its time. Over its 30-year history, Blackside won every major award in the documentary industry, including a Peabody Award for Excellence in Broadcast Journalism. Blackside’s work continues to influence filmmakers. Hampton’s best-known film, Eyes on the Prize, attracted over 20 million viewers when it aired in the 1980s-1990s. The Boston Globe praised it as “one of the most distinguished documentary series in the history of broadcasting.” More than 20 years after its release, it remains the definitive work on the civil rights movement. During research and production, Blackside created or collected thousands of items: oral histories, interviews, archival footage, photos, producer notes, scripts, correspondence, rough cuts, and other materials. In 2001, Washington University was awarded this comprehensive collection and created a new facility to house the four tractor-trailer loads of material that had been in storage. These materials, many unseen outside Blackside, are important and unique historical records that offer incredible potential for new research."
+hc_id: "520"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Washington University Film & Media Archive"
+address2:  "1 Brookings Drive"
+city:  "St. Louis"
+state:  "MO"
+zip: "63130"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

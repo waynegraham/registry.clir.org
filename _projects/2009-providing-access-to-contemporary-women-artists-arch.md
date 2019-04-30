@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Providing Access to Contemporary Women Artists’ Archives
+title: "Providing Access to Contemporary Women Artists’ Archives"
+year: 2009
+end_range: 2008
+formats: "NULL"
+geographic_extant: "The collections primarily document women artists from throughout the United States, as well as individual artists from the Americas, Europe, and Asia."
+institution: "Special Collections and University Archives"
+institution_type: "NULL"
+primary_contact: "Fernanda Perrone"
+size: "170 cubic feet"
+start_range: "1945"
+summary: "These collections comprise the records of women artists organizations and individual women artists, dating from 1945 to the present. Much of the material focuses on the 1970s, a time when the relationships among women, art, and society underwent a dramatic transformation. Thousands of individual women artists are represented, ranging from well-known artists to women who may never have exhibited in a gallery. While the majority of these artists are American, also included are women from Canada, Mexico, Europe, the Caribbean, Central and South America, and Asia, many of whom exhibited internationally. The collections reveal the diversity among women artists in race, ethnicity, social class, sexual orientation, and ability. Organizations represented gave a forum for women artists to communicate and display their work, as well as advocating for women’s equity in the museum, gallery, and academic spheres. The collections include a variety of formats, such as letters, pamphlets, photographs, video and audio tapes, compact discs, and a few original works of art. As well as documenting women artists and organizations, the collections document women’s publishing, political organization, and the history of art in the post-war period. The five collections included in the project are the Lucy Lippard Women’s Art Registry; Heresies, inc. Records; the National Association of Women Artists Records; the Elsa Honig Fine Papers; and the Gloria Orenstein Collection."
+hc_id: "482"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Special Collections and University Archives"
+address2:  "169 College Avenue"
+city:  "New Brunswick"
+state:  "NJ"
+zip: "8901"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

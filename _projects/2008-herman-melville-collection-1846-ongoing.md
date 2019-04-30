@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Herman Melville Collection, 1846-[ongoing]
+title: "Herman Melville Collection, 1846-[ongoing]"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "The Melville collection is international in scope. It contains both American and international imprints, and numerous foreign language editions."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Jennifer Thom"
+size: "6100 objects"
+start_range: "1846"
+summary: "The Newberry Library’s Herman Melville Collection is one of the largest collections of Melville material in existence. It was originally assembled to support the work of the editorial staff of The Writings of Herman Melville, a project established by Professor Harrison Hayford of Northwestern University. Professor Hayford's personal library formed the core of the collection, and it has since been greatly augmented by purchases and gifts. Among the large gifts are translations donated by Leland Phelps; the Melville collection of Dr. James A. FitzSimmons; and the Moby Dick collection of Professor H. Howard Hughes. The Collection is nearly complete in its holdings of editions issued during Melville's lifetime. It is also extensive in editions and printings from Melville’s death to the present; collected works and selections; periodicals to which he contributed; anthologies published during Melville’s lifetime which include his writings; translations; books entirely or partially about Melville; dissertations; a representative collection of anthologies and textbooks containing Melville; anthologies which one would expect to include Melville, but don't; books on whaling; books Melville used as source material; books drawing on Melville for their titles or epigrams; books of which Melville owned a copy; and Melville titles in other formats, such as comic books, Braille, and audio tapes."
+hc_id: "10"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "60 W. Walton"
+address2:  "NULL"
+city:  "Chicago"
+state:  "IL"
+zip: "60610"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

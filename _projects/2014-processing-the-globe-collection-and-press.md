@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Processing the Globe Collection and Press
+title: "Processing the Globe Collection and Press"
+year: 2014
+end_range: 2010
+formats: "NULL"
+geographic_extant: "Baltimore (headquarters); United States (client base)"
+institution: "Johns Hopkins University"
+institution_type: "NULL"
+primary_contact: "Mr. Jordon Steele"
+size: "NULL"
+start_range: "1929"
+summary: "Johns Hopkins University and Maryland Institute College of Art will partner to oversee the arrangement, description and preservation of the archives of the Globe Collection and Press. The collection includes business records, posters, letterpress cuts, and other material documenting the history of one of the most important showcard poster companies in the United States."
+hc_id: "12990308"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>800 Artifact (Including Archaeological Objects, Weapons, Machinery, Instruments, Costumes, Textiles, Ceramics, Glass, Furniture, Etc.), Artwork (Including Original Paintings, Prints, Sculpture, Etc.), Ephemera, Image, Manuscript</li>"
+collaborating_institution:  "Maryland Institute College of Art, 1300 W Mount Royal Ave, Baltimore, MD 21217"
+grant_amount:  "$180,156"
+material_description:  "NULL"
 ---
-
-

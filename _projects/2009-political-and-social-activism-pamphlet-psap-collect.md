@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Political and Social Activism Pamphlet (PSAP) Collection: Creating Multiple-point Access through Archival Description and Cataloging
+title: "Political and Social Activism Pamphlet (PSAP) Collection: Creating Multiple-point Access through Archival Description and Cataloging"
+year: 2009
+end_range: 1982
+formats: "NULL"
+geographic_extant: "The PSAP Collection pamphlets are issued from, or are about, the U.S., Latin America, Europe, the former Soviet Union, Asia, Africa and Antarctica"
+institution: "University of Illinois at Chicago Library"
+institution_type: "NULL"
+primary_contact: "Valerie Harris"
+size: "11000 objects"
+start_range: "1846"
+summary: "The University of Illinois at Chicago (UIC) Library proposes a 2-year project to catalog the Political and Social Activism Pamphlet (PSAP) Collection. In the late 1960s, at a time when many libraries considered pamphlets to be expendable, the UIC Special Collections Department began soliciting donations and purchasing pamphlets with a goal of creating a comprehensive, permanent research collection focused on political and social activism. The PSAP Collection enhanced and supplemented the department's collecting strengths in social service and social issues (anchored by Jane Addams' Hull-House records). The PSAP Collection consists of approximately 11,000 titles originating from diverse publishers and agencies. This rich primary source research collection documents social, economic and political issues and events from the 1840s to the 1980s. Publications are primarily from the United States, Great Britain and the Soviet Union, and Asia, Europe and Latin America are represented as well. Pamphlets are a vehicle for special interests and the PSAP Collection represents a range of people, and political and cultural philosophies, from American Indians to youth organizations and what's in-between, such as civil rights, labor and unionism, peace and war, and women's issues. Individually, the pamphlets document important historical events and issues; as a whole they offer an overview of the political, social and economic temper of their times."
+hc_id: "505"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Richard J. Daley Library (MC 234)"
+address2:  "801 S. Morgan St."
+city:  "Chicago"
+state:  "IL"
+zip: "60607"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

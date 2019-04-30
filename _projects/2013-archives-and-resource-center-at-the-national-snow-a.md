@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Archives and Resource Center at the National Snow and Ice Data Center/ Our Melting Past: Accessing the Hidden History of Climate Change
+title: "Archives and Resource Center at the National Snow and Ice Data Center/ Our Melting Past: Accessing the Hidden History of Climate Change"
+year: 2013
+end_range: 2012
+formats: "NULL"
+geographic_extant: "The scope of the collection is global, but concentrated on the poles and glaciated areas."
+institution: "Archives and Resource Center at the National Snow and Ice Data Center"
+institution_type: "NULL"
+primary_contact: "Allaina Wallace"
+size: "108 cubic feet, 121 linear feet"
+start_range: "1850"
+summary: "These collections are a resource for people studying Earth's frozen regions, the history of science, or past climate related to the Earth's frozen regions. Included are materials from early expeditions to Alaska, the Alps, South and Central America, and Greenland. These materials include thousands of maps, photographic prints, glass plate negatives, color slides, ice charts, and 38 cu ft of manuscript materials. Some examples include the field notebooks, manuscript collection, maps, and glass plate negatives and prints of Harry Fielding Reid (1859-1944), considered to be America's first geophysicist. These field notebooks contain not only scientific data but also personal accounts of daily life on the expedition, detailed sketches of glaciers and records of each photograph taken during the trip. Also included are the records of William S. Cooper (1884-1978), who chaired a committee of the Ecological Society of America, which was instrumental in the creation of Glacier Bay National Monument (now a National Park); the field notebooks and photographs of Lawrence Martin (1880-1955), who spent time in the early 1900s on expeditions to Alaska and from 1924-1946 served as Chief of the Division of Maps at the Library of Congress; nearly 500 photographs donated by Bradford Washburn, pioneering mountain photographer and cartographer; National Park Service glacier survey reports covering 7 parks over 56 years; historic films of hikes to Arapahoe Glacier and Long's Peak."
+hc_id: "1109"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "449 UCB"
+address2:  "NULL"
+city:  "Boulder"
+state:  "CO"
+zip: "80309"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

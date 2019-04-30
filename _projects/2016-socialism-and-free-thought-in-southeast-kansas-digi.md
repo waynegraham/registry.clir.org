@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Socialism and Free Thought in Southeast Kansas: Digitizing the Haldeman-Julius Big Blue Book Collection
+title: "Socialism and Free Thought in Southeast Kansas: Digitizing the Haldeman-Julius Big Blue Book Collection"
+year: 2016
+end_range: 1951
+formats: "NULL"
+geographic_extant: "The series of titles published by the Haldeman-Julius Big Blue Book Collection were published in Girard, Kansas, the county seat for Crawford County in Southeast Kansas."
+institution: "Pittsburg State University"
+institution_type: "NULL"
+primary_contact: "Ms. Deborah White"
+size: "NULL"
+start_range: "1925"
+summary: "The 12-month project encompasses the digitization of 340 Big Blue Books produced by Socialist Emmanuel Haldeman-Julius from 1925-1951, and held by Pittsburg State University's Special Collections department at Leonard H. Axe Library. The collection enriches the digital resources available to scholars of socialism, free-thought, women's rights, atheism, and agnosticism at a time when such thoughts were considered radical. It is part of the richest and most complete archival collection of early 20th century socialist and freethought materials produced in southeastern Kansas, which was once called the \"cradle of American social reform.\" The digital files will be stored by Axe Library and made available through PSU's Digital Commons repository; metadata will be harvested by the library catalog and made available globally through Digital Commons."
+hc_id: "22371036"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Pittsburg State University"
+p2_name:  "Ms. Kristin Lawson"
+p2_institution:  "Pittsburg State University"
+p3_name:  "Dr. Jamie McDaniel"
+p3_institution:  "Pittsburg State University"
+material_string: "<li>37824 Books</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$50,213"
+material_description:  "We seek to digitize a portion of the Haldeman-Julius Big Blue Book Collection, in particular those books written by Emmanuel Haldeman-Julius and his wife Marcet Haldeman-Julius. Other authors included are Joseph McCabe, a major contributor of free thought to the Big Blue Book Collection, and Robert G. Ingersoll, a lawyer, Civil War Veteran, and orator of free thought. Within in the collection of books chosen for this project include five series. The first series, The Key to Culture contains forty books published between 1927 and 1929. The second series are The Freethinker's Library contains ten books all published in 1936. The third series are The ABC Library of Living Knowledge contains nineteen books published between 1937 and 1938. These first three series were written by Joseph McCabe and edited by Emmanuel Haldeman-Julius The fourth series are Questions & Answers with twenty-seven books having both a first and second edition published between 1935 and 1950, all written by Emmanuel Haldeman-Julius. The last series are The Liberty Encyclopedia with six volumes edited by Emmanuel Haldeman-Julius and John W. Gunn published in 1934. Topic areas for the books include socialism, atheism, women's rights, companionate marriage, comprehensive sex education, free love, free thought, and progressivism. In total, the Big Blue Books are representative of the worldview of socialist reformers, freethinkers, and union activists from around the nation who, attracted primarily to the Haldeman-Julius socialist press, collaborated in southeast Kansas in the early 20th century."
 ---
-
-

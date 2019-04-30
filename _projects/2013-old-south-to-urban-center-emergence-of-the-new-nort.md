@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Old South to Urban Center: Emergence of the New Northern Virginia Politics
+title: "Old South to Urban Center: Emergence of the New Northern Virginia Politics"
+year: 2013
+end_range: 2011
+formats: "NULL"
+geographic_extant: "The geographic scope of these three collections are Northern Virginia and Washington, D.C."
+institution: "George Mason University Libraries"
+institution_type: "NULL"
+primary_contact: "John Walsh"
+size: "318 cubic feet, 318 linear feet"
+start_range: "1950"
+summary: "These collections relate to politics in the Northern Virginia (NoVa) region during of the region's transformation from rural suburb to urban center. The region changed the state of Virginia while reflecting trends of the South and the U.S. The Dorothy S. McDiarmid Papers, 1950s-1993, document her career in the Virginia General Assembly, 1959-1989. McDiarmid reflected the importance of the NoVa suburbs in opposing Massive Resistance, a state policy closing public schools rather than integrating them. A Democrat representing Fairfax County's 35th District in the Virginia General Assembly's House of Delegates, McDiarmid led the way among the few women in a legislature dominated by men. In addition to integration, McDiarmid championed other issues related to women, teachers, and public education. The Stanford E. Parris Papers, 1964-1987, document a key suburban representative in the transition of the South to a Republican stronghold. Paris was a Republican U.S. Congressional Representative for Virginia's 8th District. Besides partisan issues of the time, Parris also defended suburban NoVa interests against those of central city Washington, D.C. As suburban Virginia integrated more closely into urban D.C., transportation issues became prominent. The Dulles Corridor Rail Association (DCRA) Records, 1985-2011, document the organization led by Patty Nicoson to extend the Washington Metropolitan Metrorail system to Dulles International Airport with the political issues involved."
+hc_id: "1177"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "4400 University Drive"
+address2:  "MSN 2FL"
+city:  "Fairfax"
+state:  "VA"
+zip: "22030"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

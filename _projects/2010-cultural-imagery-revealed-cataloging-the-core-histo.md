@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cultural Imagery Revealed: cataloging the core historical photography collections at the Peabody Museum of Archaeology & Ethnology, Harvard University
+title: "Cultural Imagery Revealed: cataloging the core historical photography collections at the Peabody Museum of Archaeology & Ethnology, Harvard University"
+year: 2010
+end_range: 1967
+formats: "NULL"
+geographic_extant: "The collections are global in scope with an emphasis on the Americas, including Native American cultures and Peabody Museum archaeological expeditions"
+institution: "Peabody Museum of Archaeology & Ethnology"
+institution_type: "NULL"
+primary_contact: "William Fash"
+size: "269 linear feet"
+start_range: "1872"
+summary: "The materials to be cataloged are the core historic photographic prints of the Peabody Museum archives, ranging in dates from circa 1870 to the mid 1960s, reflecting over a century of collecting by the Peabody Museum and representing the oldest photographic images held at the Museum. The collections are kept in acid-free boxes within a climate controlled storeroom, physically arranged on shelves by world area and situated intellectually by accession number (within each world area). The bulk of the core photographs reflect the following world areas in order of geographic emphasis: North, Central and South America (192.25 linear feet); Asia (52 linear feet), Europe (17.5 linear feet), Oceania (15 linear feet) and Africa/Middle East (20 linear feet). This group of photo collections are a series of unique historical prints that represent a significant part of the Museum's collecting history as well as the archival processing backlog; the images remain completely hidden from researchers because of a lack of proper descriptive cataloging that, if carried out, would enable researchers better access to the photographs. Furthermore, this project will provide much needed descriptive metadata for this unique photographic archive by creating MARC records and EAD Finding Aids that will be uploaded to HOLLIS and OCLC/WorldCat databases and made accessible worldwide."
+hc_id: "606"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Peabody Museum of Archaeology & Ethnology"
+address2:  "11 Divinity Avenue"
+city:  "Cambridge"
+state:  "MA"
+zip: "2138"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitization and creation of online access of General Electric historical photographs, 1880-1920
+title: "Digitization and creation of online access of General Electric historical photographs, 1880-1920"
+year: 2016
+end_range: 1920
+formats: "NULL"
+geographic_extant: "GE factory images focus on Schenectady, NY; Pittsfield, MA; Lynn, MA; Bridgeport, CT; Harrison, NJ; Cleveland, OH and other GE factory locations. Product installation photographs cover the continental United States, Japan, Brazil, Great Britain, France, as well as small quantities from other European and Asian countries."
+institution: "Museum of Innovation & Science"
+institution_type: "NULL"
+primary_contact: "Mr. Christopher Hunter"
+size: "NULL"
+start_range: "1880"
+summary: "miSci wishes to digitize and make accessible the 100,000 earliest images in the General Electric Photograph Collection. The project will focus on images from 1880-1920, which document the beginnings of the electrical industry, focusing on inventors, product development, installations of street lighting, and homefront response to World War I. Free online access will leverage existing relationships and utilize the New York Heritage online database, Digital Public Library of America, and miSci's own Vernon collections management system. miSci will hire two digitization technicians and three catalogers for the two years of the project. The project will take advantage of efficiencies in the both the scanning and metadata creation process. Scanning will be made efficient due to consistent image sizes and types. Project catalogers will also take advantage of pre-existing guides and templates, as well as the caption, date, and subject information included on each GE photograph to increase cataloging efficiency."
+hc_id: "22341401"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Museum of Innovation and Science"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>100000 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$250,000"
+material_description:  "This project will digitize the earliest 100,000 images image from the General Electric Photograph Collection, dating from 1880-1920. The overall GE Photo Collection includes 1.2 million prints dating from 1880-1970. The photographs were donated to the GE Hall of History in 1974, which merged with miSci (then known as Schenectady Museum), in 1997. It documents the development of one of the nation's oldest and most influential corporations and the impact GE has had on the development of the 20th century United States. The images were created by photographers within GE's publicity department. The photographs document the development of the electrical industry, the electrification of the United States, late 19th and early 20th century factory work, the development of industrial research, and the invention, improvement and marketing of a variety of electrical products, including electric lights, fans, irons, toasters, electric locomotives, turbine-generators, motors, and many other products. The collection features famous GE inventors, including Thomas Edison, Elihu Thomson, Charles Steinmetz, Irving Langmuir, and William Coolidge. It also includes many images of factory workers, both everyday workers at GE and employees at utilities and other manufacturing and industrial businesses utilizing GE industrial products. The collection documents manufacturing processes at GE and other companies. GE industrial products powered the manufacturing operations of nearly every other major corporation, including Postum, Anheuser Busch, Bethlehem Steel, sugar processing companies in Mexico and Cuba, and coal mining companies in Pennsylvania and West Virginia, just to name a few. Product installation photographs are an important part of the collection. Lighting installation scenes show downtown street scenes across the United States, ranging from the earliest night photographs of Times Square to the electrification of small town main streets. Photographs of electric streetcars featuring GE motors highlight street transportation from Korea and France to New York City and Schenectady."
 ---
-
-

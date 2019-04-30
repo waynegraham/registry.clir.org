@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Unearthing a Half-Century of Archaeological Research in Indiana: Digitizing the Report of Investigations and Archaeological Report Series
+title: "Unearthing a Half-Century of Archaeological Research in Indiana: Digitizing the Report of Investigations and Archaeological Report Series"
+year: 2017
+end_range: 11
+formats: "NULL"
+geographic_extant: "The 120 collections to be digitized cover archaeological investigations from all of Indiana and parts of western and central Ohio. All three physical regions in Indiana are represented including the Northern Moraine and Lake (northern third), the Central Till Plain (central third) and the Southern Hills and Lowlands (southern third)."
+institution: "Ball State University"
+institution_type: "NULL"
+primary_contact: "Dr. Kevin Nolan"
+size: "NULL"
+start_range: "11"
+summary: "Ball State University’s Applied Anthropology Laboratories (BSU/AAL) executes a 24-month project digitizing over 50 years of archaeological research, making significant Indiana archaeological data accessible and searchable to professionals and publics for the first time. These hidden collections include project files for 18 Archaeological Reports and 102 Reports of Investigations (AR/ROIs) from 1965 to present. AR/ROI reports are scanned, digitized, and redacted, as necessary; representative artifacts from these projects are 3D scanned and photographed; key field notes and maps are digitized and uploaded into The Digital Archaeological Record (tDAR). These AR/ROIs cover virtually all of Indiana’s long occupation history from the earliest (~11,500 B.C.) pre-contact Native American chronology, land-use behavior, religious and ritual practices through twentieth century farmsteads, military engagements, and historic Native American village/settlements. These difficult to access and underutilized collections contain valuable information for the public, Native American scholars, historians, and ethno-historians throughout the Midwest and the nation."
+hc_id: "26223150"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Ball State University"
+p2_name:  "Ms. Christine Thompson"
+p2_institution:  "Ball State University"
+p3_name:  "Mr. Matthew Purtill"
+p3_institution:  "Ball State University"
+material_string: "<li>2400 Artifacts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$249,545"
+material_description:  "The materials to be digitized are 120 collections including 18 Archaeological Reports (dated 1965 through 1984) and 102 Reports of Investigations (dated 1980 through present). These collections represent over 50 years of archaeological research in the state of Indiana conducted by various archaeologists associated with BSU/AAL. These collections reflect archaeological research across the entire state including 42 of 92 counties within Indiana. Topics range from the earliest Native American colonizers who entered North America at the terminus of the Ice Age, to research into the origin and meaning of the earthen burial mounds that dotted the Ohio Valley and fueled speculation from America’s greatest minds including Thomas Jefferson, to documentation of military engagements such as the Mississinewa Campaign of the War of 1812, to research into African-American and Quaker farmers of East-Central Indiana. Specific AR/ROIs focus on pre-contact mounds and earthworks, large scale surveys of specific Indiana counties or river drainages, transportation related archaeology compliance projects, historic houses, and specific archaeological sites, including National Register listed pre-contact sites. See uploaded Collections List for details. Original funding agencies for this research include the National Park Service, Historic Preservation Fund, Corps of Engineers, BSU funded field schools, Preserve America, Ohio History Fund, and client funded federally mandated cultural resource management projects. Each individual AR/ROI collection is curated at BSU and consists of a technical report (sometimes 2 volumes), up to 30,000+ pre-contact and historic artifacts, maps, field notes, data sheets, etc."
 ---
-
-

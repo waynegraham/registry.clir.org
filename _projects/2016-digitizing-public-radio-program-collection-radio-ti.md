@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing Public Radio Program Collection Radio Times with Marty Moss-Coane
+title: "Digitizing Public Radio Program Collection Radio Times with Marty Moss-Coane"
+year: 2016
+end_range: 2007
+formats: "NULL"
+geographic_extant: "Many of the 6,481 recorded hours to be digitized are national in scope of content and interest with some having a focus on issues specific to the Greater Philadelphia Region."
+institution: "WHYY, Inc."
+institution_type: "NULL"
+primary_contact: "Ms. Kyra McGrath"
+size: "NULL"
+start_range: "1988"
+summary: "WHYY seeks support to digitize and create free access to its 28-year collection of the award-winning public radio program Radio Times with Marty Moss-Coane. Produced and owned totally by WHYY, this engaging and thought-provoking daily interview program examines regional, national, and international news, explores new ideas and trends, and introduces listeners to fascinating people including Pulitzer Prize-winning authors, playwrights, and poets; city, state and national legislators; government officials; actors; musicians; scientists; historians; and corporate leaders. Audio recordings from the program spanning 1988 to 2012 need to be digitized. This grant will support the digitization of the most at-risk audio recordings of the collection- 6,276 recoded hours on digital audio tape (DAT) files and 205 recorded hours on reels. The grant will also support basic metadata creation and the creation of a rich metadata application profile and template. WHYY will open access to the collection via WorldCat and Pennsylvania DPLA."
+hc_id: "22302446"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "WHYY"
+p2_name:  "Mr. William Weber"
+p2_institution:  "WHYY"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>6481 Audio Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$249,884"
+material_description:  "The 6,481 recorded hours to be digitized in the Radio Times with Marty Moss-Coane collection cover a host of topics with important scholarly value including: local and national news, international affairs, environmental issues, judicial issues, governance, science, athletics, wars and conflict, politics, education, children, historical preservation, literature, film, television, and an array of social issues. The Radio Times collection contains in-depth interviews with many prominent individuals including Supreme Court Justice Sandra Day O'Connor, author Salman Rushdie, athlete Diana Nyad, President Jimmy Carter, Vice President Al Gore, actress Jane Fonda, and Secretary of State Madeline Albright. Literature is well represented in the Radio Times audio recordings to be digitized with many Pulitzer Prize-winning author interviews including novelist Toni Morrison, science writer Deborah Blum, American biographer and historian Doris Kearns Goodwin, fiction writer Jhumpa Lahiri, author and opinion columnist Anna Quindlen, and poet Paul Muldoon. Other award-winning author interviews include Amy Tan, Pearl Cleage, and Nora Ephron. This Radio Times collection is also rich with music, stage and film artist interviews including Patti Labelle, LeVar Burton, Phyllis Diller, Mike Farrell, Kevin Bacon, Matt Dillon, David Duchovny, Dennis Quaid, Lawrence Fishburne, and Wynton Marsalis. Radio Times has covered dozens of local, state-wide, and national elections, and has interviewed numerous past and present Members of Congress, government officials and state legislators about important public policy issues. These Radio Times audio files include interviews with past and present governors of Pennsylvania, mayors of Philadelphia, the state attorney general, the Philadelphia DA, and the leaders of many local nonprofits and universities. This Radio Times collection documents important Philadelphia-related events like the opening of the Kimmel Center, many Mummer's Parades, the inclusion of Laurel Hill Cemetery as a National Historic Landmark, the Amtrak 188 derailment, Pope Francis' visit to Philadelphia, and the Republican National Convention in 2000."
 ---
-
-

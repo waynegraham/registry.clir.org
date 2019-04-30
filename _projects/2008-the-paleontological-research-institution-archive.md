@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Paleontological Research Institution Archive
+title: "The Paleontological Research Institution Archive"
+year: 2008
+end_range: 1956
+formats: "NULL"
+geographic_extant: "United States, Caribbean, Latin America"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Eleanor Brown"
+size: "200 cubic feet"
+start_range: "1890"
+summary: "The Paleontological Research Institution (PRI) Archive consists of over 200 cubic feet of documents assembled by the founders of PRI from the late nineteenth to mid-twentieth century, as well as the personal papers of more than a dozen of their colleagues and students, many of whom were important in the early geological and petroleum exploration of the U.S. Gulf coastal plain, Caribbean, and Latin America. The PRI Archive include the personal and scientific papers of PRI’s first two directors, Gilbert Harris (1864-1952) and Katherine Van Winkle Palmer (1895-1982), as well as around a dozen of their students and colleagues from the period ca. 1900-1970. Several of these individuals – including a notable number of women - were important in the history of geological and petroleum exploration of the U.S. Gulf coastal plain, Caribbean, and Latin America, including petroleum geologists Axel Olsson (1889-1976), Floyd Hodson (1893-1971), Helen Plummer (1892-1951), Carlotta Maury (1874-1938), and Norman Weisbord (1901-1990), and prominent academic paleontologists John Wells (1907-1994) and Curt Teichert (1905-1996). These materials also include the original maps and field notes that document the fossil and other specimens these individuals gathered in the PRI collections."
+hc_id: "290"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "2B Carl A. Kroch Library"
+address2:  "NULL"
+city:  "Ithaca"
+state:  "NY"
+zip: "14850"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

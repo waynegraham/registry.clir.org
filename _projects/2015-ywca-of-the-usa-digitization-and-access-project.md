@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: YWCA of the USA Digitization and Access Project
+title: "YWCA of the USA Digitization and Access Project"
+year: 2015
+end_range: 1970
+formats: "NULL"
+geographic_extant: "The YWCA of the USA is the U.S. national affiliate of the World YWCA. As a result, the geographic coverage of the records is primarily the United States of America, though there is significant documentation of its work in South America, Europe, Africa, and Asia."
+institution: "Smith College"
+institution_type: "NULL"
+primary_contact: "Ms. Elizabeth Myers"
+size: "NULL"
+start_range: "1869"
+summary: "The Young Women's Christian Association of the USA (YWCA) Digitization and Access Project will digitize and make available online 379 reels of microfilmed YWCA records, the primary YWCA serials, and YWCA photographs currently held as part of the YWCA of the U.S.A. Records at Smith College Special Collections. The project consists of three phases over two years 2016-2018: (1) digitization of the content, (2) building robust metadata, and (3) public release, promotion, and access. The records addressed by this project span from 1869-1970 and are fully processed, but locked in physical form and therefore not accessible to the widest possible audience. This popular and rich content represents transnational history, as well as the intersections of race, gender, geography, immigration, socio-cultural politics, and U.S. national policy. An organization that advanced equality and the highest principles of democracy, the YWCA records should likewise be broadly available to the public."
+hc_id: "18603474"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Smith College"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>379 16 mm microfilm</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$250,000.00"
+material_description:  "The Young Women's Christian Association is a worldwide movement, which aims to develop the leadership of women and girls to achieve human rights, health, security, dignity, freedom, justice, and peace for all people. Two predecessor organizations merged in 1906 to form the current YWCA of the U.S.A. Materials to be digitized include records of the predecessor organizations; the resulting merged Association's central file; board and committee minutes and reports; files on local YWCAs around the U.S.; records of its international work (all on microfilm); the Association's major serials (hard copy); and an estimated 20,000 photographs depicting the work of the YWCA in the U.S. and internationally, 1869-1970. As an organization seeking to help women \"lead larger lives,\" the YWCA aimed to meet the needs of the time and place while striving to be a fertile organization, both \"clear sighted and far sighted.\" The Association's values and the remarkable commitment of its membership and staff were in large part a result of a non-hierarchical organizational structure that insisted on the involvement of members in all phases of its work. The YWCA fostered women's leadership while providing opportunities for meaningful coalition-building across age, class, geographic, and racial barriers. As a result, its exceptionally broad and ever-evolving program generated remarkable records. Staff reports, minutes, and hundreds of publications document activities traditionally associated with the \"Y,\" (such as physical education, health, personal enrichment, Christian-oriented club work, and wholesome accommodations) along with labor activism, race relations, social Christianity, and sex education. Young women served included immigrants, factory workers, American Indians, African-Americans, and teenage girls. The burgeoning of women's history prompted the YWCA to establish its own archives in 1976, an effort that ultimately proved unsustainable. The Association placed its surviving records at Smith College in the early 2000s."
 ---
-
-

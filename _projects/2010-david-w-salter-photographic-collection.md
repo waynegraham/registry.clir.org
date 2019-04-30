@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: David W. Salter Photographic Collection
+title: "David W. Salter Photographic Collection"
+year: 2010
+end_range: 1965
+formats: "NULL"
+geographic_extant: "The collection consists of photographs of railroads and related material, primarily from the SE US, including GA, TN, FL, & AL - urban & rural."
+institution: "Kennesaw Museum Foundation/Southern Museum of Civil War & Locomotive History"
+institution_type: "NULL"
+primary_contact: "Jeffrey Drobney"
+size: "1180 cubic feet"
+start_range: "1930"
+summary: "The Salter photo collection is arguably the most comprehensive collection of railroading's \"Golden Age in the South\". It covers the region's railroads from the late 1930's through the 1960's, decades that saw such important milestones as: The last of steam and the earliest diesels (Salter was an early pioneer in the use of color to document the stunning paint jobs on early diesels); The first streamliners, postwar passenger train expansion, and the last of the private railroad passenger trains at the dawn of the 1971 Amtrak takeover; The last days of local freight and branch line runs; The dramatic changes in freight trains, spanning the last of the \"drag freights\" and locals to the pioneer \"piggyback\" trains of the 1960s that forecast the fast, single-purpose intermodal trains that now dominate. The collection covers railroad lines that few, if any other, photographers recorded. Although Salter documented busy mainlines, his favorite locations were lightly traveled branchlines and secondary mains that most railroad photographers shunned, no doubt inspired in part by the railroad line of his hometown, Pitts, GA, where only a few trains passed daily. Such locations were far more typical of the South in the middle years of the last century, where rural life hung on far longer than in more populated parts of the country. Salter's collection also includes photos of regionally significant photographers, such as Frank E. Ardrey Jr., Hugh M. Comer, and George Mock."
+hc_id: "612"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Southern Museum of Civil War & Locomotive History"
+address2:  "P.O Box 846"
+city:  "Kennesaw"
+state:  "GA"
+zip: "30156"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

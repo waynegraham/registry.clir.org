@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Newspaper Photograph Collections at HistoryMiami: Describing Images of a Multicultural Metropolis
+title: "Newspaper Photograph Collections at HistoryMiami: Describing Images of a Multicultural Metropolis"
+year: 2014
+end_range: 2012
+formats: "NULL"
+geographic_extant: "The geographic scope mainly covers the Miami area and southeast Florida, with other parts of Florida, the Caribbean and the Americas also represented."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Rebecca A. Smith"
+size: "76 cubic feet, 370 linear feet"
+start_range: "1940"
+summary: "The Miami area has emerged as one of America's most vibrant and cosmopolitan multicultural cities. Newspaper photograph collections in HistoryMiami's archives visually document this growth, but only the photographic prints have been adequately described and are regularly used. The other, far more extensive media--negatives (most without corresponding prints), slides, transparencies, born-digital images, papers, records and artifacts--are overlooked by scholars, mainly for the lack of description. This three-year project will create finding aids for three large collections--the Miami News, the Miami Herald and Tim Chapman collections--totaling 370 linear feet and 76 cubic feet of photographs and related materials."
+hc_id: "11943861"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "<li>76 Artifact (Including Archaeological Objects, Weapons, Machinery, Instruments, Costumes, Textiles, Ceramics, Glass, Furniture, Etc.), Image, Manuscript, Maps</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

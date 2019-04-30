@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: PBS NewsHour Digitization Project.
+title: "PBS NewsHour Digitization Project."
+year: 2015
+end_range: 2007
+formats: "NULL"
+geographic_extant: "The PBS NewsHour predecessor programs were aired nationwide on public television stations, five nights a week. These programs covered national and worldwide news and cultural affairs."
+institution: "WGBH Educational Foundation"
+institution_type: "NULL"
+primary_contact: "Ms. Karen Cariani"
+size: "NULL"
+start_range: "1975"
+summary: "This 40-year collection of daily broadcast news programs includes The Robert MacNeil Report, The MacNeil/Lehrer Report, The MacNeil/Lehrer NewsHour and The NewsHour with Jim Lehrer. This project will digitize 32 years, from October 1975-December 2007, the complete collection of program materials currently on obsolete analog formats. This 30-month project is a collaboration between WGBH, Greater Washington Educational Telecommunications Association (WETA), WETA's wholly-owned subsidiary NewsHour Productions LLC, and the Library of Congress for the American Archive of Public Broadcasting (AAPB). The project will digitize, preserve and allow public access via the AAPB website to PBS NewsHour's predecessor programs that are currently on obsolete video formats of 2\" , 1\" , ¾\" and Beta. The project will digitize nightly programs from 1975 until December 2007 that chronicle American and world history, providing scholars access to original source material, including interviews with presidents and other world leaders and reports on major issues and events. More than 9,000 existing transcripts for the entire 40 years of programs (1975 - present) will be made available. As part of the AAPB, scholars will be able to compare and study the differences between national news and local news from public media stations across the country."
+hc_id: "18602634"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "WGBH Educational Foundation"
+p2_name:  "Dr. Alan Gevinson"
+p2_institution:  "Library of Congress"
+p3_name:  "Ms. Annette Miller"
+p3_institution:  "WETA"
+material_string: "<li>9391 Audiovisual Recordings</li>"
+collaborating_institution:  "Library of Congress; Greater Washington Educational Telecommunications Association (WETA)"
+grant_amount:  "$500,000"
+material_description:  "The PBS NewsHour collection consists of every broadcast between October 20, 1975, and December 16, 2007, of PBS NewsHour predecessor programs that were recorded on obsolete analog formats (The Robert MacNeil Report; The MacNeil/Lehrer Report; The MacNeil/Lehrer NewsHour; and The NewsHour with Jim Lehrer). The collection currently exists on deteriorating, obsolete 2\", 1\", and 3/4 inch videotape, and Betacam. In the half-hour format of the first eight years, these programs provided in-depth analyses of one major news event each evening, concentrating largely on politics and government. Expansion to one hour in 1983 allowed taped reports from around the nation and the world along with segments devoted to international affairs, science, the economy, defense, the environment, health and medicine, books, the arts, and the humanities. With 57 minutes per program, compared with 22 minutes or less in commercial evening news programs, the NewsHour provided a forum for newsmakers and experts in many fields to present their views at length in a format intended to achieve clarity and balance, rather than brevity and ratings. In 1982, Time magazine called the series \"TV's best discussion of public affairs.\" A later Gallup Poll found the NewsHour the \"most believed\" American news program. The series has won more than 200 awards. These programs have featured lengthy interviews with leading newsmakers including presidents, Supreme Court justices, members of Congress, every secretary of state since 1976, and with world leaders, including the Shah of Iran, Ayatollah Khomeini, Fidel Castro, Muammar Khadafy, Yasser Arafat, Menachem Begin, Boris Yeltsin, Vaclav Havel, Nelson Mandela, and Margaret Thatcher. The collection includes extensive coverage of election campaigns, African-American history, global and domestic health care, poverty, technology, immigration debates, the end of the Cold War, terrorism, the economy, climate change, energy issues, religion, education issues, rural life, scientific exploration, poetry, and the media."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Book Traces @ UVA: Digitizing Readers' Marks in Nineteenth-Century American Literature
+title: "Book Traces @ UVA: Digitizing Readers' Marks in Nineteenth-Century American Literature"
+year: 2017
+end_range: 1922
+formats: "NULL"
+geographic_extant: "All the selected books are American literature. Nearly all the imprints are American, predominantly Boston, New York, and Philadelphia, although a handful of Virginia imprints (including Richmond, Charlottesville, and Shadwell) and other American cities are represented as well. A small minority are of British, Canadian, or unknown imprint."
+institution: "The University of Virginia"
+institution_type: "NULL"
+primary_contact: "Ms. Kara McClurken"
+size: "NULL"
+start_range: "1800"
+summary: "In our two-year CLIR-funded effort “Book Traces @ UVA: Hidden in Plain Sight,” we successfully identified and catalogued thousands of unique reader interventions in pre-1923 books held in the University of Virginia Library circulating collections. In this one-year follow-up project, we propose to digitize all of the Library’s uniquely modified monographs in the field of American literature dated 1800-1922, and to explore crowdsourced transcription of marginalia, making the books more discoverable and accessible through the Library’s online catalog. This collection has potential to facilitate research on book history, reader reception, and—because many of the books and their readers have ties to Virginia and the University of Virginia—local history. We also want to demonstrate the value of retaining unique local copies of non-rare nineteenth century books as university libraries around the country move towards shared print repositories and face pressures to de-duplicate the lower-circulation items in their collections."
+hc_id: "26893556"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Virginia Library"
+p2_name:  "Mr. Andrew Stauffer"
+p2_institution:  "University of Virginia"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>735 Books</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$248,228"
+material_description:  "We propose to digitize at 735 uniquely-modified books of American literature from the circulating collection at the University of Virginia. Each book has been identified as containing at least one reader intervention such as marginalia or insertions. We believe that most of the books were donated to the Library by Virginia residents; 75% of the books bear bookplates indicating their provenance and about 150 different names appear on the bookplates."
 ---
-
-

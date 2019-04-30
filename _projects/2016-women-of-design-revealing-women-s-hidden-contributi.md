@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Women of Design: Revealing Women's Hidden Contributions to the Built Environment
+title: "Women of Design: Revealing Women's Hidden Contributions to the Built Environment"
+year: 2016
+end_range: 2010
+formats: "NULL"
+geographic_extant: "The selected collections feature women from ten countries in Europe, North America, South America, and Africa who practiced architecture in the United States. The women represented in these collections practiced in California, Connecticut, Illinois, Massachusetts, Missouri, New Jersey, New York, Oregon, South Carolina, Virginia, Washington, Washington, D.C., and Wisconsin."
+institution: "Virginia Tech"
+institution_type: "NULL"
+primary_contact: "Dr. Aaron Purcell"
+size: "NULL"
+start_range: "1929"
+summary: "Virginia Tech maintains the world's largest and longest continually operating collection of archival materials documenting women's contributions to architecture and design. This two-year project will digitize, describe, and provide virtual access to approximately 800 cubic feet of materials that illuminate the contributions of women to architecture and design in the United States and across the world from 1929-2010. Digitization will facilitate meaningful scholarly explorations into the historic contributions of women to the built environment, 20th century gender and labor issues, women's experiences in higher education, and international migration studies. Representing the legacies of thirty women from ten countries who practiced architecture and design in the United States, these collections comprise architectural drawings and design sketches, personal and professional correspondence, project files, business records, and photographs. Digitization of these underutilized collections will make the legacies of this traditionally marginalized community discoverable, accessible, and usable to a new generation of multidisciplinary scholars."
+hc_id: "23081249"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Virginia Tech"
+p2_name:  "Ms. Samantha Winn"
+p2_institution:  "Virginia Tech"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>800 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$232,356"
+material_description:  "For over thirty years, Virginia Tech has documented the work of more than 400 women in architecture and design. This effort, known as the International Archive of Women in Architecture (IAWA), represents a joint partnership between Virginia Tech's University Libraries and College of Architecture and Urban Studies. Recognizing that women's contributions to the built environment have historically been overlooked in academic curricula, published scholarship, and exhibitions, the IAWA was founded to collect, preserve, and provide access to documentary evidence of women's participation in the fields of architecture and design. In the thirty years since the IAWA was established, architectural historians, educators, and practitioners have increasingly engaged with these collections to supplement existing scholarship and disrupt standard narratives about the male dominated field of architecture, the evolution of the built environment in the United States, and the experiences of women as professionals throughout the 20th and 21st centuries. Focusing on the collections of thirty women who worked in architecture and design from 1929 through 2010, this digitization project, \"Women of Design,\" prioritizes collections with high research potential and few intellectual property restrictions. Selected collections include the papers of Frank Lloyd Wright apprentices Jane Duncombe, Eleanore Pettersen, and Lois Gottlieb; pioneering American Institute of Architects Fellows Zelma Wilson, Jean Young, and L. Jane Hastings; Rosaria Piomelli, first female dean of any U.S. school of architecture; professors Dorothee Stelzer King, Milka Bliznakov, Susana Torre, and Marcia Feuerstein; independent firm owners Paula Treder, Melita Rodeck, and Marie-Louise Laleyan; and several members of the Association for Women in Architecture. Selections for digitization comprise architectural drawings, mixed media artwork, travel diaries, personal and professional correspondence, project files, and photographs. Materials are primarily in English and German, with small selections in Bulgarian, French, Italian, and Spanish. Project metadata will include basic English translation of core elements."
 ---
-
-

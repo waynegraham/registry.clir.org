@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: History of Sustainable Agriculture: Louis Bromfield and His Legacy
+title: "History of Sustainable Agriculture: Louis Bromfield and His Legacy"
+year: 2010
+end_range: 1975
+formats: "NULL"
+geographic_extant: "National (every state, particularly, Ohio, Texas, Kansas, Nebraska, California, et al.) and international (Brazil, India, Africa, Russia, et al.)."
+institution: "The Ohio State University"
+institution_type: "NULL"
+primary_contact: "Geoffrey D. Smith"
+size: "188 cubic feet"
+start_range: "1938"
+summary: "The substance of the Louis Bromfield collection falls into three areas: his agricultural writings (soil conservation, agronomy, hydrology); political writings preceding and during the Joseph McCarthy era; and his literary work (fiction, screenplays, criticism). The geographic scope is national and international, particularly Brazil and Africa. In light of current national and international issues, such as world famine and drought, access to the Bromfield Collection documents research of national and international agricultural causes and reforms of enduring importance. Bromfield's innovative theory and practice of sustainable farming is still applicable today. In fact, as an international agricultural crisis escalates, sustainable farming becomes an ever more important topic in the minds of farmers, scientists and politicians. In some cases, the Bromfield Collection contains the only extant records of such fugitive materials as transcripts of radio broadcasts and speeches to numerous business and community organizations. Bromfield's affiliation with the Friends of the Land organization provides a detailed account of the history of the early environmental movement. The extensive collection of political newspaper columns broadens the appeal of the collection. Expanded access to this collection would be of service to such disciplines as agricultural and scientific history, political history, American studies, sociology and international studies."
+hc_id: "631"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "6070 Ackerman Library"
+address2:  "610 Ackerman Rd."
+city:  "Columbus"
+state:  "OH"
+zip: "43202"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

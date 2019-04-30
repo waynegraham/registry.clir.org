@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Saratoga Springs: The Place to See and Be Seen: Scenes Through the Eyes of Merchandizing Photographers
+title: "Saratoga Springs: The Place to See and Be Seen: Scenes Through the Eyes of Merchandizing Photographers"
+year: 2015
+end_range: 2015
+formats: "NULL"
+geographic_extant: "Saratoga Springs, New York\n\nSaratoga County, New York"
+institution: "Saratoga Springs Public Library"
+institution_type: "NULL"
+primary_contact: "Mr. Dan Hubbs"
+size: "NULL"
+start_range: "0"
+summary: "Saratoga Springs was the place “to see and be seen” socially, and the popularity of stereographic images of the \"scenes\"  was international. While many of these images exist in multiple repositories, often the descriptions are minimal and the people unidentified. The goal of this eighteen month project is to make available to researchers the stereoscopic and postcard images, with corresponding metadata and contextual descriptions that are currently hidden in the collections of Saratoga Springs Public Library and the Saratoga Springs Historical Society . The largest collection is the Robert Joki Stereoscopic Collection which is comprised of over 1400 images; many considered unique not only because of the scenes they depict but because of the reputation, style and popularity of the photographer. In addition to the Joki Collection, SSPL and the SSHS hold an additional 325 orphan images and approximately 900 postcards to also be included in the project."
+hc_id: "17146118"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Saratoga Springs Public Library"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>2700 stereoscopic photographs, postcards</li>"
+collaborating_institution:  "Saratoga Springs Historical Society- the Saratoga History Museum"
+grant_amount:  "$50,989"
+material_description:  "\"A story in a picture,\"  the Robert Joki Stereoview Collection at SSPL illustrates the rich history of the city as primarily seen during the Victorian Era and the Gilded Age. Purchased by the Friends of SSPL in 2013 from Joki's estate, it is one of the largest collections of stereographic images pertaining to nineteenth century Saratoga Springs in existence. In addition, 300 images from the collections of SSPL and the SSHS are included. The Saratoga postcard collection, an artificial collection of postcards held by SSPL, captures scenes dating from app. 1900 to 2015.\n\n\"Sa-ragh-to-ga,\"  Mohawk for the revered hunting ground of the indigenous people, was not populated with colonists until circa 1775 and the town was not incorporated until 1819. Within 50 years, it had grown into a resort area attracting the rich, the famous, and those seeking health cures or the excitement of gaming. From the Native's discovery of the healthful properties of the waters to the Revolutionary War's Battle of Saratoga, the founding of the Saratoga Race Track, the development of the Spa as a world renowned medical facility, and the Gambling Era, Saratoga Springs' history has had profound local and national significance. Arrivals to holiday were announced in the daily newspaper- names like Vanderbilt, Whitney, Twain, Roosevelt. The hotels, some of the largest in the world, accommodated them in grandeur while contingents of Eastern Europeans came for the waters and stayed in what is proudly known as \" the Gut.\"  Also depicted in the images are many locals working the hotels and gaming establishments. \n\nThe name \"Saratoga\"  has been used in over 20 towns in the US and as far away as Australia. Florida's Disney World has modeled the Saratoga Spring's Resort and Spa after the \"August Place to Be\"  as the City has been known."
 ---
-
-

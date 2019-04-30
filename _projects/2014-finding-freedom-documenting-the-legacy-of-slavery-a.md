@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Finding Freedom: Documenting the Legacy of Slavery and African American History through the Collections of the Maryland State Archives
+title: "Finding Freedom: Documenting the Legacy of Slavery and African American History through the Collections of the Maryland State Archives"
+year: 2014
+end_range: 1869
+formats: "NULL"
+geographic_extant: "Maryland, entire state"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Christopher Haley"
+size: "111 objects"
+start_range: "1774"
+summary: "The Friends of the Maryland State Archives [MSA] proposes a detailed processing/documentary heritage project of the freedom papers in its collection. This project will fully process 111 manumission and certificate of freedom record series covering the period of 1774-1869 and publish the results online in the Guide to Government Records catalog [http://guide.mdsa.net/]. The MSA will digitize and place images of these record series online as the matching component. This project will be conducted by 3 full time professional archival staff members. Quarterly, each individual will completely process 9 collections, including digitization, and conduct a minimum of 1 public outreach activity based on the material they have processed to date."
+hc_id: "10482285"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

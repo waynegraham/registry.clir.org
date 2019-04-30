@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The American Academy in Rome: Creating Access to the Records of Academy Life and Works of American Scholars and Artists
+title: "The American Academy in Rome: Creating Access to the Records of Academy Life and Works of American Scholars and Artists"
+year: 2014
+end_range: 2013
+formats: "NULL"
+geographic_extant: "International including Rome and New York City"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Sebastian Hierl"
+size: "123 linear feet, 8000 objects"
+start_range: "1894"
+summary: "Over a period of 14 months, the American Academy in Rome will survey, preserve and catalog the \"American Academy in Rome\" archive of materials relating to the Academy's history, architecture, development, and community, including: digital and analog collections of photography, original Academy correspondence and documentation, books, and ephemera. While preservation and cataloging will make in-house use of the collections more user-friendly, the eventual result will be inclusion in and international access through the Academy's new online Digital Humanities Center, the deposit of original materials with the Archives of American Art, and discovery via major professional online directories such as ArchiveGrid."
+hc_id: "10170304"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "<li>8000 Artifact (Including Archaeological Objects, Weapons, Machinery, Instruments, Costumes, Textiles, Ceramics, Glass, Furniture, Etc.), Audiovisual, Ephemera, Image, Text (Including Electronic Texts)</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

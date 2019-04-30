@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: "The Revolutionary City: Philadelphia, 1774-1783"
+title: "\"The Revolutionary City: Philadelphia, 1774-1783\""
+year: 2015
+end_range: 0
+formats: "NULL"
+geographic_extant: "All material included in this project relates to the city of Philadelphia and its immediate suburbs (notably Germantown). Some of the materials included were produced elsewhere such as Paris or London but are directed at correspondents in Philadelphia."
+institution: "Trustees of the University of Pennsylvania"
+institution_type: "NULL"
+primary_contact: "Mr. James Green"
+size: "NULL"
+start_range: "0"
+summary: "Philadelphia is the iconic city of the American Revolution, home to the Continental Congress, Independence Hall, and the Liberty Bell. Most Americans associate it with the Declaration of Independence, the founding of a new nation, and the story of how a united citizenry declared themselves free, overthrowing a monarchy to create a democracy. The project will tell this story through collections housed in four of Philadelphia's great repositories: the American Philosophical Society, the Historical Society of Pennsylvania, the Library Company of Philadelphia, and the University of Pennsylvania. These institutions hold the papers of some of the best-known Philadelphia revolutionaries, such as Benjamin Franklin and Thomas Paine. However, the project will do more than tell their well-established story. Its primary goal is to comprehensively digitize the vast array of small, often-overlooked, collections in these institutions that tell the compelling personal story of how the Revolution affected the city and its residents."
+hc_id: "17605714"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Library Company of Philadelphia"
+p2_name:  "Page"
+p2_institution:  "Director"
+p3_name:  "Dr. Patrick"
+p3_institution:  "Librarian"
+material_string: "<li>105349 Manuscripts</li>"
+collaborating_institution:  "American Philosophical Society (APS); Historical Society of Pennsylvania (HSP); Library Company of Philadelphia (LCP)"
+grant_amount:  "500000"
+material_description:  "Put simply, this project will digitize all substantive manuscript material created in Philadelphia or directly relating to Philadelphia during the revolutionary years (1774-1783) held by the APS, HSP, LCP, and Penn. In addition, because of their ephemerality and frequent inclusion of manuscript notes, we are also digitizing all 396 printed broadsides produced in Philadelphia during 1774-1783 held by these institutions. Though no archive can claim to hold the entirety of the manuscript record of life in the Revolutionary City, the four institutions represented here - three of which claim Benjamin Franklin as a founder - possess perhaps the most substantial collection of material on this period anywhere in the world.\n\n \n\nFor discrete items (manuscript volumes and single letters) the criterion is relatively straightforward-- if created in Philadelphia during the period, items have been included regardless of content. For collections under 1 linear foot which contain material within scope as well as that from different years/topics, we err on the side of completeness rather than artificial selectivity and will digitize whole volumes and collections.\n\n \n\nFor larger archival collections, we have carefully selected coherent ranges of material which encompass the most relevant material. For example, the Bradford family papers held at the HSP contain 242 linear feet of material dating from 1620 to 1906. To digitize the entire collection would be impractical and tangential to the purpose of this project, thus staff at the HSP have selected series within the collection which fall within the scope of the project, totaling nearly 5.5 linear feet.\n\n \n\nIn our selection process we recognized the need to avoid cutting off otherwise complete holdings based solely on the dates of the American Revolution, while understanding that what makes this collection of collections a valuable scholarly resource is exactly the temporal and geographic scope it embodies."
 ---
-
-

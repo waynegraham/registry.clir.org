@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing the Scientific Illustrations from the Herndon G. Dowling Herpetological Collection
+title: "Digitizing the Scientific Illustrations from the Herndon G. Dowling Herpetological Collection"
+year: 2017
+end_range: 1993
+formats: "NULL"
+geographic_extant: "The drawings represent snake clades from all continents. Every recognized snake lineage is represented in this collection. A concentration of the species represented represent the Neotropical snake diversity."
+institution: "Western Connecticut State University"
+institution_type: "NULL"
+primary_contact: "Mr. Brian Stevens"
+size: "NULL"
+start_range: "1957"
+summary: "We seek support to digitize and make accessible approximately 1000 original herpetological drawings associated with the work of Dr. Herndon Dowling. Dowling was a snake systematist with major interests in snake morphology and its influence upon snake evolution. He spent 70 years in the field, in major museums, and in herpetological collections observing, recording, and analyzing specimens. Though many of his research specimens are part of the collections at the American Museum of Natural History, the original drawings of these specimens and observational data reside in this Collection. The digitized drawings will provide a vital primary source asset for students of vertebrate zoology, specifically herpetology, morphology, and ecology. Graduate students who will be part of the Connecticut State Universities and Colleges new program in Integrated Biodiversity will focus heavily on snake conservation and will utilize this unique Collection. Digitization will also preserve this material and open it to the world."
+hc_id: "25299456"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Western Connecticut State Univeristy"
+p2_name:  "Dr. Theodora Pinou"
+p2_institution:  "Western Connecticut State University"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>1000 Artworks</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$110,577"
+material_description:  "The materials to be digitized are primarily ink on board illustrations of snake morphology. The drawings to be digitized are part of the body of morphological evidence used by snake systematist Herndon G. Dowling in his life's work revising the classification of the snakes of the world. This is a remarkable collection that can provide a researcher with a unique perspective on the work of this important scientist and in particular the study of snakes. Dowling's research and writings challenged conventional theories of snake evolution and relationships in the late 1990s, and was instrumental in integrating morphology and newer molecular techniques to explain the evolution of snakes over time. Most drawings were created between 1968 and 1993. A large number of the drawings are by Frances Waite Gibson and date from the 1968-1972. Most drawings in the collection can be traced back to a dedicated specimen, and these specimens are detailed in Herndon Dowling's specimen lists and field notebooks. While there are some exceptions, most of the drawings are details of snake anatomy such as their hemipenes, heads, scale patterns, vertebrae, and maxillaries. In many cases, the species represented are extremely rare and the drawing my be otherwise unpublished. Many of the original drawings were used in Herndon Dowling's published research manuscripts."
 ---
-
-

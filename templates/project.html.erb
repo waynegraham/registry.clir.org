@@ -1,7 +1,34 @@
 --- 
 layout: project 
-title: <%= @project[:title] %>
+title: <%= @project[:title].to_json %>
+year: <%= @project[:year] %>
+end_range: <%= @project[:end_range] %>
+formats: <%= @project[:formats] %>
+geographic_extant: <%= @project[:geographic_extant] %>
+institution: <%= @project[:institution] %>
+institution_type: <%= @project[:institution_type] %>
+primary_contact: <%= @project[:primary_contact] %>
+size: <%= @project[:size] %>
+start_range: <%= @project[:start_range] %>
+summary: <%= @project[:summary] %>
+hc_id: <%= @project[:hc_id] %>
+program: <%= @project[:program] %>
+grant_type: <%= @project[:grant_type] %>
+project_url: <%= @project[:project_url] %>
+address1:  <%= @project[:address1] %>
+address2:  <%= @project[:address2] %>
+city:  <%= @project[:city] %>
+state:  <%= @project[:state] %>
+zip: <%= @project[:zip] %>
+repository_url:  <%= @project[:repository_url] %>
+funded:  <%= @project[:funded] %>
+p1_institution:  <%= @project[:p1_institution] %>
+p2_name:  <%= @project[:p2_name] %>
+p2_institution:  <%= @project[:p2_institution] %>
+p3_name:  <%= @project[:p3_name] %>
+p3_institution:  <%= @project[:p3_institution] %>
+material_string: <%= @project[:material_string] %>
+collaborating_institution:  <%= @project[:collaborating_institution] %>
+grant_amount:  <%= @project[:grant_amount] %>
+material_description:  <%= @project[:material_description] %>
 ---
-
-
-<%#= @project[:description] %>

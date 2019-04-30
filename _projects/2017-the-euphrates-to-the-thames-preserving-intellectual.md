@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: “The Euphrates to the Thames: Preserving intellectual discourse from Arab and Islamic diaspora in late 20th century London, selected recordings from the Mohamed Makiya Archive at MIT Libraries.”
+title: "“The Euphrates to the Thames: Preserving intellectual discourse from Arab and Islamic diaspora in late 20th century London, selected recordings from the Mohamed Makiya Archive at MIT Libraries.”"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Massachusetts Institute of Technology (MIT) Libraries"
+institution_type: "NULL"
+primary_contact: "Dr. Sharon Smith"
+size: "NULL"
+start_range: "NULL"
+summary: "MIT Libraries has acquired 90’ of audiocassette recordings from the Mohamed Makiya estate. Makiya was a renowned Iraqi architect, who lived his later years in London in exile. In 1986, Makiya founded the Kufa Gallery in London as a diwaniya for Arab culture, a place for social and cultural gatherings. His aim was to keep the Arab and Islamic intellectual, artistic, and humanistic traditions alive. Recordings of Arab musicians, artists, and humanities scholars at the Kufa Gallery and elsewhere are included in the collection. These rare recordings contain an endangered Arab intellectual and cultural heritage at great risk of being lost. The MIT Libraries seeks to preserve these recordings and publish them on the open access library web site Archnet. Activities will include NEDCC digital preservation, transferal of files to MIT’s storage server with back-up, editing tapes as needed, publishing on Archnet, and internationally publicizing their accessibility."
+hc_id: "25732709"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Massachusetts Institute of Technology"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "60 recorded hours"
+collaborating_institution:  "NULL"
+grant_amount:  "$16,868"
+material_description:  "Dr. Mohamed Makiya (https://archnet.org/collections/123/authorities/13), University of Baghdad School of Architecture co-founder and London-based Kufa Gallery founder, donated 90 feet of audiocassette tape recordings to the Aga Khan Documentation Center at MIT Libraries (AKDC@MIT) in his estate. These recordings document the intellectual vibrancy of Arab cultures in the late 20th century represented in lectures, symposia, concerts, and conversations conducted primarily at London’s Kufa Gallery by both Arab and British scholars of Middle Eastern humanities, art, and architecture. (See https://archnet.org/collections/123/publications/10061 for a catalog of Kufa Gallery events.) Makiya founded the Kufa Gallery in 1986 as a diwaniya for Arab culture, a place for social and cultural gatherings. Makiya kept the recordings in his London apartment until his donation to AKDC. The AKDC has the documentation (attached) to demonstrate full ownership of the tapes. The recordings include lute concerts, poetry readings, and lectures on such topics as: the history of Jewish Iraqis; Sumarian civilization; Babylonian philosophy; Sufi artistic traditions; the pre-Islamic era of Iraq; and understanding the Dead Sea Scrolls. Many other social scientists, architects, historians, and artists whose scholarly narratives were interrupted by regional conflict or oppressive political regimes, are included in the collection. Makiya and his peers had a strong desire to expose the general public to a humanistic view of the Islamic Arab world, its history, and culture. Many monuments and scholarly documents created by Arab people have been destroyed over the course of the last century. These recordings offer one means to preserve an endangered cultural heritage. Makiya’s intention in leaving the recordings, as well as his papers and architectural drawings to the AKDC, was to ensure that they would always be accessible to the people of Iraq and other Arab countries. In many cases, the recordings can be linked to other appropriate documents housed on Archnet."
 ---
-
-

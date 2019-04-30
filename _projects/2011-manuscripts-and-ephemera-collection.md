@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Manuscripts and Ephemera Collection
+title: "Manuscripts and Ephemera Collection"
+year: 2011
+end_range: 2010
+formats: "NULL"
+geographic_extant: "This material relates directly to the five boroughs of New York City and the immediate metropolitan area, with Manhattan predominating."
+institution: "Museum of the City of New York"
+institution_type: "NULL"
+primary_contact: "Lindsay Turley"
+size: "422 boxes, 187 linear feet"
+start_range: "1700"
+summary: "The Museum seeks to catalog approximately 16,500 objects from the Museum's Ephemera Collection. These objects document the day-to-day life of New Yorkers over the last 300 years with the bulk of the materials dating to late 19th and early 20th centuries. The ephemera comprise a variety of formats, including print material such as menus, invitations, pamphlets, and handbills; textiles such as pennants, sashes, ties, and scarves; and three-dimensional artifacts such as badges, buttons, children's identification tags, and promotional items. The subject of the material encompasses political campaigns and elections; social events such as concerts, lectures, and balls; civic celebrations such as bridge openings, subway openings, and centennials; institutions such as volunteer fire departments, churches, and schools; personal identification such as passports, licenses, and citizenship papers; retail developments, including trade cards, advertisements, bills, and receipts; and materials related to political movements such as Prohibition and women's suffrage. Many objects were originally owned by or related to influential New Yorkers, such as the Belmont, Havemeyer, Whitney, and Livingston families. Materials in the Ephemera Collection are encyclopedic in their range, but geographically focused on New York City and its immediate area."
+hc_id: "761"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Museum of the City of New York"
+address2:  "1220 Fifth Avenue"
+city:  "New York"
+state:  "NY"
+zip: "10029"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: OHS Sound Recording Digitization Pilot Project
+title: "OHS Sound Recording Digitization Pilot Project"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Oregon Historical Society"
+institution_type: "NULL"
+primary_contact: "Ms. Shawna Gandy"
+size: "NULL"
+start_range: "NULL"
+summary: "The OHS Research Library proposes a pilot project to launch our efforts to digitize items in our extensive sound recording collection which are currently inaccessible due to format obsolescence and preservation concerns. We lack the equipment and expertise to conduct this work in house and qualified local services are equally lacking. The OHS sound recording collection contains thousands of magnetic tapes in a variety of formats that have long surpassed their life expectancy. Materials range widely in subject matter and are of high interest to scholars and the public. This proposal includes interviews and related soundscapes on a diverse set of topics, including Pacific Northwest Art, Russian Old Believers, and the timber industry. The digital files will be stored in the OHS digital preservation system and made available to the public via the OHS Digital Collections website. This project will also provide valuable experience for designing and executing future projects."
+hc_id: "26006320"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Oregon Historical Society"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "70 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$24,850"
+material_description:  "All source materials are unprocessed, uncataloged, and minimally described in the internal OHS sound recording database. Information is limited as we lack reliable playback equipment. As a result, the following materials are largely unavailable to the public: The Frances Price Cook Collection consists of a series of interviews on 8 open reel tapes conducted in 1979 by Frances Cook, the niece of C.S. Price, one of Oregon's most influential artists. She interviewed a number of people who knew her uncle well. Cook donated the collection in 1998. We recently obtained copyright via her estate holder, Gwen Putnam. Uncataloged audiocassette submasters make access possible, but without a direct means of discovery. The Russian Old Believers Collection consists of a mix of oral histories and soundscapes from Oregon’s Russian Old Believer communities, on 62 open reel tapes and 41 audiocassettes, gathered for a documentary film produced by Margaret Hixson in 1981. The collection, which also includes the original film, as well as outtakes, trims, and paper records, was donated to OHS in 1987. A signed deed of gift confers copyright to the OHS. Descriptions within our sound collection database are based upon what was written on the original boxes. The documentary film is available online at http://www.folkstreams.net/film,171. Additional materials include three interviews on four digital audiotapes (DAT) conducted by OHS oral historian Clark Hansen, in 1995 and 1996, for an OHS museum exhibit on Oregon's Willamette Valley. Each has associated audiocassettes, but because we do not have the technology to play the DATs, it is unclear if these are duplicates or supplements. These are the only known DATs in our collection, and as the format is particularly problematic, we’ve included them in this project."
 ---
-
-

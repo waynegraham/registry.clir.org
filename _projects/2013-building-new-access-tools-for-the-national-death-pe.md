@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Building New Access Tools for the National Death Penalty Archive
+title: "Building New Access Tools for the National Death Penalty Archive"
+year: 2013
+end_range: 2010
+formats: "NULL"
+geographic_extant: "The scope of the project is the United States with a particular focus on the states that have, or at one time had a state death penalty statute."
+institution: "University at Albany"
+institution_type: "NULL"
+primary_contact: "Brian Keough"
+size: "710 cubic feet"
+start_range: "1960"
+summary: "The University at Albany’s National Death Penalty Archive (NDPA)'s mission is to build a collection of archival materials from individuals and national organizations that played substantive roles in the history of capital punishment. Through a partnership between the School of Criminal Justice and the Library that began in 1999, the NDPA has acquired personal papers and organizational records to document the emergence, development and coordination of a political and social movement related to the death penalty. The NDPA collections present a comprehensive picture of political debate, reform, legal maneuvering and academic research from nationally recognized experts on legal executions in the United States. Scholars gain access to primary sources that provide insight into the process, influence and interplay of academic scholarship and political debate over capital punishment. The NDPA contains primary sources in compelling thematic areas, such as civil rights, advocacy efforts of victims' families and legal history as well as research examining challenges to the death penalty's constitutionality, deterrence, wrongful convictions and sentences for capital crimes. Dating from the 1960s through the 2000s, the NDPA contains many nationally significant collections including the official records of the National Coalition to Abolish the Death Penalty, David Baldus Papers, and Capital Jury Project interviews with over 1,200 jurors from 353 capital trials in 14 states."
+hc_id: "1074"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Science Library 352"
+address2:  "1400 Washington Avenue"
+city:  "Albany"
+state:  "NY"
+zip: "12222"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$119,900"
+material_description:  "NULL"
 ---
-
-

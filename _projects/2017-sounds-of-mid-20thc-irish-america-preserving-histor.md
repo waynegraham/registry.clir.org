@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Sounds of mid-20thc Irish-America: preserving historic music field recordings for research access
+title: "Sounds of mid-20thc Irish-America: preserving historic music field recordings for research access"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Boston College"
+institution_type: "NULL"
+primary_contact: "Ms. Kimberly C. Kowal"
+size: "NULL"
+start_range: "NULL"
+summary: "Boston College hosts internationally-known archival collections supporting the study of lrish traditional music; two of these, the James W. Smith Irish Music Collection and Joe Lamont Irish Music Collection, include open-reel tapes of unpublished music representing a classic case of high-value research content inaccessible without digitization and preservation. The 1950s/60s music performances feature some of New York and Boston's most prominent Irish musicians at the time, and the informal nature and setting of the recordings - noncommercial \"jam sessions\" in public and private spaces - capture uniquely the time and spirit of this evolving musical genre. The recordings are presently inaccessible and at risk of loss, requiring professional attention. This project will treat and transfer 150 tapes; release descriptive metadata online; and publicize the importance of preservation and its value to musicologists, performers of Irish and folk music, and scholars of Irish-American history, cultural anthropology, and folkways of immigrant communities."
+hc_id: "26928770"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Boston College"
+p2_name:  "Ms. Elizabeth Sweeney"
+p2_institution:  "Boston College"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "150 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$30,775"
+material_description:  "NULL"
 ---
-
-

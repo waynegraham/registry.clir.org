@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: A Century of Development in Boston: Digitizing and Georeferencing Large-Scale Urban Atlases from 1861 to 1965
+title: "A Century of Development in Boston: Digitizing and Georeferencing Large-Scale Urban Atlases from 1861 to 1965"
+year: 2016
+end_range: 1965
+formats: "NULL"
+geographic_extant: "City of Boston, including the annexed towns of Charlestown, East Boston, South Boston, Roxbury, Dorchester, West Roxbury, Brighton, and Hyde Park."
+institution: "Norman B. Leventhal Map Center, Inc."
+institution_type: "NULL"
+primary_contact: "Dr. Ronald Grim"
+size: "NULL"
+start_range: "1861"
+summary: "The Leventhal Map Center's goal is to provide digital access to LMC's collection of 1861-1965 Boston area fire insurance and real estate atlases. These atlases are an invaluable resource for researching the city's physical growth and change, industrial location, immigrant neighborhoods, architectural and urban planning, environmental hazards, genealogy, and local history. Individuals using these atlases are the Map Center's largest single category of researchers, constituting about 75 percent of all inquiries. The atlases' extensive detail and accurate surveys make them especially valuable in the digital humanities, where geographically referenced versions of them can be further used in a range of software and applications as well as being spatially searched online. To complete the LMC collection and make it fully available digitally, an outside facility specializing in oversized books will digitize 27 atlases, and 60 atlases will be georeferenced so they can be easily searched, accessed, and analyzed."
+hc_id: "21545886"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Norman B. Leventhal Map Center, Inc."
+p2_name:  "Mr. Evan Thornberry"
+p2_institution:  "Norman B. Leventhal Map Center, Inc."
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>2100 Maps</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$80,000"
+material_description:  "The Leventhal Map Center (LMC) at the Boston Public Library (BPL) was created in 2004 as a public-private partnership between the BPL and Norman B. Leventhal to serve as the steward of the library's historically significant cartographic collections. The collection includes nearly 200,000 maps and 5,000 atlases dating from the 15th century to the present. In 2007, the LMC became an independent nonprofit organization. LMC's permanent collections are global in scope, with four core strengths: American Revolutionary War era, Boston and New England, World Urban Centers, and Nautical Charts. The fire insurance and real estate atlases are a part of the World Urban Centers collection and are amongst the most requested assets. As such they are a priority for digitization. LMC has the most complete existing set of fire insurance and real estate atlases for the City of Boston. It includes 72 individual volumes published from the 1860s through the 1960s. The G.W. Bromley Company published a majority of these atlases from 1883 to 1938. They provide coverage of Boston's various neighborhoods including Boston Proper, Charlestown, East Boston, South Boston, Roxbury, Dorchester, West Roxbury, Brighton, and Hyde Park. The earliest atlas in this collection is a rare copy of the 1861 atlas of Boston by Charles Pinney, the very first fire insurance atlas of the city. Equally rare is Daniel Sanborn's 1867 three-volume set of fire insurance atlases of Boston and the neighboring towns of Roxbury, Charlestown, and Cambridge. This is one of the first publications produced by the Sanborn Company, which came to dominate the fire insurance publishing business by the end of the 19th century. The most recent coverage is a five-volume set published by the Boston Redevelopment Authority in 1965."
 ---
-
-

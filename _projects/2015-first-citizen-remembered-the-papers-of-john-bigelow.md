@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: First Citizen Remembered: The Papers of John Bigelow and the Nation at Home and Abroad, 1833-1911
+title: "First Citizen Remembered: The Papers of John Bigelow and the Nation at Home and Abroad, 1833-1911"
+year: 2015
+end_range: 1911
+formats: "NULL"
+geographic_extant: "Many areas of the United States and Central America are represented, as are materials from Bigelow's appointments and his family's travels in France, Belgium, Germany, Great Britain, and other parts of Europe. John Bigelow' Jr.'s diary covers his military service in Texas and the New Mexico territory."
+institution: "Trustees of Union College"
+institution_type: "NULL"
+primary_contact: "Ms. India Spartz"
+size: "NULL"
+start_range: "1833"
+summary: "This 24-month project will digitize the diaries, scrapbooks, and complete file of over 21,000 letters of John Bigelow and his immediate family held in the Special Collections Department of Schaffer Library at Union College. Bigelow (1817-1911), subject of the Pulitzer Prize-winning biography Forgotten First Citizen by Margaret Clapp (Little Brown, 1947) was an author, abolitionist, newspaper editor, diplomat, and influential public servant throughout his long life, and this digitization project will make available to scholars the largest archive of Bigelow material in the world. The project will be accompanied by a vigorous outreach program that will encourage immediate use of the collections, contribute metadata as well digital surrogates to a variety of platforms, provide professional transcriptions of the diaries in addition to a mechanism by which the public can submit draft transcriptions of the letters, and make catalog data about Bigelow's personal library more widely available for study and enhancement."
+hc_id: "17197083"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Union College"
+p2_name:  "Ms. Annette"
+p2_institution:  "Librarian / Director of Collection and Technical Services"
+p3_name:  "Ms."
+p3_institution:  "NULL"
+material_string: "<li>84 letters/correspondence</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$226,700"
+material_description:  "The Papers of John Bigelow (Union College Class of 1835) were donated to the College by his descendants in the mid-20th century. They include over 21,000 letters, portions of his own and his eldest son's diary, 16 volumes of his wife's diary, 18 scrapbooks, working papers for selected professional projects, and approximately 4000 books from his personal library. All of these materials, with the exception of the books, will be digitized and made available through surrogates and metadata hosted on a variety of freely-accessible platforms. Already-complete catalog data for Bigelow's library collection will also be made more widely accessible through this project.\n\n\n\nCollectively, these resources constitute the single largest record of Bigelow's exceptionally broad range of interests and accomplishments during his seven decades of service to the nation. Particularly significant letters pertain to his activities as a newspaper editor in antebellum New York, his work as U.S. consul to France during the Civil War, his recovery of the manuscript materials for Benjamin Franklin's autobiography and his subsequent publications on Franklin as well as on many other topics, and his involvement in the establishment of the Panama Canal and a variety of cultural world-class cultural institutions in New York City including the Metropolitan Museum of Art, Central Park, and the New York Public Library. His correspondents include numerous U.S. presidents, governors, and foreign dignitaries; associates and friends such as William Cullen Bryant and Andrew Carnegie; individuals involved in common social concerns such as the anti-slavery movement, prison reform, and the women's rights movement; literary figures and artists such as Charles Dickens and Herbert Adams. Family correspondence and his wife's diary contribute perspective to this social era, and the diary of his eldest son John, who commanded a unit of Buffalo soldiers, documents camp life during the Apache Wars."
 ---
-
-

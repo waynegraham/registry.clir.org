@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Robert H. Ruby Papers
+title: "Robert H. Ruby Papers"
+year: 2016
+end_range: 2010
+formats: "NULL"
+geographic_extant: "The geographic scope primarily focuses on the Pacific Northwest (British Columbia, Washington, Oregon, Idaho, and California) with some material relating to South Dakota. While much of the collection relates to tribal history of the overall region the content is extremely relevant to the national historical perspective of American Indian history."
+institution: "Eastern Washington University"
+institution_type: "NULL"
+primary_contact: "Dr. Charles Mutschler"
+size: "NULL"
+start_range: "1950"
+summary: "EWU Libraries propose to digitize the hidden Dr. Robert H. Ruby collection, a body of work detailing observations of Pacific Northwest Native Americans (1953-2010). This collection has special significance for several reasons. Dr. Ruby conducted studies and observations during a time and in a region that was largely untouched by other researchers. Secondly, Ruby recorded oral histories and elements of a rapidly changing indigenous culture. Subjects of his studies were often fading elders with life experiences on ancestral lands and oral traditions reflecting life prior to reservation settlement. Ruby's unique observations fill gaps in the historical record for the Plateau people, a largely underrepresented population when compared to other indigenous peoples. This unique collection will be invaluable, particularly if made digitally accessible to researchers. While the geographic scope focuses primarily on the Northwest, the essence of the material provides an exclusive, historical perspective of American Indian history with widespread relevance."
+hc_id: "21794098"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Cheney"
+p2_name:  "Mr. Justin Otto"
+p2_institution:  "Eastern Washington University"
+p3_name:  "Ms. Rose Sliger Krause"
+p3_institution:  "Eastern Washington University"
+material_string: "<li>30 Artifacts, Artworks, Audio recordings, Audionvisual recordings, Books, Ephemera, Manuscripts, Maps, Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$228,989"
+material_description:  "The Ruby collection recounts many of the experiences of the Native American tribes of the Pacific Northwest and the Oglala Lakota people of South Dakota. Dr. Robert H. Ruby's research occurred between 1953 and 2010. Tribal histories include the Cayuse, Chinook, Columbia, Nespelem, Oglala Sioux, Sanpoil, Spokane, Stillaguamish, Umatilla, Walla Walla, Wanapam peoples, and their relations with settlers and the federal government. Individual tribal leaders researched include Moses, Esther Ross, Skolaskin, John Slocum, and Smohalla. Special subjects researched include dreamer-prophetic practices, the Indian Shaker Church, and tribal-federal relations. This collection encompasses the historical work of Dr. Ruby (1921-2013), physician/surgeon from Moses Lake, WA. He fulfilled a medical obligation to the government as the Chief Medical Officer on the Pine Ridge Indian Reservation, Pine Ridge, South Dakota (1953-1954). This stay piqued his interest in American Indian history and led to a second career as a self-taught historian and ethnographer. This hidden collection is a compilation of research materials written or collected and used by Dr. Ruby in the course of his historical research and writing. In 1955, Dr. Ruby entered private practice in Moses Lake, Washington. He continued his research and writing ethnography and history in his spare time. After retiring from the practice of medicine, Dr. Ruby remained an active historian and writer, completing his portion of editing a third edition of Guide to the Indian Tribes of the Pacific Northwest, shortly before his death in 2013. Much of the material contained in the Ruby Papers cannot be found elsewhere and is invaluable from a researcher's standpoint. While the geographic scope focuses primarily on the Northwest, the essence of the material is valuable from an overall historical perspective of American Indian history. The relevance of the collection extends well beyond the Northwest."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Political and Social Activism Pamphlet (PSAP) Collection
+title: "Political and Social Activism Pamphlet (PSAP) Collection"
+year: 2008
+end_range: 1982
+formats: "NULL"
+geographic_extant: "The PSAP Collection pamphlets are from or about the U.S., Latin America, Europe, the former Soviet Union, Asia, Africa, and Antarctica."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Peggy Glowacki"
+size: "11000 objects"
+start_range: "1846"
+summary: "The UIC Library proposes a 2-year project to catalog the hidden Political and Social Action Pamphlet (PSAP) Collection. In the late 1960s, at a time when many libraries considered pamphlets to be expendable, the UIC Special Collections Department began actively soliciting donations and purchasing pamphlets with a goal of creating a comprehensive, permanent research collection focused on political and social activism. The PSAP Collection enhanced and supplemented the department’s collecting strengths in social service and social issues (anchored by the records of the Hull-House settlement house) and was collected as a product of both Cold War concerns and in response to national foment over Civil Rights, women’s issues, and alternative politics. The PSAP Collection consists of approximately 11,000 titles originating from diverse publishers and agencies. This rich primary source research collection documents social, economic, and political issues and events from the 1840s to the 1980s. Publications are primarily from the United States, Great Britain, and the Soviet Union, although Asian, European, and Latin American countries are represented. Pamphlets are a vehicle for political propaganda and the PSAP Collection represents a range of political philosophies, primarily on the left of the political spectrum. Individually, the pamphlets document important historical events and issues; as a whole they offer an overview of the political, social, and economic temper of their time."
+hc_id: "65"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Special Collections, Richard J. Daley Library"
+address2:  "University of Illinois at Chicago"
+city:  "Chicago"
+state:  "IL"
+zip: "60607"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

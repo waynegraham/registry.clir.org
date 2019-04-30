@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Processing Voter Education Project Collection
+title: "Processing Voter Education Project Collection"
+year: 2008
+end_range: 1992
+formats: "NULL"
+geographic_extant: "Southeastern US: AL, AK, FL, GA, LA, MS, NC, SC, TN, TX, VA"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Loretta Parham"
+size: "301 boxes, 434 linear feet"
+start_range: "1967"
+summary: "Atlanta based Voter Education Project (VEP) was founded in 1962 by the Southern Regional Council (SRC). Its purpose was to increase political participation for minorities and develop a more informed electorate. RWWL is the repository for SRC Papers that includes early records of VEP (1954-1971). These materials are available for research use. VEP separated from SRC in 1970, becoming an independent organization. VEP Executive Directors included Wiley Branton, Vernon Jordan and John Lewis. VEP worked with civil rights organizations such as SNCC, CORE, SCLC, and NAACP. In 1992, VEP closed its doors and RWWL became the repository for the records from 1967-1992. Included are administrative and research files, registration and election statistics, programs, photographs, publications, and promotional materials. Statistical data collected by VEP earned it a reputation as the nation’s most current and authoritative source on Black political participation in the South, voter rights, voter education and turnout. As the era of the civil rights movement passes and new generations of leaders emerge, efforts of organizations such as VEP become increasingly important for understanding the struggles fought and the progress made for a more inclusive American democracy. The VEP Collection contains a wealth of documentation for teaching, research and study. It provides a window into the past and a building block for the future."
+hc_id: "346"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "111 James P. Brawley Drive, SW"
+address2:  "NULL"
+city:  "Atlanta"
+state:  "GA"
+zip: "30314"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

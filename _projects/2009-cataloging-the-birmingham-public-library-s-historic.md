@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging the Birmingham Public Library's Historic Map and Print Collection
+title: "Cataloging the Birmingham Public Library's Historic Map and Print Collection"
+year: 2009
+end_range: 2009
+formats: "NULL"
+geographic_extant: "Maps are from The Netherlands, France, Great Britain, and the U.S. The older maps depict the New World and later maps focus on the Southeast."
+institution: "Birmingham Public Library"
+institution_type: "NULL"
+primary_contact: "Deborah Dahlin"
+size: "4000 objects"
+start_range: "1540"
+summary: "BPL’s Map Collection is comprised of 4,000 maps ranging from 1540 to the present. Use of the map collection has been severely limited because it is inaccessible. Of the 4,000 items in the collection, none has been cataloged. Descriptions and paper catalog cards exist for a quarter of the collection, but they are of unknown provenance or are incomplete. Though BPL has produced publications that describe parts of the collection, none are comprehensive and were developed by people with varying degrees of expertise. Further, these do not point to any catalog, rendering them useless to researchers. A map collection of this depth and importance is rare in a Southeastern public library. The Library holds original maps by Dutch cartographers Rumold Mercator (1541-1600), Willem Janszoon Blaeu (1571-1638), Sebastian Münster (1489-1552), Levinus Apollonius (16th century), Petrus Apianus (1495-1552), Pieter van der Aa (1659-1733), and Jodocus Hondius (son of Jodocus Hondius, the Elder) (1594-1629). French authors whose original maps are in the collection include Guillaume Sanson (d. 1703) and Guillaume de L'Isle (1675-1726). Original British maps in the collection are authored by Herman Moll (d. 1732) and Henry Popple (fl. 1733). Authors of original American maps in the collection include John Melish (1771-1822), Henry Schenck Tanner (1786-1858), Joseph Hutchins Colton (1800-1893), John Pinkerton (1758-1826), and Robert E. Lee (1807-1870). The history of mapmaking is reflected here."
+hc_id: "419"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "2100 Park Place"
+address2:  "NULL"
+city:  "Birmingham"
+state:  "AL"
+zip: "35209"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Philadelphia Real Estate Record & Builders' Guide Digitization Project
+title: "Philadelphia Real Estate Record & Builders' Guide Digitization Project"
+year: 2016
+end_range: 1940
+formats: "NULL"
+geographic_extant: "Philadelphia is the primary focus, but the Builders' Guide contains thousands of references to projects throughout Pennsylvania, and from New York to Washington DC. Architects from throughout the nation are featured here."
+institution: "Athenaeum of Philadelphia"
+institution_type: "NULL"
+primary_contact: "Mr. Michael Seneca"
+size: "NULL"
+start_range: "1886"
+summary: "This project will digitize the only known original copy of the Philadelphia Real Estate Record and Builders' Guide, a trade journal (1886-1940) that provided detailed reporting of building activity in Philadelphia and other east-coast cities from Washington to New York. The Athenaeum has a complete run of the journal: 50,000 pages in 2800 issues and 55 volumes. The Builders' Guide has references to hundreds of thousands of buildings but has no index. The proposed project will make this remarkable resource easily available to scholars by developing a free Builders' Guide website, providing access to the images of all of the issues; full-text of the pages; full-text search; and a direct interface with the Athenaeum's Philadelphia Architects and Buildings website. In addition all Builders' Guide scanned images and metadata describing the issues will be made publicly available on the Internet Archive website."
+hc_id: "21969345"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Athenaeum of Philadelphia"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>50000 Serials</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$118,040"
+material_description:  "If \"newspapers are the first rough draft of history,\" the Philadelphia Real Estate Record and Builders' Guide is the first rough draft of Philadelphia's building history. Published weekly between January 1886 and November 1940, the Builders' Guide is unquestionably the single richest published source for documenting buildings in Philadelphia, containing hundreds of of thousands of specific building references as well as statistical and editorial analysis of the building trades during the city's most dramatic period of growth. Modeled after the Real Estate Record of New York City, which began publication in 1868, Philadelphia Real Estate Record and Builders' Guide was founded in 1886 by publishers McNamee & Bright, both of whom had worked in the real estate advertising departments of established Philadelphia daily papers. By 1900 there would be similar papers with similar titles in Chicago, Montreal, Pittsburgh and San Francisco. The Builders' Guide differed from mass circulation papers in that its target audience was not the general public, but the building profession. This included not only architects and builders, but general contractors, real estate developers, bankers, investors, conveyancers, and a host of tradesmen of all sorts from bricklayers to plumbers to glaziers to electricians. Published weekly, in issues of 16 to 24 pages the Builders' Guide documents 55 years, in nearly 2800 issues, totaling an estimated 50,000 pages. Format varied only slightly over the years of its run. Each issue featured advertisements, editorials, \"advance construction news,\" \"contracts awarded,\" and listings of property conveyances, liens and sheriff sales. The Athenaeum owns the only known original copy of the Builders' Guide. A microfilm version of the complete run is available in only two repositories, the Athenaeum, and the Free Library of Philadelphia."
 ---
-
-

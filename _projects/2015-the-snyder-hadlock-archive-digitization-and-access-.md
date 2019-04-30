@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Snyder-Hadlock Archive Digitization and Access Project
+title: "The Snyder-Hadlock Archive Digitization and Access Project"
+year: 2015
+end_range: 1980
+formats: "NULL"
+geographic_extant: "The proposed CCC documents provide information relating to the National CCC program, Wyoming, New Mexico, and the general Southwest.\n\n\n\nThe proposed Rock Art documentation provide information relating to rock art of the Four Corners region, and particularly the Gobernador/Largo Canyon areas of northwest New Mexico."
+institution: "San Juan County Archaeological Research Center and Library at Salmon Ruins/ The San Juan County Museum Association"
+institution_type: "NULL"
+primary_contact: "Mr. Larry Baker"
+size: "NULL"
+start_range: "1933"
+summary: "The object of this undertaking is the inventory, digitization, catalog, and web posting of records pertaining to: 1)work in the western US by the Civilian Conservation Corps (CCC), 1933-53, and 2) documentation work regarding ancient rock art sites throughout San Juan and Rio Arriba counties, New Mexico, and adjacent regions in Colorado and Arizona. Work will be accomplished by four new-hire assistants selected from four potential applicant pools: New Mexico colleges and universities; displaced/at-risk workers, giving preference to Native American applicants; or through traditional public hiring resources. In an effort to facilitate maximum impact for candidates from these resources and the community at large, three of the new hires will be retained for a period of 6 months each, to be placed in three separate training cycles. The fourth new hire will be classified as the Project Assistant and will help to provide continuity throughout the grant period."
+hc_id: "17474604"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Salmon Ruins Museum"
+p2_name:  "Ms. Nancy"
+p2_institution:  "Curator, Education Coordinator"
+p3_name:  "Ms."
+p3_institution:  "NULL"
+material_string: "<li>50 maps, architectural drawings and blueprints, topographic maps, field notes, photos, VHS and DVD storage, photocopied articles and references</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$119,119"
+material_description:  "The two collections, donated in memory of their respective researchers, contain information relating to non-renewable cultural and historical resources and are unavailable elsewhere. Unique and unpublished, these resources will be made digitally available to the public for the first time.\n\n\n\nThe Jim Snyder Collection contains private and public materials, both original and photocopied, relating to the national Civilian Conservation Corp organization; the New Deal; Chaco Canyon National Historical Park, and Bloomfield CCC Camps (among others); Guernsey Dam, Guernsey Reservoir, and related Park Projects; unpublished accounts and references penned by individual CCC members; maps, building designs and drawings; and plans for outdoor park areas. Several videos and DVDs document events and gatherings where the CCC worked. DVDs are currently available for upload, if desired.\n\n\n\n\u0001 The Harry Hadlock Collection contains original information and images pertaining to rock art locations, many now lost, within the San Juan and Rio Arriba counties in New Mexico, as well as in adjacent areas. These records contain information contained in: field notes; rock art image documentation (through photographs/slides); site locations; condition reports; personal observations; and other unpublished personal research records.\n\n\n\nThe records are currently available for research use, but are not generally known to the general public."
 ---
-
-

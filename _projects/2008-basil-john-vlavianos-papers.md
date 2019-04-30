@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Basil John Vlavianos papers
+title: "Basil John Vlavianos papers"
+year: 2008
+end_range: 1990
+formats: "NULL"
+geographic_extant: "United States: New York City; Greece; Cyprus; France; Germany; Britain."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Sheila O'Neill"
+size: "331 linear feet"
+start_range: "1890"
+summary: "The Basil J. Vlavianos Papers contain correspondence, literary manuscripts, lectures, business records, photographs, clippings, audio-visual materials, and artifacts documenting the career of one of the most important figures in 20th-century Greek-American life. The Papers reflect the activities of a diplomat, lawyer, professor, publisher, entrepreneur, and public intellectual in New York City. Topics include the United Nations, international law, human rights, World War II, Mediterranean politics, Modern art, and Greek-American life. Vlavianos’ editorial files from the National Herald document the Greek-American experience during WW II and contain information about the Greek War Relief Association, an international philanthropic organization that saved thousands of Greek citizens from starvation during the war. The records also include phonographs of radio broadcasts and film. The papers contain United Nations files with correspondence between Greek Foreign Minister Sofianopoulos and Vlavianos about the United Nations Conference on International Organization in San Francisco for which Vlavianos served as legal advisor to the Greek delegation. The files contain official documents related to the creation of the U.N. Charter as well as private correspondence, photos, and ephemera reflecting Vlavianos’ personal experience. Finally, the collection includes the records of Arts Inc. a publishing firm which also operated a bookstore and art gallery in Midtown Manhattan."
+hc_id: "187"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "California State University, Sacramento"
+address2:  "The Library"
+city:  "Sacramento"
+state:  "CA"
+zip: "95819-6039"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Merritt, Chapman & Scott: A Maritime Photo Collection
+title: "Merritt, Chapman & Scott: A Maritime Photo Collection"
+year: 2009
+end_range: 1935
+formats: "NULL"
+geographic_extant: "Most of the selected images depict coastal and maritime activity from New Jersey to Rhode Island, with a strong focus on the New York City waterfront."
+institution: "Mystic Seaport Museum"
+institution_type: "NULL"
+primary_contact: "Fred Calabretta"
+size: "8300 objects"
+start_range: "1895"
+summary: "The Merritt, Chapman and Scott Collection of photographs document the company’s marine salvage and construction activity from 1895 to 1935. The images provide comprehensive visual documentation of many aspects of the American maritime experience including the final decades of transition from sail to steam powered ships. They also reveal the dangers of shipping and water transport, including sinkings and accidents caused by human error, catastrophic mechanical failures and natural disasters. The photos provide a comprehensive record of the vessels, people, and structures associated with harbor activity and a working waterfront. Finally, they provide a record of a number of key historic events such as a grand reception for Theodore Roosevelt in 1910 and a 1912 pioneering flight by Frank Coffyn, a pilot trained by the Wright brothers. The majority of the selected images depict coastal activity from New Jersey to Rhode Island, with a strong focus on the New York City waterfront. The significance of New York as a hub for national and international shipping gives the photos of vessels, cargoes, and activity a broad geographic scope. For example, included are photos of key gatherings of U.S. Navy ships and photos of the OLYMPIC, the British-built sister ship of the TITANIC. Additional examples of geographic diversity include photos of the sunken battleship USS MAINE in Havana Harbor and a group of images depicting lock & dam construction on the Mississippi River in Illinois."
+hc_id: "466"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P.O. Box 6000"
+address2:  "75 Greenmanville Ave."
+city:  "Mystic"
+state:  "CT"
+zip: "06355-0990"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

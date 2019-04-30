@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Harlem Development Collection/Harlem's Changing Streetscapes
+title: "Harlem Development Collection/Harlem's Changing Streetscapes"
+year: 2009
+end_range: 2008
+formats: "NULL"
+geographic_extant: "Harlem is a neighborhood in the New York City borough of Manhattan that stretches from the East River to the Hudson River between 110th Street and 155th Street where it meets Washington Heights. The project consists of materials in Central Harlem which begins at 110th Street at the northern boundary of Central Park; East Harlem which extends East Harlem's boundaries south to 96th Street; and Morningside Heights, from St. Nicholas Avenue and Morningside Avenue to the Hudson River."
+institution: "The City College of New York"
+institution_type: "NULL"
+primary_contact: "Sydney Van Nort"
+size: "15 boxes, 15 linear feet"
+start_range: "1971"
+summary: "Papers of community organizations, institutions and government agencies that relate to Harlem and its architectural history. Organizational and government records include reports and studies commissioned by state agencies and nonprofits (153); subject files and conference and committee files (76); and publications by or about the respective organizations or agencies regarding the development of Harlem. Twenty oral histories of Harlem residents, which include performance and visual artists, politicians, community activists, and intellectuals and scholars, highlight the social impact of Harlem’s development from the intimate perspective of local residents. Documentary photographs provide a tangible visual reference to the structural changes and include representation of architectural structures such as residential and commercial buildings, historic landmarks, vacant lots and construction sites that document the evolution of Harlem’s redevelopment. Architectural drawings illustrate the vision of the architect and the design process. The collection contains building plans and includes both preliminary and presentation drawings and renderings. Nine monographs such as When Harlem was Jewish, 1870-1930; The Battle of Harlem Heights, September 16th 1776. Vertical files (34) containing clippings and promotional material about various development projects. Sanborn Map of Harlem neighborhoods identifying conditions and status of city owned and privately held buildings."
+hc_id: "436"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "160 Convent Ave."
+address2:  "NULL"
+city:  "New York"
+state:  "NY"
+zip: "10031"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

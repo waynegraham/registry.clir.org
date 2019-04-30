@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing British Manuscripts at UCLA's Clark Library, 1601-1800
+title: "Digitizing British Manuscripts at UCLA's Clark Library, 1601-1800"
+year: 2015
+end_range: 1800
+formats: "NULL"
+geographic_extant: "Great Britain; England and Scotland, in particular"
+institution: "The University of California Los Angeles, Clark Library"
+institution_type: "NULL"
+primary_contact: "Dr. Nancy Shawcross"
+size: "NULL"
+start_range: "1601"
+summary: "The 18-month project encompasses the digitization of 300 bound manuscripts produced in Great Britain between 1601 and 1800 and held by the William Andrews Clark Memorial Library, administered by UCLA's Center for 17th- & 18th-Century Studies. The collection complements holdings of other research libraries and specifically enriches the digital resources available to scholars of British cultural, political, and social history. The manuscripts comprise commonplace books, sermons, inventories, poems, plays, recipe books, accounts, and music. The facsimiles will be stored and hosted by the UCLA Digital Library; metadata will be harvested by Calisphere and Digital Public Library of America for enhanced discovery. Existing cataloging records in UCLA's online catalog as well as WorldCat will be updated to provide direct access to individual facsimiles through electronic links. The Center/Clark will host a symposium with scholars and librarians to discuss enhancements such as searchable transcriptions and collaborations with existing projects such as EMMO."
+hc_id: "18602631"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "UCLA, Center for 17th- & 18th-Century Studies & Clark Library"
+p2_name:  "Ms. Rebecca Marschall"
+p2_institution:  "UCLA, Clark Library"
+p3_name:  "Dr. Philip Palmer"
+p3_institution:  "UCLA, Clark LIbrary"
+material_string: "<li>300 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$194,225"
+material_description:  "Selected materials comprise most of the Clark's British bound manuscripts from the seventeenth and eighteenth centuries and represent seven genres or categories: commonplace books; literary works (poems and plays); musical works; recipe books; sermons; account books and inventories; and lectures and textbooks. They were purchased from antiquarian dealers over the past ninety years based on subject as well as quality of content. Examples include a manuscript copy of \"Discourse concerning the Mystical Incarnation of Jesus Christ\" by John Pordage, a theosophic author and preacher who was controversial for his heretical theology. Most of his writings are lost, and \"Discourse\" was considered missing since the early eighteenth century until discovered in a bound manuscript at the Clark. Among the plays at the Clark is an early, uncensored manuscript--with cuts and rewritten passages--of Charles Gildon's *The Patriot* (1703), a reworking of a banned Nathaniel Lee play that was initially refused a license. Gildon associated with John Dryden, William Wycherley, and Aphra Behn (whose biography he wrote); was attacked as a rake by Daniel Defoe; and was prosecuted for seditious libel, with Richard Steele writing his appeal. Most of the Clark's commonplace books are private manuscripts kept by adults for strictly personal use or sharing among friends. Many contain whole poems or long excerpts and represent a change from the Renaissance humanist tradition of neat little notebooks with sententiae--brief, wise, and well-written quotations from the ancients. The Clark's fair-copy of \"The Pleasures of Marriage\" exemplifies what Harold Love terms \"scribal publication,\" the copying and distribution of manuscript texts within a well-defined marketplace for script. Sometimes this kind of manuscript \"publication\" was essential for political reasons: materials too controversial to send to a printer would only circulate in privately-produced manuscripts."
 ---
-
-

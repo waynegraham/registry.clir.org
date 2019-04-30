@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Improving Access to a Large Image Collection: The Baltimore News American Project
+title: "Improving Access to a Large Image Collection: The Baltimore News American Project"
+year: 2010
+end_range: 1986
+formats: "NULL"
+geographic_extant: "While the emphasis is on topics and individuals relating to Maryland and the Mid-Atlantic, the coverage is truly international."
+institution: "University of Maryland Libraries"
+institution_type: "NULL"
+primary_contact: "Desider Vikor"
+size: "1700 linear feet, 1299000 objects"
+start_range: "1920"
+summary: "The unprocessed portion of the Baltimore News American (BNA) Collection at the University of Maryland, College Park, consists of 475 linear feet of biographical images. Accompanying the images are clipped newspaper captions, often glued or stapled to the back of the image, which contain additional descriptive information, as well as crucial dates. The biographical files are arranged alphabetically by last name. The 65,000 acetate negatives are arranged physically in two large groupings: subject and biographical. Basic descriptive information is located on the original negative sleeves, or, in cases where the negatives were rehoused, on those replacement sleeves. While there is some duplication of the print holdings in the negatives collection, a sampling has uncovered that more often than not, the negatives preserve unique images. The 300,000 images at the University of Maryland, Baltimore County (UMBC) campus are not described but cover similar topics and dates."
+hc_id: "665"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "4119C McKeldin Library"
+address2:  "NULL"
+city:  "College Park"
+state:  "MD"
+zip: "20742"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

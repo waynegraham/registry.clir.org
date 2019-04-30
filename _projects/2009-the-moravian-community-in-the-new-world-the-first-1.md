@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Moravian Community in the New World: The First 100 Years
+title: "The Moravian Community in the New World: The First 100 Years"
+year: 2009
+end_range: 1890
+formats: "NULL"
+geographic_extant: "The collections were formed by the Moravian Community in Bethlehem in the Lehigh Valley of eastern Pennsylvania."
+institution: "Lehigh University"
+institution_type: "NULL"
+primary_contact: "Lois Black"
+size: "440 linear feet, 800 objects"
+start_range: "1700"
+summary: "Lehigh University (Lehigh) and the Moravian Archives (MAB) will partner to process a selection of collections documenting the material culture, religious values and cultural diversity of the Moravian community of Bethlehem, Pennsylvania, from its founding in 1741 until the opening of the community to non-Moravians in 1844 and the subsequent incorporation of Bethlehem in 1851. The records reflect the multi-faceted life of this transatlantic community in its interaction with other cultures. Because of the control of the church over every aspect of life within Bethlehem, matters were recorded in order to be reported to church leadership that in other communities went unrecorded. Collections reflect the breadth and depth of life in Bethlehem during this period. Personal papers of artists, tradesmen, missionaries, and sailors will be processed, along with business records (ledgers and inventories detailing operations of grist and saw mills, tailors and weavers; dye works; soap factory; taverns; tannery; & lumberyards). The congregational library (est. 1751) containing books considered helpful in building a settlement in the New World will also be cataloged (approximately 30% of these titles are not represented in WorldCat). Finally, approximately 800 maps and architectural drawings (maps and drawings of buildings constructed in Moravian communities) showing the earliest documentation of European settlement will be included in this project."
+hc_id: "539"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Linderman Library"
+address2:  "30 Library Drive"
+city:  "Bethlehem"
+state:  "PA"
+zip: "18015-3013"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "Moravian Archives"
+grant_amount:  "$90,552"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Society of Bibliophiles at Brandeis University Rare Books and Manuscripts Cataloging Project
+title: "Society of Bibliophiles at Brandeis University Rare Books and Manuscripts Cataloging Project"
+year: 2008
+end_range: 1980
+formats: "NULL"
+geographic_extant: "The collection is global in its geographic scope, with particular strengths in Near Eastern, European, and early American materials."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Karen Abramson"
+size: "3500 objects"
+start_range: "120"
+summary: "The Society of Bibliophiles at Brandeis University rare books and manuscripts collection (hereafter the Brandeis Bibliophiles collection) is made up of books and manuscripts dating from the thirteenth to the twentieth centuries (in addition to one papyrus manuscript from the second century), with the majority of the materials falling between the dates of 1500 and 1800. The collection includes approximately 180 Western and non-Western manuscripts and 3,300 printed texts, over 700 of which were printed before 1700. Particular strengths are in Judaica and Hebraica, sixteenth-century post-incunabula books, the history of science, English history and law, and American and European Christianity. Additional strengths include lexicography and bibliography, seventeenth-century blind-stamped vellum and armorial bindings, and fine press. The materials in the Brandeis holdings were gathered and donated by The Society of Bibliophiles at Brandeis University (1963-c.1981), a group of avid bibliophiles who were eager to support the foundation of the university library and aid in the development of a first-rank department of rare books and special collections. Thus, many of the major collections to some degree reflect the particular collecting interests of early prominent donors, including the Bern Dibner collection on the history of science, the Maurice and Badona Spertus collection of Judaica and Hebraica, the Perry Miller collection on early American Christianity, and others."
+hc_id: "356"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Robert D. Farber University Archives & Special Collections Department"
+address2:  "Library and Technology Services, Brandeis University"
+city:  "Waltham"
+state:  "MA"
+zip: "02454-9110"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

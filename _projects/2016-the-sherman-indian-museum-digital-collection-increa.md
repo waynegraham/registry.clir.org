@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Sherman Indian Museum Digital Collection: Increasing Access to American Indian Off-Reservation Boarding School Archives
+title: "The Sherman Indian Museum Digital Collection: Increasing Access to American Indian Off-Reservation Boarding School Archives"
+year: 2016
+end_range: 2009
+formats: "NULL"
+geographic_extant: "Materials in this collection represent Riverside County and the greater inland Southern California region. There is also a national scope as students from over 500 tribal nations have attended the school since it was opened."
+institution: "University of California, Riverside"
+institution_type: "NULL"
+primary_contact: "Mr. Eric Milenkiewicz"
+size: "NULL"
+start_range: "1892"
+summary: "As part of the Inland Empire Memories initiative, the University of California, Riverside (UCR) Library and the Sherman Indian Museum propose a project to digitize the Museum's extensive collection that documents the history of the Sherman Institute and Sherman Indian High School (1892-present) located in Riverside, California as well as the Native American experience in the US and within government-run American Indian boarding schools. The school has served over 500 tribal nations and is still operational today as one of only two such remaining institutions in California. The Museum, including their archive, opened in 1972 and houses material that includes administrative ledgers, student rosters and yearbooks, historical photographs, and school bulletins. Using a combination of on-site and vendor-based digitization we will digitize approximately 14,320 items containing an estimated 55,000 pages, making this collection widely accessible to tribal communities and a worldwide audience through the California Digital Library's Calisphere platform."
+hc_id: "23080957"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "University of California, Riverside"
+p2_name:  "Dr. Clifford Trafzer"
+p2_institution:  "University of California, Riverside"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>17 Academic Curriculum Goals (bound)</li>"
+collaborating_institution:  "Sherman Indian Museum"
+grant_amount:  "$376,191"
+material_description:  "The Sherman Indian Museum has been collecting materials that document the history of the Sherman Institute and Sherman Indian High School as well as the Native American experience in the US and within government-run American Indian boarding schools since 1972. The collection spans more than a century and richly documents the experiences of students, representing more than 500 tribal nations, who attended the school since its inception in 1892. The materials selected for digitization include: -Registration ledgers, 1892-1903; -The Sherman Bulletin, 1907-2006; -Student rosters, 1932-1991; -Student yearbooks, 1915-2009; -Superintendent ledgers, 1892-1903; -Correspondence, circa 1900-1950; -Photographs and Negatives (documenting student life, events, sports, campus construction), circa 1910-1980; -Other administrative records, circa 1892-1970. The collection supports research on the Sherman Institute and Sherman Indian High School including school administration/management, student life and health, and employee conditions; US federal government assimilation efforts of Native Americans; history of American Indian boarding schools; history of education of Native Americans; history of the city and county of Riverside, California; and the study of Native American history and culture in the US, with a specific focus on inland Southern California."
 ---
-
-

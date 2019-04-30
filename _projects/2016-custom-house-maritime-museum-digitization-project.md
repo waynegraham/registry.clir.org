@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Custom House Maritime Museum Digitization Project
+title: "Custom House Maritime Museum Digitization Project"
+year: 2016
+end_range: 2014
+formats: "NULL"
+geographic_extant: "The content of the entire collection represents the entire world geography from the North Pole to the South Pole and everywhere in between."
+institution: "The Custom House Maritime Museum"
+institution_type: "NULL"
+primary_contact: "Mr. Michael Mroz"
+size: "NULL"
+start_range: "1690"
+summary: "Currently the collection is not digitized, and is only available to local researchers and museum visitors. The Digitization project will digitize the entire collection, making it discoverable and open to the public."
+hc_id: "22350662"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Newburyport Maritime Society, Inc."
+p2_name:  "Dr. Kevin MacDonald"
+p2_institution:  "Custom House Maritime Museum"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>4998 Artifacts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$172,392"
+material_description:  "The core of the collection was gifted to the museum by the Historical Society of Olde Newbury, when the museum opened in 1975. The core collection consists of most of the original Newburyport Marine Society items, collected globally by its membership since the Society's inception in 1772 through its demise in 1914. The remainder of the collection has been donated by family members, passed down from one generation to another, and a few collectors. Noted organizations in the collections are: US Coast Guard, Caldwell's Rum Company, US Navy, Custom House, US Revenue Cutter Service, and The Electrolytic Marine Salts Company hoax. Events include: French and Indian War, Revolutionary War, War of 1812, Gold Rush, Civil War, and WWII. Subjects include shipyards and shipbuilding, privateering, international trade, shipwrecks, and local and national history. Associated people include: Capt Oliver Osgood Jones and family, Capt. Stephen and Elizabeth Bray, George Washington, John Quincy Adams, Thomas Jefferson, Benjamin Franklin, Moses Brown, Capt. Alexander Graves, John P. Marquand, Caleb Cushing, Edward Strong Moseley, John Currier, and Donald McKay."
 ---
-
-

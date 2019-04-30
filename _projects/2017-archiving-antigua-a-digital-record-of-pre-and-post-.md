@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Archiving Antigua: A Digital Record of Pre- and Post-Emancipation Antigua, 1760-1948
+title: "Archiving Antigua: A Digital Record of Pre- and Post-Emancipation Antigua, 1760-1948"
+year: 2017
+end_range: 1948
+formats: "NULL"
+geographic_extant: "Antigua"
+institution: "The Moravian Archives"
+institution_type: "NULL"
+primary_contact: "Dr. Paul Peucker"
+size: "NULL"
+start_range: "1760"
+summary: "The Moravian Archives, Bethlehem (MAB) proposes a 24-month project to digitize approximately 13,248 pages of manuscript records of the Moravian Church in Antigua, 1760-1948. The membership catalogs, along with the “speaking” or “remark” books, that comprise this collection offer an extraordinary resource for the study of both the region, its pivotal role in the trans-Atlantic slave trade, and a detailed portrait of the struggles of a post-emancipation society. It provides a previously nearly-inaccessible record of the names and lives of thousands of African-Caribbean individuals, many with descendants living today in the Caribbean and mainland United States. Already sought in high demand by scholars and by Caribbean descendants, these invaluable materials will be digitized at the Conservation Center for Art and Historic Artifacts (CCAHA), with descriptive metadata added at the MAB, and then made freely accessible to researchers across the world via the Digital Library of the Caribbean (dLOC)."
+hc_id: "26893577"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "The Moravian Archives"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>13248 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$67,049"
+material_description:  "The nominated sources are records of the Moravian Church in Antigua from 1760-1948. Together with 120 linear feet of records from the other churches in the Eastern West Indies (EWI), they were transferred to the Moravian Archives in Bethlehem, PA, in 1968 and 1974. According to Dr. Jon Sensbach of the University of Florida, these Antiguan records constitute “an enormous compendium of names across several generations, furnishing historians and genealogists with ample material to reconstruct family formation and continuity in post-emancipation Antigua.” This manuscript material is not available through any other source. The nominated records consist of catalogues and speaking and remark books from Moravian churches in Antigua. The catalogs are congregational membership rolls, some divided by gender, registers of candidacy for baptism, lists of church affiliation by estate residency, and marriage catalogues. The speaking and remark books are registers of comments regarding individual members, kept by the missionary as a record of disciplinary action. The “remark books” contain notes by the missionary about individual members’ behavior, especially in cases when it conflicted with the norms maintained by the missionaries. These records give valuable insight on social norms, discipline and cultural expectations in Caribbean society. Digitized and indexed, these catalogues and remark books together represent an extraordinary volume of documentation about African-Caribbean family and social structure from the era of the slave trade through the twentieth century."
 ---
-
-

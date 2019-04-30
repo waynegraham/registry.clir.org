@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: From the Gifts of Missionaries to Collections Anchored in the Diversity of Life, Experience and Global History: Creating Virtual Global Access to the Documents, Artifacts and Specimens Housed in the University Archives and the Cultural & Natural History Collections at University of La Verne
+title: "From the Gifts of Missionaries to Collections Anchored in the Diversity of Life, Experience and Global History: Creating Virtual Global Access to the Documents, Artifacts and Specimens Housed in the University Archives and the Cultural & Natural History Collections at University of La Verne"
+year: 2016
+end_range: 250
+formats: "NULL"
+geographic_extant: "The University Archives and Cultural & Natural History Collections present a global reach including North and South America, Asia, and Africa. Our Gilbert and University Archives collections emphasize natural and cultural history of southern California, from the shifting natural landscape of prehistory to modern sociopolitical developments between town and gown."
+institution: "University of La Verne"
+institution_type: "NULL"
+primary_contact: "Dr. Felicia Beardsley"
+size: "NULL"
+start_range: "250"
+summary: "It started with a gift from Brethren missionaries, prominent scientists, cultural explorers and our students over a century ago. University of La Verne's archival, cultural and natural history collections represent the eclecticism of a miniature Wellcome Collection, bridging local and global history from the view of the individual, where each item carries its own story. La Verne will share these stories through an easily discoverable digitized archive, downloadable from anywhere in the world and at any time, and drawing from the full complement of specimens, artifacts, objects, and ephemera housed in the Cultural & Natural History Collections, complemented by historical photographs and a newspaper serial in the University Archives. These images coupled with deep descriptions and metadata will be available for use by scholars, artists and the general public, adding a new understanding of our cultural and natural heritage--from Pleistocene fossils and South American textiles to historical inland southern California."
+hc_id: "21682860"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of La Verne"
+p2_name:  "Dr. Benjamin Jenkins"
+p2_institution:  "University of La Verne"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>40 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$250,000"
+material_description:  "The materials included here combine collections from repositories at University of La Verne-University Archives and Cultural & Natural History Collections: the Photograph and Campus Times collections in the former, several collections of objects, specimens and artifacts from the latter. Together the 150+ boxes of the Photograph and Campus Times collections in University Archives present a unique perspective on the growth of the university from its founding as Lordsburg College to its current state as University of La Verne, its place in the inland foothills region of Southern California, and the changing sociopolitical environment of the region from the 1880s through the early 2000s. Both the historical photographs and the narratives supplied in the longest running publication of the university offer a dynamic story covering political, social, cultural, and economic changes in the region--the rise and fall of the citrus industry, recruitment of female students in WWI, post-WWII growth and expansion, rising diversification of the student and local population, civil rights, 9-11, etc.--the photographs and student reporters captured it all. The Cultural & Natural History Collections includes over 50,000 objects from 24 named collections that are eclectic in their composition and serve as a snapshot of global history through a presentation of things. The Collections include the second largest collection of Pleistocene skeletal remains from La Brea Tarpits donated by J.Z. Gilbert, the man responsible for the core collections at Los Angeles Museum of Natural History, Page Museum and La Brea Tarpits; meteorite fragments from the father of meteoritics, H.H. Nininger; papers, correspondence and fieldnotes of Edmund Jaeger, a naturalist responsible for identifying poorwill birds, several species of desert fauna and flora; pre-WWII/pre-tourist indigenous American textiles from anthropologist Esther Funk; a mineral collection that (though small) rivals the collection at the Smithsonian Institution with its unique minerals; and so much more."
 ---
-
-

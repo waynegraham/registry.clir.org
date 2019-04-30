@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Country Music Hall of Fame and Museum: Early and Mid-Twentieth Century Sheet Music Collection
+title: "Country Music Hall of Fame and Museum: Early and Mid-Twentieth Century Sheet Music Collection"
+year: 2016
+end_range: 1960
+formats: "NULL"
+geographic_extant: "National, with an emphasis on southern vernacular music (gospel, country, and folk) published in Nashville and New York."
+institution: "Country Music Hall of Fame and Museum"
+institution_type: "NULL"
+primary_contact: "Ms. Lee Boulie"
+size: "NULL"
+start_range: "1900"
+summary: "The Country Music Hall of Fame and Museum respectfully requests support from the Council on Library and Information Resources to digitize the approximately 6,500 items included in its Early and Mid-Twentieth Century Sheet Music Collection. These documents, which range from roughly 1900 to 1960, span the full range of musical genres in the early twentieth century, from Broadway and vaudeville songs to the gospel and folk songs that formed the basis for country music. As one of the chief media for disseminating and promoting popular music, sheet music provides one of the most important sources for studying the development and promotion of American music in the first half of the twentieth century. This project will conserve and create access to a significant collection with a wide specialist and generalist audience, making these source materials available within the context of the Museum's archives for the first time."
+hc_id: "22159333"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Country Music Hall of Fame and Museum"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>6500 Musical Scores</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$153,111"
+material_description:  "OVERVIEW: The Country Music Hall of Fame and Museum's (CMHFM) Early and Mid-Twentieth Century Sheet Music Collection is composed of approximately 6,500 items of commercially-published sheet music. These documents, which range from roughly 1900 to 1960, span the full range of musical genres in the early twentieth century, from Broadway and vaudeville songs to the gospel and folk songs that formed the basis for country music. PROVENANCE: The collection has been assembled from a variety of sources over CMHFM's 50-year history, and is assembled for the first time as a single collection with this project. Approximately 15% of the collection, or 975, items date from before 1923 and can be considered in the public domain. ASSOCIATED PEOPLE: Stephen Foster, Bradley Kincaid, Asher Sizemore and Little Jimmie, Roy Acuff and Fred Rose. ASSOCIATED SUBJECTS: Early and mid-twentieth century sheet music informs a range of subjects, and cataloging and increasing access to this valuable resource can improve scholars' understanding of important, ongoing themes in the history of country music, American popular entertainment, and the American experience. These themes include: 1) The relationship between folk musics and commercial entertainment. 2) The effects of changing technology on vernacular music as art and enterprise. 3) The evolution of the music industry and its promotion, including songwriting, recording, public performance, and promotion. 4) The evolution of popular entertainment, especially country music, and its promotion. These documents not only track changing musical tastes; in their styling, in the presentation of their cover art, and in the advertising included in sheet music they present a broad perspective on changes in American aesthetic tastes and consumer habits."
 ---
-
-

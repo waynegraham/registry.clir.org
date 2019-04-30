@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Uncovering Primary Sources from South Florida's African Diaspora
+title: "Uncovering Primary Sources from South Florida's African Diaspora"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "Miami-Dade County and surrounding counties, Haiti, Bahamas, Jamaica, Antigua, St. Kitts, St. Christopher, Trinidad, Tobago, West Indies, and Cuba."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Yolanda Cooper"
+size: "900 linear feet"
+start_range: "1600"
+summary: "This project will focus on materials housed at the University of Miami Libraries Special Collections department and The Black Archives History & Research Foundation of South Florida, Inc. The core holdings of the University of Miami's Special Collections document the history, development and culture of Florida, the Caribbean, and Latin American. The Black Archives is a non-profit 501c(3) Community Based Organization that collects preserves and makes accessible primary source material that documents the history and culture of black people mainly in Miami-Dade County from 1896 to the present. The focus is the Jim Crow Era during the 20th century urban south- specifically the immigrants generally from the West Indies and the Caribbean, and migrant settlers in Miami's Colored Town/Overtown and other pioneer Colored Towns throughout Miami-Dade County and Florida. The combined materials total approximately 900 linear feet and include documents from some of the most significant local activists and social engineers of the time such as Father Theodore R. Gibson, Marian Shannon, Father John E. Culmer, Robert Simms, Vernika Silva, and Dr. John O. Brown. Materials also include affiliated organizations such as the NAACP, Florida State Teachers Association, the Congress on Racial Equality, the Crusade for Voters, and the Negro Ministerial Alliance."
+hc_id: "85"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1300 Memorial Drive"
+address2:  "NULL"
+city:  "Coral Gables"
+state:  "FL"
+zip: "33124"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

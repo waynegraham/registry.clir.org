@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Milestones of Kennebunkport, Maine
+title: "Milestones of Kennebunkport, Maine"
+year: 2013
+end_range: 1940
+formats: "NULL"
+geographic_extant: "The project will serve the public from across the United States who are interested in American Maritime History and the Gilded Age."
+institution: "Kennebunkport Historical Society"
+institution_type: "NULL"
+primary_contact: "Susan Edwards"
+size: "63 boxes, 500 linear feet"
+start_range: "1740"
+summary: "The KPHS has extensive collections pertaining to all aspects of the history art, and culture of Kennebunkport, ME from the late 1600s to the present. Approximately 13,200 individuals visit the KPHS annually and benefit from collections-based exhibitions and programs. The KPHS has selected two significant, uncataloged collections for the project. The Maritime History collection spans the years 1740-1900 and focuses on the shipbuilding industry in Kennebunk and Kennebunkport and the maritime trade in the West Indies and China. The collection consists of ships portraits, half models, maps, day books, diaries of shipmasters, business ledgers, bills of lading, correspondence, photographs, instruments, and other artifacts. The geographic scope represents southern Maine, Massachusetts, New Orleans, Liverpool, England, the West Indies, India, and China. The Cape Arundel Collection, details the development of Kennebunkport as a summer colony between 1870 and 1940. This collection includes maps, architectural renderings, photographs, diaries, letters, stock certificates, newspapers, and business ledgers of the Boston and Kennebunkport Sea Shore Company founded in 1873. The summer resort colony was developed by families from St. Louis, Chicago, Philadelphia, Boston and New York and included the Walker and Bush families, Kenneth Roberts, Booth Tarkington, Atwater Kent and other prominent individuals. The area forms a National Register Historic District."
+hc_id: "1071"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P.O. Box 1173"
+address2:  "NULL"
+city:  "Kennebunkport"
+state:  "ME"
+zip: "4046"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

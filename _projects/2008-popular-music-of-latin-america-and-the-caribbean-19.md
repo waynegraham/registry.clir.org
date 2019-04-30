@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Popular Music of Latin America and the Caribbean, 1950-1962: Belfer Archive's 45 rpm Collection
+title: "Popular Music of Latin America and the Caribbean, 1950-1962: Belfer Archive's 45 rpm Collection"
+year: 2008
+end_range: 1962
+formats: "NULL"
+geographic_extant: "Latin America and the Caribbean"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Pamela McLaughlin (Suzanne E. Thorin, Dean)"
+size: "15000 objects"
+start_range: "1950"
+summary: "With the arrival of Dean Suzanne Thorin three years ago, we have increased our focus on the unique and special collections of the Belfer Audio Laboratory and Archive. Belfer holds a unique collection of Latin American and Caribbean popular music dating from 1950-1962. This collection consists of 15,000 45 rpm records of songs and dance music that were commercially released on both American and foreign record labels. This “hidden” collection is a treasure waiting to be discovered. An extensive review of the collection by a Latin American music scholar (Dr. John Schechter) in the 1980s revealed it to be a one-of-a-kind collection of recordings for which there is nothing comparable in any other archive or institution. We've also confirmed from a bibliographic standpoint, that there are few catalog records available for Latin American and Caribbean popular music from this time period on 45 rpm records. Belfer received this collection in 1963 as a gift from the brothers Joseph and Max Bell, who owned a music shop in Manhattan called the Music Box. As Cuban emigrants, the Bell Brothers focused their music collecting on commercially-issued popular Latin American and Caribbean music. By uncovering this rare collection, and making it known and accessible, researchers and music lovers will all benefit from the Bell Brothers' commitment to collecting and preserving this important music."
+hc_id: "351"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "222 Waverly Avenue"
+address2:  "NULL"
+city:  "SYRACUSE"
+state:  "NY"
+zip: "13244"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

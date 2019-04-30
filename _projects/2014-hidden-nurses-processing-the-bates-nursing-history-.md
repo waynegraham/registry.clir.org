@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Hidden Nurses: Processing the Bates Nursing History Center Collections
+title: "Hidden Nurses: Processing the Bates Nursing History Center Collections"
+year: 2014
+end_range: 2009
+formats: "NULL"
+geographic_extant: "Emphasis on Mid-Atlantic region, but includes collections of national and international significance."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Jean Whelan"
+size: "274 cubic feet"
+start_range: "1851"
+summary: "This three-year project will make accessible to scholars seven currently unprocessed collections held by the Barbara Bates Center for the Study of the History of Nursing, one of the largest archival repositories focused on nursing history. The project will serve to highlight three themes central to understanding the role of nurses in delivery of health care to the American public. These themes include the growth of hospitals as scientific institutions, nursing publications, and nursing leadership and diversity. Once completed, the project will make available a wealth of documentary materials previously hidden from scholars which will add greatly to our understanding of the development of a profession essential to the nation's health."
+hc_id: "11255376"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

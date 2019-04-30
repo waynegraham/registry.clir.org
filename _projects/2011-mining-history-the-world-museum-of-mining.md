@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Mining History, The World Museum of Mining
+title: "Mining History, The World Museum of Mining"
+year: 2011
+end_range: 1960
+formats: "NULL"
+geographic_extant: "The geographic areas covered by the collection is the City of Butte, Southwest Montana, State of Montana, the Western United States"
+institution: "World Museum of Mining"
+institution_type: "NULL"
+primary_contact: "Dolores Cooney"
+size: "65000 objects"
+start_range: "1860"
+summary: "The material encompasses all hard rock mining related material in the Museum's collections. The objects range in date from the 1860s to 1960s. The preponderance of objects date from 1890 to 1930. The objects contained in the collection relate to mining history, history of technology, and labor history. The collection records the history of mining in significant detail. The collection contains a wide range of mining related materials including the following. Published material: books, magazines, equipment brochures; Non-published material: manuscripts, paper, mining ephemera, business ledgers, financial records, correspondence, mining company records, newsletters, yearbooks; Photographs; Films; Artifacts: tools,equipment."
+hc_id: "781"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "PO Box 33"
+address2:  "NULL"
+city:  "Butte"
+state:  "MT"
+zip: "49701"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing the Archival Collection of Ernest Holmes and New Thought History for Worldwide Distribution and Accessibility
+title: "Digitizing the Archival Collection of Ernest Holmes and New Thought History for Worldwide Distribution and Accessibility"
+year: 2015
+end_range: 2014
+formats: "NULL"
+geographic_extant: "The collection was originally and primarily from California. Donations have also been received from worldwide sources."
+institution: "Science of Mind Archives and Library Foundation"
+institution_type: "NULL"
+primary_contact: "Ms. Kathy Mastroianni"
+size: "NULL"
+start_range: "1926"
+summary: "The Science of Mind is \"a philosophy, a faith, a way of life\" that impacts lives worldwide. The unique archival history and manuscripts of Ernest Holmes, the founder of Science of Mind, as well as other founding leaders of New Thought History are safely kept at the Science of Mind Archives and Library Foundation (SOM Archives). Since this collection is in paper, film, audio and photographic format and stored in boxes, this important scholarly work cannot be fully utilized until it is digitized and available on the internet. The SOM Archives is repository of documented history for a movement spanning over 100 years for which this Archive is the only existing source. The materials are utilized by churches, ministers and practitioners, universities, ministerial students, researchers, and spiritual seekers worldwide. Because few such resources exist, we are the hub of this information, making this project extremely viable and valuable."
+hc_id: "17083871"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Science of Mind Archives & Library Foundation"
+p2_name:  "Dr. James"
+p2_institution:  "Vice President, Board of Directors"
+p3_name:  "Dr."
+p3_institution:  "NULL"
+material_string: "<li>12000 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$227,593.00"
+material_description:  "The majority of the materials nominated for digitization originated from the manuscripts and publications of Ernest Holmes, founder of Science of Mind. His writing began in the early part of the 20th Century. His first major publication, the Science of Mind textbook, was in 1926. He soon started Science of Mind Magazine in 1927 (which currently has a total brand reach of 387,000 each month with advertisers that include Hay House). Holmes was very prolific, producing a variety of items, from books, radio talks, poems, and magazines. He also created curricula for an entire educational program that still provides support for churches, practitioners, ministerial students and the general public. In addition, the collection includes rare audio recordings of classes given by another leader in the Science of Mind movement, Dr. Raymond Charles Barker. \n\n\n\nThe historical materials in the SOM Archives' have been collected from individuals, institutions, publishers and churches for more than 90 years. In particular, this effort was formally propelled by Dr. Marilyn Leo and her husband Dr. Richard Leo in 1998. They finally established a 501 (c) (3) nonprofit organization in 2007. Over the years, people have spent thousands of volunteer hours to establish this collection. Organizational materials related to the United Church of Religious Science as well as other Religious Science organizations (such as valuable historical board meeting documents) have also been collected and preserved."
 ---
-
-

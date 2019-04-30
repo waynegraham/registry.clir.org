@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Our Story: Digitizing Publications and Photographs of the Historically Black Atlanta University Center Institutions
+title: "Our Story: Digitizing Publications and Photographs of the Historically Black Atlanta University Center Institutions"
+year: 2016
+end_range: 2014
+formats: "NULL"
+geographic_extant: "The publications and photographs primarily document the Atlanta University Center campuses in Atlanta, Georgia, USA. The professional and personal achievements and activities of the campus constituents and alumni also document the experiences of African Americans throughout the world. Missionary work in Africa is also showcased prominently in several publications."
+institution: "Atlanta University Center Robert W. Woodruff Library"
+institution_type: "NULL"
+primary_contact: "Ms. Christine Wiseman"
+size: "NULL"
+start_range: "1881"
+summary: "Our Story: Digitizing Publications and Photographs of the Historically Black Atlanta University Center Institutions is a thirty month collaborative project between the Atlanta University Center Robert W. Woodruff Library, Spelman College Archives, Morehouse College, and the Digital Library of Georgia. Through digital reformatting, creation of metadata and a portal of publicly accessible collections on the AUC Woodruff Library's Digital Commons and the DLG, this project will broaden access to unique publications, periodicals, theses, dissertations and photographs documenting the history of the AUC - the largest consortium of Historically Black Colleges and Universities. Once completed, archives related to the following schools will be more easily discoverable throughout the world for scholarship about various aspects of African American higher education directly after emancipation of slavery through to the 21st Century: Atlanta University, Clark College, Clark Atlanta University, Gammon Theological Seminary, Interdenominational Theological Center, Morehouse College, Morris Brown College, and Spelman College."
+hc_id: "23081517"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Atlanta University Center Robert W. Woodruff Library"
+p2_name:  "Ms. Andrea Jackson"
+p2_institution:  "Atlanta University Center Robert W. Woodruff Library"
+p3_name:  "Ms. Holly Smith"
+p3_institution:  "Spelman College"
+material_string: "<li>85963 Serials</li><li>2819 Photographs</li><li>630000 theses and dissertations</li><li>2819 Photographs</li><li>630000 theses and dissertations</li><li>2819 Photographs</li><li>630000 theses and dissertations</li><li>2819 Photographs</li><li>630000 theses and dissertations</li>"
+collaborating_institution:  "Spelman College Archives; Board of Regents of the University System of Georgia on behalf of the University of Georgia; Morehouse College"
+grant_amount:  "$447,078"
+material_description:  "The \"Our Story\" project includes over 740,000 individual pages/items including photographs, theses and dissertations, and publications documenting the history of the Historically Black Colleges and Universities (HBCUs) in Atlanta - now known collectively as the Atlanta University Center (AUC) - from the late 1880s to the 21st Century. The project includes materials from the following AUC institutions: Atlanta University (AU), Clark Atlanta University (CAU), Clark College (CC), Gammon Theological Seminary (GTS), Interdenominational Theological Center (ITC), Morehouse College (MC), Morris Brown College (MBC), and Spelman College (SC). Catalogs - The Catalogs of ITC, MC, MBC, and SC provide course descriptions, and details about faculty, staff, administration and students. Periodicals - The periodicals include newspapers, newsletters, magazines, and journals documenting activities, special events, speeches, and articles by and about the campus community and benefactors. Magazines: AU Bulletin; ITC Center; Lantern; Journal of ITC; MC Morehouse Bulletin (Alumnus); SC's magazine Spelman Messenger Newspapers and newsletters; CC and CAU Panther; GTS Foundation; ITC Center and Lantern; MC Maroon Tiger; MBC Wolverine Observer; SC Campus Mirror and Spelman Spotlight Photographs - Images document AUC presidential, administrative, faculty, staff and student, community and family events and activities. AU - Gladstone Chandler, Josephine D. Murphy CC - James Touchstone ITC - Major Jones MC - Samuel Archer, Edward Jones, Hugh Gloster, events MBC - George Sewell, events SC - events Theses and Dissertations - Graduate T&D document scholarship and research conducted - often on underrepresented people, places and subjects. Yearbooks - Names and photographs of administrators, faculty, staff, students, events and organizations are documented annually. CC/CAU yearbooks have been previously digitized. ITC The Light, The Center and The Kerygma; MC The Torch; MBC The Aurora, The Wolverine, and The Brownite; SC The Reflection."
 ---
-
-

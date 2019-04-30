@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Emily Harvey Gallery Archive – 1982-2004; Performance Art/ Fluxus/ Concept Art/ Mail Art
+title: "Emily Harvey Gallery Archive – 1982-2004; Performance Art/ Fluxus/ Concept Art/ Mail Art"
+year: 2017
+end_range: 2004
+formats: "NULL"
+geographic_extant: "The collection represents the national and international activities of artists from the United States, Canada, Western and Eastern Europe, and several regions of Asia, including Japan and Singapore."
+institution: "The Emily Harvey Foundation"
+institution_type: "NULL"
+primary_contact: "Mr. Agustin Schang"
+size: "NULL"
+start_range: "1982"
+summary: "The digitization of the Emily Harvey Gallery (EHG) archive will make available online rare ephemera, correspondence, photographs, videos, and audio files documenting the experimental art activities fostered by Emily Harvey between 1982 and 2004, starting with the Grommet Gallery (1982-84) and extending until the end of the EHG. The archive—housed in the same building that functioned as the haven of experimental activities and that is now the site of the Emily Harvey Foundation—features key examples of Performance Art, Fluxus, Concept Art, and Mail Art, and captures the unique developments of these practices through the 1980s and 90s. Supplementing major archive holdings such as The Gilbert and Lila Silverman Fluxus Collection and the Getty Fluxus collection, the rare documents in the EHG archive provide historical insight into a lesser-known phase of the New York downtown art scene in the decades following the birth of these radical practices."
+hc_id: "26148088"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "The Emily Harvey Foundation"
+p2_name:  "Ms. Alice Centamore"
+p2_institution:  "The Emily Harvey Foundation"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>45 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$171,352"
+material_description:  "The archive retraces the history of the Grommet Gallery (1982-84) and of the Emily Harvey Gallery (1984-2004). It includes ephemera, press releases, exhibition checklists/price lists, invoices, and photographs of events, shows and openings. Some performances and events were documented through videotapes and/or audio recordings; examples range from Alison Knowles’s Loose Pages event (1984) to Henry Flynt’s Dance Clubs performance for his Publication party for Musical Recordings (2001). Additionally, the archive includes personal and professional correspondence between Harvey and the artists associated with the gallery. Among the most precious examples, the archive counts a letter that Alison Knowles sent to Harvey in the mid 1880s explaining what being a Fluxus artist meant after the death of George Maciunas. Occasionally, correspondence includes letters between the Emily Harvey Gallery and other American and European art institutions, such as the Venice Biennale for the Ubi Fluxus exhibition (1990), and the École nationale supérieure des Beaux-Arts for the Happening and Fluxus Events (1989). Unique samples of performance and exhibition sketches—ranging from Yoshi Wada’s installation drawings (1991) to Carolee Schneemann’s studies for Cycladic Imprints (1990)—are contained in the archive’s papers. Furthermore, the archive houses one of the most complete collections of the work of Dick Higgins, including the legal founding documents of the Something Else Press (1964-1973). Finally, individual artists’ folders contain exhibition ephemera from other museums and galleries collected by Harvey herself or sent to her gallery to provide additional elements on the represented group of artists."
 ---
-
-

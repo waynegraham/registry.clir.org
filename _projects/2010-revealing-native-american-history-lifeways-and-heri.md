@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Revealing Native American History, Lifeways, and Heritage: National Museum of the American Indian Photo and Media Archives Cataloging Project
+title: "Revealing Native American History, Lifeways, and Heritage: National Museum of the American Indian Photo and Media Archives Cataloging Project"
+year: 2010
+end_range: 2003
+formats: "NULL"
+geographic_extant: "The NMAI's Photo and Media Archive collections are geographically comprehensive of Native peoples, covering the entire Western Hemisphere."
+institution: "National Museum of the American Indian"
+institution_type: "NULL"
+primary_contact: "Jennifer O'Neal"
+size: "25000 objects"
+start_range: "1850"
+summary: "As a part of the Smithsonian Institution, the National Museum of the American Indian's Archive Center is the preeminent repository for primary sources documenting indigenous history, lifeways, and traditions. The Photo Archive ethnographic collection contains approximately 125,000 images (negatives, vintage prints, transparencies, lantern slides, glass-plate negatives, color slides, and digital photos) comprising one of the foremost collection of images of Native American culture and history from the mid-nineteenth century to the present. The collection includes historic scenes, portraits, and field photographs of the Museum's ethnographic and archaeological expeditions in North America, Mexico, and South and Central America. The Media Archive historic collection consists of over approximately 5,000 video tapes, motion picture films, and audio recordings, dating from 1902 to the present. Native communities from North and South America are represented in field work, interviews, documentary recordings, and performances. NMAI's collection contains a vast array of formats from throughout the history of audiovisual recording, including motion picture film, analog and digital video tape recordings, and audio recordings on wax cylinders, phonograph discs, audio tape, and compact disc. This collection is a major archive of endangered indigenous lifeways, traditions, and history. Together, the Photo and Media Archives provide a rich, diverse account of Native peoples."
+hc_id: "642"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Smithsonian Institution"
+address2:  "4220 Silver Hill Rd"
+city:  "Suitland"
+state:  "MD"
+zip: "20746-2863"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

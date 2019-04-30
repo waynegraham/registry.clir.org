@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing, Creating Access to, and Electronically Preserving the Hidden Special Collections and Archives of the Fundación Luis Muñoz Marín, San Juan, Puerto Rico
+title: "Digitizing, Creating Access to, and Electronically Preserving the Hidden Special Collections and Archives of the Fundación Luis Muñoz Marín, San Juan, Puerto Rico"
+year: 2015
+end_range: 1980
+formats: "NULL"
+geographic_extant: "The collections cover Puerto Rico, U.S., Caribbean, & Latin America from 1898-1980, covering the most important success the island faced at crucial moments in its 20th century history. It documents the creative responses to challenges that helped Puerto Rico evolve from an agrarian, poverty-stricken land into a modern nation."
+institution: "The Fundación Luis Muñoz Marín (\"FLMM\" )"
+institution_type: "NULL"
+primary_contact: "Mr. Julio Quiros"
+size: "NULL"
+start_range: "1898"
+summary: "The FLMM is the multi-purpose, open to the public facility in San Juan, P.R., that contains the home, museum, visitor center, arboretum, and major Archival Collection of José Luis Alberto Muñoz Marín, the first democratically elected Governor of Puerto Rico, considered the statesman & founder of the modern Commonwealth. A U.S. Registered National Historic Site, it houses important archival collections, making it the equivalent to an American Presidential Library. The two year Project would enable FLMM to describe, electronically catalog, digitize, make electronically accessible, and digitally preserve, currently hidden collections unique to Puerto Rican, Caribbean, Latin American and U.S. history. Important to a wide-ranging scholarly community and partners as the University of Puerto Rico and the Puerto Rican Association of Historians, the archives consists of the personal papers and governmental documents of statesman Luis Muñoz Marín, and donated personal or institutional collections related to the recent history, development and culture of Puerto Rico."
+hc_id: "16617621"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "FLMM"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>3299 Manuscripts</li>"
+collaborating_institution:  "University of Puerto Rico; Puerto Rican Association of Historians"
+grant_amount:  "$499,993"
+material_description:  "FLMM's Archive holds exceptional 20th Century Puerto Rican, Caribbean, Latin American, and American historical documents pertinent to the political development of modern Puerto Rico, an important resource for local, national and international research. The Archive has been pivotal in the development of books, articles and university theses by numerous scholars. In addition to the core Muñoz Marín collection, FLMM has acquired other collections, to solidify its standing as one of the most important archival collections in Puerto Rico and the Caribbean. Containing primary source material and new information about the political / economic development, and government policy / administration of Puerto Rico, from 1898-1980, the Archive includes the following topics: (i) the establishment and development of the modern Commonwealth; (ii) local economic dynamics and development; (iii) objectives and achievements related to modernization and industrialization; (iv) socio-cultural experiences in the context of Puerto Rican society; (v) governmental, political and social relations of Puerto Rico with the United States; (vi) the national & international importance of Puerto Rico's role as an ally and contributor to America's efforts during World War ll and the Cold War; (vii) the importance of Puerto Rico to the United States, the Caribbean, throughout Latin America, and in the Spanish-speaking world. The collections include decades of official and personal correspondence between members of the Puerto Rican political leadership, and official documents between the U.S. and Puerto Rico, NGO's, local and foreign institutions. Correspondence by Presidents Franklin Delano Roosevelt, Harry S Truman, Dwight D. Eisenhower, John F. Kennedy, Lyndon B. Johnson and Richard Nixon, as well as Albert Schweitzer, Supreme Court Justice Abe Fortas, India diplomatic B. K. Nehru, William O. Douglas, Robert Oppenheimer, David, Nelson & Laurence Rockefeller, Rómulo Betancourt (Venezuela's President, 1945-1948 & 1959), José Figueres (Costa Rica's President 1953-1958 & 1970-1974), and many others."
 ---
-
-

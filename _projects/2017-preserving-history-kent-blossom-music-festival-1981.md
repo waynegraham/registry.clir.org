@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Preserving History, Kent Blossom Music Festival, 1981-1983
+title: "Preserving History, Kent Blossom Music Festival, 1981-1983"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Kent State University"
+institution_type: "NULL"
+primary_contact: "Ms. Virginia Dressler"
+size: "NULL"
+start_range: "NULL"
+summary: "The Kent/Blossom Music Festival is an advanced training institute for professional music training operated by Kent State University in conjunction with The Cleveland Orchestra and Blossom Music Center in Northeast Ohio, presenting public performances by distinguished artist faculty and talented young musicians. The program began in 1968, and has acted as a launchpad for many professional musicians, including current members of The Cleveland Orchestra, the Atlanta Symphony, the New York Philharmonic, Boston Symphony, Philadelphia Orchestra, Los Angeles Philharmonic along with the Emerson, Miami, Borromeo, Ariana, Grancino, Euclid and Miro Quartets and many other well-known international performers. The project included in this proposal will focus on ninety seven reels from the Kent Blossom Music Festival recordings, addressing specifically a portion of the audio reels with Sticky Shed syndrome from the collection."
+hc_id: "26041474"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Kent State University"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "97 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$24,498"
+material_description:  "The content included in the scope of this project focus on audio reels with the current highest level of preservation concerns from the Kent Blossom Music Festival recordings, mainly the tapes displaying Sticky Shed syndrome. The ninety seven 1/4” reel to reel analog audio tapes included in this proposal cover three years (1981-1983) of a much larger analog tape collection. The entire reel to reel tape collection began with the start of the festival in 1968 and concluded in 1988, when the audio archive switched to the DAT format. The recordings were made by the School of Music and are considered the property of Kent State University. A portion of the collection has been digitized to date using in-house equipment and staff, an initiative which began around 2007 by Recording Technician Craig Adams on a part-time basis around other job duties. The content on the reels from 1968 to 1980 have been successfully digitized with no issues. However, when the audio reels displaying Sticky Shed syndrome were discovered, the project was suspended to identify funding to address these serious preservation concerns that could not be remedied in-house. The audio reels are not currently available for public use, though the digitization efforts would be a huge push to draw awareness to the collection and provide an incentive for our staff to provide more descriptive information to alert users to this material. Librarians from Kent State University’s Performing Arts Library created an online resource guide for the libraries’ more current holdings of festival recordings: http://libguides.library.kent.edu/kbm, and incoming festival participants receive information on past recordings and programs. The local catalog (KentLINK) contains information on these more recent programs (http://www.kentlink.kent.edu/search/a?SEARCH=kent+blossom+music+festival&searchscope=1&sortdropdown=-), and further an example of a MARC record can provide a sample of the desired metadata for the project (http://www.kentlink.kent.edu/record=b4391877~S1)."
 ---
-
-

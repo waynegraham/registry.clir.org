@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing the Yale Babylonian Collection
+title: "Digitizing the Yale Babylonian Collection"
+year: 2017
+end_range: 150
+formats: "NULL"
+geographic_extant: "Ancient Mesopotamia, present day Iraq, Syria, Turkey. By far the largest group of the YBC materials derive from Southern Iraq, and in particular the site of ancient Umma."
+institution: "Yale University"
+institution_type: "NULL"
+primary_contact: "Dr. Agnete Lassen"
+size: "NULL"
+start_range: "3200"
+summary: "Digitizing the Yale Babylonian Collection is a two-year project to digitize c. 34,000 cuneiform artefacts housed in the Yale Babylonian Collection (YBC). The Collection represents one of the most substantial cuneiform collections in the world and holds documents of unparalleled historical significance, shedding light on the earliest phases of human history. The aim of the project is to create and disseminate comprehensive documentation for research communities focused on deciphering and producing scholarship on the ancient Near East. The project will use two different imaging techniques, flatbed scanning and RTI (Reflectance Transformation Imagery), to digitize the artefacts and disseminate them through Yale’s Discovery portal, the YBC website and the Cuneiform Digital Library Initiative, hosted at UCLA which functions as the digital portal for cuneiform inscriptions. The project will make the cuneiform texts held at YBC globally accessible to scholars as well as to the public."
+hc_id: "26277053"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>34098 Artifacts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$219,928"
+material_description:  "The Yale Babylonian Collection holds virtually every genre, type, and period of ancient Mesopotamian writing, including commemorative inscriptions, scholarly treatises, letters and business documents, administrative accounts, inscribed seals, seal impressions, and other objects, and literature in Sumerian, Akkadian, and Hittite. Among its particular treasures are tablets of the Epic of Gilgamesh and other epic narratives, a group of the world’s oldest recipes, a large corpus of magic spells and mathematical texts, royal correspondence in Sumerian and Akkadian, and a Sumerian agricultural manual. Of special interest is the oeuvre of the first author in history whose work can be identified: a princess called Enheduanna, whose passionate poetry, composed over 4200 years ago, was first discovered and edited in the Collection."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Feminist Theory Archives
+title: "Feminist Theory Archives"
+year: 2012
+end_range: 2012
+formats: "NULL"
+geographic_extant: "While our project is international in scope, most materials have come from scholars working in the United States and publishing in English."
+institution: "Pembroke Center for Teaching and Research on Women"
+institution_type: "NULL"
+primary_contact: "Wendy Korwin"
+size: "120 cubic feet"
+start_range: "1950"
+summary: "The Feminist Theory Archives preserves the research and personal papers of scholars who have transformed the intellectual landscape of universities from the 1960s to the present through their research, writing, teaching, and activism. The materials come primarily from well-known scholars based in the United States, though they are also international in scope since many donors have corresponded with people around the world, researched and taught abroad, and published in languages other than English. Materials include personal and professional correspondence, course syllabi, annotated manuscripts, conference programs, and other documents related to institution building, activism, and intellectual exchange. The collection offers a rare perspective on the rigorous interdisciplinary and international work that brought feminism to the vanguard of research in the humanities, social sciences, sciences and creative and performing arts. With these archives, the Pembroke Center seeks to preserve the past in order to enhance the future of feminist theory."
+hc_id: "902"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Pembroke Center"
+address2:  "172 Meeting Street"
+city:  "Providence"
+state:  "RI"
+zip: "2912"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

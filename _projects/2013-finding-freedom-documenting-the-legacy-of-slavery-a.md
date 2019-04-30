@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Finding Freedom: Documenting the Legacy of Slavery and African American History through the Collections of the Maryland State Archives
+title: "Finding Freedom: Documenting the Legacy of Slavery and African American History through the Collections of the Maryland State Archives"
+year: 2013
+end_range: 1923
+formats: "NULL"
+geographic_extant: "These records from MD contain many issues that are national in scope. Staff especially expects to find documentation of slaves and free blacks."
+institution: "Maryland State Archives"
+institution_type: "NULL"
+primary_contact: "Emily Oland Squires"
+size: "267 boxes"
+start_range: "1811"
+summary: "The Friends of the Maryland State Archives have chosen two unprocessed series from the Archives' collections: QUEEN ANNE'S COUNTY CIRCUIT COURT (Miscellaneous Court Papers) 1815-1905 MSA T3273 This is a trial court with a jury that hears large, serious civil and criminal cases as well as juvenile and family cases and appeals from the District Court. The jurisdiction is very broad and includes full common law and equity powers. The court is also responsible for overseeing licenses, land records, juvenile cases, and legal document recordation. BALTIMORE CITY (Miscellaneous Administrative Records) 1811-1923 BRG41-3 These documents represent the finances of the municipal government's transactions including bills, vouchers, checks and payrolls. In a random sampling, the documents record the business of Baltimore city including a wide variety of items and services such as printing, paving, animal control, fire suppression, wharves, equipment and supplies, quarantines, jurors, street cleaners, lamplighters, janitors, improvements to the Baltimore harbor and fortifications/city defense during wartime. These two collections have been selected because they cover a long timespan, two different regions of Maryland (Eastern and Western shores). Sampling indicates that these collections will provide documentary evidence for many varied topics of study, but particularly African American history where a dearth of evidence exists, particularly for slaves and free blacks."
+hc_id: "1123"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Maryland State Archives"
+address2:  "350 Rowe Blvd."
+city:  "Annapolis"
+state:  "MD"
+zip: "21401"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

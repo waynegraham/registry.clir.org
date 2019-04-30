@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Hold the Presses: Southern Journalism Manuscript Collections Project
+title: "Hold the Presses: Southern Journalism Manuscript Collections Project"
+year: 2008
+end_range: 1996
+formats: "NULL"
+geographic_extant: "Nashville, Tennessee; Middle Tennessee; the South; and national coverage of the United States."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Juanita Murray"
+size: "442 linear feet"
+start_range: "1900"
+summary: "These five manuscript collections --Tom Little, Charles Bissell, Grantland Rice, Fred Russell, and James Stahlman -- help document nearly a century of newspaper journalism on a local, regional, and national level. Many aspects of newspaper production are represented, including columnists, editors and cartoonists. The collections include personal correspondence, business papers, writings, scrapbooks, subject files, photographs, and other materials. On a local level, both major Nashville newspapers “The Nashville Banner and The Nashville Tennessean” are represented in the collections. On a regional level, these collections have an appeal to middle and western Tennessee. On a national level, the collections include syndicated columns from Grantland Rice, Fred Russell, and James Stahlman as well as coverage of major newspaper associations like the Southeastern Newspaper Publishers Association and the American Newspaper Publishers Association. While all of the donors of our journalism manuscript collections began their careers with either Vanderbilt University or local Nashville connections or both, many of them moved on to positions of national prominence and influence. Tom Little won the Pulitzer Prize for Journalism in 1957 for a cartoon advocating the use of Salk’s polio vaccine. Bissell, Rice, Russell and Stahlman also won a number of national awards for their contributions to journalism."
+hc_id: "287"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Special Collections/University Archives"
+address2:  "Vanderbilt University"
+city:  "Nashville"
+state:  "TN"
+zip: "37203-2427"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

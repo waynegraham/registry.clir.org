@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Canal Society of New York State Collection
+title: "Canal Society of New York State Collection"
+year: 2011
+end_range: 2010
+formats: "NULL"
+geographic_extant: "Albany to Buffalo, the Erie Canal was the 19th-century backbone of New York and the nation. The collection witnesses these connections and regions."
+institution: "New York State Museum"
+institution_type: "NULL"
+primary_contact: "Michele Beilman"
+size: "1800 cubic feet, 200 objects"
+start_range: "1790"
+summary: "Represented are the entire archival holdings of the Canal Society of New York State. The Society was formed in 1956, the first such organization dedicated to the preservation of New York's canal heritage with special emphasis on the Erie Canal and its operation from 1817 to this day. It soon amassed a comprehensive collection at a time when appreciation of this legacy was young. It is the largest such collection in private hands. Manuscripts document the construction and use of the canal network, including letters, broadsides, receipts for shipments and tolls, account books for boatyards, maps and structure drawings. Published books and pamphlets mimic a union list of canal topics. Iconographic items include hundreds of paintings (pastels, watercolors and oils) and prints (some on Staffordshire china). Its birdseye view collection of New York State canal towns is unsurpassed. Photographic collections consist of albumen and silver prints, nearly 10,000 postcards, several hundred glass negatives (including some from the noted scientist Charles Steinmetz and from the Howe family as they transited the Erie Canal in the early 1900s), several thousand film negatives, color transparencies (with some of the first color aerial images of Upstate New York) and several historic motions picture films of the Erie Canal. In the 1950s audio recordings were done of first-person reminiscences of the 19th century canals. These reel-to-reel tapes are all that remain of these voices."
+hc_id: "795"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "2527 Cherry Valley Turnpike"
+address2:  "NULL"
+city:  "Marcellus"
+state:  "NY"
+zip: "13108"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Accessing Minor White: Connecting Collections from Princeton to Portland
+title: "Accessing Minor White: Connecting Collections from Princeton to Portland"
+year: 2016
+end_range: 1976
+formats: "NULL"
+geographic_extant: "Minor White started his career in Portland, Oregon, in 1938. While the proposed project focuses on his Oregon years, the Archive reflects his work, teaching, travel, and philosophy as he moved from Oregon to San Francisco to Rochester, and finally to Boston where he died in 1976."
+institution: "Princeton University Art Museum"
+institution_type: "NULL"
+primary_contact: "Dr. James Steward"
+size: "NULL"
+start_range: "1938"
+summary: "Princeton University Art Museum proposes \"Accessing Minor White: Connecting Resources from Princeton to Portland\" in partnership with the Oregon Historical Society and the Portland Art Museum to provide open access to the rich archival and photographic materials that detail the life's work of this esteemed photographer, author, curator, and educator. The three-year project will result in the digitizing and cataloging of over 500 artist's negatives and 50 boxes of mixed archival materials; cataloging of over 19,000 artist's negatives and 7,000 finished prints; published CIDOC-crm records; and creation of an online portal featuring the Mirador image viewer to provide broad public access for research. The Accessing Minor White Research Portal will integrate the three physical repositories of the artist's earliest photographic efforts as creative photographer for Oregon's Federal Art Project, and will enable future contributions from other institutions, providing access to the full breadth and chronology of Minor White's career."
+hc_id: "21851037"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Princeton University Art Museum"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>50 Mixed Archival Collections</li>"
+collaborating_institution:  "Oregon Historical Society; Portland Art Museum"
+grant_amount:  "$491,604.00"
+material_description:  "Minor White's work in Portland (1938-1942) documented the city's historic business district, bustling waterfront, actors, and nearby wilderness -- photographs that fundamentally shaped the rest of his artistic career. In 1942, when the Works Progress Administration closed down, he placed more than 500 negatives and prints of his earliest photographic work at the Portland Art Museum (PAM) and the Oregon Historical Society (OHS). These materials have an intrinsic relationship with those at Princeton University which this project intends to re-establish. Princeton holds the bulk of Minor White's photographic and professional archive, entrusted by the artist after his death in 1976. Paper components consist of a wealth of letters, annotated books, published and unpublished manuscripts, exhibition plans and correspondence, teaching notes, and the artist's diary. Photographic components include 19,000 artist's negatives, over 18,000 proof prints and finished prints, and 5,544 artist's proof cards. In the early 1980s, materials were generally organized in a photography department storeroom, with a two-page description being the only \"finding aid.\" There are no records concerning the provenance of the negatives deposited at OHS. The 4x5 negatives are organized under the Minor White Collection (Org. Lot 52.) The remaining eight original prints are part of the Portland Civic Theatre Collection (Mss. 2965). The negatives were itemized and described by Dr. Ken Hawkins as part of his graduate school thesis in the 1980s. It is understood that White's WPA negatives came to PAM in 1952 as part of a larger group of Oregon-related WPA negatives. Original housing materials indicate that the negatives first were sent from Washington, DC, to the Forest Service's Portland office, and then to PAM. In 2001 the historic house negatives commissioned by the Museum (dating to 1942), were transferred to the Museum and cataloged with basic metadata by museum staff."
 ---
-
-

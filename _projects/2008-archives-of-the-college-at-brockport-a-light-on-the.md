@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Archives of the College at Brockport: A Light on the Last 175 Years
+title: "Archives of the College at Brockport: A Light on the Last 175 Years"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "Brockport and Monroe County, NY and Western, NY"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Colleen Donaldson"
+size: "1132 linear feet"
+start_range: "1841"
+summary: "The College Archives, established by college-wide committee in 1986 acquires and preserves historical materials having permanent administrative, educational and research value which contribute to the understanding of the history of the college from its inception as a Baptist College in 1835 through the present. The collection includes Register books from 1860s to 1900; copies of the student publication Normalia and the Stylus from 1900 to the present; trustees minutes from 1841; catalogs and circular from 1842; commencement programs from 1865;yearbooks from 1899; photographs, negatives and slides by college photographers from 1900s (bulk from 1950-1990); Writers Forum videos, audios and correspondence from its inception in 1960s to the present. A secondary purpose is to acquire and preserve manuscript and published historical materials which contribute to the understanding of local history and development. Special collections include D.S. Morgan Co. papers, John Sutphin Civil War Quartermaster papers from 1861-1903, Arnold Grade children’s books manuscript collection 1968-1976, Mary Jane Holmes, (a popular Victorian woman’s fiction writer) book collection, Brockport master’s theses from #1. Unprocessed 5 x 8 inch glass plate negative collection of 200 images from 1905 - 1915 by A.B. Elwell and George Guelph, local amateur photographers. Unprocessed collection of lantern slides developed by NY State Education Dept. as curriculum aids for its Normal Schools from 1910-1940."
+hc_id: "363"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "350 New Campus Drive"
+address2:  "NULL"
+city:  "Brockport"
+state:  "NY"
+zip: "14420"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

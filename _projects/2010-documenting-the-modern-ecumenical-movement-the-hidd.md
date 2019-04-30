@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Documenting the Modern Ecumenical Movement: The Hidden Archival Collections of the Burke Library
+title: "Documenting the Modern Ecumenical Movement: The Hidden Archival Collections of the Burke Library"
+year: 2010
+end_range: 2001
+formats: "NULL"
+geographic_extant: "Both sets of collections are global in their scope, covering the continents except Antarctica, with special strengths in East Asia and the Americas."
+institution: "Columbia University"
+institution_type: "NULL"
+primary_contact: "John Weaver"
+size: "573 linear feet"
+start_range: "1825"
+summary: "This is a project to arrange and describe two hidden collection groups to support non-sectarian research into individuals, communities, and indigenous cultures related to the global missionary and ecumenical movements. Materials were added to the collections regardless of religious affiliation, with a concern for humanistic inquiry and informed social activism on a global scale. The Mission Research Library (MRL) was founded by John Mott in 1914 and initially funded by John D. Rockefeller to be “the most complete and serviceable missionary library and archives in the world, thoroughly interdenominational, ecumenical and international,” and “preeminently rich in source material.” The MRL and its archives were transferred to Burke in 1976. From India to North America, the MRL archives record the historical contexts (political, social, cultural, anthropological, medical, and educational) of missionary fields in the late nineteenth through twentieth centuries. The William Adams Brown Ecumenical Archives were founded in 1945 to form a center of resources for modern ecumenism. They record the history of many diverse ecumenical organizations and events from the 1860s to the present, including early church union movements in Asia, the records of the World Council of Churches, interracial dialogue during the U.S. Civil Rights movement, ecumenical conversations among Protestants and Roman Catholics, and the human rights and social service outreach programs of NY City charities."
+hc_id: "592"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "3041 Broadway"
+address2:  "NULL"
+city:  "New York"
+state:  "NY"
+zip: "10027"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

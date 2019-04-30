@@ -1,8 +1,34 @@
 --- 
 layout: project 
-title: Collection: UPR Library Collection
-
-Project Title: Sharing World Wisdom Because We Should
+title: "Collection: UPR Library Collection\n\nProject Title: Sharing World Wisdom Because We Should"
+year: 2015
+end_range: 2000
+formats: "NULL"
+geographic_extant: "Western Europe, Egypt, Middle East, Indian, China, Korea, United States, South America, Japan"
+institution: "University of Philosophical Research"
+institution_type: "NULL"
+primary_contact: "Dr. Obadiah Harris"
+size: "NULL"
+start_range: "1400"
+summary: "The purpose of the project is to digitize the University of Philosophical Research's Library's rare, out of print, and collectible books, manuscripts, periodicals devoted to art, astrology, comparative religion, ancient through modern philosophy, including many rare original editions from the 15th to the 18th centuries. The focus of this digitization effort is to digitize the rare and out of print books, and to make them accessible to our accredited university, students, scholars, in the U.S.and abroad, and the general public. The digitization of the library and rendering it accessible from anywhere in the world, would be a contribution to the dissemination of the knowledge and wisdom therein, but also to the exchange and growth of dialogue, cross cultural and cross discipline learning."
+hc_id: "17269719"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Philosophical Research"
+p2_name:  "Dr. Timothy"
+p2_institution:  "Director of Assessment and Institutional Research"
+p3_name:  "Dr. Ms. Cathy"
+p3_institution:  "Librarian"
+material_string: "<li>337 Books</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$249,993"
+material_description:  "The selected documents from the UPR Library represent a cross-section of titles representing numerous facets of philosophy, metaphysics, astrology, comparative religion, art and alchemy. The selection focused exclusively on rare, hard to locate, and out of print materials. The sub-set of documents from the library collection to be digitized relate to such provenances as England, Western continental Europe, Peru, Egypt, India, and China. Relevant associated people, early scholars cover the following): Francis Bacon, Buddha, Plato, Aristotle, Plutarch, Swedenborg, Emerson, Freud, Jung, Kant, Nietzsche, Boehme, Locke, Decartes, St. Germain, Cicero, Schopenhauer etc."
 ---
-
-

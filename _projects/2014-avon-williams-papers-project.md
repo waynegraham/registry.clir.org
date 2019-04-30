@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Avon Williams Papers Project
+title: "Avon Williams Papers Project"
+year: 2014
+end_range: 1991
+formats: "NULL"
+geographic_extant: "Primarily Tennessee, but many cases/files have regional and national"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Sharon Smith"
+size: "500 linear feet"
+start_range: "1950"
+summary: "This project will catalog and preserve unprocessed papers related to the legal and legislative career of Avon Williams Jr., a leading civil rights attorney and state senator in Tennessee. His more than 40 years of law practice included direct involvement in school desegregation cases in 86 of Tennessee's 95 counties; Gray v. University of Tennessee and Geier v. Tennessee, which impacted desegregation in Tennessee higher education; representation of Nashville 1960s civil rights activists; and other cases (many in collaboration with the NAACP Legal Defense Fund and his first cousin, Thurgood Marshall, who went on to become the first African American associate justice on the U. S. Supreme Court)."
+hc_id: "11788637"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

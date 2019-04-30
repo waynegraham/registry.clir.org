@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Forgotten Modern: USC's Hidden Mid-Century Architecture Collections
+title: "The Forgotten Modern: USC's Hidden Mid-Century Architecture Collections"
+year: 2010
+end_range: 1995
+formats: "NULL"
+geographic_extant: "The collections include the drawings, plans, and papers of architects best known for their work in Southern California."
+institution: "USC Libraries"
+institution_type: "NULL"
+primary_contact: "Claude Zachary"
+size: "1550 linear feet"
+start_range: "1940"
+summary: "USC's archives provide extensive information about architects whose contributions to mid-century Southern California design are just beginning to be more fully recognized. The collections document historically significant commercial, residential, religious, and landscape projects by architects who shaped the distinctive look of L.A. at the height of its 1940-1990 building boom. Their work also influenced international design, vernacular modernism, and dramatic changes in the 20th-century built environment such as the growth of suburbs. The largest archives selected for Forgotten Modern are those of Edward H. Fickett (1916-1999), landscape architect Emmet L. Wemple (1921-1996), and Sidney Eisenshtat (1914-2005). These three archives offer nearly complete overviews of the architects' work and feature thousands of rolled and flat floor plans, sections, and elevations. Their project files include contracts, correspondence with clients, general and engineering specifications, geotechnical investigations, invoices, cost estimates, permits, and clippings. The collections preserve a wide variety of slides, photographic prints, and presentation drawings—most of which are finely rendered in color—as well as finish samples, artwork, and three-dimensional models. Forgotten Modern also includes papers and drawings of other mid-century Southern California architects, such as Tolbert Virgil Anthony, Samuel Lunden, Carl Maston, Cliff May, William Pereira, and Burnett C. Turner."
+hc_id: "678"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Doheny Memorial Library, 220"
+address2:  "USC Libraries"
+city:  "Los Angeles"
+state:  "CA"
+zip: "90089-0189"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

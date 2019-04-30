@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Thomas Carlyle in America
+title: "Thomas Carlyle in America"
+year: 2017
+end_range: 1910
+formats: "NULL"
+geographic_extant: "Thomas Carlyle wrote in England and Scotland, primarily in London. He also wrote letters and travel narratives in Germany, France, and the Netherlands. He wrote about France, Germany, Great Britain, and the United States. This project highlights his large readership in the U.S., including many prominent figures."
+institution: "University of South Carolina"
+institution_type: "NULL"
+primary_contact: "Dr. Colin Wilder"
+size: "NULL"
+start_range: "1795"
+summary: "Thomas Carlyle In America (TCIA) would digitize 92,621 pages of materials related to the controversial Victorian prophet, Thomas Carlyle (1795–1881), held at libraries across the United States. TCIA will be the next and largest venture of the Victorian Lives and Letters Consortium, an international scholarly network dedicated to creating digital archives of important but difficult to access Victorian sources. Scattered for over a century, the letters, artwork, research notes, annotated books, etc. represented in TCIA form a huge, lost or invisible archive of Carlyle and particularly his extensive American circle. Indeed, Carlyle’s reputation as “the Sage of Chelsea” depended heavily upon his “New England” audience. He strongly influenced Emerson, Thoreau, Margaret Fuller, Henry James Sr., and many others. According to Walt Whitman, Carlyle’s “final value” in this country was in “launching into the self-complacent atmosphere of our days a rasping, questioning, dislocating agitation and shock.”"
+hc_id: "26307008"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of South Carolina"
+p2_name:  "Ms. Kate Boyd"
+p2_institution:  "USC Libraries"
+p3_name:  "Ms. Elizabeth Sudduth"
+p3_institution:  "USC Libraries"
+material_string: "<li>260 Books</li>"
+collaborating_institution:  "Baylor University; Harvard University; University of California, Santa Cruz; University of South Carolina"
+grant_amount:  "$497,138"
+material_description:  "Genres in the TCIA collections range from personal correspondence to Carlyle’s extensive, annotated research collections, memoirs to travel narratives, and rare inscribed published works to unique material artifacts, such as a relic from the Battle of Naseby (1645). A partial list of relevant figures who are either discussed or were actual parties to these materials (as authors or recipients) serves as a pantheon of 19th-century intellectual life: radicals such as Louis Blanc, Godefroi Cavignac, Alexander Herzen, and Giuseppe Mazzini; actors such as Charlotte Cushman; artists such as Ford Madox Brown, William Holman Hunt, Dante Gabriel Rossetti, and James Abbott McNeill Whistler; historians, essayists, and biographers such as Ralph Waldo Emerson, John Forster, and Margaret Fuller; novelists such as Dickens, Eliot, Turgenev, and Trollope; poets such as the Brownings, Goethe, Tennyson, and Whitman; philosophers and social critics such as Matthew Arnold, Erasmus Darwin, John Stuart Mill, and John Ruskin; publishers, journalists, and researchers such as Frederic and John Chapman, John Delane, and Edward Moxon; politicians such as Bismarck, Disraeli, Gladstone, and Peel; scientists such as Thomas Huxley, Richard Owen, and John Tyndall; and clergymen such as John Henry Newman and Samuel Wilberforce. This formation, as it were parading through the Carlyles’ house in Chelsea, central London, makes it easy to understand why Walt Whitman wrote, “Try to consider, for a moment, the array of British thought, the resultant ensemble of the last fifty years, as existing today, but with Carlyle left out. It would be like an army with no artillery.”"
 ---
-
-

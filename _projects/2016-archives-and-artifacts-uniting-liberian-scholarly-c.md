@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Archives and Artifacts: Uniting Liberian Scholarly Collections from Indiana University Libraries and Mathers Museum of World Cultures
+title: "Archives and Artifacts: Uniting Liberian Scholarly Collections from Indiana University Libraries and Mathers Museum of World Cultures"
+year: 2016
+end_range: 2007
+formats: "NULL"
+geographic_extant: "The materials focus on Liberia, including items from co-ethnic groups in neighboring countries. Examples include the Gio/Dan in Ivory Coast and Liberia and the Mende of Sierra Leone and Liberia. There is a strong international component represented by correspondence and materials related to academic conferences, museum exhibitions, and teaching."
+institution: "Indiana University"
+institution_type: "NULL"
+primary_contact: "Ms. Michelle Dalmau"
+size: "NULL"
+start_range: "1850"
+summary: "A woodcarver shares his experience of mask-carving; scholars photograph masking ceremonies; an author weaves allusions to masks into his work: Archives and Artifacts will bring together a full range of materials to allow scholars to create new knowledge about Liberian expressive culture, including writings (field notes, correspondence, manuscripts, Liberian government and IGO reports), photographs, and three-dimensional objects (sculpture, textiles, baskets, etc.). Archives and Artifacts is a two-year endeavor by two units on Indiana University's Bloomington campus: Indiana University's Libraries' Liberian Collections, part of the African Studies Collection (IULC), and the Mathers Museum of World Cultures (MMWC). The IULC team will process and digitize paper and photographic materials. This includes attention to the physical resource--assessing and digitizing--and to information about the resource--recording associated metadata, creating or modifying finding aids. Object digitization by the MMWC team follows the same pattern--care for the object and for the associated information."
+hc_id: "21992526"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Indiana University Libraries"
+p2_name:  "Dr. Marion Frank-Wilson"
+p2_institution:  "Indiana University Libraries"
+p3_name:  "Dr. Ellen Sieber"
+p3_institution:  "Mathers Museum of World Cultures"
+material_string: "<li>90 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$194,206"
+material_description:  "\"Expressive culture\" is the central theme that unifies the archival and artifactual materials to be digitized. The documents and photographs were created by Warren d'Azevedo, Kathleen d'Azevedo, Bai T. Moore, and William Siegmann, important figures in Liberian cultural studies during the second half of the 20th century. Warren d'Azevedo was an anthropologist who pioneered ethnographic examination of African art production; his field notes, photographs, and writings are key to understanding both his subjects and his approaches. Poet, novelist, and Liberian national Bai T. Moore was a leading figure in Liberian cultural life, both as a writer and as a producer and facilitator of performance, preservation (recording and photographing), and research. His archives thus include ethnographic materials as well as manuscripts, etc. William Siegmann was a major authority in Liberian and Sierra Leonean art and ethnographic studies as well as a museum curator, both in Liberia and in the US. Taken together, these archival holdings document and comment on Liberian life and culture and are unmatched in their depth and breadth. The MMWC artifacts were collected by the d'Azevedos, Siegmann, and their colleague Svend Holsoe during fieldwork in Liberia; these are significant holdings on their own, and more so when integrated with the research archives of these scholars. African expressive culture is deeply integrated into both daily and ritual life; Kathleen d'Azevedo's materials include data on school-age children in Liberia, especially girls, beginning in the 1950s and document less obvious aspects of expressive culture. Together these archives and objects encompass expressive culture forms including wood carving, pottery, brass casting, weaving, music, dance, literature and poetry, all from deeply ethnographic perspectives on Liberian culture."
 ---
-
-

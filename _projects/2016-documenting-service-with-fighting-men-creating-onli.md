@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Documenting Service with Fighting Men: Creating Online Access to World War I-Related Materials of the Kautz Family YMCA Archives
+title: "Documenting Service with Fighting Men: Creating Online Access to World War I-Related Materials of the Kautz Family YMCA Archives"
+year: 2016
+end_range: 1950
+formats: "NULL"
+geographic_extant: "The project primarily focuses war efforts in France and Germany, as well as on the home front in the United States and Canada, and also includes material documenting war-related work in Germany, the United Kingdom, Russia, and the Middle East."
+institution: "University of Minnesota"
+institution_type: "NULL"
+primary_contact: "Ms. Lara Friedman-Shedlov"
+size: "NULL"
+start_range: "1910"
+summary: "The Kautz Family YMCA Archives proposes a two-year project to digitize and make available online materials documenting the YMCA's role in providing critical support to the armed services during World War I (WWI). The project comprises records from the YMCA's Armed Services Department including interviews, photograph albums, scrapbooks, newspapers, and artifacts. The material will be freely accessible to the public via the UMN's digital repository and enhanced metadata from existing collection descriptions, as well as via DPLA. An invaluable resource for interdisciplinary scholarship, the material will be brought together with related online collections through the metadata, as well as a web-based exhibit and curriculum materials. In light of the imminent centenary of American involvement in the war, the project will attract significant interest at national and international levels by both academic scholars and the general public."
+hc_id: "22156721"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Minnesota"
+p2_name:  "Mr. Ryan Bean"
+p2_institution:  "University of Minnesota"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>190 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$191,639"
+material_description:  "As one of the nation's largest and oldest social welfare institutions, the Young Men's Christian Association (YMCA) is a dynamic organization that has worked to improve communities around the globe for 165 years. One institution that has long benefited from the support of the YMCA is the Armed Forces, work which began in 1857 when the Portsmouth, Virginia Y began engaging with the local naval yard. The largest of the YMCA's wartime relief efforts in terms of individuals served and dollars spent took place during WWI. Materials to be digitized are primarily textual and comprise organizational records including reports, minutes, correspondence, and printed material; personal narratives; and records from partnering international YMCAs. They illuminate the efforts of the YMCA, and, to a lesser extent, partner organizations, to improve the mental, physical, social, and spiritual condition of individuals during the events of WWI. The records provide a comprehensive account of the YMCA's war work, both domestic and international, which narrate public attitudes and engagement prior to, during, and after the war--conditions of soldiers in training camps, on the front lines, in leave areas, and in prison camps. And, they document the variety of ways the YMCA engaged with soldiers, bringing a \"bit of home over there,\" through educational services, management of canteens and leave areas, by providing entertainment and organizing sports including the Inter Allied Games, counsel through chaplains, and by distributing religious tracts. The records provide meaningful narratives of the war written by men and women, often from the trenches. The collections we are proposing to digitize are actively used by a wide array of interdisciplinary researchers."
 ---
-
-

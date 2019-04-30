@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Preserving the Programming Archives of the National Federation of Community Broadcasters. National Public Broadcasting Archives at the University of Maryland.
+title: "Preserving the Programming Archives of the National Federation of Community Broadcasters. National Public Broadcasting Archives at the University of Maryland."
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "University of Maryland, College Park"
+institution_type: "NULL"
+primary_contact: "Ms. Robin Pike"
+size: "NULL"
+start_range: "NULL"
+summary: "The National Public Broadcasting Archives (NPBA) will reformat at-risk, rare audio recordings (600 open-reel tapes, estimated 300 hours, dating 1965-1984) from the National Federation of Community Broadcasters (NFCB) Collection. The NFCB is a national grass-roots, non-profit organization which has served non-commercial community-based radio stations since 1975. Their mission includes assisting and advocating for the successful operation and funding of local stations, facilitating the production of innovative programming from diverse sources, and promoting the participation of minorities and women at all levels of public broadcasting. The audio recordings in this project include ethnographies of music cultures throughout the world, programs on social and cultural issues in the U.S. and speeches from feminist and African-American activists. These digitized recordings, made available via UMD Libraries’ Digital Collections repository, will be invaluable to international researchers from a wide range of disciplines including ethnomusicology, anthropology, media studies, sociology, political science, African-American history, and women’s studies."
+hc_id: "26850440"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "University of Maryland, College Park"
+p2_name:  "Ms. Laura Schnitker"
+p2_institution:  "University of Maryland, College Park"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "600 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$21,398"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Scottish Court of Session Digital Archive: Window into the British Atlantic, 1759-1834
+title: "Scottish Court of Session Digital Archive: Window into the British Atlantic, 1759-1834"
+year: 2016
+end_range: 1834
+formats: "NULL"
+geographic_extant: "Legal documents from cases dealing with Europe, North America, the Caribbean, Africa, and India."
+institution: "University of Virginia Law Library"
+institution_type: "NULL"
+primary_contact: "Dr. Loren Moulds"
+size: "NULL"
+start_range: "1759"
+summary: "For this two-year project, the UVA Law Library will digitize 64 linear feet of legal records produced by the Scottish Court of Session, documents that reveal hidden histories of trade, migration, and life in the British empire in the years surrounding the American Revolution. Despite its seat in Edinburgh, Scotland, the legal disputes that came before the Court often spanned the Atlantic, and this digitization project reintegrates the spaces of the British empire--Great Britain, colonial America, the Caribbean, western Africa--as they would have been understood and experienced in the 18th- and 19th-centuries. Until now, a defendant/plaintiff name index and legal subject index have provided the only means of accessing these records, effectively hiding from scholars the richer context of people, trade, and politics contained within. Digital access to these documents will enable the creation of new knowledge about life and law in the early modern British Atlantic."
+hc_id: "22227159"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Virginia Law Library"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>63 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$72,759"
+material_description:  "The UVA Scottish Court of Session Papers proposed here for digitization consists of printed and formerly bound case materials presented before the Court of Session, the highest civil court in Scotland, from 1759 to 1834. As a court of appeal and of first instance, the Court of Session held jurisdiction over contract and commercial cases, matters of succession and land ownership, divorce proceedings, intellectual property and copyright disputes, and contested political elections. In addition to petitions and memorials, case documents include color maps, drawings, and plans. Appended to many of these records are printed copies of correspondence, wills, financial accounts, and census reports offered as evidence. The Court provided copies of these papers to all litigants and judges for each case, and it was common practice in this period for lawyers and judges to retain these papers for their personal library or legal practice. Session papers thus exist in various collections around the world, though each collection has its own unique composition of documents and marginalia. The UVA Session Papers collection originally belonged to lawyer Andrew Skene, who was born in 1784 and served as Scotland's Solicitor General from 1834 until his death in 1835. Many of these documents include his handwritten and often lengthy annotations on the content and judgments for individual cases. Skene likely enlarged his own library by acquiring Session papers from other personal collections. The earliest documents in UVA's collection predate Skene's legal career and include the annotations of other Scottish jurists such as William Craig, lawyer and judge from 1768 to 1812. Skene gave his Session papers to the Library of the Society of Advocates in Aberdeen, Scotland, which sold them along with many of their manuscript collections in the 1980s. The UVA Law Library purchased the records at auction in 1986."
 ---
-
-

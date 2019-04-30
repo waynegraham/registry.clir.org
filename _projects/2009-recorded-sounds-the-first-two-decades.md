@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Recorded Sounds: The First Two Decades
+title: "Recorded Sounds: The First Two Decades"
+year: 2009
+end_range: 1898
+formats: "NULL"
+geographic_extant: "The collections for this project pertain to the history of sound recording in the United States, with a special focus on events in Washington, D.C."
+institution: "National Museum of American History"
+institution_type: "NULL"
+primary_contact: "Carlene Stephens"
+size: "0 boxes, 0 cubic feet, 0 linear feet, 400 objects"
+start_range: "1878"
+summary: "This project involves cataloging and writing finding aides for nearly 400 of the earliest audio recordings ever made. These experimental recordings date from the first decades of sound recording and reproduction. Beginning in 1877 with the invention of the phonograph, Thomas Edison, Alexander Graham Bell and Emile Berliner vied for patents and dominance of the commercial market for records and machines to play them on. Each inventor offered objects and supporting documents to the Smithsonian Institution, where they became part of the permanent collections. These early recordings are largely unknown, even within the Smithsonian. They have not been played since acquired, and sound has never been recovered from any of them. Beyond vague notes on ancient catalog cards, the content of most of the recordings is a mystery. No on-line finding aid exists. The recordings are now part of the collections of the Smithsonian's National Museum of American History, where they are classified as artifacts rather than as special collections as defined by libraries and archives. In collaboration with Library of Congress and Lawrence Berkeley National Laboratory, we propose to use a noninvasive optical technique developed by those two institutions to scan and recover sounds from the Smithsonian's unique recordings as a necessary first step for cataloging."
+hc_id: "484"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Smithsonian Institution"
+address2:  "Room 5002 MRC 629"
+city:  "Washington"
+state:  "DC"
+zip: "20013-7012"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

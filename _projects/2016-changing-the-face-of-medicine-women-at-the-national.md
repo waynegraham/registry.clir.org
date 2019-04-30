@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Changing the Face of Medicine: Women at the National Institutes of Health
+title: "Changing the Face of Medicine: Women at the National Institutes of Health"
+year: 2016
+end_range: 2003
+formats: "NULL"
+geographic_extant: "The nominated collections represent global, regional, and local scopes, considering the international prominence of the National Institutes of Health, the largest biomedical research agency in the world, and the individual accomplishments and impactful careers of Healy, Kirschstein, Osborn, Pittman, and Stewart."
+institution: "Foundation for the National Institutes of Heath"
+institution_type: "NULL"
+primary_contact: "Dr. Jeffrey Reznick"
+size: "NULL"
+start_range: "1921"
+summary: "Building on its award-winning and high-profile exhibition on women in medicine, entitled Changing the Face of Medicine, the History of Medicine Division of the National Library of Medicine will digitize and make available online, through its established digital collections repository, NLM Digital Collections (https://collections.nlm.nih.gov/), the collections of five pioneering women who served as administrators and researchers at the National Institutes of Health: Bernadine Healy, Ruth Kirschstein, June Osborn, Margaret Pittman, and Sarah Stewart. These five collections, consisting of over 400,000 items, highlight the work of women as NIH leaders and researchers to enhance health, lengthen life, and reduce illness and disability. These collections include the collection of the first woman to head the NIH (Healy), the first woman to lead an NIH laboratory (Pittman), one of the early leaders in the fight against AIDS (Osborn), the acting associate director of the newly established Office of Research on Women's Health (Kirschstein)."
+hc_id: "22182859"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "National Library of Medicine"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>219 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$250,000"
+material_description:  "Donated to the NLM by her husband, Bernadine Healy's collection includes speeches, subject files, Congressional testimony, clippings, videotapes, and administrative files. At NIH Healy oversaw the development of a genetics laboratory, the Institute for Nursing Research, and the Women's Health Initiative. Acquired by the NLM from NIH, Ruth Kirschstein's collection contains subject files, presentations, awards, and photographs in her office at the time of her death. She was the first woman director of an NIH institute as director of the National Institute of General Medical Sciences in 1974. She became acting associate director of the new Office of Research on Women's Health in 1993 and was acting director of NIH in 1993 following Healy's resignation and in 2000-2002. For three decades, June Osborn, an expert advisor on virology, infectious diseases, vaccines, and public health policy, worked with the National Institutes of Health (NIH), the Centers for Disease Control and Prevention (CDC), and the World Health Organization (WHO). Donated by Dr. Osborn, her collection includes correspondence, reports, speeches, testimonies, hearings, audiovisuals, and biographical material. The collection of Margaret Pittman, the first female lab chief of an NIH laboratory, consists of personal material, professional correspondence, laboratory and research notes, subject files, manuscripts, and photographs that document her career and her research into whooping cough, meningitis, conjunctivitis, Cholera, and Typhoid. The FDA and the Office of NIH History transferred Pittman's collection to the NLM. Sarah Stewart, who became the Medical Director and Head of the Leukemia Studies Section of the National Cancer Institute in 1951, discovered certain virus strains can jump species and produce cancers in other hosts. Her collection, donated by her sister, consists of biographical data, correspondence, clippings, reprints, oral history memoir, and laboratory notes."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Interior Alaska Historic Radio Programs Cataloging Project
+title: "Interior Alaska Historic Radio Programs Cataloging Project"
+year: 2011
+end_range: 1992
+formats: "NULL"
+geographic_extant: "All contents were locally produced, covering issues pertinent to the Circumpolar North and Alaska."
+institution: "University of Alaska"
+institution_type: "NULL"
+primary_contact: "Dirk Tordoff"
+size: "1800 objects"
+start_range: "1978"
+summary: "The collection is made up of 10 and 7 inch reels of 1/4 inch magnetic audio tape recorded at KUAC Public Broadcast radio station at the University of Alaska Fairbanks. The tapes are from weekly radio series covering various topics of cultural and local significance. The major series are: Chinook which dealt with Alaska Native issues through the era of implementation of the Alaska Native Claims Settlement Act. The series includes interviews with important Native leaders, traditional music, and Elders conferences. Conversations was an in-depth interview program covering a diverse range of guests and topics including: national to local politicians, artists, musicians, authors, and eclectic people from homesteaders to dog-mushers. Northern Storyteller featured readings of northern themed books aimed at younger audience members in the K-8 range. It included materials written throughout the Circumpolar North often featuring authors reading their own works. KUAC news master tapes were compiled daily and included state, regional, and local news. The collection also contains locally produced one-off programs of local musicians, an a locally produced variety program."
+hc_id: "759"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Rasmuson Library"
+address2:  "P.O. Box 756808"
+city:  "Fairbanks"
+state:  "AK"
+zip: "99775"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

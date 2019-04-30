@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: African American Agricultural Education Historical Legacy: The New Farmers of America, Veteran Farmer's Program, and 1890 Land Grant Documents
+title: "African American Agricultural Education Historical Legacy: The New Farmers of America, Veteran Farmer's Program, and 1890 Land Grant Documents"
+year: 2012
+end_range: 1965
+formats: "NULL"
+geographic_extant: "The geographic scope primarily covers North Carolina in addition to eastern and southern states possess in 1890 Land Grant Insitutions."
+institution: "NC A&T State University"
+institution_type: "NULL"
+primary_contact: "Antoine Alston"
+size: "214 linear feet, 4000 objects"
+start_range: "1900"
+summary: "The New Farmers of America (NFA) was a national organization of African American farm boys studying vocational agriculture in the public schools throughout 18 states in the eastern and southern United States from 1927-1965. The NFA started in Virginia in May, 1927 with a few chapters and members, and concluded in 1965 with more than 1,000 chapters and more than 58,000 active members. The organization merged in 1965 with the FFA as a result of the Civil Rights Act. NC A&T State University possess the largest known collection of NFA memorabilia and served as the national headquarters of the organization. The collection consist primarily of business records, student handbooks, photographs, albums, correspondence, student award medals and plaques, officer banners, and other miscellaneous documents. The second part of the collection concerns the African American Veteran Farmer's Program which was designed for returning soldiers during WWII and the Korean War. The program was housed at the 1890 Land Grant Institutions and provided veterans opportunities to utilize their G.I. Bill to learn about the latest farming techniques. The collection for this area consist of student farmer records, business correspondence, and photographs. The last component consist of a variety of 1890 Land Grant and NC A&T State University agricultural education historical documents. The documents consist of photographs, business records, course projects, extension publications, and other pertinent items."
+hc_id: "960"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "251 Carver Hall"
+address2:  "1601 East Market Street"
+city:  "Greensboro"
+state:  "NC"
+zip: "27411"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

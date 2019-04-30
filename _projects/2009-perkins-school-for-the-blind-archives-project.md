@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Perkins School for the Blind Archives Project
+title: "Perkins School for the Blind Archives Project"
+year: 2009
+end_range: 1970
+formats: "NULL"
+geographic_extant: "Perhaps 75 percent of the material (approximately 310 feet) pertains to institutions, individuals, and events in New England, while the remaining 25 percent relates to institutions, individuals, and educational practices throughout the continental U.S."
+institution: "Perkins School for the Blind"
+institution_type: "NULL"
+primary_contact: "Betsy McGinnity"
+size: "410 linear feet"
+start_range: "1820"
+summary: "Perkins-related material -- most are unique primary-source documents: Correspondence from the 1820s through the 1920s, including letters from people prominent in 19th-century New England philanthropy and in the national education reform movement; Educational, financial, and housekeeping records from the 19th and 20th centuries; Journals and letters written by Perkins student Laura Bridgman, the first deafblind person to learn language; Teachers’ journals and papers that document the early practices of education of students with blindness and deafblindness; Documents and publications relating to the first four directors, including Samuel Gridley Howe; Documents and publications relating to Julia Ward Howe; Scrapbooks of newspaper articles, 1880-1950s; and Student and alumni publications. Material related to Perkins students Helen Keller and Anne Sullivan Macy – unique primary source material: The Nella Braddy Henney Collection of correspondence (1920s-early 1960s); Henney’s notes for her 1936 biography of Macy; Original correspondence, 1890s; Keller scrapbooks, 1880s-1960s. Material related to the history of education of the blind; attitudes toward people with disabilities: Annual reports and scrapbooks about other schools, 1880-1950s; The Bettye Krolick International Music Braille Collection (collection of published materials); Papers donated by alumni and staff, documenting educational practices and individual accomplishments."
+hc_id: "477"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "175 North Beacon Street"
+address2:  "NULL"
+city:  "Watertown"
+state:  "MA"
+zip: "2472"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

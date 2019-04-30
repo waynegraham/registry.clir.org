@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: James P. Johnson Digitization Project
+title: "James P. Johnson Digitization Project"
+year: 2015
+end_range: 1955
+formats: "NULL"
+geographic_extant: "New York and New Jersey"
+institution: "Institute of Jazz Studies - Rutgers University Libraries"
+institution_type: "NULL"
+primary_contact: "Ms. Krista White"
+size: "NULL"
+start_range: "0"
+summary: "The Institute of Jazz Studies seeks funding to digitize and make publicly available the James P. Johnson Music and Personal Papers,a collection only available to users through on-site visits. The collection consists of music manuscripts, correspondence, photographs, business records, and ephemera documenting Johnson's career as a composer and performer in the early 20th century New York jazz scene. If completed, this project will open Johnson's personal and professional papers to a broader audience. James P. Johnson (1894-1955) occupies a unique place in American musical history whose accomplishments transcend any single genre. Known as the \"Father of Stride Piano,\"  he pioneered the development of jazz piano style, serving as a model for Duke Ellington, Fats Waller, and all who followed. Johnson wrote in a variety of idioms, from popular songs to extended works (Yamekraw, Harlem Symphony), and was one of the first African Americans to penetrate Broadway in the 1920s."
+hc_id: "17204770"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Rutgers University Libraries"
+p2_name:  "Ms. Adriana"
+p2_institution:  "Associate Director"
+p3_name:  "Ms."
+p3_institution:  "NULL"
+material_string: "<li>20 Musical Scores</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$88,043"
+material_description:  "The James P. Johnson Music and Personal Papers, ca. 1910-1955 contains music manuscripts, published music, correspondence, photographs, concert programs, date books, notebooks,radio scripts, and business records documenting Johnson's career as a jazz pianist and composer in early 20th century New York. In 2004 the IJS was selected as the official repository for the James P. Johnson Collection by his estate. Items of interest include correspondence and music for the unpublished opera De Organizer (1940), a collaborative work that Johnson co-wrote with Langston Hughes, manuscript scores for Carolina Shout (1921), Concerto Jazzamine (1934), and Harlem Symphony (1932), and extensive business records documenting transactions between Johnson and his publishers, royalties earned, and copyright registrations and transfers of his work as a composer and pianist during the early days of jazz in the 1920s."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Gorham Manufacturing Company Archive (hereinafter "Gorham Archive")
+title: "Gorham Manufacturing Company Archive (hereinafter \"Gorham Archive\")"
+year: 2009
+end_range: 2005
+formats: "NULL"
+geographic_extant: "United States and Canada, with a particular focus on Rhode Island and Southern New England."
+institution: "Brown University Library"
+institution_type: "NULL"
+primary_contact: "Harriette Hemmasi"
+size: "3000 cubic feet"
+start_range: "1831"
+summary: "Chronicling the industrial revolution in Southern New England, changing consumer tastes from Victorian times to the present and transatlantic competition in silver production, the Gorham Manufacturing Company Archive is an important resource for study and interpretation of American art, design, business practices, and consumer culture and serves as an invaluable resource to teaching and research, institutions, private collectors, and the general public. Gorham was an important part of industrial life and culture in Rhode Island for 170 years and at the turn of the 20th century was the world’s largest silver manufacturer employing some 2000 designers and producers of flatware, hollowware and presentation silver, with a bronze foundry producing statuary and a stained glass division creating windows for churches. Estimated at nearly 3000 cubic feet and occupying more than 21 stack ranges, the Archive features thousands of images of Gorham products and comprises corporate, personnel, costing, sales and advertising records along with blueprints, plaster casts and models, and pattern templates. Processing the Archive will provide enhanced access and unique insights into the largest and most complete set of public records of its kind, generating interest among universities, museums, municipalities, churches, and individuals."
+hc_id: "530"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Rockefeller Library, 10 Prospect St."
+address2:  "NULL"
+city:  "Providence"
+state:  "RI"
+zip: "2912"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

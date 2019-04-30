@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Lesbian Feminist Broadcast Tapes
+title: "Lesbian Feminist Broadcast Tapes"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "University of Washington"
+institution_type: "NULL"
+primary_contact: "Ms. Ann Lally"
+size: "NULL"
+start_range: "NULL"
+summary: "University of Washington Libraries Special Collections (UWLSC) proposes a 12-month project to reformat and digitize 221 quarter-inch open-reel tapes of Seattle Lesbian Feminist Broadcasts (SLFB) which aired on the local community radio station KRAB-FM between 1967 and 1982. Programs covered diverse racial, religious, cultural, and ideological topics, such as Lesbian Mexicana, classism, ageism, Native American issues, Women in Old China, women's health, romance, animal oppression, and matriarchy, as well as documented events like women's festivals and Seattle's first Gay Pride Week in 1974. The project will result in 95% of the collection’s audio recordings made publicly available for free; most will be accessible online for streaming in CONTENTdm; others will be available on site. A project \"splash\" web-page will be created. Preservation files will be kept in perpetuity by UW. Metadata will be added to the finding aid (CC0) which will be updated."
+hc_id: "26680408"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Washington"
+p2_name:  "Ms. Anne Jenner"
+p2_institution:  "University of Washington"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "221 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$49,628"
+material_description:  "NULL"
 ---
-
-

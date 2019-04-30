@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Byzantine Institute of America's Fieldwork Projects
+title: "The Byzantine Institute of America's Fieldwork Projects"
+year: 2008
+end_range: 1972
+formats: "NULL"
+geographic_extant: "Bulgaria, Croatia, Cyprus, Egypt, North Africa, Serbia, Syria, and Turkey"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Gerrianne Schaad or Deborah Dunlap"
+size: "50000 objects"
+start_range: "537"
+summary: "Thomas Whittemore founded the Byzantine Institute of America (BIA) in Boston in 1931 after traveling extensively in Europe and the Middle East and noting the destruction of monuments after WWI. The purpose of the Institute and its successor, the Dumbarton Oaks Fieldwork Committee, was to study, preserve, and restore Byzantine monuments particularly in countries where their survival was at risk from conflict or neglect. Work was conducted throughout Bulgaria, Cyprus, Egypt, North Africa, and Turkey (1920-1972) and resulted in thousands of images of architecture, mosaics, wall paintings, and archaeological/historical sites. The project’s scope includes Thomas Whittemore’s photographs of Byzantine monuments and sites during the 1920s before the formal foundation of the BIA, watercolors and photographs of Coptic art in monasteries along the Red Sea, and images from the detailed architectural survey and conservation project of one of Istanbul’s iconic monuments, Hagia Sophia. Photographs include monuments, art, and sites dating from the 4th-15th centuries A.D. from lands once controlled by the Byzantine Empire and are valued for their documentation of the conditions of these historic treasures during the 20th century. The availability of catalog records will be an invaluable resource for archaeologists, art and architectural historians interested in the Byzantine period, historians of the Byzantine, Ottoman, and modern periods, historic preservationists, architects, and artists."
+hc_id: "234"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Office for Sponsored Programs"
+address2:  "Holyoke Center, Suite 600"
+city:  "Cambridge"
+state:  "MA"
+zip: "2131"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

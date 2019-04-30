@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging of rare and unique books from The Museum of Modern Art Library's Special Collections, Latin American Collection, and Asian Collection.
+title: "Cataloging of rare and unique books from The Museum of Modern Art Library's Special Collections, Latin American Collection, and Asian Collection."
+year: 2009
+end_range: 2009
+formats: "NULL"
+geographic_extant: "The collections are international in scope, including items from Brazil, China, Cuba, the Czech Republic, France, Japan, Korea, Mexico, and Peru."
+institution: "The Museum of Modern Art"
+institution_type: "NULL"
+primary_contact: "Milan Hughston"
+size: "7000 objects"
+start_range: "1880"
+summary: "The Museum’s recent expansion and renovation project, completed in 2006, nearly doubled its exhibition space, greatly enhanced MoMA’s capacity to offer an array of dynamic programs and resources, and coincided with a remarkable growth in Library acquisitions, made possible by a series of gifts. While the Library catalogs close to 5,000 records yearly, collection processing has not kept pace with acquisitions, making material inaccessible to the Museum's staff and the general public. The requested grant will support a plan to process the following priority collections, which are unique or rarely held, for the benefit of students, scholars, educators, and others interested in the burgeoning study of modern and contemporary art from Latin America, Asia, and beyond: Special Collections (800 titles) are comprised of notable acquisitions documenting modern and contemporary art from 1880 to the present, and include rare serials and exhibition catalogs not found in most libraries across the country. The Latin American Collection (5,177 titles) is comprised of materials spanning 1920 through the present. A particular strength of the collection is its rare journals and artists' books. The Asian Collection (1,000 titles) is comprised of gallery catalogs, museum exhibition catalogs, artists' books, and monographs documenting contemporary Asian art between 1920 and 2009, with an emphasis on Chinese, Japanese, and Korean artists."
+hc_id: "465"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "11 West 53 Street"
+address2:  "NULL"
+city:  "New York"
+state:  "NY"
+zip: "10019"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

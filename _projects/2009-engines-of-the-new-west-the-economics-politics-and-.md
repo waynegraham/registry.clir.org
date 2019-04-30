@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Engines of the New West: The Economics, Politics, and Environment of Post WWII Arizona
+title: "Engines of the New West: The Economics, Politics, and Environment of Post WWII Arizona"
+year: 2009
+end_range: 2008
+formats: "NULL"
+geographic_extant: "AZ, CA, UT, CO, NV, NM, Borderland, urban & rural, Indian reservations & barrios, military & retirement communities, mountains, deserts & waterways."
+institution: "Arizona State Library"
+institution_type: "NULL"
+primary_contact: "Melanie Sturgeon"
+size: "1356 linear feet"
+start_range: "1945"
+summary: "These collections represent the intersection and often the collision of complex political, economic and environmental currents in post WWII Arizona. Among the topics included under Politics are: the growth of conservatism (Goldwater, McCain); federalism; polls that document shifts in campaign funding and campaign strategies, voting rights, voter registration and voting trends, especially among minorities; grassroots activism; tribal politics; party politics, Hispanic leaders (Raul Castro), Right to Work, and illegal immigration. Included under Economy are: the growth of agri-business; the impact of the elderly and the growth of retirement communities; border trade; mining; Indian gaming; migrant workers (Cesar Chavez); strikes; banking (Charles Keating); city bonds and infrastructure funding, military-industrial complex; boom-bust cycles; budget deficits; employment, and tourism. Included under the Environment are: geo-spatial data, urban growth and urban planning; air, water and borderland pollution; reclamation (Carl Hayden); water management including water rights and the impact of drought and flood cycles; nuclear energy; uranium tailings; strip mining, rise of conservation movements including endangered species, grazing, wilderness areas (Edward Abbey, Mo and Stewart Udall), national parks (Goldwater), sky islands, and preservation; and solar energy."
+hc_id: "411"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1700 W. Washington Ste. 200"
+address2:  "NULL"
+city:  "Phoenix"
+state:  "AZ"
+zip: "85007"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

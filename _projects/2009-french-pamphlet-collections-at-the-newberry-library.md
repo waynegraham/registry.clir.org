@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: French Pamphlet Collections at the Newberry Library
+title: "French Pamphlet Collections at the Newberry Library"
+year: 2009
+end_range: 1830
+formats: "NULL"
+geographic_extant: "Most of the material was published and printed in Paris and the French provinces. Some non-French printers and publishers are included."
+institution: "Newberry Library"
+institution_type: "NULL"
+primary_contact: "Jennifer Thom"
+size: "22000 objects"
+start_range: "1530"
+summary: "Four French pamphlet collections that are primary sources for legal, social and cultural history; literary studies; and the history of publishing have been cataloged. 1. French Revolution Collection: More than 30,000 pamphlets and 180 periodicals published between 1780 and 1810. The periodicals and 12,000 anonymously authored pamphlets have already been cataloged; 18,000 pamphlets with known authors will be cataloged through this grant. 2. Recueil de pieces historiques: At the beginning of the19th century, the religious order of Saint-Sulpice assembled this collection of 2,600 biographical pamphlets to serve as educational models, especially for rhetorical writing. Funeral sermons, orations, commemorative verses, and discourses dating from the 16th to the early 19th century are included. First editions include short works by Bude, Pascal, and Moliere. 3. Publishers' prospectuses and catalogs: Parisian and rare provincial publishers are represented in this unique assemblage of information about French printing and publishing from 1700-1850. The collection consists of 700 pamphlets. 4. Trial and execution of Louis XVI: This collection of 600 rare government pamphlets published at the time of the trial provides information on the collection of evidence, defense by de Seze, public opinion (including that of American Tom Paine), moral and political reflections on judging and executing the king, and opinions of Convention deputies (e.g. Marat, Saint-Just, Robespierre)."
+hc_id: "469"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "60 W. Walton"
+address2:  "NULL"
+city:  "Chicago"
+state:  "IL"
+zip: "60610"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$488,179"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Agents of Post World War II Reconstruction and Diplomacy: The Papers of Charles Kades, Karl Loewenstein, and Willard Thorp at Amherst College
+title: "Agents of Post World War II Reconstruction and Diplomacy: The Papers of Charles Kades, Karl Loewenstein, and Willard Thorp at Amherst College"
+year: 2008
+end_range: 1992
+formats: "NULL"
+geographic_extant: "United States, East Asia (especially Japan), Western and Central Europe, and South America."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Lisa Stoffer"
+size: "174 linear feet"
+start_range: "1899"
+summary: "The Amherst College Library holds papers of three men who played key roles in the reconstruction of Europe and Japan after World War II. Charles Kades helped draft the postwar Japanese constitution and was central to the articulation of a new role for the Japanese emperor and to redefining the Japanese military as a self-defense force. Kades’ papers include extensive correspondence on questions of constitutional law, as well as rare copies of the minutes of the Japanese Diet. Legal scholar Karl Loewenstein’s papers detail his work to develop a postwar German constitution and civil administration under High Commissioner for Germany John J. McCloy, whose papers are also housed at Amherst. The McCloy Papers have been extensively processed and are heavily used. Loewenstein’s papers include a 200-page, German-language diary and correspondence with leading U.S. and European statesmen and intellectuals. Economist Willard Thorp’s papers describe his role in the creation and final negotiation of the Marshall Plan; his work on the “Point Four” project and GATT; and later economic assistance for Cyprus and Bolivia. Together with the McCloy Papers, the collections offer a rich array of primary source material for biographers and scholars of post-World War II U.S. diplomatic history, Japanese and European history, constitutional law, and international development. They complement holdings at the Harry S. Truman Presidential Library, MacArthur Memorial Library and Archives and elsewhere."
+hc_id: "60"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P.O. Box 5000"
+address2:  "NULL"
+city:  "Amherst"
+state:  "MA"
+zip: "1002"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

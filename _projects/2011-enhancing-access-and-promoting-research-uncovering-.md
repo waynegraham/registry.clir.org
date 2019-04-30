@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Enhancing Access and Promoting Research: Uncovering the Monroe Library's Hidden Social and Environmental Justice Collections
+title: "Enhancing Access and Promoting Research: Uncovering the Monroe Library's Hidden Social and Environmental Justice Collections"
+year: 2011
+end_range: 2011
+formats: "NULL"
+geographic_extant: "The collections are focused on issues related to New Orleans and Louisiana and contain materials of national and international importance."
+institution: "Loyola University New Orleans"
+institution_type: "NULL"
+primary_contact: "Kimberly Waggoner"
+size: "119 boxes, 150 linear feet"
+start_range: "1970"
+summary: "Loyola University New Orleans' hidden Social and Environmental Justice Collections contain papers and other materials donated by William P. Quigley, Darryl Malek-Wiley, and John Clark. Each of these distinct collections is focused on environmental justice and social justice, covering the period from the mid-1970s to the present, and centering on New Orleans and Louisiana while also containing materials related to other parts of the US and to other nations. Bill Quigley has been a public interest lawyer since 1977, concerned with public housing, the death penalty, civil liberties, and Katrina-related social justice issues. He has been a volunteer lawyer with School of the Americas Watch and the Institute for Justice and Democracy in Haiti. Quigley is currently Legal Director for the Center for Constitutional Rights. Darryl Malek-Wiley has been an environmental activist in New Orleans since the early 1980s. He has led campaigns concerned with Louisiana's petrochemical corridor. Malek-Wiley's papers offer researchers documentation of his own activism and of environmental struggles in New Orleans and the South that are relevant to the nation. A productive scholar, Clark's research interests include ecological philosophy, environmental ethics, and anarchist and libertarian thought. Clark's Papers are notable for his correspondence with activist and social theorist Murray Bookchin and poet and activist Gary Snyder."
+hc_id: "791"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "7214 St. Charles Ave."
+address2:  "Box 909"
+city:  "New Orleans"
+state:  "LA"
+zip: "70118"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

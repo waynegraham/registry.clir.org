@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Showcasing Medical Art: Providing Access to the Medical Arts Publishing Foundation Collection
+title: "Showcasing Medical Art: Providing Access to the Medical Arts Publishing Foundation Collection"
+year: 2015
+end_range: 1980
+formats: "NULL"
+geographic_extant: "Houston\n\nState of Texas\n\nEurope\n\nWestern Hemisphere"
+institution: "Houston Academy of Medicine - Texas Medical Center Library"
+institution_type: "NULL"
+primary_contact: "Mr. Phillip Montgomery"
+size: "NULL"
+start_range: "1948"
+summary: "The McGovern Historical Center (MHC) seeks to provide access to the Medical Arts Publishing Foundation Collection through the digitization, description and online presentation of approximately 1,100 works of original art, ranging from illustrations, cover art and medical portraits produced between 1948 - 1980, the majority dating from the 50s and 60s. This project will provide access to this large important art collection through multiple online access points through the MHC website, the TMC Library Institutional Repository (Digital Commons), UNT - Portal to Texas History and the Digital Public Library of America."
+hc_id: "17119169"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "The TMC Library (Houston Academy of Medicine - Texas Medical Center Library)"
+p2_name:  "Ms. Sandra"
+p2_institution:  "Archivist & Special Collections Librarian"
+p3_name:  "Ms."
+p3_institution:  "NULL"
+material_string: "<li>86 Artworks</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$199,400"
+material_description:  "The materials to be digitized includes drawings, paintings, sketches, printed images, and documents of historical and 20th century figures in the history of cardiology, cancer research, psychiatry, and Texas medicine. The items are on canvas, art board, or paper. The collection consists of illustrations, cover art, and medical portraits from publications produced by Medical Art Publishing Foundations - Cancer Bulletin, Heart Bulletin, Psychiatric Bulletin, and Medical Records & Annuals. Through collaboration between R. Lee Clark and Russell W. Cumley, the Cancer Bulletin and other publications were developed as a fun, visual and entertaining medical journal to draw attention to the history of cancer research, cardiology, psychiatry, and Texas medicine. Cumley's and Clark's vision was to create a publication that was a \"highly readable pictorial magazine for the general practitioner\"  that would increase early diagnosis of cancer. Each publication had its own distinct style and motif, especially on the back cover. \n\n\n\nR. Lee Clark, M.D., from 1946 to 1978, guided MD Anderson from its early operations in a renovated family residence to an internationally known comprehensive cancer center. Under Clark, the first MD Anderson facility in the Texas Medical Center opened in 1954.Clark and Russell W. Cumley, previous editor of \"What's New\" , a monthly scientific news magazine published in Chicago, established Medical Arts Publishing Foundation, with Cumley as executive director and published the Cancer Bulletin. Shortly after, it had more than a 100,000 subscribers. The main artist and artist editor was Joseph Schwarting, a great local Houstonian artist. Other contributing artists were Joseph Doeve (Amsterdam), Richard Rembrandt (Houston), Broescher, Colville, Fowler and Spier. \n\n\n\nThe collection has 9 document boxes and 49 oversized boxes (89 linear feet). The majority of the collection is no larger than 20\"x24\". Included is a portfolio of illustrations (31\"x25\") and oversized (28\"x18\" and canvas paintings (24\"x22\")."
 ---
-
-

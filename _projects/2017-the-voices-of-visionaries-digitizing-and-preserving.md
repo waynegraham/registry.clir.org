@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Voices of Visionaries: Digitizing and Preserving Optometry’s Oral History
+title: "The Voices of Visionaries: Digitizing and Preserving Optometry’s Oral History"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Optometry Cares - The AOA Foundation; The Archives & Museum of Optometry"
+institution_type: "NULL"
+primary_contact: "Ms. Rebecca Hildebrand"
+size: "NULL"
+start_range: "NULL"
+summary: "Optometry Cares – The AOA Foundation (Foundation) respectfully requests $19,925 to support a project of the Archives and Museum of Optometry (AMO). The AMO proposes a 12-month project to digitally preserve and provide online access to 60 hours of rare interviews recorded between 1965 and 1979. Narrators featured in the recordings are significant for their contributions to the organization of the American Optometric Association (AOA) and to the evolution of the profession of optometry in the early twentieth century. This project will enlist the Northeast Document Conservation Center to reformat 48 rare, at-risk, and poorly documented magnetic audiotapes. AMO staff will ensure the long-term preservation of the original carriers, digital masters, and access files and publish and promote these resources, descriptive metadata, transcripts, and finding aids online."
+hc_id: "25109055"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Optometry Cares - The AOA Foundation"
+p2_name:  "Ms. Kirsten Hebert"
+p2_institution:  "The Archives & Museum of Optometry"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "37 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$19,925"
+material_description:  "This project is to reformat 48 acetate magnetic audio tapes containing an estimated 60 hours of oral history interviews, discussions, and orations. These sound recordings were collected by members of the AOA’s History Committee and the AMO staff (formerly the International Library, Archives & Museum of Optometry) from 1965 to 1979 as part of an oral history program designed to document the experiences of the founders of organized optometry. Interviewers met narrators at private residences or at public conferences to record their experiences and interactions. Narrators and interviewers deposited the tapes in the Archives accompanied by letters of deposit and other correspondence. The tapes, transcripts, and documentation were compiled as a separate series alongside professional papers, scrapbooks, and biographical files relevant to the narrators. Since the content of many of the tapes is not entirely known and transcripts do not always identify all speakers, the recording media and associated paper records are arranged by a unique catalog number assigned by the AMO staff. Each interview has been catalogued using the PastPerfect Archives Module’s Oral History fields, completing the minimum descriptive Dublin Core metadata as possible. The sound recordings are currently inaccessible as they are too fragile to use without the risk of damage. Transcripts exist for 26 of the 48 audio tapes proposed for digitization in this grant. However, the majority of these transcripts (17) are marked-up, first drafts, with omissions, gaps and multiple errors which render them largely inaccessible. The remaining “final” transcripts are heavily edited and only two have been digitized and made available as PDFs; no verbatim master transcripts exist. A short description of the collection and a list of known narrators is available on the AOA website here: http://www.aoa.org/archives-and-museum/oral-history-collection?sso=y."
 ---
-
-

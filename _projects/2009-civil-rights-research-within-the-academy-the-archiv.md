@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Civil Rights Research within the Academy: the Archives of the Civil Rights Project (CRP)
+title: "Civil Rights Research within the Academy: the Archives of the Civil Rights Project (CRP)"
+year: 2009
+end_range: 2006
+formats: "NULL"
+geographic_extant: "National."
+institution: "University of California"
+institution_type: "NULL"
+primary_contact: "Gary Strong"
+size: "165 linear feet"
+start_range: "1960"
+summary: "Archival records (paper and electronic) of the Civil Rights Project. The Civil Rights Project (CRP) was established in 1996 at Harvard University as a multidisciplinary research and policy think tank in support of academics, policy makers, and civil rights advocates. The CRP relocated to UCLA in 2007. The Project's original co-directors, Gary Orfield and Christopher Edley, Jr., maintained a broad perspective: civil rights among all populations - African Americans, Asians, Latinos, Native Americans - as it relates to education, employment, housing, immigration, the law, and city/state/federal legislation. The CRP archives document the Project's formation, growth, research, and the CRP's collaborations with scholars, policy makers, civil rights organizations, and journalists. The archival materials are in hard copy (165 linear ft.) and electronic formats. File types include: correspondence; research data; studies; interviews; comprehensive research subject files; audio and video recordings; and court-appointed expert reports. The electronic files, primarily email, document the CRP during its years at Harvard. CRP research studies have been produced at the request of the Ford Foundation and a number of Federal District Courts. Examples of comprehensive research files include the Chicago housing policy (1976-1992) and the Indiana Youth Opportunity Study (1990-). Court-appointed reports include civil rights cases in Baltimore, Chicago, and Los Angeles."
+hc_id: "498"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "UCLA Office of Contract & Grant Administration"
+address2:  "1100 Kinross Avenue"
+city:  "Los Angeles"
+state:  "CA"
+zip: "90095-1406"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

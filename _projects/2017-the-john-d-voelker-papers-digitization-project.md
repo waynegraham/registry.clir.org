@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The John D. Voelker Papers Digitization Project
+title: "The John D. Voelker Papers Digitization Project"
+year: 2017
+end_range: 1871
+formats: "NULL"
+geographic_extant: "A native of Michigan’s Upper Peninsula, the John D. Volker’s papers document much of the culture and politics of this unique region. The papers also document judicial, literary, and sport fishing subjects for Michigan and the Great Lakes region of the United States."
+institution: "Northern Michigan University"
+institution_type: "NULL"
+primary_contact: "Mr. Marcus Robyns"
+size: "NULL"
+start_range: "1871"
+summary: "Northern Michigan University proposes a one-year project to digitize the the John D. Voelker papers (MSS-39) maintained by the Central Upper Peninsula and Northern Michigan University Archives. The project will contract with CreeksideDigital to digitize approximately 106 cubic feet of paper, photographic, and analog audio-visual material. The project will link digital objects with appropriate metadata to the collection’s existing EAD finding aid on ArchivesSpace. Working with NMU faculty and students, the Project will collaborate with the NMU Department of English’s Digital Humanities Graduate Certificate Program as an instructional resource and to create enhanced scholarly content to the digital records. Finally, the Project will utilize Preservica as the long-term preservation and access software platform for the digital records."
+hc_id: "26322761"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Northern Michigan University"
+p2_name:  "Dr. Mollie Freier"
+p2_institution:  "Northern Michigan University"
+p3_name:  "Ms. Catherine Oliver"
+p3_institution:  "Northern Michigan University"
+material_string: "<li>106 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$135,220"
+material_description:  "In 1992, Grace T. Voelker, John’s widow, donated the papers to Northern Michigan University. The John D. Voelker papers document Voelker's life, his career as a lawyer, prosecuting attorney of Marquette County, and associate justice of the Michigan Supreme Court, and his activities as a writer and a celebrated trout fisherman. There is also material on the Voelker and Traver (maternal side) families from their arrival in the United States. The records cover the years 1871 to 1992, with most of the items covering the period between 1930 and 1990. The legal case files shed light on economic and social conditions in Marquette County during the 1930s and 1940s, including the contentious1946 iron miners’ strike. The published and unpublished manuscripts document Voelker’s development as a writer and the effort he put into crafting his works. In particular, the collection includes iterations of edited manuscript drafts and annotated notes. Of particular note, are the handwritten drafts of Voelker’s most famous novel, Anatomy of a Murder. The correspondence covers a wide range of subjects focused on judicial, fishing, and literary endeavors. The collection of letters also documents Voelker’s professional and personal relationships with a various literary, political, and judicial luminaries, such as Charles Kuralt, Otto Premminger, Glenn T. Seaborg, Hugo J. Melvoin, and Eilhu Winer. The collection also documents Voelker’s interest in environmental preservation. He was greatly concerned with pollution in Lake Superior and corresponded with Grant Merritt and Verna Mize on the Reserve Mining dumping issue."
 ---
-
-

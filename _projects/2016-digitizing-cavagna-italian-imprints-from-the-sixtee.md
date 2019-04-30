@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing Cavagna: Italian Imprints from the Sixteenth through the Nineteenth Centuries
+title: "Digitizing Cavagna: Italian Imprints from the Sixteenth through the Nineteenth Centuries"
+year: 2016
+end_range: 1500
+formats: "NULL"
+geographic_extant: "Northern Italy primarily, with the rest of Italy also strongly represented, along with some French and German imprints as well."
+institution: "The University of Illinois Library at Urbana-Champaign"
+institution_type: "NULL"
+primary_contact: "Mr. Kyle Rimkus"
+size: "NULL"
+start_range: "1500"
+summary: "The University of Illinois at Urbana-Champaign proposes to digitize 320,000 pages of rare Italian imprints dating from the 16th through 19th centuries from the historically significant Cavagna Collection. This work builds on the CLIR-funded \"Cataloging Cavagna\" project (2015-2017), which has been progressing toward its goal of cataloging some 20,000 imprints using the innovative \"Quick and Clean Rare Book Cataloging\" model. Just as this project demonstrated a new approach for efficient and accurate rare book cataloging, \"Digitizing Cavagna\" will do the same for digitization by making high quality metadata and page images discoverable in the HathiTrust Digital Library. As such, \"Digitizing Cavagna\" will serve as a model for the digitization of rare imprints, while also making a rich collection accessible to scholars in multiple fields, including but not limited to Italian history, literature, art, theatre, law, economics, and religion."
+hc_id: "22361982"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Illinois Library at Urbana-Champaign"
+p2_name:  "Ms. Angela Waarala"
+p2_institution:  "University of Illinois Library at Urbana-Champaign"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>320000 Books</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$222,531"
+material_description:  "The University of Illinois at Urbana-Champaign houses one of the world's premier collections of northern Italian imprints from the 16th through 19th centuries. The collection was purchased in 1921 from the family of Count Antonio Cavagna Sangiuliani di Gualdana (1843-1913). Beginning in the 1860s, Count Cavagna, a recognized authority on the local history of the Lombardy and Piedmont regions, built a library of printed and manuscript documents centered around his diverse research interests, including statutes of Italian communes and cities, banking regulations, biographical and genealogical accounts of Italian families, maps, opera and theater, education and health care for the poor, religious practices, travel literature, and the therapeutic use of mineral waters. Most of the works are in Italian, but the collection also contains French, Latin, and German publications, as well as a significant number of items written in various Italian dialects, which are increasingly valuable to linguistic scholars as these dialects gradually cease to be spoken. Finally, the collection contains many unica, titles of which there are no other located copies in the world, as well as items that are the only copies in North America, which will enrich scholarship globally once Italian Studies faculty and students around the world are able to access these items."
 ---
-
-

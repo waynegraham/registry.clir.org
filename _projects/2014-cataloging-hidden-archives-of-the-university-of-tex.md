@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging Hidden Archives of The University of Texas at Austin Vertebrate Paleontology Laboratory
+title: "Cataloging Hidden Archives of The University of Texas at Austin Vertebrate Paleontology Laboratory"
+year: 2014
+end_range: 2014
+formats: "NULL"
+geographic_extant: "Worldwide, focusing on Texas, American Southwest, North America general"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Matthew Brown"
+size: "554 cubic feet"
+start_range: "1890"
+summary: "This project aims to inventory and catalog the archives of the Vertebrate Paleontology Laboratory (VPL) of The University of Texas at Austin over three years. The archival materials consist of 554 cubic feet (cf) of maps, field notes, research permits, correspondence, images, artwork, and other documents relating to the history of paleontology in Texas and North America. The fossil holdings at VPL house approximately 250,000 cataloged specimens, the seventh largest vertebrate collection in the US. The archival materials represent the scientific and historic context for specimens collected from the late 19th century to the present day, and held in trust as a State, Federal, and Navajo Nation repository."
+hc_id: "11592688"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

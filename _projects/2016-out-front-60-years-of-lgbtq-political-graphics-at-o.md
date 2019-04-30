@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Out Front: 60 Years of LGBTQ Political Graphics at ONE Archives
+title: "Out Front: 60 Years of LGBTQ Political Graphics at ONE Archives"
+year: 2016
+end_range: 2010
+formats: "NULL"
+geographic_extant: "United States, with perhaps a little more representation of the western United States"
+institution: "ONE National Gay & Lesbian Archives at USC Libraries"
+institution_type: "NULL"
+primary_contact: "Dr. Joseph Hawkins"
+size: "NULL"
+start_range: "1950"
+summary: "Out Front: 60 Years of LGBTQ Political Graphics at ONE Archives will expose a wealth of visual materials documenting lesbian, gay, bisexual, transgender, and queer (LGBTQ) viewpoints since the 1950s. To advance the cultural understanding of queer politics and visual culture, our project will digitize 4,200 political posters and protest signs from ONE's collections for free online public access via the USC Digital Library and the Digital Public Library of America (DPLA). These artifacts include thousands of posters and handmade signs from the earliest protests and pride celebrations. Some highlights are iconic posters created by ACT UP, the Gay Liberation Front, and 1950s-era homophile organizations like the Mattachine Society. These posters, stored in flat files at the ONE Archives' facility, are exceedingly difficult to access. They comprise some of the few remaining visual traces of pioneering activists and organizations that advanced the struggle for LGBTQ equality."
+hc_id: "23081316"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "ONE Archives at the USC Libraries"
+p2_name:  "Ms. Loni Shibuyama"
+p2_institution:  "ONE Archives at the USC Libraries"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>4200 Posters</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$164,337"
+material_description:  "ONE's collection of posters span over 60 years of the LGBTQ movement and document communities throughout the United States. The majority of the 3,700 posters fall into two main categories, 1) 2,500 political posters and 2) 1,200 posters for LGBTQ businesses, cultural events, and public education. The political posters were created for grassroots organizations or community events relating to gay rights activism, pride parades and festivals, LGBTQ community support services, and demonstrations. Highlights include a poster from the Mattachine Society (1956), one of the earliest known political posters on behalf of a LGBTQ rights cause; the iconic \"Gay-In\" poster created by Bruce Riefel (1970) for gatherings organized by the Gay Liberation Front, which were precursors to the gay pride festivals; hundreds of posters from gay pride events throughout the US; a collection of gay political posters given to pioneer Morris Kight, and part of his \"McCadden Place Collection;\" posters advertising safe sex and AIDS/HIV awareness; and posters from historic events like the Marches on Washington. The collection also includes posters advertising LGBTQ businesses and cultural events. Highlights include posters from important early lesbian, feminist-, and gay-themed bookstores which are now out of business; gay and lesbian bars throughout the U.S.; and LGBTQ film festivals across the U.S. ONE's collection of signs includes 500 picket signs, parade signs, and wall signs that represent some of the most at-risk items in ONE's collections. Highlights include: Frank Kameny signs (1964-1966) used in his demonstrations regarding fair employment for homosexuals in Pennsylvania, New York, and Washington, D.C.; dozens of protest signs from ACT UP (1980s); dozens of pride signs carried in parades throughout California; and the infamous \"FAGOTS STAY OUT\" sign from Barney's Beanery, the subject of many protests against the restaurant's anti-gay practices."
 ---
-
-

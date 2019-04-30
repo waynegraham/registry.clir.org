@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Military Collection Veterans Oral History Collection
+title: "Military Collection Veterans Oral History Collection"
+year: 2016
+end_range: 2014
+formats: "NULL"
+geographic_extant: "North Carolina; Hawaii; New York; New Jersey; Pennsylvania; Mississippi; Virginia; South Carolina; California; Texas; United States; France; Germany; Belgium; Great Britain; Austria; Italy; Europe; South Korea; North Korea; Vietnam; Japan; Philippine Islands; Africa; Asia; South Pacific; Australia; Iraq; Afghanistan."
+institution: "State Archives of North Carolina (North Carolina Department of Natural and Cultural Resources)"
+institution_type: "NULL"
+primary_contact: "Mr. Matthew Peek"
+size: "NULL"
+start_range: "1996"
+summary: "The Military Collection Veterans Oral History Collection is composed of 1,085 oral history interviews with military service members with North Carolina connections from all U.S. military branches. The materials date from 1996 to 2014. The Military Collection's Veterans Oral History Program has recorded interviews with veterans of all military engagements from World War I to recent military conflicts. This two-year project will digitize all audio and video interview recordings in the collection; create a collection interface for the public on the North Carolina Digital Collections; provide discoverable online metadata for the interviews; have a selection of the interviews transcribed, and the rest have summaries created with biographies of the veterans; and make the interviews available through the North Carolina Digital Collections and the Internet Archive. The project will also help the Military Collection assess the condition of the original recording formats, and plan for their long-term preservation."
+hc_id: "22188576"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "State Archives of North Carolina"
+p2_name:  "Ms. Kelly Eubank"
+p2_institution:  "State Archives of North Carolina"
+p3_name:  "Ms. Ashley Yandle"
+p3_institution:  "State Archives of North Carolina"
+material_string: "<li>1409 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$201,340"
+material_description:  "The State Archives of North Carolina (SANC) Military Collection's North Carolina Veterans Oral History Collection contains more than 1,085 oral history interviews of military veterans living in or from North Carolina. The Veterans Oral History Program began in 1996--two years after SANC initiated a formal Military Collection to collect and manage archival materials documenting the state's military heritage--in order to record the personal military service accounts of the remaining North Carolinians who served in World War I. The project would expand from 1996 to 2003 to focus on interviewing veterans of World War II, at the same time that the Military Collection attempted to build its holdings of primary historical materials for the benefit of the citizens of North Carolina. The interviews were conducted largely by volunteers from across the state, as well as by the Military Collection Archivist, and helped to build SANC's relationship with the state's veterans. The interviews eventually grew in terms of their historical scope, and the collection now contains interviews with veterans from World War I up to the recent conflicts in Iraq and Afghanistan, as well as peacetime service individuals and non-combatants. The interviews of many of the veterans correspond with original and copied archival materials donated to the Military Collection from 1996 to 2014. The interviews include the last living World War I soldiers in North Carolina; numerous interviews with female members of the U.S. Armed Forces; and interviews with members of every branch and many of the military regiments formed in North Carolina. The collection includes an interview with a German officer imprisoned during World War II in Camp Butner, North Carolina; several Holocaust survivors who came to live in North Carolina; numerous Purple Heart awardees; and several Congressional Medal of Honor awardees."
 ---
-
-

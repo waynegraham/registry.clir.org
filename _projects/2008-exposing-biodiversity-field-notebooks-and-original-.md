@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Exposing Biodiversity Field Notebooks and Original Expedition Journals at the Smithsonian Institution
+title: "Exposing Biodiversity Field Notebooks and Original Expedition Journals at the Smithsonian Institution"
+year: 2008
+end_range: 2000
+formats: "NULL"
+geographic_extant: "The geographic scope of these objects is, like Smithsonian research, global in nature, covering terrestrial, freshwater and marine environments."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Rusty Russell"
+size: "7500 objects"
+start_range: "1800"
+summary: "The content being exposed consists of original objects (field books, unpublished journals, expedition logs) that are held and maintained by various Smithsonian units (incl. archives and libraries) and which were produced by individuals who engaged in field research related to all disciplines of biology. These materials are original accounts of the events that led to the collection and description of millions of plants and animals, including countless new discoveries. These are reference materials that, in most instances, have not been itemized or incorporated into existing catalog systems. In extreme cases, they live on bookshelves in offices and labs distributed across many Smithsonian research units and truly bear the \"hidden\" label. These original materials span two centuries of fieldwork and cover both terrestrial and marine environments. A significant strength of the collection lies in its coverage of 19th century expeditions across North America, incl. the 1820 Long Expedition, Mexican Boundary Survey (1848), Expedition of Major John Wesley Powell (1868), Jenny Expedition to the Black Hills (1875), Death Valley Expedition (1890-91), Peary Expedition to Greenland (1897), Harriman Alaska Expedition (1899), and numerous voyages of discovery, e.g. North Pacific Exploring Expedition (1853-1856), HMS Challenger (1873-1876), US Eclipse Expedition (1889-1891), and US Steamer Albatross (1906)."
+hc_id: "95"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "MRC-166, Botany"
+address2:  "10th and Constitution, NW"
+city:  "Washington"
+state:  "DC"
+zip: "20013-7012"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

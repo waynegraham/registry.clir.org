@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Modern Illinois Politics Project
+title: "The Modern Illinois Politics Project"
+year: 2014
+end_range: 2013
+formats: "NULL"
+geographic_extant: "The geographic scope of the collections is primarily the state of Illinois."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Kevin Leonard"
+size: "413 linear feet"
+start_range: "1950"
+summary: "The Northwestern University Archives holds the papers of former Illinois Governor Rod Blagojevich and former Illinois State Senator, Illinois Comptroller, and Northwestern University law professor Dawn Clark Netsch. These collections of significant scholarly value in politics and constitutional law are currently completely hidden from researchers. The Modern Illinois Politics Project will fully process these materials and make them discoverable."
+hc_id: "12011109"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

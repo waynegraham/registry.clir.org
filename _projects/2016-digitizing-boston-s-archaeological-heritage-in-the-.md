@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing Boston's Archaeological Heritage in the Cradle of Freedom
+title: "Digitizing Boston's Archaeological Heritage in the Cradle of Freedom"
+year: 2016
+end_range: 1906
+formats: "NULL"
+geographic_extant: "These four assemblages are from historic sites in downtown Boston and the adjacent North End neighborhood of Boston. While many of the artifacts are local, others were brought to Boston from other regions and nations through the city's long-established international maritime trade."
+institution: "City of Boston Archaeology Program"
+institution_type: "NULL"
+primary_contact: "Mr. Joseph Bagley"
+size: "NULL"
+start_range: "5"
+summary: "Boston's City Archaeology Program requests $164,349 to digitize the archaeological assemblages excavated from the properties of the African Meeting House, Boston Common, Faneuil Hall, and Paul Revere House. Results of this project will included a complete digital catalog of 267 standard records boxes containing approximately 185,000 excavated artifacts, over 2,000 pages of archaeological reports and original excavation notes, and will produce over 10,000 digital artifact photos and associated metadata. All digital content and associated metadata will populate a web-based digital archive on Boston's City Archaeology Program website. This effort will create the first complete catalog of these collections and allow full access to this otherwise inaccessible, unique, and comprehensive archive to researchers and the general public."
+hc_id: "21788662"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "City Archaeology Program"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>185000 Artifacts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$164,349"
+material_description:  "The African Meeting House, Paul Revere House, Faneuil Hall, and Boston Common assemblages represent the archaeological evidence of Boston and the Nation's struggle for independence, identity and freedom. The approximately 185,000 artifacts and their associated field notes and reports include items owned by the people who lived, worked and played on each of the individual properties and provide a unique and significant primary source for historical data related to these historic places. The African Meeting House collection totals 72,122 artifacts from the rear yard of the building and spans the period from 1805-1855. The artifacts document the early free black community of Boston and the abolitionist movement, as the Meetinghouse served the community as a church, school, home, and community center. The Boston Common collection has approximately 70,000 artifacts spanning the Native American through Victorian eras, including a 7,500 year old Native spear point, two Native American camp sites from the 1000-1600 AD time period, a Revolutionary War encampment associated with British troops, and numerous objects accidentally and deliberately left behind in the park during various recreational events. The Faneuil Hall assemblage totals approximately 32,000 artifacts from the period from the area's use as a town dock in 1630 through the filling of the area and construction of the first of two Faneuil Hall buildings in 1742. These artifacts record the early trade and economic history of Boston, and include objects from around the world imported and traded in Boston. Finally, the Paul Revere House archaeological collection include 12,587 artifacts related to the period between 1663-1906, including occupation by significant historical figures such as Puritan minister Increase Mather, and Paul Revere, famed Revolutionary Patriot, before being used as an immigrant boarding house and tenement in the mid to late 19th century."
 ---
-
-

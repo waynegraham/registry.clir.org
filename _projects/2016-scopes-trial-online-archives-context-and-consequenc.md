@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Scopes Trial Online Archives: Context and Consequences of the "World's Most Famous Court Trial"
+title: "Scopes Trial Online Archives: Context and Consequences of the \"World's Most Famous Court Trial\""
+year: 2016
+end_range: 1875
+formats: "NULL"
+geographic_extant: "Tennessee, United States, United Kingdom"
+institution: "Bryan College"
+institution_type: "NULL"
+primary_contact: "Dr. Gary Fitsimmons"
+size: "NULL"
+start_range: "1875"
+summary: "The Scopes Trial Online Archives is a three-year, collaborative project to create a database of materials related to the historical and cultural context of the trial. This collaboration involves four local archives in Dayton, Tennessee, where the trial took place. Bryan College will contribute the Robinson Photography Collection, the college history collection, and trial materials (21.5 linear feet). The Clyde W. Roddy Public Library will contribute the Dayton Coal and Iron Collection (three linear feet) and a book of records from the founding of Rhea County. The Rhea County Historical Society will contribute trial records and the John R. Neal, Jr. Collection (ten linear feet). Core Academy of Science will contribute 118 Scopes-era books and pamphlets on the evolution controversies. Digitized materials will be deposited into an EPrints database containing a digital copy of the trial transcript. The database will be useful for research into religion, science, economics, and history."
+hc_id: "22363843"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Bryan College"
+p2_name:  "Dr. Todd Wood"
+p2_institution:  "Core Academy of Science"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>37 Photographs, books, manuscripts, ephemera</li>"
+collaborating_institution:  "Rhea County Historical Society; Clyde W. Roddy Public Library; Core Academy of Science"
+grant_amount:  "$198,126"
+material_description:  "Bryan College's historical archives contain local documentation related to the Scopes Trial and the history of the college. This documentation includes newspaper clippings documenting much of the local coverage of the trial. The Robinson Photograph Collection is also part of the college archives and contains 300 original photographs from the trial. The photographs were taken by Underwood and Underwood, who were commissioned by local drugstore owner F.E. Robinson. The college itself was conceived as a \"memorial university\" to William Jennings Bryan during the trial, and the historical papers record the efforts of the Memorial University Association to establish the college. Clyde W. Roddy Public Library holds papers pertaining to the history of coal mining in Rhea County. The Dayton Coal and Iron Company was a major employer in Dayton at the turn of the century, and the failure of the company led town leaders to seek publicity from hosting the evolution trial. The Roddy Collection consists of original photographs, correspondence, and corporate records. The archives of the Rhea County Historical Society include correspondence and papers related to the trial and the John R. Neal, Jr. Collection. Neal was a member of the defense counsel at the trial, and his papers include photographs, personal correspondence, and materials related to his family history. Core Academy of Science curates a collection of rare books related to the Scopes trial, the early evolution debate, and religious opinions about evolution. These books were published from 1875 to 1930 and are in the public domain."
 ---
-
-

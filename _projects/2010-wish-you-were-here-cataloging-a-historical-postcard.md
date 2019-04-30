@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Wish You Were Here! Cataloging a historical postcard collection at the Miami University Libraries
+title: "Wish You Were Here! Cataloging a historical postcard collection at the Miami University Libraries"
+year: 2010
+end_range: 1970
+formats: "NULL"
+geographic_extant: "The collection consists primarily of postcards from the United States and its possessions, but also includes 70 other countries."
+institution: "Miami University"
+institution_type: "NULL"
+primary_contact: "Janet Stuckey"
+size: "481448 objects"
+start_range: "1876"
+summary: "The historic postcard collection consists primarily of postcards from the United States and its possessions, but also includes 70 other countries during the late 19th century. All of the current United States are represented. The postcards focus on a variety of geographic levels, including cities, national parks, states, buildings and other specific local sites. Miami has been the recipient of two large private collections of historical postcards that serve as the foundation for our living collection. Its fine examples include leather and wood postcards, world's fairs and expositions, historical events, Art Noveau and Art Deco design, modes of transportation, children and animals in art, latest fashions, greeting and holiday cards, technological changes including the arrival of the telephone, photo cards of American troops in Europe during World War I, photographs depicting monarchs, famous people, and landmarks, and cards from more than 70 foreign countries. Street scenes in cities and towns throughout the world illustrate examples of urban planning and green spaces. The cards date from the U.S. Centennial Exhibition in 1876 to the present. We believe most of them date before 1920."
+hc_id: "617"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Walter Havighurst Special Collections"
+address2:  "321 King Library"
+city:  "Oxford"
+state:  "OH"
+zip: "45056"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

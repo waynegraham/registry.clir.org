@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The nest, the cloud, and the crowd: Digitizing North America's historic bird nest records
+title: "The nest, the cloud, and the crowd: Digitizing North America's historic bird nest records"
+year: 2016
+end_range: 1999
+formats: "NULL"
+geographic_extant: "The cards cover all regions of the continental United States and Hawai'i. A small percentage are from Canada and Mexico."
+institution: "Cornell University"
+institution_type: "NULL"
+primary_contact: "Dr. David Bonter"
+size: "NULL"
+start_range: "1963"
+summary: "From 1963 to 1999, the Cornell Lab of Ornithology harnessed the power of birdwatchers to share information on the breeding biology of birds. The North American Nest Record Card Program became America's largest repository of information on nesting birds, with > 334,000 nesting records of nearly 600 species submitted on 4\"x6\" index cards. Today, birds continue to serve as sentinels of environmental change. Our project aims to digitize these historic nest record cards, guarantee their future accessibility, and unite this hidden trove of biological data with contemporary, online datasets. In mobilizing the data for research and conservation, we will go beyond digitization by launching an interactive online platform for the transcription of data into a format which can be readily used by scholars. Images of the cards will be freely available via a searchable web archive for posterity, and transcribed data will be made available for download by researchers."
+hc_id: "22137562"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Cornell Lab of Ornithology"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>334015 Ephemera</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$250,000"
+material_description:  "The nominated collection is the North American Nest Record Card Program's set of ~334,000  nest record cards: handwritten index cards containing nesting data from at least 595 species of birds primarily from the United States. In 1963, the Cornell Lab of Ornithology started the North American Nest Record Card Program to solicit information from birdwatchers about the nesting birds they found while out in the field.The Cornell Lab distributed hundreds of thousands of pre-formatted cards on which volunteers could record nesting events. Participants then mailed their cards, each describing a nesting event, to the Lab of Ornithology. For more than three decades (1963-1999), individual birdwatchers, Audubon clubs, regional bird clubs, students, professionals, and others participated in the project. Upon receiving the cards, Lab staff would number and file them according to species, in the order that they were received. The North American Nest Record Card Program protocol is based upon the British Trust for Ornithology's Nest Record Scheme (http://www.bto.org/volunteer-surveys/nrs) which dates back to 1939. These protocols asked volunteers to make multiple visits to nests on a regular basis and use standard data forms to record what they observed during each visit throughout the nesting cycle. Specifically, volunteers recorded species, year, location, surrounding habitat, nest height, number of eggs, number of hatched young, dates of egg-laying and hatching, and the final nest outcome (plus additional comments). Cornell's nest record card program is similar to a nest record scheme developed by Bird Studies Canada in the mid-1950s (http://www.birdscanada.org/volunteer/pnw/index.jsp?targetpg=schemes). Their common protocols make the cards from the United States very compatible with those from the UK and Canada, allowing for international studies of birds' nesting habits utilizing a standardized protocol."
 ---
-
-

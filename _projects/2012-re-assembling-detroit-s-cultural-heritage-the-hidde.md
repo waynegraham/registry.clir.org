@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Re-assembling Detroit’s Cultural Heritage: The Hidden Collections of the Wayne State University Museum of Anthropology
+title: "Re-assembling Detroit’s Cultural Heritage: The Hidden Collections of the Wayne State University Museum of Anthropology"
+year: 2012
+end_range: 2000
+formats: "NULL"
+geographic_extant: "The scope of the materials to be included in the proposed study correspond to SE Michigan and the greater metropolitan area of Detroit."
+institution: "Wayne State University"
+institution_type: "NULL"
+primary_contact: "Tamara Bray"
+size: "150 linear feet"
+start_range: "1750"
+summary: "The Museum seeks to initiate cataloguing of archival materials pertaining to the history of early Detroit in the WSU Museum of Anthropology. Founded in 1959, the Museum was created to house the archaeological materials being amassed by faculty and students through research conducted in the greater Detroit area. Since that time, the collections have grown to include over 500,000 artifacts that are primarily from the Great Lakes region,though other parts of the world are represented as well. The Museum houses the documentation associated with these items in addition to a general archives pertaining in large part to the history of Detroit. The archival holdings of the Museum consist of an eclectic mix of manuscripts, correspondence, clippings, directories, field notes, maps, and photographs. These collections have considerable scientific and research value for scholars of U.S. urban history. While we have begun to make progress in disseminating basic information about our archaeological holdings via the “Collections Summaries” being created on the Museum website, the documentation directly and indirectly associated with these artifact collections remains hidden. The proposed project will allow us to organize and assess the archival materials pertaining to the history and archaeology of Detroit and begin to link this documentation with the artifacts in such a way as to provide scholars with new resources for illuminating the hidden histories of an iconic urban center."
+hc_id: "906"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Dept of Anthropology"
+address2:  "F/AB 3054, 656 Reuther Mall"
+city:  "Detroit"
+state:  "MI"
+zip: "48202"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Voices Against the Vietnam War
+title: "Voices Against the Vietnam War"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Swarthmore College Peace Collection"
+institution_type: "NULL"
+primary_contact: "Dr. Wendy Chmielewski"
+size: "NULL"
+start_range: "NULL"
+summary: "This project will digitize approximately 75-100 hours of open reel, magnet tapes from speeches, conferences, and other programs from a wide variety of public figures who spoke out against the Vietnam War in the 1960s and 1970s. The current inadequate metadata records in the Peace Collection for these recordings will be extended to meet current standards. These recordings, almost all of which are unique, will be made available to the general public, via the Peace Collection web site. The words, sounds, and voices of Vietnam Veterans, anti-war activists, business leaders, religious leaders, civil rights leaders, women peace activists, entertainers, U.S. public policy figures, and Vietnamese activists, will be made available for the first time, richly adding to our understanding of the history of the U.S. in the middle of the twentieth century, to peace history, and the workings of social justice movements."
+hc_id: "25668961"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Swarthmore College Peace Collection"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "50 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$25,000"
+material_description:  "All items included in this digitization project are all open reel magnetic audio recordings created in the 1960s and 1970s. Most of the physical original tape reels were probably purchased from companies and stores available at the time. The physical composition of the tapes is that commonly available to the general public. The recordings were made by amateurs, staff or volunteer members of peace and social justice organizations, using recording equipment commonly available. These tapes were donated to the Swarthmore College Peace Collection by the peace and social justice organizations over the last 50 years. Many recordings from the same organization are shelved together. Each tape/box has a unique identifying number. A database of basic metadata records for each recording (or in some cases set of recordings from the same event), and this database is available to the public via the Peace Collection web site <http://fm12.swarthmore.edu/index.php?dbName=AVCollection>. The identifying number is included in each metadata record, as well as all known additional information. Finding aids (available through the Peace Collection web site), for organizations with paper records and with Audio Visual recordings, list the availability of those recordings. A very few open reel magnetic recordings in the larger AV Collection have been digitized by professional labs when requested by patrons of the Peace Collection, but this is a very small percentage of the approximately 2,000 such recordings."
 ---
-
-

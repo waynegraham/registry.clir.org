@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Goddard College Archives
+title: "Goddard College Archives"
+year: 2012
+end_range: 2012
+formats: "NULL"
+geographic_extant: "The main focus is on educational innovation in Vermont with holdings concerning national and international educational and political movements."
+institution: "Goddard College"
+institution_type: "NULL"
+primary_contact: "Gerard Holmes"
+size: "1026 linear feet"
+start_range: "1863"
+summary: "The Goddard College archives document the college's rich 150 year history, first as a Universalist Seminary, then as an icon of progressive postsecondary and adult education. This project will make available a wealth of primary documentation related to the national conversations to which Goddard has repeatedly contributed. The archives document the philosophical foundation, creation, development, and growth of a protean, experimental college. Examples: (1) Political and cultural engagement, such as Civil Rights-related protests, providing safe havens for perceived radicals, such as members of the Hollywood Ten and the Chicago Seven; pioneering academic programs focusing on Feminist's Studies and Afro-American Studies; (2) Founding membership of the Union for Experimenting Colleges and Universities; (3) The Adult Degree Program (started in 1963), which pioneered low-residency adult education; (4) The Goddard Design Program (1971-1977), the first institutional home of design-build, an architectural movement native to Vermont with influence on architectural practice worldwide; (5) The single-parent program, with family housing and on-campus child care. (6) Farm, Labor, and Canadian-American Business Conferences, which were held on campus during the semester breaks, extending the educational mission beyond traditional age learners. (7) Goddard's Service Learning Program, requiring students to fulfill a non-resident work term."
+hc_id: "925"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "123 Pitkin Road"
+address2:  "NULL"
+city:  "Plainfield"
+state:  "VT"
+zip: "5667"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

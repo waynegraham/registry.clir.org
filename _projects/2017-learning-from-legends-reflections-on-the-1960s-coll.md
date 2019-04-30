@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Learning from Legends: Reflections on the 1960s Collection
+title: "Learning from Legends: Reflections on the 1960s Collection"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Binghamton University Libraries"
+institution_type: "NULL"
+primary_contact: "Mr. David Schuster"
+size: "NULL"
+start_range: "NULL"
+summary: "Our yearlong pilot project entails preserving, digitizing and publishing a gift collection of original recorded interviews with 278 civil rights leaders, activists, women’s rights leaders, politicians and Vietnam War veterans from the Sixties, making these historic materials broadly available to researchers and the public. Once the audio interviews are converted from microcassettes to digital files, Binghamton University Libraries will hire five students from the Equal Opportunity Program (EOP) on campus to participate in an internship, in which they will prepare metadata for the files and do minor editing on them. In the future, another cohort of students will select excerpts from the digital files and combine them with photographs, short biographies of the individuals interviewed, and other educational content and bring the files to publication as Open Educational Resources (OERs)."
+hc_id: "26789419"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Binghamton University Libraries"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "500 recorded hours"
+collaborating_institution:  "NULL"
+grant_amount:  "$16,553"
+material_description:  "NULL"
 ---
-
-

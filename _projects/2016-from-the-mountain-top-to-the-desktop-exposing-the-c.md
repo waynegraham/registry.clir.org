@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: From the Mountain Top to the Desktop: Exposing the Cultures and Late 20th Century History of Nepal to a Global Audience
+title: "From the Mountain Top to the Desktop: Exposing the Cultures and Late 20th Century History of Nepal to a Global Audience"
+year: 2016
+end_range: 1950
+formats: "NULL"
+geographic_extant: "The archival materials to be digitized document Nepal's rural villages in the Himalayas and Kathmandu Valley, as well as urban life in the city of Kathmandu."
+institution: "Smithsonian Institution, National Museum of Natural History, Department of Anthropology: National Anthropological Archives"
+institution_type: "NULL"
+primary_contact: "Ms. Pamela Wintle"
+size: "NULL"
+start_range: "1950"
+summary: "We propose to digitize selected audiovisual collections on Nepal and to disseminate these to scholars and the public. These well-documented materials--representing a part of the world that has experience extensive sociocultural change due to varied economic factors (i.e., generational migration and tourism) and ecological change and natural disasters--offer important historical benchmarks between 'then' and 'now.' They include thirteen collections comprising nearly 200 hours of 16mm sound film with annotations, and translation tracks and nearly 30,000 associated still images. Despite their significant value to researchers, these analog materials remain underutilized due largely to challenges of access related to viewing on flatbed editing tables. Digitization and delivery online meets a major institutional goal of creating greater public access to collections. Using vendor and in-house facilities, we will provide a global audience with access to the detailed immediacy of these film records of Nepal in a descriptively rich and integrated way."
+hc_id: "22222961"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Smithsonian Institution"
+p2_name:  "Dr. Joshua Bell"
+p2_institution:  "Smithsonian Institution"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>420 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$211,482"
+material_description:  "The NAA/HSFA proposes for digitization 13 film and video archival collections with associated still images and text collections. Footage was shot throughout Nepal with an emphasis on the Kathmandu Valley, ca. 1950-1989. The selected collections consist of 156 hours of 16mm color camera original film; 27 hours of original analog video; 237 hours of synchronous sound including “field”  sound and annotations by community informants, filmmakers, and scholars; 29,000 color slides and color and black & white 35mm negatives; and 1500 pages of accompanying text including field notes, camera logs and census reports. Eleven of the film projects were created by the Smithsonian's National Anthropological Film Center (now the NAA/HSFA) from 1975-1983, guided by an ethnographic film research protocol developed by anthropologist E. Richard Sorenson and colleagues at the National Institutes for Health. The other four collections were gifted or deposited by the creators or representatives (filmmaker John Bishop and anthropologist Naomi Bishop; cultural geographer, Sandra Nichols; world religion professor, Todd Lewis; and ethnomusicologist Laura Boulton). The collections' content documents daily life, ritual and religion in an area of the world that has undergone extreme transformation due to migration, globalization, natural disasters and climate change in the last forty years. Highlights from the collections include: Subsistence agriculture in the Newar village of Thecho in the Kathmandu Valley, with emphasis on women's roles; Cultural ecology of the Sherpa village of Melemchi, Helembu Valley; NOVA documentary on environmental issues including deforestation and land-use in the Himalayan region; Daily life in Himalayan rural villages including a wedding, funeral and shaman spirit possession; Practice of Tibetan Buddhism throughout the Kathmandu Valley, including a variety of caste-specific ritual duties; and a 15 hour video recording of a marketplace in the oldest Newar neighborhood of Kathmandu, including festival processions and interactions between passersby and sacred cows."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Great Explorations: Unlocking the Complete Visual History of the Ryan Aeronautical Company, Maker of Charles Lindbergh’s Spirit of St. Louis, An Airline, Flight School, and Aircraft Manufacturer
+title: "Great Explorations: Unlocking the Complete Visual History of the Ryan Aeronautical Company, Maker of Charles Lindbergh’s Spirit of St. Louis, An Airline, Flight School, and Aircraft Manufacturer"
+year: 2017
+end_range: 1920
+formats: "NULL"
+geographic_extant: "Ryan Aeronautical was a San Diego-based company. The Ryan Collection covers the local area of manufacturing and aviation service. However, the effects of the company are worldwide, since their aircraft were produced and used by a global market, both civilian and military."
+institution: "San Diego Air & Space Museum"
+institution_type: "NULL"
+primary_contact: "Ms. Sandi Landicho"
+size: "NULL"
+start_range: "1920"
+summary: "San Diego Air & Space Museum (SDASM) is home to the corporate records of Ryan Aeronautical, one of the nation’s most influential early aerospace companies. Ryan developed many significant aircraft during its history, several far ahead of their time. The Museum’s collection documents the company’s entire history. Although work has begun to catalog, index, preserve, and digitize portions of this important collection, rare Ryan film negatives remain inaccessible, and not available for research. The Museum requests a two-year $212,640 CLIR grant to catalog and digitize 80,000 of these one-of-a-kind Ryan Aeronautical film negatives. Negatives digitized through this grant will be made available and accessed through the Museum’s website and Flickr account, reaching a wide public audience. Digitized records will be maintained in the Museum’s digital asset management system. Metadata will be created and further crowdsourcing will allow SDASM to enhance its records through public comments made on Flickr."
+hc_id: "26209694"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "San Diego Air & Space Museum"
+p2_name:  "Ms. Katrina Pescador"
+p2_institution:  "San Diego Air & Space Museum"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>90 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$212,640"
+material_description:  "The Ryan Aeronautical Company is one of the nation’s most influential early aerospace companies. Their pioneering scheduled airline enjoyed success, and they were a noted aircraft manufacturer. Their first unique design, the M-1, proved to be popular among airmail pilots. Its reliability attracted the attention of Charles Lindbergh, who requested they build an airplane that could make a nonstop flight from New York to Paris. The result was The Spirit of St. Louis, and a 1927 flight propelling Lindbergh into history. In the 1930s, Ryan opened a flight school in San Diego, while also manufacturing aircraft. Ryan developed many popular and innovative designs, such as the S-T, adapted to military use as the PT-22, a primary trainer, helping thousands of future military pilots learn how to fly during World War II. The post-war period saw continued growth as Ryan produced several experimental aircraft, such as the Fireball, one of America’s first jet powered fighters, and the X-13, a vertical takeoff and landing vehicle. It was during this era that Ryan began development of a long line of unmanned aerial vehicles (UAVs), most famously the Firebee, initially used as a target drone and for reconnaissance. Later UAV designs, both subsonic and supersonic, were adapted to offensive roles. The Museum’s collection includes material from the company’s earliest days to its acquisition by Northrop Grumman. Many of the materials have some level of indexing, but not the photo negatives."
 ---
-
-

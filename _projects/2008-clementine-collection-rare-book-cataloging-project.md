@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Clementine Collection Rare Book Cataloging Project
+title: "Clementine Collection Rare Book Cataloging Project"
+year: 2008
+end_range: 1830
+formats: "NULL"
+geographic_extant: "The books are European, with Italian and French imprints predominating."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Lenore Rouse"
+size: "868 linear feet, 9600 objects"
+start_range: "1500"
+summary: "The Clementine Collection is comprised of the combined personal libraries of the Albani family of Urbino and Rome, Italy. This family of minor nobility included a number of cardinals as well as Giovanni Francesco Albani who reigned as Pope Clement XI from 1700-1721. Subjects well represented in the collection include Roman and canon law, church history, philosophy, and a significant collection pertaining to Jansenism, to the Gallican church of the 18th century, and particularly to the aftermath of the bull Unigenitus. Also included are books of Italian literature and drama which one would expect in the library of cultured and educated men who were also important patrons of the arts. A number of these works are dedicated to members of the Albani family, especially Clement XI and his nephews, Cardinals Annibale and Alessandro Albani. The books date from the 15th century to the early 19th (although the incunabula have been removed and located elsewhere in the Department). Of the remaining volumes, a preliminary analysis of the collection places over eleven percent of the imprints in the 16th century, with the largest number dating from the 17th, and a slightly smaller percentage dating from the 18th century. Owing to the frequent past rearrangement of the materials and in-depth analysis only of select subject areas, no accurate picture exists of the collection's overall chronological breakdown."
+hc_id: "102"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Room 214 Mullen Library"
+address2:  "The Catholic University of America"
+city:  "Washington"
+state:  "DC"
+zip: "20064"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

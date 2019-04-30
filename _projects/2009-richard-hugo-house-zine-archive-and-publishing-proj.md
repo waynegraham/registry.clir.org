@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Richard Hugo House Zine Archive and Publishing Project
+title: "Richard Hugo House Zine Archive and Publishing Project"
+year: 2009
+end_range: 2009
+formats: "NULL"
+geographic_extant: "The bulk of the materials focus on the five-state region of Washington, Alaska, Oregon, California and Idaho."
+institution: "Richard Hugo House"
+institution_type: "NULL"
+primary_contact: "Nora Mukaihata"
+size: "450 boxes, 20000 objects"
+start_range: "1945"
+summary: "The Zine Archive and Publishing Project (ZAPP) is a collection of over 20,000 hand-made zines. Zines (the word is taken from “fanzine”) are self-published, small circulation, non-commercial publications that focus on a range of topics including art, literature, politics and pop culture. The ZAPP archive at Richard Hugo House may be the largest collection in the world and contains several rare publications, including the Riot Grrls, Bikini Kill, Jigsaw, and Grrl Trouble, and first editions of Factsheet Five, the premier zine index. While the collection includes zines from across the US, the bulk of the materials focus on the five-state region of Washington, Alaska, Oregon, California and Idaho. The period covered is from 1945-2009, with a concentration of materials in the ‘80s and ‘90s. Within the collection are zines, mini-comics, chapbooks, pamphlets, broadsides, mail art projects, and other small press publications. These materials would have especial relevance to scholars studying the political environment in Seattle leading up to the WTO riots, the early Riot Grrl movement and third-wave feminism, ecological and environmental organizing in the Pacific Northwest, the history of fisheries, the early era of Fantagraphics and graphic novels, and the history of music (with an emphasis on the “grunge” era). The collection also would be vital to scholars focused on the history of the Pacific Northwest, popular culture, and youth, queer or music subcultures."
+hc_id: "480"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1634 11th Ave S"
+address2:  "NULL"
+city:  "Seattle"
+state:  "WA"
+zip: "98122"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

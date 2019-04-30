@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Alabama’s Legal and Political History from territory days to 1950
+title: "Alabama’s Legal and Political History from territory days to 1950"
+year: 2008
+end_range: 1948
+formats: "NULL"
+geographic_extant: "Alabama as territory (from Georgia to Mississippi River); Alabama as a nineteenth century state; Alabama as a twentieth century state"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Beth Ashmore"
+size: "110 linear feet"
+start_range: "1799"
+summary: "The materials included in this project describe and document Alabama’s cultural, political and legal history from the territorial era to early twentieth century, as noted in the collections of William H. Brantley, Jr., Joseph Willett, Jr., Joseph Willett, Sr., and James E. Horton. While these collections focus on people and events important to Alabama history, they also provide insight into the history of the southeast region, as well as the United States as a whole."
+hc_id: "5"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Samford University Library"
+address2:  "800 Lakeshore Drive"
+city:  "Birmingham"
+state:  "AL"
+zip: "35229"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing Against the Grain: Making Jewish Women's History Discoverable
+title: "Digitizing Against the Grain: Making Jewish Women's History Discoverable"
+year: 2015
+end_range: 2009
+formats: "NULL"
+geographic_extant: "The collections document a range of geographic regions. New York City and State are well-represented. In addition, within the United States, the collections document New Jersey, Pennsylvania, Massachusetts, California, Washington, Texas and New Mexico. Internationally, the countries represented include Israel, Germany, Austria, England, Switzerland, Cuba and the Netherlands."
+institution: "The Center for Jewish History, Inc."
+institution_type: "NULL"
+primary_contact: "Ms. Laura Leone"
+size: "NULL"
+start_range: "1799"
+summary: "The Center for Jewish History will make discoverable a diverse representation of Jewish women's history by digitizing materials from across the archival, library and museum collections of four of its partner organizations: American Jewish Historical Society, American Sephardi Federation, Leo Baeck Institute and Yeshiva University Museum. The Digitizing Against the Grain project seeks to rescue the stories of Jewish women who were social pioneers, educators, philanthropists, communal leaders, artists, homemakers, activists, soldiers--and those whose identities and experiences defied categorization. Some of the women represented in the collections are well-known while others will receive serious attention only after these materials are digitized. In total, the Center will digitize 73 linear feet of 20 archival collections, 19 books, 7 volumes of periodicals, and 354 artworks, or approximately 92,174 images. The Digitizing Against the Grain project will create new opportunities for interdisciplinary research and exploration into Jewish women's history."
+hc_id: "17658051"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Center for Jewish History"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>73 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$249,856"
+material_description:  "The materials nominated for digitization as part of this project reflect notable individuals, communities, organizations and events. They span the 18th through the 21st centuries and are of American and European origin. \n\n\n\nLibrary titles include significant works related to fields such as medicine, politics, education and literature. Also included are titles that reflect Jewish women's roles in the 19th and early 20th centuries. Else Ury's NesthÃ¤kchen popular stories presented traditional female roles. Friederike Kempner was particularly known for her Gedichte, which were published in 1873 and parodied for more than a century. LBI holds one of 93 copies of celebrated writer and historian Ricarda Huch's Fra Celeste, printed in 1906 for the Leipziger Bibliophilen-Abend, complete with handmade paper and original etchings and woodcuts. LBI also holds the artwork of Adele Seligmann, nee Oppenheim (1864-1957). \n\n\n\nArchival materials include the collection of Gertrud Mainzer nÃ©e Sinzheimer (1914-2010), a German-Jewish woman who started a law career in the U.S. after fleeing Germany. She was a Family Court Judge in New York City from 1979 to 1984. There are several AJHS collections about women's philanthropy and work toward social welfare, including individuals' collections (such as those of Alice Davis Menken, Celia Razovsky, the Deborah Kallen materials in the Solis-Cohen Family Papers, Philips Family Papers, and Irma Lopes Cardozo) and organizational collections (such as the National Council of Jewish Women and the Central Sephardic Jewish Community of America). The project will also include the papers of Margarete Berent, the first female lawyer to practice in Prussia; Aliza Greenblatt, an important Yiddish poet; and Lucy Dawidowicz, whose postwar work in the DP Camps is described in her correspondence. \n\n\n\nArtists whose work will be digitized include the painters Ruth Abrams and Anna Ticho, fabric designer Nora Kronstein Rosen, and Wiener Werkstatte-trained fashion designer Inez Lakenbacher Exton."
 ---
-
-

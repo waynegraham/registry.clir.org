@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Nantucket Whaling Resource Collection: Logbooks and Other Sources from the Nantucket Historical Association, Nantucket Atheneum, and New Bedford Whaling Museum.
+title: "Nantucket Whaling Resource Collection: Logbooks and Other Sources from the Nantucket Historical Association, Nantucket Atheneum, and New Bedford Whaling Museum."
+year: 2015
+end_range: 1947
+formats: "NULL"
+geographic_extant: "Nantucket Island, Atlantic Ocean and islands, Pacific Ocean and islands, Indian Ocean, South America, Japan, China, Kamchatka Peninsula, Artic Ocean, Australia, New Zealand, Antarctica"
+institution: "Nantucket Historical Association"
+institution_type: "NULL"
+primary_contact: "Ms. Betsy Tyler"
+size: "NULL"
+start_range: "1662"
+summary: "The center of an international oil industry, Nantucket, Massachusetts, sent ships around the globe in pursuit of whales whose oil lit houses, streets, and lighthouses of America and Europe, and lubricated the machines of the industrial revolution. The NHA will digitize original manuscript resources for the study of Nantucket Whaling, 1750-1870: logbooks recording more than 800 whaling voyages; account books of individuals and businesses associated with whaling; ships' papers; business records of oil merchants Charles and Henry Coffin; and the journals of island historian Obed Macy. Partnering with the NHA, New Bedford Whaling Museum (NBWM) and Nantucket Atheneum (NA) will digitize Nantucket-based logbooks, account books, and relevant manuscript collections in an effort to create a focused digital resource for one of the world's primary whaling centers. Digital content will be created by Internet Archive and NBWM, hosted by Internet Archive, and linked to the database records of participating institutions."
+hc_id: "17219939"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Nantucket Historical Association (Research Library)"
+p2_name:  "Ms. Molly C."
+p2_institution:  "Executive Director"
+p3_name:  "Ms. Mr. Mark D."
+p3_institution:  "Librarian"
+material_string: "<li>176215 Manuscripts</li>"
+collaborating_institution:  "Nantucket Atheneum; New Bedford Whaling Museum; Nantucket Atheneum"
+grant_amount:  "$152,875"
+material_description:  "From its inception in 1894, the NHA has collected primary source material related to the history of the island. The first whaling logbooks were donated to the organization in 1894; many came from descendants of mariners. The Account Book collection and Ships' Papers evolved similarly. These collections complement logbooks with the onshore records of the industry, documenting in detail pre-voyage outfitting, post-voyage accounting, and the daily life of a maritime community. The Business Papers of Charles G. Coffin & Henry Coffin, 1829-1862; and the Coffin Family Papers: Charles G. Coffin and Henry Coffin Business Papers/Carlisle Collection, 1768-1890; were given to the NHA by Henry C. and Miles Carlisle, direct descendants of Henry Coffin (1807-1899), who with his brother, Charles G. (1801-1882,) inherited their father's lucrative whale oil and candle-making business. Their papers include receipts, documents, and correspondence related to their ships and business. The journals of Obed Macy, covering the period 1799-1844, were gifted to the NHA by Macy descendants. The Nantucket Atheneum's small but choice collection of logbooks have been a part of that institution's holdings for over a hundred years. The NBWM logbook and journal collection contains significant materials of direct relevance to this project. In fact, overlap exists in several institutions' holdings and this project provides an important step toward consolidating that overlap. NBWM will digitize 76 bound volumes containing 88 discrete logs documenting whaling voyages that shipped from Nantucket during the years 1769-1870. In addition to logbooks and journals, NBWM also holds 15 account books documenting the business dealings of Nantucket whaling merchants and set for digitization as part of this grant, as well as the Rotch Family Papers (Mss 2), encompassing financial records, ship's papers, and legal documents relating to a family of prominent 18th and 19th century whaling merchants with strong ties to Nantucket."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing Southern California Water Resources 19th-20th Centuries: A proposal to the Council on Libraries and Information Resources' Digitizing Hidden Special Collections and Archives program
+title: "Digitizing Southern California Water Resources 19th-20th Centuries: A proposal to the Council on Libraries and Information Resources' Digitizing Hidden Special Collections and Archives program"
+year: 2015
+end_range: 2015
+formats: "NULL"
+geographic_extant: "The bulk of the collections center on Southern California, the Los Angeles basin, the San Gabriel and Pomona Valleys, and the Inland Empire region (San Bernardino and Riverside Counties), with some outliers into Central and Northern California, to San Diego County, and into parts of Arizona, Nevada, and Utah."
+institution: "Pomona College"
+institution_type: "NULL"
+primary_contact: "Ms. Carrie Marsh"
+size: "NULL"
+start_range: "1812"
+summary: "Over a 3-year period, the Claremont Colleges Library, A.K. Smiley Public Library, California State University Northridge Oviatt Library, California State University San Bernardino Water Resources Institute, National Archives and Records Administration at Riverside, Ontario City Library, and Upland Public Library will digitize materials that originated from a variety of sources such as federal, state and local governments, water companies, local agencies, engineers and other individuals involved in water development in the region from the 19th through the 20th centuries. This project targets more than 60 archival collections to be digitized, uploaded to an online digital asset management system, and cataloged with descriptive metadata. The digitized collections will be accessible to all with internet access, provide a foundation for a Southern California \"distributed\" digital water resource archive, and promote water resource research via digital exhibits."
+hc_id: "17591227"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Claremont Colleges Library"
+p2_name:  "Dr. Char"
+p2_institution:  "Director, Environmental Analysis Program/W. M. Keck Professor of Environmental Analysis"
+p3_name:  "Dr. Mr. Stephen"
+p3_institution:  "Senior Assistant Librarian, Digital Services"
+material_string: "<li>262 Mixed Archival Collections</li>"
+collaborating_institution:  "Claremont Colleges Library; California State University, Northridge, Oviatt Library; California State University, San Bernardino, Water Resources Institute; A. K. Smiley Public Library, Redlands, CA; Ontario City Library, Ontario, CA; Upland City Library, Upland, CA"
+grant_amount:  "$500,000"
+material_description:  "More than 60 archival collections from the seven partner institutions are targeted to be digitized under this grant. These collections originated from a variety of sources, such as federal, state and local governments, water companies, local agencies, engineers and other individuals involved in water resources development in the region from the 19th through the 20th centuries.\n\n\n\nNoteworthy individuals and organizations include Louis J. Alexander, All-American Canal, American Concrete and Pipe Company, Bear Valley Irrigation Company, Boulder Water Company, Bureau of Indian Affairs' Indian Irrigation Service, Bureau of Land Management (BLM), George Chaffey, Claremont Heights Irrigation Company, Del Monte Irrigation Company, Department of the Interior's Office of the Regional Solicitor in Los Angeles, Feather River Project Association, Fred C. Finkle, Charles Frankish, Duane L. Georgeson, Juana Beatriz GutiÃ©rrez, Imperial Irrigation District, Imperial Water Company, Willis S. Jones, Mojave Water Agency, Monte Vista Water, Company, Mothers of East Los Angeles (MELA), MELA-SI (Santa Isabel), Catherine Rose Mulholland, William Mulholland, Andrae B. Nordskog, Ontario Land Company, Ontario Land and Improvement Company, Ontario Mutual Water companies, Jeffry Joseph Prendergast, Salton Sea Authority, San Antonio Water Company, San Bernardino County Flood Control District, J. Ralph Shoemaker, Southwest Water League, U.S. Circuit Court for the Southern District of California, U.S. District Court for the Central District of California, U.S. Geological Survey's Hydrographic Branch, Frank E. Weymouth. \n\n\n\nSubjects covered by the collections include contamination and pollution; floods and flood plains; irrigation; legal cases; the Los Angeles Aqueduct; Owens Valley; reservoirs and dams; the Salton Sea; watersheds; water companies and municipal water suppliers; water engineering; water rights; and related subjects. The archival holdings across the institutions comprise blueprints, correspondence, ephemera, ledgers, legal papers, maps, pamphlets, photographs, plans, reports, scrapbooks, and technical documents."
 ---
-
-

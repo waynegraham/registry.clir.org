@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Tracing Asian Art History in the West: Charles Lang Freer's Collections, Archival Papers and Library
+title: "Tracing Asian Art History in the West: Charles Lang Freer's Collections, Archival Papers and Library"
+year: 2015
+end_range: 1920
+formats: "NULL"
+geographic_extant: "Freer's collections and the archival papers and books have global breadth stretching from the US and Europe to the Near East and East Asia."
+institution: "Smithsonian Institution"
+institution_type: "NULL"
+primary_contact: "Mr. David Hogge"
+size: "NULL"
+start_range: "1727"
+summary: "This two-year project will, through digitization, turn a hidden collection into an unrivalled online resource tracing the history of Western collections of Asian art, a subject of expanding scholarly interest. In 2014, the Freer and Sackler Galleries, the Smithsonian's Asian art museums, became the first Smithsonian unit to digitize its entire art collection. Now, founder Charles Lang Freer's purchase vouchers, extensive correspondence with collectors and dealers of the 19th century, and his library will be digitized and linked to his art collection. Volunteers with the Smithsonian's Transcription Center will transcribe Freer's correspondence, purchase records and auction catalogs and link the transcriptions to the object derivatives. While this alone would be a wealth of material, once the files are in the Smithsonian's Collections Search Center, the crowd will create metadata, helping to link derivatives to the online art object, greatly enriching the resource and opening new avenues of research."
+hc_id: "17653673"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Freer and Sackler, Smithsonian Institution"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>2057 Books</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$237,456"
+material_description:  "Charles Lang Freer (1854 - 1919), donated his collection of Asian and American art of the Aesthetic Movement to the nation in 1906 to form the Freer Gallery of Art of the Smithsonian. Freer is unique among collectors in that he kept detailed records of all his transactions, and these records were transferred to the Smithsonian along with his collection. The museum's Archives include the purchase records to all objects in the original Freer collection, plus correspondence with more than 500 individuals and institutions related to his acquisitions, exhibitions and research activities. Fragile letterpress books retain carbon copies of Freer's outgoing correspondence, ensuring historical accuracy.\n\n\n\nFreer also bequeathed his library, including nearly every book on Asian art published in English in his lifetime, as well as a comprehensive selection on Whistler and the other American artists represented in his collection. Additionally, the library contains some one hundred auction catalogs and additional art-related periodicals. Finally, in his library were 300 rare Japanese woodblock print books (more than 1,000 volumes) and five rare Chinese books, on jades, bronzes and paintings totaling 172 volumes. The Freer art collection has internationally recognized collections of all three materials, many purchased by Charles L. Freer.\n\n\n\nToday, scholars are researching the history of Western collections of Asian art and together the Freer's library and archival holdings provide a wealth of information on the provenance of the art as well as the knowledge and aesthetic judgments that determined the makeup of our most important museum collections of Asian art. By digitizing, cataloging and linking records to art objects, Tracing Asian Art will allow scholars to deepen our understanding not just of Freer, but of art history and America's evolving relationship with Asia."
 ---
-
-

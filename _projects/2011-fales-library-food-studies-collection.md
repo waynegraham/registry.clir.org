@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Fales Library Food Studies Collection
+title: "Fales Library Food Studies Collection"
+year: 2011
+end_range: 2010
+formats: "NULL"
+geographic_extant: "The collection contains materials covering food history and trends around the globe, with a focus on European, American, and Eastern European food."
+institution: "New York University Libraries"
+institution_type: "NULL"
+primary_contact: "Marvin Taylor"
+size: "200 boxes, 200 linear feet, 32000 objects"
+start_range: "1500"
+summary: "Over the past eight years the Fales Library has amassed one of the largest collections of materials relating to the new field of food studies at any academic library. Through donations and select acquisitions, the collection now numbers more than 55,000 volumes and includes monographs, pamphlets, serials, government documents, brochures, printed ephemera, manuscript notebooks, and other materials that comprehensively document American food culture in all its aspects from the mid-18th century to the present and European food from 1500 to the present. This collection is the only one with this scope in the New York metropolitan area and unique in the nation. It is used heavily by students and faculty at NYU, by scholars from other universities, and also by journalists, free-lance authors and others interested in the culture of food in our history. The collection comprises the personal libraries of: Cecily Brownstone, who was the AP syndicated food writer for 39 years and a close friend of James Beard; Dalia Carmel, a major private collector; Andrew F. Smith, the noted historian of food; Georg and Jenifer Lang, owners of Café des Artistes; Shizuko Yamamoto, who invented the macrobiotic diet; and Betty Fussell, Delores Custer, Sara Moulton, Doris Lesem, Shiela Lukins, and many other important figures in the food world. And the organizational collections of: the Ladies' Home Journal; The James Beard Foundation; and Gourmet Magazine."
+hc_id: "753"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "70 Washington Square South"
+address2:  "Third Floor"
+city:  "New York"
+state:  "NY"
+zip: "10012"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

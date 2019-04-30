@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Providing Access to Yellowstone and the West: Exposing the Laborers, Builders, Traders and Migratory Workers
+title: "Providing Access to Yellowstone and the West: Exposing the Laborers, Builders, Traders and Migratory Workers"
+year: 2012
+end_range: 1980
+formats: "NULL"
+geographic_extant: "Park County, Montana, Yellowstone National Park, adjacent counties, state of Montana and the northwestern region of the United States."
+institution: "Yellowstone Gateway Museum"
+institution_type: "NULL"
+primary_contact: "Laura McCarthy"
+size: "300 linear feet, 175 objects"
+start_range: "1860"
+summary: "The goal of this project is to expose those forgotten in conventional history--those who laid the track, cooked the food, filled the mine carts, and made Westward Expansion possible. Significant YGM collections to be processed by this grant comprise manuscripts, photographs, art, oral histories, and historic and cultural objects dating from 1880-1980 in these subjects: Yellowstone National Park: Diaries and correspondence recording early visits to the Park; Park employee journals, manuscripts, and oral histories; Photographs of pre and early automobile travel to the Park; Early tourism memorabilia and ephemera. Northern Pacific Railroad: NPRR advertisements and Westward expansion propaganda; Photographs documenting engine technology and railway history; Railway resource and line maps; Early company records including ledgers, correspondence, payroll, accident reports, and temporary migratory laborers schedules; Local resident journals, scrapbooks and oral histories of railroad work. Union/Organizations: Union rosters, seniority lists, and meeting minutes for local railroad and mining unions, and women's auxiliaries; Organization scrapbooks with material documenting labor strikes; Lists of union-approved businesses and strike busters; Ephemera representing several pre-1900 unions; Records of community and civic organizations. Park County Community: Public records, papers and photos related to local laborers, builders and workers."
+hc_id: "892"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "118 West Chinook Street"
+address2:  "NULL"
+city:  "Livingston"
+state:  "MT"
+zip: "59074"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

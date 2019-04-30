@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: How America's Pastime Influenced International Relations During Times of Conflict and Peace: Digitizing the Baseball Hall of Fame and Museum's Archive of International Baseball
+title: "How America's Pastime Influenced International Relations During Times of Conflict and Peace: Digitizing the Baseball Hall of Fame and Museum's Archive of International Baseball"
+year: 2016
+end_range: 1999
+formats: "NULL"
+geographic_extant: "The proposed collections include items documenting the history of baseball in United States, Japan, Cuba, Canada, the Caribbean, the Pacific Islands and Africa."
+institution: "National Baseball Hall of Fame and Museum"
+institution_type: "NULL"
+primary_contact: "Ms. Jamie Brinkman"
+size: "NULL"
+start_range: "1912"
+summary: "Baseball and its cultural and historical impact have been felt around the world since the 19th century. World tours and Olympic Games brought baseball to European and Asian countries, providing a shared experience between cultures. During wartime, playing baseball overseas gave American soldiers a sense of normalcy during trying times, while at the same time helping to instill a love of the game in the local population. The National Baseball Hall of Fame and Museum is proposing a 12 month project to digitize its international baseball collections, covering topics including World War I & II, the Olympics, and international goodwill tours. The project will make 28,050 digital images of the Hall's manuscript, photograph, ephemera, and scrapbook collections available to the public and each image will include enhanced metadata. An OpenSeadragon viewer will allow scholars, students and fans to zoom in on images and interact with the collection."
+hc_id: "22333708"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "National Baseball Hall of Fame and Museum"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>22 scrap books and photo albums</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$200,000"
+material_description:  "Over the past 75 years, the National Baseball Hall of Fame & Museum (NBHOF) has collected 40,000 artifacts, 250,000 unique images, and three million documents related to baseball and its impact on our culture. One of the NBHOF's collecting priorities is International Baseball. This area covers topics including baseball during wartime and baseball's role in international relations. The materials the NBHOF seeks funding to digitize include: - Twenty two scrapbooks and photo albums containing newspaper clippings, unique photographs, and ephemera about goodwill tours and military baseball careers; - 500 photographs of baseball being played overseas during wartime, professional baseball players during their military service, goodwill tours across Europe and Asia, and games played around the world; - 20,250 pages of manuscript and ephemera collections documenting baseball during World War I & II, the Olympics, goodwill tours and games, and baseball played around the world. The collections being included in this project provide a fresh perspective on the role of baseball internationally during times of war and peace. For American soldiers overseas, playing baseball, in the deserts of Africa or the jungles in Eastern Asia, provided a sense of normalcy and home. Professional baseball goodwill tours, the Summer Olympics, and games played in the Caribbean provided common ground for different cultures to meet and connect."
 ---
-
-

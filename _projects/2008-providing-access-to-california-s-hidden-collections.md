@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Providing Access to California's Hidden Collections: A Collaborative Proposal
+title: "Providing Access to California's Hidden Collections: A Collaborative Proposal"
+year: 2008
+end_range: 2000
+formats: "NULL"
+geographic_extant: "California and the West."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Linda Crowe"
+size: "150000 linear feet"
+start_range: "1800"
+summary: "The California Historical Records Committee, under the aegis of Califa Library Group and on behalf of libraries and archives throughout the state of California, would like to enable California's libraries and archives, large and small alike, to convert, encode, and post on the California Digital Library's (CDL) Online Archive of California (OAC) (http://www.oac.cdlib.org/) 2700 finding aids for previously undescribed \"hidden collections\" documenting 19th- and 20th-century California and the West. Building on the state's sizable investment in the OAC infrastructure and recognizing its success as a discovery tool, our project aims to take the OAC to the next level, following the principle of \"more product, less process\" to quickly and efficiently describe en masse previously inaccessible collections, based on archival descriptive standards. Currently, the OAC contains some 9000 finding aids representing the holdings of 120 libraries and archives. But notable institutions are completely unrepresented, such as many campuses in the California State University system, or minimally represented, such as the Huntington Library. Our estimates indicate that there are some 2700 finding aids, which provide access to a quarter of the state’s processed collections, yet to be converted, encoded, and mounted on the OAC. Examples of currently hidden collections include MGM set designs (UCLA), the Christopher Isherwood Papers (Huntington), and the William Everson Papers (Cal)."
+hc_id: "160"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Califa Library Group"
+address2:  "32 W. 25th Ave., Suite 201"
+city:  "San Mateo"
+state:  "CA"
+zip: "94403"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

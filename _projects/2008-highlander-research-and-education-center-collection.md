@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Highlander Research and Education Center Collection
+title: "Highlander Research and Education Center Collection"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "The geographic scope of the project is primarily Appalachia and the Southern United States, with some national and international education connections"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Susan Williams"
+size: "325 linear feet"
+start_range: "1928"
+summary: "Since its founding in 1932, the Highlander Research and Education Center has been at the epicenter of social justice movements in Appalachia and the South. Highlander has played a vital role in the growth and development of movements for workers’ rights, Civil Rights, environmental justice, and global justice, among others. As a result of this work, Highlander’s archive contains a unique collections of materials that reflect over seventy five years at the forefront of the grassroots movements These collections include photographs, audio and video tapes, reel-to-reel films, workshop recordings, papers from Highlander staff members, Board members, and program participants, and more. The collections contain information about well-known figures who worked with Highlander such as Eleanor Roosevelt, Rosa Parks, Martin Luther King, Jr., Septima Clark, and John Lewis as well as countless unsung activists and leaders such as the Clinton 12, students of the first integration battle. While most of these materials focus on grassroots social justice movements in Appalachia and the South, many also contain information about Highlander's national and international efforts such as formation of the International Participatory Action Network, participation in the International Council of Adult Education, work around the North American Free Trade Agreement before its passage in 1993, and connections relating to growing immigration to the Southern United States in the last 20 years."
+hc_id: "233"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1959 Highlander Way"
+address2:  "NULL"
+city:  "New Market"
+state:  "TN"
+zip: "37820"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

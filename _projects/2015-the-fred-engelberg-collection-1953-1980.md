@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Fred Engelberg Collection (1953-1980)
+title: "The Fred Engelberg Collection (1953-1980)"
+year: 2015
+end_range: 1980
+formats: "NULL"
+geographic_extant: "United States, Poland, Denmark, Israel, Vietnam, and Cuba."
+institution: "USC School of Cinematic Arts Hugh M. Hefner Moving Image Archive"
+institution_type: "NULL"
+primary_contact: "Mr. Dino Everett"
+size: "NULL"
+start_range: "1953"
+summary: "This 2 year project will digitize, catalog and describe all of the inter-disciplinary media and documentation found in the holdings of musician, writer, poet, photographer and documentary filmmaker. Collaborative exhibitions and screenings will also occur as a result of the digitization. Roughly 800 reels of 16mm Kodachrome film and audio (close to 150 hours of content) will be digitized along with 30 linear feet of and made available via the web site. Exposure this previously unknown and one of a kind material will provide scholarly research in numerous fields and disciplines across the humanities."
+hc_id: "17380176"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "USC Hugh M. Hefner Moving Image Archive"
+p2_name:  "Mr. James"
+p2_institution:  "Provost's Postdoctoral Scholar in the Humanities"
+p3_name:  "Mr."
+p3_institution:  "NULL"
+material_string: "<li>800 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$247,818.00"
+material_description:  "The Fred Engelberg Collection consists of materials documenting his prodigious creative and intellectual output between the years 1953 and 1980, and includes film, audio, photographs, manuscripts, and ephemera. The collection was donated to USC by Engelberg's widow in 2014.\n\n \n\nFred Engelberg (1929 - 2012) was an influential and multifaceted artist of the Beat Generation who grew up in New York and moved to California in the late 1950s. He recorded two LPs of folk music for Elektra, wrote prolifically (narratives and poetry), and moved into film (experimental features and documentaries) and photography. A mentor to avant-garde filmmaker Stanton Kaye (whose films are on the National Film Registry), Engelberg collaborated with artists as diverse as Allen Ginsberg, Les Blank, Robert Vaughn, Henry Jaglom, Shel Silverstein, Larry Bell, and John Altoon. He produced an improvisational theater experience entitled \"REhearsALISM\" and made films on subjects ranging from President Kennedy to racehorses to the Ku Klux Klan. He also worked anonymously on numerous film projects for BBS productions, including the Academy-Award-winning \"Hearts and Minds.\"  He made two experimental feature-length documentaries in the 1970s for Columbia that were never released. The first, entitled \"The Last of the Polish Jews\"  examined the forced emigration of Jews from Poland in 1968 and was narrated on screen by Simon Wiesenthal. The other, \"Godswill,\"  focused on Kundalini Yoga teacher Yogi Bhajan. Disillusioned, Engelberg negotiated back all rights and took all of his film and other artistic output to the desert in 1981, where he stuffed it into storage and reportedly never discussed it again. Very little information about him is available, primarily due to his reclusiveness in later years, making this collection extremely valuable for researchers across a range of disciplines."
 ---
-
-

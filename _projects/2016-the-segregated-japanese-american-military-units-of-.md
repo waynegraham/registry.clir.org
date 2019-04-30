@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Segregated Japanese American Military Units of World War II: Digitizing and Providing Access to Veteran Oral Histories
+title: "The Segregated Japanese American Military Units of World War II: Digitizing and Providing Access to Veteran Oral Histories"
+year: 2016
+end_range: 2016
+formats: "NULL"
+geographic_extant: "Includes veterans born and raised from across the US and Territory of Hawaii who served in infantry units in the European Theater (primarily Italy and France), and in intelligence units as translators, interpreters and interrogators throughout the Pacific Theater."
+institution: "Go For Broke National Education Center"
+institution_type: "NULL"
+primary_contact: "Ms. Summer Espinoza"
+size: "NULL"
+start_range: "1998"
+summary: "Go For Broke National Education Center proposes a 12-month project to digitize and index 700 videotaped oral history interviews of Japanese American veterans who served in segregated units during World War II. The recordings were collected throughout the US beginning in 1998 on Betacam, DVCAM and miniDVCAM magnetic tape, and are part of the most extensive oral history collection about the segregated infantry and military intelligence units that served in the European and Pacific Theaters, respectively, in WWII. Some of the interviews were previously digitized to compressed, non-archival standards. This archival-quality digitization will be completed at the University of Southern California Digital Repository. A previous CLIR grant supported item-level cataloging of the oral histories; this grant further defines the contents of the recordings by indexing the oral histories so researchers can efficiently search through the almost 1,800 hours of veteran recollections."
+hc_id: "22008873"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Go For Broke National Education Center"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>1750 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$245,649"
+material_description:  "The videorecorded oral histories to be digitized are from a project launched by GFB in 1998 to capture the narratives of Japanese American veterans who served in segregated units in World War II. The program consulted with the Shoah Foundation and Southwest Oral History Association to ensure best practices as it developed study guides for interviewers, pre-interview questionnaires, and recording protocol. The interviews were recorded with broadcast-quality equipment, and span the subjects' life, beginning with their parents and siblings, childhood, wartime imprisonment of Japanese in War Relocation Authority camps, Army enlistment, military service, discharge, and post-war career and family life. The recordings have been used by the Smithsonian Institution, National Park Service, Museum of Tolerance, Japanese American National Museum, many independent film documentaries, and other library and museum exhibitions. The collection includes veterans from all of the Japanese American segregated units that served in Europe and the Pacific, making it the largest collection of its kind. Significant effort was invested in locating Nisei (Japanese language term for second generation Japanese Americans) veterans whose wartime experiences were unique or significant, such as Medal of Honor awardees; those who saw action in the Rescue of the Lost Battalion near Biffontaine, France, which is considered one of the top ten military battles in the history of the US Army; and all three MIS soldiers who were eyewitnesses to Japan's surrender on the USS Missouri. Also included are some interviews of their contemporaries to provide context, such as Caucasian officers who led the units, as Nisei were not permitted to be officers; Jewish survivors of the Landsberg-Kaufering Dachau death march and sub-camps who were rescued by Nisei soldiers in April 1945; and government and military leaders who provide perspective on the unique contribution of the Nisei soldiers to American history."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Legacy Center
+title: "The Legacy Center"
+year: 2011
+end_range: 2010
+formats: "NULL"
+geographic_extant: "Primarily materials from Japan and the United States, particularly west coast states, relocation centers, Chicago and other Midwest cities and towns."
+institution: "Japanese American Service Committee"
+institution_type: "NULL"
+primary_contact: "Jered Pruitt"
+size: "375 boxes, 450 cubic feet, 450 linear feet, 70 objects"
+start_range: "1890"
+summary: "The collection documents all facets of Japanese American life surrounding the period of World War II internment and on to present day. It includes correspondence, particularly with family in internment camps and brothers or sons serving in the US Army in Europe and the Pacific; photographs, including a significant collection documenting religion, business, sports, and social life in the late 1940s and 1950s; diaries and journals; sketch books showing scenery in and around internment camps; artifacts, many of which were made of scrap wood in internment camps; rare published materials, such as internment camp newspapers and high school yearbooks, and information pamphlets targeting Nisei (the American-born children of Japanese immigrants) who were leaving camps for work or education; and vital records, such as alien registration cards and US Army service records. It is arguably the most significant collection of Japanese American history, arts and culture materials in the Midwest and the only significant collection documenting life outside of the traditional, west coast population centers. The collection has and will draw interest from Japanese Americans and Asian Americans in Chicago; local, regional and national scholars of Japanese American studies, Chicago and World War II era history; visiting school groups and local public school classrooms; broader members of the community with an interest in multicultural communities."
+hc_id: "817"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "4427 North Clark Street"
+address2:  "NULL"
+city:  "Chicago"
+state:  "IL"
+zip: "60640"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

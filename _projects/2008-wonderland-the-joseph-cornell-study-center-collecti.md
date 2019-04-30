@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Wonderland: The Joseph Cornell Study Center Collection
+title: "Wonderland: The Joseph Cornell Study Center Collection"
+year: 2008
+end_range: 1972
+formats: "NULL"
+geographic_extant: "The materials are mostly American, but include some Western European (French, German and Italian) materials."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Christine Hennessey"
+size: "320 linear feet"
+start_range: "1600"
+summary: "The Joseph Cornell Study Center Collection is comprised of approximately 320 linear feet of the artist’s source materials and studio effects, dating from the 17th to the 20th century (bulk dates 1880s-1970). One of America’s most inventive and influential artists, Joseph Cornell (1903-1972) was a premier assemblagist, who elevated box construction to a major art form in the 20th century. An insatiable collector, Cornell acquired thousands of printed and three-dimensional ephemera--searching the libraries, museums, theaters, book shops and antique stalls in New York, and relying on his contacts across the United States and in Europe. With these objects, he created magical relationships by seamlessly combining disparate images. After the artist’s death, the studio contents of his New York home were given to the Smithsonian American Art Museum to form the nucleus of the Joseph Cornell Study Center. This unique special collection contains two- and three-dimensional ephemera numbering in the thousands. Among the formats included are correspondence, photographs, postcards, prints, clippings, theater playbills, sheet music and other’ found objects, such as clay pipes, cordial glasses, corks, and marbles. The collection also includes the artist’s personal library (over 3,000 titles ranging from rare eighteenth century French texts to Little Golden Books from the 1950s), hundreds of record albums, and finished and unfinished examples of Cornell’s collages and constructions."
+hc_id: "266"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "PO Box 37012, MRC 970"
+address2:  "NULL"
+city:  "Washington"
+state:  "DC"
+zip: "20013-7012"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

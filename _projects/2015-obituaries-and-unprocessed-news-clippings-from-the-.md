@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Obituaries and unprocessed news clippings from The Works Progress Administration Index and Clipping bureau collection at Washington State University.
+title: "Obituaries and unprocessed news clippings from The Works Progress Administration Index and Clipping bureau collection at Washington State University."
+year: 2015
+end_range: 1937
+formats: "NULL"
+geographic_extant: "The geographic region represented in the newspaper collection is the United States and the world at large. The Middle East, South Asia and China are well represented."
+institution: "Washington State University: Libraries"
+institution_type: "NULL"
+primary_contact: "Dr. Israt ( Lipi) Turner-Rahman"
+size: "NULL"
+start_range: "1883"
+summary: "The project will digitize and archive 14 boxes ( approximately 5000 items ) of Washington obituaries dating from 1900 to the late 1930's and digitize; archive 10 boxes of unprocessed news clippings and newspapers from U.S newspapers dating from the 1883 to 1930. The digitized material will be uploaded onto The Wallis and Marilyn Kimble Northwest History database, which is an open source CONTENTdm database averaging 70,000+ hits a month. Digitizing the collection will complete the project started under the WPA and allow fresh new eyes to scan the history of the WPA and the World at large from 1883-1938."
+hc_id: "17408305"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Washington State University"
+p2_name:  "Mr. Trevor"
+p2_institution:  "Head of manuscripts , Archieves and Special Collections"
+p3_name:  "Mr. Mr. Doug"
+p3_institution:  "Digital Projects Production Coordinator"
+material_string: "<li>222000 Newspaper articles and obituaries</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$124,727"
+material_description:  "The obituaries and newspaper articles were collected and organized in the late 1930s by workers on a Works Progress Administration project. Sponsored by Washington State College \"The Index and Clipping Bureau\" was established to collect and preserve all historical material concerning the Northwest;the world at large and to \"afford a means of livelihood to people out of employment\" . The project was administered by Dr. Herman D. Deutsch, a history professor at WSC, and located in the Realty building in Spokane Washington. WSC graduates\"”unemployable even with a college degree, women, African Americans and immigrants pored over tons of newspapers, searching for items of historical interest and making history themselves by mirroring the expanded opportunities and growing hope playing out on the national stage during the WPA's eight-year tenure. The project received 335 tons of newspapers, of which workers processed 232.5 tons for clippings. The project stored the newspaper articles in more than 400 boxes carefully made from re-purposed materials. Painted with black lacquer, these boxes served as the valuable collection's safe storage containers for over 75 years. Many of the nominated items were donated by Homer M. Hill - a Seattle publisher, newspaperman, councilman and President of the Washington State Press Association from 1893-1894. The obituary collection paid homage to the common men and women of the Pacific Northwest. The newspaper collection specifically focuses on the first World War, Spanish American war, the coal land lease act debate, American and foreign politics, the Peoples Party, IWW and socialist movements. The advent of war, terminated the project; boxes were hastily sequestered in WSC library's subbasement. The collection lay unforgotten and cloistered in the leaky and dark subbasement for over 70 years. In 2001 Wallis and Marilyn Kimble invested seed money to start digitizing the abandoned indexed processed newspaper clippings."
 ---
-
-

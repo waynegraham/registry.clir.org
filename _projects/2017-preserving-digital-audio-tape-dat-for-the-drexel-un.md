@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Preserving Digital Audio Tape (DAT) for the Drexel University Sigma Collection
+title: "Preserving Digital Audio Tape (DAT) for the Drexel University Sigma Collection"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Drexel University Audio Archives"
+institution_type: "NULL"
+primary_contact: "Mr. Toby Seay"
+size: "NULL"
+start_range: "NULL"
+summary: "The Drexel University Audio Archives (DUAA) seeks $26,703 for the migration and preservation of 146 Digital Audio Tapes (DAT) from the Sigma Sound Studios Collection (SSSC). These tapes are identified as an at-risk format in urgent need of data migration. The Northeast Document Conservation Center (NEDCC) will be contracted to perform the migration through a 100%-attended preservation strategy using a strict adherence to International Association of Sound and Audiovisual Archives (IASA) and Federal Agency Digitization Guidelines Initiative (FADGI) standards. These tapes contain significant music productions from Philadelphia during the 1990s, as well as previous preservation migrations of earlier analog media. Access to these types of production recordings is unique to academic archives and provides valuable resources to music and humanities scholars."
+hc_id: "26713540"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Drexel University"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "146 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$26,703"
+material_description:  "NULL"
 ---
-
-

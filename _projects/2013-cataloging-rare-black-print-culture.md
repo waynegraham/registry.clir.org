@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging Rare Black Print Culture
+title: "Cataloging Rare Black Print Culture"
+year: 2013
+end_range: 2000
+formats: "NULL"
+geographic_extant: "Virtually every state in the U.S.: most are from the Northeast or Nashville, Atlanta, Chicago. A few from the Caribbean or Great Britain."
+institution: "Emory University MARBL"
+institution_type: "NULL"
+primary_contact: "Susan McDonald"
+size: "175 linear feet"
+start_range: "1860"
+summary: "African American serials constitute, writes C. Polsgrave, an “alternative public sphere” that serves as “a base from which politically marginal groups challenge the power of the mainstream public sphere to define reality.” Emory has systematically collected this genre of print material as part of our attention to black print culture. We collect all aspects of African American life including religion, politics, art, music, literature, theatre, and history from the 1860s to 2000. This includes books and pamphlets, serials, broadsides, sheet music, palm cards, programs, and posters. We must catalog our serials, including periodicals, newspapers, college and high school yearbooks, souvenir journals, minutes, newsletters, proceedings, and transactions produced by literary, religious, educational, fraternal, political and other organizations, clubs, societies, and associations. We have more than 2,100 separate titles (one donor gave 1,000 titles; another donor gave 10 “banker boxes” of rare periodicals; the Woodson Library came with 242 different titles, with a like number in the Billops-Hatch and the Charles Butcher collections (the latter has a hundred different AME serial titles). Many are not recorded in WorldCat and more are not in Danky's national bibliography on African American newspapers & periodicals. We have unique holdings with no intellectual access; correcting this is our highest priority."
+hc_id: "1175"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "MARBL"
+address2:  "Woodruff Library"
+city:  "Atlanta"
+state:  "GA"
+zip: "30322"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

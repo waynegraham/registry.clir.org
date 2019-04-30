@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Processing the Redevelopment Agency of the City of San José, from planning to implementation
+title: "Processing the Redevelopment Agency of the City of San José, from planning to implementation"
+year: 2016
+end_range: 2002
+formats: "NULL"
+geographic_extant: "The geographic scope of the project is the County of Santa Clara. The redevelopment agency photographs include planning images from other states and countries for similar projects for example light rail systems in Belgium and Indian Bend Wash in Arizona."
+institution: "San Jose Public Library, California Room"
+institution_type: "NULL"
+primary_contact: "Ms. Erin Herzog"
+size: "NULL"
+start_range: "1870"
+summary: "The California Room, a unit within the San José Public Library, a department of the City of San José, holds many unique materials chronicling the development of Northern California, emphasizing Santa Clara County. This 21 month project focuses on the photographs, maps and plans reflecting the physical changes to the landscape of the City of San José from 1870 - 2002. The present urban and rural landscape of Santa Clara County is a diverse complex social and economic setting within a rich historic, multi-cultural and natural environment. Digitization of an unprocessed collection and supporting materials will provide direct public access to the collection. Independent scholars and local historians use the collections for Historic Impact Reports, Environmental Impact Reports, community research, business history research, genealogical research and exhibits. The collections support research in the areas of History, Geography, Law and Politics, Philosophy, Conservation Science and Anthropology."
+hc_id: "22354054"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "San Jose Public Library, California Room"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>8421 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$102,325"
+material_description:  "Redevelopment Agency photographs 1880-2002: This collection consists of slides, negatives, aerial photographs, photographs (slides, negatives, and prints), renderings and drawings demonstrating construction in the City of San José before and after projects. Photographs also reflect the early history of the city and examples of similar projects in other regions and countries used for research. San José has an extensive range of architectural styles and local architects; Frank Delos Wolfe (1862-1926), William Binder (1871-1953) and Theodore Lenzen (1833-1930), are examples known nationally for their work. Many of these structures were removed to make way for freeways and other construction. This is a complete record of buildings long ago destroyed, streets renamed, and whole neighborhoods redrawn or redefined. This collection also reflects the inner workings of the unique Redevelopment Agency Program, one of 400 in the state of California, dissolved as of February 1, 2012. Maps, Street improvement plans and subdivision plans 1870-1950: This is a collection of Santa Clara county maps, Block Books and Street Improvement and Subdivision maps on linen. These describe potential projects for improvement to streets and subdivision for the City of San José. These maps define street changes and property shifts throughout the county, they indicate land use planning activities, such as subdivisions, property for sale, and transfers of ownership. Making these lost places findable via contemporary digital maps allows us to drill down through the layers of urban change and study the city in profound new ways."
 ---
-
-

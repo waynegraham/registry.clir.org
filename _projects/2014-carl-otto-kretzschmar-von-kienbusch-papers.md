@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Carl Otto Kretzschmar von Kienbusch Papers
+title: "Carl Otto Kretzschmar von Kienbusch Papers"
+year: 2014
+end_range: 1860
+formats: "NULL"
+geographic_extant: "1987"
+institution: "Philadelphia Museum of Art"
+institution_type: "NULL"
+primary_contact: "Ms. Susan Anderson"
+size: "NULL"
+start_range: "1860"
+summary: "The Philadelphia Museum of Art is seeking a $126,250 grant to support the processing of the papers of Carl Otto Kretzschmar von Kienbusch (1884-1976), a noted 20th-century collector of arms and armor. In 1977, he bequeathed his entire collection, along with its important library and archive, to the Museum. The first collaboration between the Museum's Library and Archives and a recently-appointed Associate Curator of Arms and Armor, this project will make this significant record detailing one of the most important arms and armor collections in the world available to a broad public."
+hc_id: "11926022"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Philadelphia Museum of Art"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>120 Artifact (Including Archaeological Objects, Weapons, Machinery, Instruments, Costumes, Textiles, Ceramics, Glass, Furniture, Etc.), Ephemera, Image, Manuscript, Text (Including Electronic Texts)</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$126,250"
+material_description:  "NULL"
 ---
-
-

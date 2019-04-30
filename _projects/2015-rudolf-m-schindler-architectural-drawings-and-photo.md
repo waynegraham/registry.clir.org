@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Rudolf M. Schindler Architectural Drawings and Photographs Online
+title: "Rudolf M. Schindler Architectural Drawings and Photographs Online"
+year: 2015
+end_range: 1953
+formats: "NULL"
+geographic_extant: "The bulk of the drawings and photographs document buildings in Southern California, but the archive includes work, built and un-built, for Northern California, Illinois, New York, New Mexico, Connecticut, Vienna (mostly student work), Japan, and Switzerland."
+institution: "University of California, Santa Barbara, Art Design & Architecture Museum"
+institution_type: "NULL"
+primary_contact: "Dr. E. Bruce Robertson"
+size: "NULL"
+start_range: "1909"
+summary: "The Art, Design & Architecture Museum, UC Santa Barbara will digitize and make universally available the architectural drawings, photographs and negatives for the 485 projects in the Rudolf M. Schindler Papers.Our project will take two years. Images and descriptive records will be made available from the California Digital Library's Online Archive of California and its image database, Calisphere, as well as from the Digital Public Library of America. One of the most significant and intriguing modern architects of the 20th century, Schindler's \"Space Architecture\" continues to attract scholars, practitioners, and, especially, students from around the world. While there are dozens of publications about Schindler and his work, only a small percentage of his designs have been studied. We hope to encourage new research on the work of an avant-garde architect whose ideas and designs still reward attention."
+hc_id: "17466407"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of California, Santa Barbara; Art Design & Architecture Museum"
+p2_name:  "Ms. Jocelyn"
+p2_institution:  "Curator, Architecture and Design Collection"
+p3_name:  "Ms."
+p3_institution:  "NULL"
+material_string: "<li>4100 Architectural Drawings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$191,442"
+material_description:  "Mark Schindler donated the papers of his father, Rudolf M. Schindler (1887-1953) to the Architecture and Design Collection of UC Santa Barbara's Art Museum in 1969. Schindler's archive includes circa 4,100 architectural drawings (sketches, technical drawings, and renderings) for 485 projects, including designs for furniture, and ten original drawings by Schindler for Frank Lloyd Wright projects. Circa 1500 photographs (and negatives) taken by Schindler, Edward Weston, Brett Weston, Julius Shulman, and others, document Schindler's designs, including some for which there are no extant drawings, such as student projects from Vienna. The drawings and photographs fully illuminate the development of one of modernism's most important and unique protagonists."
 ---
-
-

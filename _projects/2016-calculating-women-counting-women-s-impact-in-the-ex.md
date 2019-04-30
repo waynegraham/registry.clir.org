@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Calculating Women: Counting Women's Impact in the Exact and Natural Sciences in a Collaborative Project to Digitize Archival Materials from Harvard University, the Maria Mitchell Association, Smith, Mount Holyoke, Wellesley, Vassar, and Bryn Mawr Colleges and Tuskegee University.
+title: "Calculating Women: Counting Women's Impact in the Exact and Natural Sciences in a Collaborative Project to Digitize Archival Materials from Harvard University, the Maria Mitchell Association, Smith, Mount Holyoke, Wellesley, Vassar, and Bryn Mawr Colleges and Tuskegee University."
+year: 2016
+end_range: 1700
+formats: "NULL"
+geographic_extant: "The scope is global and includes material from across the United States - from Alaska to the Colorado Rockies to the Woods Hole Laboratory on the Massachusetts coast. Other material comes from Europe, Africa, and Asia. The earliest are papers of Maria Mitchell; the bulk of material dates from 1840-1970."
+institution: "President and Fellows of Harvard College"
+institution_type: "NULL"
+primary_contact: "Dr. Sarah Thomas"
+size: "NULL"
+start_range: "1700"
+summary: "Harvard University seeks $500,000 to digitize collections documenting two generations of pioneering women scientists from approximately 1840 to the 1970s. The project, estimated at more than 455,700 manuscript pages, will be completed over 3 years and will draw from the collections of the Harvard College Observatory, University Archives, Schlesinger, Countway, Ernst Mayr, and Botany Libraries, as well as from the Maria Mitchell Association, Smith, Mount Holyoke, Wellesley, Vassar, and Bryn Mawr Colleges and Tuskegee University. Working collaboratively through advanced imaging and an innovative delivery platform, the project will digitize 36 full collections, unlock data hidden in the papers, and unite cross-disciplinary collections representing women who created scientific breakthroughs and opportunities for women in science. Focusing on Astrophysics, Biology, Medicine, and the Natural Sciences, the project aims to leverage relationships between repositories and their content, historical context, and scientific data to foster new discoveries in the humanities and sciences."
+hc_id: "22224135"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "President and Fellows of Harvard College"
+p2_name:  "Ms. Evelyn M. Hammond"
+p2_institution:  "President and Fellows of Harvard College"
+p3_name:  "Ms. Marilyn Dunn"
+p3_institution:  "President and Fellows of Harvard College"
+material_string: "<li>224 Mixed Archival Collections</li>"
+collaborating_institution:  "Maria Mitchell Association; Smith College; Mount Holyoke College; Wellesley College; Vassar College; Bryn Mawr College; Tuskegee University"
+grant_amount:  "$500,000"
+material_description:  "The collections proposed for digitization include correspondence, speeches, personal diaries, professional papers, calendars, glass plates, photographs, specimens, and log books containing scientific data. The materials document the personal and professional lives of women in science covering a wide range of scientific disciplines and a variety of academic institutions where they were employed."
 ---
-
-

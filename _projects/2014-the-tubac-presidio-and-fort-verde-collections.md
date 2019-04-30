@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Tubac Presidio and Fort Verde Collections
+title: "The Tubac Presidio and Fort Verde Collections"
+year: 2014
+end_range: 1960
+formats: "NULL"
+geographic_extant: "The geographic scope of the collection includes southern and central Arizona."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Sophia Kelly"
+size: "40 linear feet"
+start_range: "1690"
+summary: "Tubac Presidio and Fort Verde are historic properties that are emblematic of culture contact, assimilation, and subjugation of Native American groups during Euro-American colonization of the American West. Many archival materials associated with these properties have been hidden from scholars, educators, and the general public. Arizona State Parks will make these materials accessible for research and interpretation by inventorying, cataloguing, and archiving the documents and their associated metadata. The documents will be stored in a digital curation platform that allows for wide accessibility and dissemination to researchers and the public. In addition, these materials will be integrated into thematic collections in the digital platform."
+hc_id: "11902833"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

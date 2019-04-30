@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Focusing the Lens: Creating Online Public Access to the Photographic Work of John Vachon in the Museum of the City of New York's LOOK Collection.
+title: "Focusing the Lens: Creating Online Public Access to the Photographic Work of John Vachon in the Museum of the City of New York's LOOK Collection."
+year: 2015
+end_range: 1961
+formats: "NULL"
+geographic_extant: "The 54 assignments included in this proposal\"”from the 136 assignments executed by Vachon\"”are geographically centered in New York City, yet represent a more national focus."
+institution: "Museum of the City of New York"
+institution_type: "NULL"
+primary_contact: "Ms. Lacy Schutz"
+size: "NULL"
+start_range: "1948"
+summary: "The Museum of the City of New York seeks funding to increase public access to photographic material from the LOOK Collection over two years. This collection includes images for 2,242 LOOK magazine stories from 41 different photographers made between 1938 and 1968, and vividly documents the cultural transformation of the nation from World War II through the Cold War era. This project would allow the Museum to digitize and catalog photographic material--primarily negatives and contact sheets--from a selection of 54 assignments covering 50 individual topics from the work of staff photographer John Vachon (1914-1975), who documented a broad spectrum of topics over the course of his 25-year career with LOOK. Specifically, funds would provide for a review of nearly 18,500 images, in order to cull duplicates and technically poor or illegible images, resulting in digitization and free online access to approximately 11,100 images at http://collections.mcny.org."
+hc_id: "17641068"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Museum of the City of New York"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>18500 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$165,965"
+material_description:  "LOOK magazine was founded in 1937 by Des Moines, Iowa, newspaperman Gardner Cowles. Published as a bi-weekly, general interest magazine, LOOK began as a tabloid emphasizing sports and movie stars. In the wake of the Baby Boom, LOOK became more family-oriented and focused on social and political subjects, personalities, food, fashion, and sports. It provided perspective on medical and technological developments and education, while featuring articles on controversial topics such as civil rights, space travel, and the conflict in Vietnam by the time it reached peak circulation of nearly eight million readers.\n\n\n\nGrace Mayer, the Museum's founding Curator of Prints (1932 - 1959), brokered an agreement with Cowles Magazines to begin transferring LOOK magazine photographs related to New York City specific assignments to the Museum. The first gift was made in 1946, with the bulk of the collection coming to the Museum in three large gifts in 1956, 1957, and 1958. A final gift in 1965 consisted of a single assignment. \n\n\n\nPhotographer John Vachon (1914-1975) made his name working for Roy Stryker (1893-1975) at the Farm Security Administration (FSA) during the Great Depression. After a brief stint at LIFE, Vachon began working for LOOK in 1947, where he remained for 25 years. The 54 assignments selected for inclusion in this project center around a few primary topics, including sports and entertainment, arts and culture, and everyday life in New York City, both in its well-known neighborhoods as well as the lesser visited sections of the city. However, interwoven into the subtext of these assignments are underlying societal themes regarding the plight of the less fortunate, women's issues, the labor movement, civil rights, youth culture, events with national impact or audience, the ever shifting urban landscape of the city, and New York as the land of opportunity."
 ---
-
-

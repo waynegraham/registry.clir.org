@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Documenting Social and Political Activism of the Sixties and Seventies: Hidden Collections at the University of California Santa Cruz
+title: "Documenting Social and Political Activism of the Sixties and Seventies: Hidden Collections at the University of California Santa Cruz"
+year: 2013
+end_range: 2010
+formats: "NULL"
+geographic_extant: "The primary geographic scope of both collections is California but also reflects national and international projects of both creators."
+institution: "University of California Santa Cruz"
+institution_type: "NULL"
+primary_contact: "Elisabeth Remak - Honnef"
+size: "200 linear feet"
+start_range: "1960"
+summary: "Both collections recently acquired by UC Santa Cruz focus heavily on social and political activism in California during the 1960s and 70s, but the geographic scope, like the issues themselves, extends beyond state and national borders. Internationally acclaimed writer Karen Tei Yamashita's archive includes manuscripts, drafts, subject interviews, correspondence, notes, extensive research materials including primary documents, audiotapes, photographs, posters, and alternative press materials. Also included are hundreds of interviews and lectures given by Yamashita as well as copies of all her works both in the original language of publication and in translation. Multiple prizes for the novel I Hotel have intensified publicity and research interest in her work including a proposed digital annotated edition, making the processing of this archive a top institutional priority. Likewise, the John Thorne Papers, which richly document a wide range of legal and activist issues from the local to the international level, speak to increasing research and curricular interest in social movements of this period. Correspondence, interviews, research materials, speeches, ephemeral publications and legal documents include such subjects as the George Jackson and Angela Davis trials, prison writing and prison reform, California Democratic Party, Wounded Knee consolidated cases, Iranian Students Association and the International War Crimes Tribunal."
+hc_id: "1101"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Special Collections and Archives"
+address2:  "McHenry Library UCSC"
+city:  "Santa Cruz"
+state:  "California"
+zip: "95064"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

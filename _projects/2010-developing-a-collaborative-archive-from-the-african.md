@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Developing a Collaborative Archive from the African Diaspora (CAAD)
+title: "Developing a Collaborative Archive from the African Diaspora (CAAD)"
+year: 2010
+end_range: 2010
+formats: "NULL"
+geographic_extant: "Geographic scope of the project is South Florida, the Caribbean, and parts of Latin America and Africa."
+institution: "University of Miami Libraries"
+institution_type: "NULL"
+primary_contact: "Yolanda Cooper"
+size: "40 boxes, 100 cubic feet, 500 linear feet, 600 objects"
+start_range: "1600"
+summary: "Project materials document the history, culture, and experience of people from the African Diaspora most specifically in South Florida, the Caribbean, and relevant parts of Latin America from the 1600s to the present. All materials were acquired or donated to the University of Miami, The Black Archives History and Research Foundation of South Florida, and Florida Memorial Univerisity. This initial selection is based on established priorities such as lack of accessibility, scholar requests, and curriculum need. It should be noted that the CAAD will begin with materials from these three institutions and then add from other agencies through a process developed by the CAAD Steering Committee. Initially this projects will include books , maps, correspondence, and documents from the Libraries Caribbean collection, archives from the Pan Am Collection with records that reflect and document US \"Pan-American\" influence in political and economic relations, travel, immigration, major societal movements, hiring practices, and gender and racial discrimination, and achives chronicling the lives, careers, and activities of significant leaders and Civil Rights Activists in South Florida. Materials will also contain historical document from the Colored Town/Overtown Collection, one of the historically designated Black neighborhoods of Miami, and also the archives of Florida Memorial University a private coeducation four-year HBCU located in Miami Gardens, Florida."
+hc_id: "666"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1300 Memorial Drive"
+address2:  "NULL"
+city:  "Coral Gables"
+state:  "FL"
+zip: "33124"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

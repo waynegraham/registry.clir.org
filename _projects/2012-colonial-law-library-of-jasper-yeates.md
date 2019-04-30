@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Colonial Law Library of Jasper Yeates
+title: "Colonial Law Library of Jasper Yeates"
+year: 2012
+end_range: 1870
+formats: "NULL"
+geographic_extant: "The volumes were imported from Dublin and London and represent books in English, Latin, and French from Europe and Colonial/Federal Period America."
+institution: "LancasterHistory.org"
+institution_type: "NULL"
+primary_contact: "Robin Sarratt"
+size: "1043 objects"
+start_range: "1590"
+summary: "The Jasper Yeates Law Library—1,043 volumes of published legal works in several languages—contains remarkable examples of early jurisprudence in published volumes from the 1500s through to the early 1800s. Assembled by Yeates (1745-1817), an eminent Lancaster lawyer, Revolutionary War officer, and associate justice of the Pennsylvania Supreme Court from 1791 to 1817, the leather-bound collection along with the margin notes of Yeates, provides scholars an opportunity to follow the creation of American law and judicial power. Additional collections items held by LancasterHistory.org—including letters, receipts, estate inventories, wills, deeds, and a letter book—provide insight into the Yeates family, local social history, and the business of law from 1743-1870. Legal historian Herbert A. Johnson wrote that, \"properly arranged and cataloged, the Yeates library would rival those of Adams, Jefferson, and Chew in its value for legal historians (Imported Eighteenth-Century Law Treatises in American Libraries, 1700-1799, p. 31; 1980). The Law Library was an almost complete collection of works on legal subjects in existence at the time of Yeates' death in 1817. Legal changes brought about by the American Revolution meant that the common law and statute laws of England were in force, except as conflicted with the Constitution of the Commonwealth. This meant that Yeates and his contemporaries were establishing law and precedent practically from scratch."
+hc_id: "1006"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "230 N. President Avenue"
+address2:  "NULL"
+city:  "Lancaster"
+state:  "PA"
+zip: "17603"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

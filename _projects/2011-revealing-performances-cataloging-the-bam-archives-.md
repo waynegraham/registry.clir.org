@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Revealing Performances: Cataloging the BAM Archives Hidden Collection
+title: "Revealing Performances: Cataloging the BAM Archives Hidden Collection"
+year: 2011
+end_range: 2010
+formats: "NULL"
+geographic_extant: "The primary geographical area of focus is New York City; however, materials in the collection reflect BAM's international reach."
+institution: "Director of Archives"
+institution_type: "NULL"
+primary_contact: "Martha Pearson"
+size: "700 cubic feet"
+start_range: "1858"
+summary: "The BAM Archives, formally established in 1995, documents the lives of leaders, thinkers, and artists whose careers exemplify the spirit of American innovation, as well as trace the evolution of public and cultural life in the United States. Particularly valuable materials in the collection include slides; photographs, contact sheets, and negatives of production images; promotional shots; rare artist portraits and headshots; playbills, and press clippings from a broad range of publications from around the world. In addition, BAM's institutional records document the evolution of the contemporary performing arts, both in this country, but also around the world, through artist correspondence, production plans, promotional material, and other records. The richness of the collection is demonstrated by the variety of complementary resources--the diversity of which is held by no other institution in the world--that studied together can inform an understanding of both the institution as a home for the performing arts, as well as individual artists, productions, and time periods. Due to the significance of these artists not only to BAM's institutional history, but also to the history of the contemporary performing arts, these materials are of utmost importance to scholars and the general public."
+hc_id: "783"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "30 Lafayette Ave"
+address2:  "NULL"
+city:  "Brooklyn"
+state:  "NY"
+zip: "11217"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

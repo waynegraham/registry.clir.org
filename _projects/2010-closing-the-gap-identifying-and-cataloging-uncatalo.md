@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Closing the Gap: Identifying and Cataloging Uncataloged Titles in the Classed Collections at the American Antiquarian Society
+title: "Closing the Gap: Identifying and Cataloging Uncataloged Titles in the Classed Collections at the American Antiquarian Society"
+year: 2010
+end_range: 1950
+formats: "NULL"
+geographic_extant: "While the primary focus is the United States, there are also titles for Canada, Great Britain, Europe, Africa, Asia and the Caribbean."
+institution: "American Antiquarian Society"
+institution_type: "NULL"
+primary_contact: "Alan Degutis"
+size: "12827 objects"
+start_range: "1701"
+summary: "Materials in AAS classed collections, i.e. works with call numbers beginning with E (American History); G (Topical Classifications); H (Latin America); J (Foreign History and Travel); L (U.S. Local History); R (Biography); X (Religion); Y (Antiques and Collecting); and Z (Printing and Related Arts), cover a wide range of topics within the scope of the Society's mission--to document the life of America's people from the colonial period through the Civil War and Reconstruction. They include primary and secondary materials from the 18th and 19th centuries. Religious and political works, novels, poetry, local and county histories, medical and scientific treatises, and annals of travel and exploration are well represented. For reasons that will be explained in this proposal, an estimated 9 percent of these preeminent collections are hidden--not only from readers but sometimes also from staff--because although they have call numbers and are on the shelf in a logical place, they have never been cataloged. Our experience with this problem reveals that coverage of twentieth-century publications is very good, though occasional gaps exist. Coverage of materials printed in the U.S. before 1841 is virtually complete. But a dismaying number of U.S. imprints, 1841-1899, and of British and European imprints of the 18th and 19th centuries have no cataloging records whatever. This is not a recon problem, where cards were simply skipped; the cards never existed"
+hc_id: "581"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "185 Salisbury St."
+address2:  "NULL"
+city:  "Worcester"
+state:  "MA"
+zip: "01609-1634"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Catholic Charities Access Initiative
+title: "Catholic Charities Access Initiative"
+year: 2008
+end_range: 2007
+formats: "NULL"
+geographic_extant: "Archives collections covers activities across the U.S. Local charity collections reflect diocesan-level charity work."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Maria Mazzenga"
+size: "367 boxes, 451 linear feet"
+start_range: "1881"
+summary: "The Catholic Charities Access Initiative aims to process and catalog three collections housed at the Catholic University of America (CUA) Archives and to conduct outreach toward assisting local charitable organization archivists in processing and cataloging their own valuable collections. The collections housed at CUA are the voluminous National Conference of Catholic Charities/Catholic Charities, USA (NCCC/CCUSA) records, the St. Vincent de Paul Society collection, and the Catholic Charities of Washington, DC collection. Local charitable records we aim to assist in processing and cataloging will be determined during the course of the grant. Branches of the Society arose to address the needs of impoverished Catholics in the 19th century, as did a range of local institutions. Members of the Society worked with the CUA community to found the NCCC at CUA in 1910. Early NCCC endeavors include coordination of local charity, establishment of Catholic schools of social work, and integration of social institutions managed by religious sisters. Known as Catholic Charities, USA since 1986, the organization serves today as a key advocate for progressive social legislation, and coordinates with local charities. Together the CUA collections include correspondence, meeting minutes, legislative files, surveys, photos, and publications related to charitable activities in a range of cities. Local collections include orphanage records, correspondence, surveys, and photographs."
+hc_id: "19"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "101 Aquinas Hall"
+address2:  "Catholic University"
+city:  "Washington"
+state:  "DC"
+zip: "20912"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

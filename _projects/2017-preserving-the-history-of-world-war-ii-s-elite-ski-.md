@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Preserving the History of World War II’s Elite Ski Troopers, the 10th Mountain Division
+title: "Preserving the History of World War II’s Elite Ski Troopers, the 10th Mountain Division"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Denver Public Library"
+institution_type: "NULL"
+primary_contact: "Mr. James X. Kroll"
+size: "NULL"
+start_range: "NULL"
+summary: "The 10th Mountain Division Resource Center oral history collection at the Denver Public Library (DPL) consists of 246 audio and audiovisual recordings of interviews with World War II veterans who served with the 10th Mountain Division. These recordings are all at risk of degradation or loss due to their age and the scarcity of equipment necessary to access them. Because many of the veterans interviewed have since passed away, these recordings are irreplaceable. These are unique among first hand accounts of World War II as “the 10th” transformed winter mountain warfare and returned home to create the ski industry. Currently the only means to utilize these resources is to visit DPL in person or to purchase a copy. DPL proposes to digitize these interviews, not only to ensure their long-term preservation, but to be able to offer them for free public use online to anyone, anywhere."
+hc_id: "26878131"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Denver Public Library"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "2 items<li>91 Digital Video Cassette</li><li>47 Audio Cassette</li><li>17 Vhs</li><li>2 Hi8 Videotape</li><li>87 Cd R, Dvd R</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$22,990"
+material_description:  "NULL"
 ---
-
-

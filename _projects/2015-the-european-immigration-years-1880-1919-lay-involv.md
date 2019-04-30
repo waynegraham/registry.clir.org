@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The European Immigration Years, 1880-1919: Lay involvement and activities of local parishes, societies, schools and organizations of the American Catholic community in attending to the needs and impact of immigrants as evidenced through the Catholic Digital Newspapers Program (CDNP)
+title: "The European Immigration Years, 1880-1919: Lay involvement and activities of local parishes, societies, schools and organizations of the American Catholic community in attending to the needs and impact of immigrants as evidenced through the Catholic Digital Newspapers Program (CDNP)"
+year: 2015
+end_range: 1919
+formats: "NULL"
+geographic_extant: "The geographic scope is the United States, with emphasis on major cities from coast to coast including Boston, Chicago, Hartford, New Orleans, New York, Philadelphia, and San Francisco."
+institution: "Catholic Research Resources Alliance (CRRA)"
+institution_type: "NULL"
+primary_contact: "Dr. Patricia Lawton"
+size: "NULL"
+start_range: "1880"
+summary: "The Catholic Research Resources Alliance (CRRA) and its digitizing partners will digitize significant Catholic newspapers from the European immigration years, 1880-1919. Local papers include diocesan newspapers from Boston, Chicago, Hartford, New Orleans, New York, Philadelphia, and San Francisco; the national perspective is represented by the only known national Catholic paper of the period, Our Sunday Visitor. This one year project (Feb. 1, 2016 - Jan. 31, 2017) will create a publicly accessible Catholic newspapers archive. Scholars are keenly aware of the importance of primary Catholic sources as the Church and the laity has helped shape the American experience, influencing our systems of education, social justice, immigration, and more. The significance to scholars of American social, economic, and religious history is the ability to access and fully exploit these hidden collections which are infrequently held, provide no indexes to the content and exist in analog formats."
+hc_id: "17579091"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "CRRA / University of Notre Dame"
+p2_name:  "Dr. Jennifer"
+p2_institution:  "CRRA Executive Director"
+p3_name:  "Dr."
+p3_institution:  "NULL"
+material_string: "<li>184450 Serials</li>"
+collaborating_institution:  "Boston College Libraries; Marquette University Libraries; University of Notre Dame Hesburgh Libraries; Archdiocese of Hartford; St. Thomas Seminary; Catholic Transcript (Publisher); Archdiocese of New Orleans; Clarion Herald (Publisher); Archdiocese of New York; University of San Francisco Libraries; Philadelphia Archdiocesan Historical Research Center (PAHRC)"
+grant_amount:  "$400,885"
+material_description:  "U.S. Catholic newspapers during the period of European immigration (1880-1919) are the source materials for this digitization project. Eight papers have been chosen for digitization including seven from major US cities (Boston, Hartford, New Orleans, New York, Philadelphia, and San Francisco) and one national paper, Our Sunday Visitor (OSV), the only known national Catholic paper from the period. OSV is included to give scholar's the opportunity to compare national and local perspectives on key issues including but not limited to class formation, adaption of new environments, location services, charitable work, social justice, and the growth of schools, orphanages, and hospitals. They allow us to trace (over a period of 40 years) the assimilation, or not, of immigrants into the larger society. \n\n\n\nSource material is provided by CRRA's digitization partners, comprised of largely diocesan archives and publishers from which the paper emanated and by which the papers have been archived. Source providers also include university libraries that have acquired the papers as part of their collection development. The full list of partners is here: http://www.catholicresearch.net/cms/index.php/crra-groups/catholic-newspapers-task-force/crra-digitizing-partners/\n\n\n\nProvenance of the papers is generally of two types a) the paper was founded by the laity and later, the Bishop assumed ownership as publisher or b) as in the case of the Boston Pilot, a Bishop founded the paper, transferred publication to laity, and at a later date, again, the Bishop became the publisher. Papers today are owned by the Bishops.\"‹\n\n\n\nThe papers cover news of the Catholic community - both officials and the laity, men, women, and children living in the community at the time. These papers were intended for all manner of communication between and among the Church and the people with coverage of persons, groups, and events, for communicating with other communities caring to read them."
 ---
-
-

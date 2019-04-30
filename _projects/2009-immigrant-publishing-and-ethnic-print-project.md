@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Immigrant Publishing and Ethnic Print Project
+title: "Immigrant Publishing and Ethnic Print Project"
+year: 2009
+end_range: 2000
+formats: "NULL"
+geographic_extant: "The majority of these materials were published in the United States."
+institution: "Immigration History Research Center"
+institution_type: "NULL"
+primary_contact: "Elizabeth Haven Hawley"
+size: "1200 linear feet"
+start_range: "1910"
+summary: "The proposed project contains materials printed 1910-2000 by 20th-century immigrants to the United States and international publications dealing with US immigration. Most materials date from 1920 to 1970 and represent published output by groups from Southern, Central, and Eastern Europe (including post-World War II displaced persons), Finland, and the Near East. These areas are core strengths of the IHRC’s collections, which also include archival and published materials from late 20th-century refugee groups and immigrants from Africa, Southeast Asia, and former Soviet territories. The IHRC has extensive print donated by individuals and community organizations to supplement and expand the Centers’s collections of immigration history monographs, ethnic newspapers, serials, kalendars, and jubilee albums. The Immigrant Publishing and Ethnic Print Project has been developed to group together primarily monographs and rare serials for which there is no researcher access. The project encompasses nearly 350 distinct units of materials in languages from Albanian to Yiddish, representing one-time and ongoing donations of materials from scholars, individuals, ethnic libraries and other community sources. Many groups of print are related to IHRC archival donations, but retention decisions have not yet been made for this print."
+hc_id: "508"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Immigration History Research Center"
+address2:  "311 Elmer L. Andersen Library"
+city:  "Minneapolis"
+state:  "MN"
+zip: "55455"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

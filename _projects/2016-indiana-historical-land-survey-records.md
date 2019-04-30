@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Indiana Historical Land Survey Records
+title: "Indiana Historical Land Survey Records"
+year: 2016
+end_range: 1925
+formats: "NULL"
+geographic_extant: "The field notes and plats cover the entire state of Indiana. Notes and plats refer to geographic regions like Indian Reserves, Treaty Lands, Grant Lands, Donation and Swamp Lands."
+institution: "Indiana Geographic Information Council, Inc."
+institution_type: "NULL"
+primary_contact: "Mr. Philip S. Worrall"
+size: "NULL"
+start_range: "1773"
+summary: "The Indiana Historical Land Survey Records Project will last 36 months (or three years). The collaboration between the Indiana Geographic Information Council, Indiana Archives and Records Administration, and the Indiana Geological Survey will provide the tools to make the project a success. The Indiana Historical Land Survey Records consist of Original Field Survey Books/Plats, Federal, State and County Transcribed versions of the notes/plats and associated documents (1773-1925). These records form Indiana's Public Land Survey System. Records will be scanned, files named with a meaningful names, metadata created and then linked to a Township/Range layer on IndianaMap (a web map viewer). Significance for scholarship, once completed, is that files from different time periods related by geographic location will be easy to access providing greater research capabilities. Click on a map Township/Range layer and hyperlinks for all associated records will appear."
+hc_id: "22271512"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Indiana Geographic Information Council, Inc."
+p2_name:  "Mr. JAMES CORRIDAN"
+p2_institution:  "Indiana Archives and Records Administration"
+p3_name:  "Mr. Richard Hill"
+p3_institution:  "Indiana Geological Survey, Indiana University"
+material_string: "<li>142325 Mixed Archival Collections</li>"
+collaborating_institution:  "Indiana Geographic Information Council, Inc.; Indiana Archives and Record Administration; Indiana Geological Survey"
+grant_amount:  "$500,000"
+material_description:  "The Land Record, field notes and plats, are nominated for digitization The field notes are a surveyor's written description of the land and the measurements that define the Public Land Survey System (PLSS). The plat maps were the surveyor's graphic description of the land, and when completed, allowed the land to be sold off in parcels. Surveyors provided a wealth of information as they traveled and described the land, trees, water, weather, swamps, and pigeon roosts in their notes. Provenance is maintain by the file naming convention created for the field notes and plat scans. The file name allows one to find the source document. The file name also helps determine the records origin, geography, chronology, record group and series. The notes and plats contain a rich history of subjects, locations, and people. Researches could find information on George Rogers Clark, Clark's Grant, Tippecanoe Battlefield, Government Land Offices, Wabash and Eric Canals. There are Four Types of Land Survey Field Notes/Plats: 1. Original Field Survey Notes/Plats [Original hand written Survey Field Notes written by Surveyors in the field (1770s-1900), Source State Archives]; 2. Federal Notes/Plats [Transcribed Field Notes by the Government Land Office, U.S Surveyor General (1842), Source National Archives]; 3. State Notes/Plats [Transcribed by the Government Land Office (1849), Source Indiana State Archives]; and 4. County Notes/Plats [Transcribed by the IN State Auditor (1861), Source Indiana County Surveyor's Offices]. Each of the datasets were created in different years by different people so they could be distributed to the Federal, State, and local governments. The Original Notes are very difficult to read and were difficult to transcribe. It has always been assumed that all four versions of the documents were exactly the same but there are some discrepancies."
 ---
-
-

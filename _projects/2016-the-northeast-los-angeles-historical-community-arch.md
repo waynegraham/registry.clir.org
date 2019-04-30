@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Northeast Los Angeles Historical Community Archive: A multi-perspectival and multimedia repository of daily life, political activism, and cultural expression within a significant twentieth century American urban community during an era of rapid demographic and social change.
+title: "The Northeast Los Angeles Historical Community Archive: A multi-perspectival and multimedia repository of daily life, political activism, and cultural expression within a significant twentieth century American urban community during an era of rapid demographic and social change."
+year: 2016
+end_range: 1999
+formats: "NULL"
+geographic_extant: "Our focus is on Northeast Los Angeles, a working class, urban district long on the cutting edge of transformations other American cities would also experience: post-World War II \"white flight,\" rise of Latino and Asian American urban culture, deindustrialization, and, more recently, gentrification and contestation over revalued urban space."
+institution: "Occidental College"
+institution_type: "NULL"
+primary_contact: "Dr. Jeremiah Axelrod"
+size: "NULL"
+start_range: "1906"
+summary: "Occidental College and its partners propose to digitize an interrelated cross section of an urban community's archival record -- neighborhood newspapers, photographic collections, and school publications -- as part of a larger long-term interdisciplinary and interinstitutional scholarly research project focusing on social and demographic changes within the nation's second largest metropolis. These documents uniquely illuminate the social, cultural, and intellectual history of a working class, ethnically diverse urban district experiencing transformations that would eventually affect many other American cities during the twentieth century. In the process, we seek not only to make previously inaccessible documents available to scholars and the public for the first time through digitization, but to transform the social value of archival materials more generally by modeling innovative techniques of computational historiography that promise to advance scholarship in the Humanities and Social Sciences by identifying trends, patterns of association, and political activism within previously neglected communities."
+hc_id: "21528827"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Occidental College"
+p2_name:  "Ms. Dale Ann Stieber"
+p2_institution:  "Occidental College"
+p3_name:  "Dr. Daniel Chamberlain"
+p3_institution:  "Occidental College"
+material_string: "<li>369000 newspapers</li>"
+collaborating_institution:  "Eagle Rock Valley Historical Society; Highland Park Heritage Trust"
+grant_amount:  "$453,041"
+material_description:  "We will digitize three bodies of twentieth-century public media produced in, and uniquely reflective of, the diverse Northeastern section of Los Angeles. Together, they enable studies of demographic change, real estate development, commercial activity, transportation, education, arts, culture, political activism, and global events as seen at the neighborhood, street corner level. These previously inaccessible archival materials will lay the foundation for scholarly and public research on American urban change, as well as provide a source base for extensive computationally-enhanced research. 1) Community, high school, and college newspapers published by the Northeast Newspapers Company, Eagle Rock and Franklin High Schools, and Occidental College. These newspapers reflect the demographic changes and intellectual history of the important and representative urban neighborhood they covered, and their digitization will enable research on Northeast L.A.'s social, political, and cultural history. The papers are held in various date ranges in physical and microfilm by the Eagle Rock Valley Historical Society, Highland Park Heritage Trust, Occidental, and Franklin High School. 2) Friezer Photography collection of photographic negatives produced by Joe and Henk Friezer over 45 years (1956 to 1999). These photographs provide visual evidence about the urban region and can be correlated with the stories and imagery in the community newspapers. The negative envelopes are dated, filed chronologically, and represent approximately 16,000 photo shoot assignments in the L.A. area documenting the full spectrum of community life -- political, business, schools, sports and social events. Approximately 20-30 images from each month over 45 years will be selected to form a comprehensive archive of 17,000 images. 3) High school yearbooks published by students at Eagle Rock and Franklin High Schools. These provide photographs tied to names and ages and also provide a window into early social networks that may manifest themselves in later years."
 ---
-
-

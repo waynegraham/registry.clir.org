@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Locus Photo & Ephemera Digitization Project
+title: "Locus Photo & Ephemera Digitization Project"
+year: 2017
+end_range: 2017
+formats: "NULL"
+geographic_extant: "The collection contains letters sent from all around the world and photos taken during international science fiction conventions. A partial list of known countries represented includes: England, France, Russia, Spain, Germany, China, Japan, Australia, Mexico, Cuba, Canada, Brazil, India, Sri Lanka, Iceland, Morocco, and Barbados."
+institution: "Locus Science Fiction Foundation"
+institution_type: "NULL"
+primary_contact: "Ms. Liza Trombi"
+size: "NULL"
+start_range: "1954"
+summary: "The project comprises digitizing, accessioning, and cataloging the Locus Photo & Ephemera Collection, with corresponding metadata for each digital file. Images will be hosted online, on dedicated archive pages available to the public through an LSFF website. With approximately 35,000 pieces (35 linear feet) -- 30,000 photos and 5,000 letters -- the collection offers a visual historical record of the genre’s growth over the last 60 years, emphasizing the lives of the authors, editors, and publishers of the works themselves. In a time when the study of these fields is burgeoning in academia, these otherwise unavailable photographs will provide a more complete understanding of the history of speculative fiction, and the individuals who created it -- lauded and respected authors and editors such as Isaac Asimov, Ian & Betty Ballantine, Octavia E. Butler, Samuel R. Delany, Philip K. Dick, Ursula K. Le Guin, Joanna Russ, Gene Wolfe, and more."
+hc_id: "25729219"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Locus Science Fiction Foundation"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>30 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$170,722"
+material_description:  "The collection reflects the history of 60 years of the science fiction and fantasy publishing industry and contains an estimated 35,000 items (35 linear feet). It primarily comprises thousands of photographs taken from 1954 to 2017. Representing approximately 4,000 authors, the collection includes notable and acclaimed speculative fiction authors Asimov, Bradbury, Butler, Dick, Gaiman, Heinlein, Herbert, Le Guin, McCaffrey, and thousands more. There are also correspondence, newsletters, original manuscripts, and artwork from fiction authors, editors, publishers, literary agents, artists, and conference organizers. The photos and letters originated in the personal collection of Charles N. Brown, a noted SF reader, fan, editor, and scholar, and were expanded in the course of running Locus magazine. More photos were submitted to the magazine by professional and amateur photographers. The photographs also cover major science fiction conventions and conferences between 1950 and 2017, including the World Science Fiction Convention, held annually by the World SF Society; the Nebula Awards Conference, the annual Science Fiction Writers of America conference; the World Fantasy Convention; ICFA, the International Association for the Fantastic in the Arts annual academic conference; and other major awards ceremonies. Most of the photographs have information on subject, date, and photographer written on the back, which will be used alongside research and investigation to create metadata. Letters are stored in their original envelopes when available, and are often dated within the body of the text. There are also negatives, handwritten notes, sketches, and other materials collected over the decades."
 ---
-
-

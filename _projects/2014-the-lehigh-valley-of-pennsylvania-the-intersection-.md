@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Lehigh Valley of Pennsylvania: The Intersection of Politics, Industry, Culture and the Environment
+title: "The Lehigh Valley of Pennsylvania: The Intersection of Politics, Industry, Culture and the Environment"
+year: 2014
+end_range: 2013
+formats: "NULL"
+geographic_extant: "The Lehigh Valley and Delaware River Basin of Pennsylvania"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Christine Roysdon"
+size: "917 linear feet"
+start_range: "1899"
+summary: "The Lehigh Valley has long been considered a microcosm of United States growth and evolution, whether in the form of industrial technology such as was produced by Bethlehem Steel Corporation, or by legislation regarding immigration crafted by politicians from the region. Cold war, war and anti-war efforts of the 20th century are represented amongst these diverse but interconnected collections which address a variety of public affairs and environmental topics. This two-year project will catalog the archival collections of: Bethlehem Steel; Godfrey Daniels; activist Nancy Shukaitis; LEPOCO: Lehigh Pocono Committee of Concern; the South Bethlehem Historical Society; as well as Congressmen Donald Ritter, Frederick Rooney, and Francis Walter."
+hc_id: "10932920"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

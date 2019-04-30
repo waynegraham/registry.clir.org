@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: In Their Own Words: The Hidden Recordings of Folk Artists' Interviews From the Rosenak Collection at the American Folk Art Museum Archives
+title: "In Their Own Words: The Hidden Recordings of Folk Artists' Interviews From the Rosenak Collection at the American Folk Art Museum Archives"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "American Folk Art Museum"
+institution_type: "NULL"
+primary_contact: "Ms. Mimi Lester"
+size: "NULL"
+start_range: "NULL"
+summary: "The American Folk Art Museum seeks to digitize the audio cassettes of the Charles B. and Janice M. Rosenak Collection. The Rosenaks were pioneers of folk art. From 1967-1988 they toured the country to document self-taught artists—primarily African American and Native American—whose work was unknown to a wider audience. They recorded interviews with the artists and photographed them in their studios and art environments throughout the Southeast, Appalachia, and New Mexico. The artists they documented comprise some of the most iconic artists in the museum’s collection: Howard Finster, Sam Doyle, William Dawson, Lee Goodie, Malcah Zeldis, Leroy Felipe Archuleta and more. Primary source materials for these artists are rare; all are deceased today. The audio collection consists of 30 cassette tapes with 26 artists speaking about their work in their own words. These tapes have not been played since coming into the collection of the Museum in 1988."
+hc_id: "25748710"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "American Folk Art Museum"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "42 recorded hours"
+collaborating_institution:  "NULL"
+grant_amount:  "$10,923"
+material_description:  "The Charles B. and Janice M. Rosenak Collection is comprised of photography of folk artists and their artwork, as well as oral history interviews with some of these artists. The material spans roughly from 1967 to 1988, but the bulk of it is from 1983 to 1988. When the collection was donated in 1988, a card catalog was created for every artist, which contains an item level inventory for each artist. These records were not duplicated in this finding aid, but they may be accessed on site. The collection is divided into two series: Artist Photography Files and Oral History Interviews. They both are arranged alphabetically by the artist’s last name. Series 1: Artist Photography Files, most of the folders are named artists, but some are subject files. In these cases, the artists who are included in the folder are also listed in the finding aid. Series I items are available for research. Series II is the collection nominated for digitization. This series contains audiocassettes of interviews that the Rosenaks conducted with various artists, as well as transcripts of some of the conversations. There are two copies of each of the audiocassettes: an original and a duplicate copy. The collection measures 2.5 cubic feet, 61 total audiocassettes that contain interviews of 26 artists according to an inventory, which was conducted in 1989. The accuracy of the inventory is unverified. Audiocassettes cannot be played at this time. Though the cassettes are in good condition, AFAM has restricted them and prioritized them for digitization, with awareness that the tape will soon degrade. Their rare and valuable content make the collection an excellent candidate for high-touch, high-quality workflow provided by NEDCC. The finding aid can be viewed online here: http://folkartmuseum.libraryhost.com/repositories/2/resources/5"
 ---
-
-

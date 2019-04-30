@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Ancient Ohio Valley - The Grand Medicine Society
+title: "Ancient Ohio Valley - The Grand Medicine Society"
+year: 2012
+end_range: 1800
+formats: "NULL"
+geographic_extant: "Southern Ohio and parts of Appalachia that stretch from New York to Alabama."
+institution: "Center for Appalachian Philanthropy"
+institution_type: "NULL"
+primary_contact: "Mandilyn Hart"
+size: "41 boxes, 25 linear feet"
+start_range: "1500"
+summary: "The Ohio River Valley Heritage Collection contains numerous research volumes, including thousands of artistic renderings of objects which subsequently were lost or destroyed, and archeological artifacts of the early inhabitants of the Ohio Valley and other parts of the Appalachian region. The research began on petroglyph sites in Ohio, comparing and contrasting them with petroglyph sites in New York, West Virginia, Kentucky, Tennessee, and Western Pennsylvania. Beyond the petroglyph sites, the materials document burial mounds and other important historical sites with petroglyphs and artifacts. Richard Barnhouse, a talented artist, rendered thousands of drawings of his observations of aspects of these sites, many of which were on private lands and through subsequent development were destroyed or otherwise lost. Mr. Barnhouse also wrote narratives that detail his observations and are included in the materials. All of Mr. Barnhouse's materials are currently held in the possession AppaPhil. The Ohio River Valley Heritage Collection also includes archeological artifacts from about 15000 BCE until 1800 CE. These materials consist of flints, spears, knives, canoes, stones eggs, tools, pottery vessels, jewelry, ornaments, and clothing. These materials are available on in situ on public and private lands, in a local museum, and in private collections of members of a local cultural society. Taken together, the materials reveal the lost stories of those who inhabited the region across about 17,000 years. They compare and contrast time periods and even provide continuity into what appears to be the lost code of these ancient civilizations."
+hc_id: "998"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "513 Second Street"
+address2:  "PO Box 643"
+city:  "Portsmouth"
+state:  "OH"
+zip: "45662"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

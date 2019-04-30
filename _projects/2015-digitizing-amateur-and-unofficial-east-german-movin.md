@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing Amateur and Unofficial East German Moving Images in the United States: Opening up a Virtual Cold War Conversation
+title: "Digitizing Amateur and Unofficial East German Moving Images in the United States: Opening up a Virtual Cold War Conversation"
+year: 2015
+end_range: 1990
+formats: "NULL"
+geographic_extant: "The former state of East Germany, known as the German Democratic Republic, or GDR, as well as certain Eastern Bloc states where GDR citizens traveled, such as Czechoslovakia, Latvia, Lithuania, and Hungary."
+institution: "The Wende Musuem of the Cold War, Inc."
+institution_type: "NULL"
+primary_contact: "Ms. Kate Dollenmayer"
+size: "NULL"
+start_range: "1939"
+summary: "The Wende Museum project proposes to complete digitization of its collection of East German amateur and unofficial audiovisual media (begun through a 2012 IMLS grant), in order to make these works known and broadly accessible, and to connect them to complementary collections domestically and internationally. Many such cultural records of the Cold War era that document life behind the Iron Curtain became scattered during the widespread political upheavals of 1989-1991, and today remain hidden to scholars. Digitization and online exposure will bring these endangered artifacts of East German life to light. Making this collection, the only one of its kind, widely available through the Internet Archive, will place these materials in conversation with diverse yet related media types from other cultures, helping create new opportunities for transnational collaborations across a wide variety of research areas including film and media studies, cultural and political history and historiography, oral history, and art."
+hc_id: "17563596"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "The Wende Museum"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>269 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$143,308"
+material_description:  "The Wende Museum's collection of amateur and unofficial audiovisual media from the German Democratic Republic (the former communist state of East Germany, hereafter GDR) comprises films and videos produced during nearly the entire span of the country's existence from 1949-1990 that afford rare and valuable insight into individuals' lived experience and self-representation during the Cold War era. These include 8mm and Super 8mm home movies from across the GDR (notable among them a group of 32 films made by one family over the course of thirty years) and interviews with a wide variety of GDR citizens recorded on analog videotape. Bill Meyers, an American teacher and independent researcher who spoke fluent German, conducted these uncommonly candid and informal conversations on research trips to the GDR between 1986 and 1989, during which time he spoke with artists, writers, musicians, cafÃ© patrons, local officials, visitors to an American Indian museum, communist youth group members, and children, among others. Taken together, these media form a cohesive set of records that provide multiple perspectives on personal lived experience in the GDR: self-created images of travels, celebrations, socialist holidays, and everyday life, and the ways people represented themselves in speaking with an outsider."
 ---
-
-

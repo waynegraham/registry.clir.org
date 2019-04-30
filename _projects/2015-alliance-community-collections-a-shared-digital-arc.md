@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Alliance Community Collections, A Shared Digital Archive of Chicago's Ethnic Communities
+title: "Alliance Community Collections, A Shared Digital Archive of Chicago's Ethnic Communities"
+year: 2015
+end_range: 2015
+formats: "NULL"
+geographic_extant: "Chicago and its suburbs are the geographic source for the items. However, many items at member organizations were handed down through generations, originating from countries such as China, Germany and Lithuania. The geographical beginnings of these artifacts tells the story of Chicago's growth, people, and what was important to them."
+institution: "Chicago Cultural Alliance"
+institution_type: "NULL"
+primary_contact: "Ms. Candice Raisinghani"
+size: "NULL"
+start_range: "1860"
+summary: "The Chicago Cultural Alliance (CCA) will support and assist in the item level cataloging of 2700 items at a minimum of 3 member sites over the next 3 years. This project will make available a portion of CCA's member collections from DANK Haus German American Cultural Center, the Chinese American Museum of Chicago, and the Balzekas Museum of Lithuanian Culture who embody Chicago's history and identity from the 1850s to present. Members will present their holdings of photographs, papers, material goods, and both social and fraternal organizational records on a shared website platform known as Alliance Community Collections. The site's virtual shared space will be a resource to publicly express the member's immigrant and migrant experiences to Chicago and the life of the communities that remained. This wholly unique site will allow for scholarly discoverability of these primary sources and lend to a new story of Chicago's history and people."
+hc_id: "17653105"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Chicago Cultural Alliance"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>1200 Photographs</li>"
+collaborating_institution:  "DANK Haus German American Cultural Center; Chinese American Museum of Chicago; Balzekas Museum of Lithuanian Culture"
+grant_amount:  "$132,622"
+material_description:  "Chicago is known as a city of neighborhoods with distinct communities. CCA is a reflection of that fact in its formation and make-up; currently, membership is capped at 35 organizations and serves over 25 Chicago area ethnic groups. CCA has conducted 19 full collection and item level assessments of 13 Member collections in collaboration with established partners such as The Field Museum and Chicago History Museum to assist CCA members with skill building and collections training. The collections nominated for digitization come from three of these local communities and include the unique holdings of the social groups and individuals who tell the story of Chicago and its people, and therefore contributions to national history. These materials from the Balzekas Museum of Lithuanian Culture (BMLC), the Chinese American Museum of Chicago (CAMOC) and DANK Haus German American Cultural Center (DANK) are one-of-a-kind photographs, organizational records from lost social clubs, hidden artwork from local artists, and artifacts, including clothing, that expressed ethnic identity, immigration, and engagement in a multi-cultural environment. All of the participant's holdings are an untapped resource for scholars to fill in hidden histories of Chicago, immigration in the United States and to Chicago's neighborhoods. \n\nToday, long-since-closed German and German-American social groups have made DANK a repository of their records, programs and photo albums. BMLC has a robust collection of family portraits and social activities donated by the community from 1860-1920 and a strong history of advocating for Lithuanian Independence in the 20th Century. CAMOC has a collection that starts primarily around the 1910s with west-coast Chinese and Chinese-American migration to Chicago and the permanent collection surges with artifacts from the mid-20th Century that appear to be the result of the repeal of the Chinese Exclusion Act in 1943."
 ---
-
-

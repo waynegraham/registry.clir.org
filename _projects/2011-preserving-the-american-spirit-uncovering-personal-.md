@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Preserving the American Spirit: Uncovering Personal Collections of World War II
+title: "Preserving the American Spirit: Uncovering Personal Collections of World War II"
+year: 2011
+end_range: 1955
+formats: "NULL"
+geographic_extant: "Nearly every major continent including North and South America, Asia, Europe, Africa, as well as Australia and many Pacific islands"
+institution: "The National World War II Museum"
+institution_type: "NULL"
+primary_contact: "Katherine Doss"
+size: "120 cubic feet, 120 linear feet"
+start_range: "1935"
+summary: "From the Museum's opening in 2000 until a full-time curatorial staff was hired in 2008, the Collections Department was understaffed and unable to properly process a rapidly growing archive. To circumvent a backlog, new acquisitions were processed hastily and often by museum volunteers. For example, single database records were created for entire accessions often numbering in the hundreds rather than for individual records for items or finding aids. Today, Museum collections include an estimated 31,000 artifacts and 194 linear feet of archival materials condensed into less than adequate accession records. The previous system, in use from 2000-2007, has diminished staff and research access to the collections by severely limiting the ability to search and study Museum holdings. This project will focus on effectively cataloging all predominantly archival collections acquired from 2000-2007. Materials to be cataloged include photographs, correspondence, scrapbooks, maps, military documents, posters, original artwork and booklets from WWII. These items capture the American experience of WWII from the viewpoint of its participants, from the battlefront to the home front. They especially cover the period of the early 1940s and encompass nearly every inhabited continent. Large collections of letters, military documents, etc. will be described within a finding aid at the folder level, while significant archival pieces will be cataloged individually along with all photographs."
+hc_id: "765"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "945 Magazine Street"
+address2:  "NULL"
+city:  "New Orleans"
+state:  "LA"
+zip: "70130"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

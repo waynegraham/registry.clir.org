@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Jack Friend Collection
+title: "Jack Friend Collection"
+year: 2011
+end_range: 2010
+formats: "NULL"
+geographic_extant: "World History with a Heavy emphasis on US Civil War History."
+institution: "University of South Alabama"
+institution_type: "NULL"
+primary_contact: "Beverly Cooper"
+size: "122 cubic feet"
+start_range: "1850"
+summary: "This project focuses on the following: Theory of Warfare; Military History:Ancient World to Modern Day (Iraq War); Biographies of great leaders and generals; Local History; Archaeology and Underwater Archaeology; AHC Documents and grants; and Geographic Elevations of Mobile Bay."
+hc_id: "818"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "111 S. Royal St"
+address2:  "NULL"
+city:  "Mobile"
+state:  "AL"
+zip: "36602"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

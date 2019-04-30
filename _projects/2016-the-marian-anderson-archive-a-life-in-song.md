@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Marian Anderson Archive: A Life in Song
+title: "The Marian Anderson Archive: A Life in Song"
+year: 2016
+end_range: 1985
+formats: "NULL"
+geographic_extant: "An artist of international repute, Marian Anderson gave concerts and recitals on five continents (Asia, Africa, North and South America, Europe and Australia) during her six decade long career. Thus the materials selected for digitization enable a researcher to trace Anderson's performing career from the local to around the globe."
+institution: "The University of Pennsylvania Libraries"
+institution_type: "NULL"
+primary_contact: "Mr. Richard Griscom"
+size: "NULL"
+start_range: "1916"
+summary: "The Marian Anderson Papers rank among the top five most frequently consulted collections in the Kislak Center for Special Collections, Rare Books and Manuscripts. Recognized as one of the 20th centuries' greatest singers, Anderson, an African American, was born in Philadelphia in 1897. Because of her race Anderson faced blind prejudice, but she persevered. From the age of twenty until her retirement in 1965, she was in constant demand as a performer. We propose to digitize five series within her fully processed archive: 200 hours of sound recordings, 33 interviews, including 31 hours of audio recordings and transcriptions, 1500 recital programs, 146 diaries, and 30 scrapbooks. The materials selected for digitization offer researchers the ability to examine Anderson's career through the dual purview of cultural geography and her extensive repertoire (programs); gain deeper understanding of her life (interviews and diaries); and marvel at her reception and fame (scrapbooks)."
+hc_id: "22365159"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Pennyslvania"
+p2_name:  "Mr. David McKnight"
+p2_institution:  "Penn Libraries"
+p3_name:  "Ms. Leona Joseph"
+p3_institution:  "University of Pennsylvania"
+material_string: "<li>1500 Ephemera</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$110,536"
+material_description:  "In choosing the five series for digitization, the Curators have selected materials of high research value which build on previous Penn Libraries' Marian Anderson digital initiatives, like the digitization of the 4,464 Anderson Photographs (Ms. Coll. 198) which are accessible freely online. Content identified to be digitized include her non-commercial audio recordings, among which are Anderson's home musical recordings and her interviews with Harry Taubman recorded in 1955-56. The interviews served as the basis for her autobiography My Lord, What a Morning, which Taubman ghost wrote for Ms. Anderson. However, the typed transcripts provide additional insight into the singer's life and career. In addition, we will digitize the original audio interviews to accompany the transcriptions.. Anderson's comprehensive collection of musical programs illustrates the geographical and musical range of her 1200 plus performances between 1916 and 1965. In addition the audio tapes include four decades of home recordings which have never been available to the public. Her programs record her repertoire, the places, and the venues where she performed. While spending much of her professional life on tour, her diaries and notebooks document her daily life as a concert singer and the residual joys and tribulations of touring. Of particular note is the fact that in her diaries, Anderson, who loved to cook, recorded a number of recipes in her diaries which will attract, certainly, culinary interest. Finally, her scrapbooks, which begin in the 1930s document in detail many of her performances thus scholars can measure the her reception and the extent of her fame. With these materials in hand, one can create an unrivaled daily chronicle of Marian Anderson's life."
 ---
-
-

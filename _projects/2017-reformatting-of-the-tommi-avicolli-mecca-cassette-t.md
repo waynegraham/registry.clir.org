@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Reformatting of the Tommi Avicolli Mecca cassette tapes on LGBTQ history
+title: "Reformatting of the Tommi Avicolli Mecca cassette tapes on LGBTQ history"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "William Way LGBT Community Center"
+institution_type: "NULL"
+primary_contact: "Mr. John Anderies"
+size: "NULL"
+start_range: "NULL"
+summary: "The material proposed for this project is made up of 119 compact cassette tapes from the Tommi Avicolli Mecca collection, 1967-1992, Ms. Coll. 25, dated 1967 to 1988. This project will contribute to teaching, scholarship, and public discussion about national, regional, and local LGBT history, politics, and culture from the 1950s to the 1980s. The tapes, which are imperilled because of their age, format, and historic storage environment, will be transferred to digital files by the Northeast Document Conservation Center, cataloged in house at the John J. Wilcox, Jr. Archives at the William Way LGBT Community Center, and made public through Collective Access, our Digital Asset Management System."
+hc_id: "25356343"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "John J. Wilcox, Jr. Archives, William Way LGBT Community Center"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "119 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$24,650"
+material_description:  "The material proposed for this project is made up of 119 compact cassette tapes from the Tommi Avicolli Mecca collection, 1967-1992, Ms. Coll. 25. The cassettes are dated 1967 to 1988 and were part of a donation of material the Gay and Lesbian Archives of Philadelphia of the Gay Community Center of Philadelphia (now the John J. Wilcox, Jr. Archives, William Way LGBT Community Center) from the Philadelphia activist Tommi Avicolli Mecca, in 1991. Like the rest of the collection, the cassettes were assembled by Avicolli Mecca in one of a number of ways: 1) from Avicolli Mecca's own participation as a member of an organization or as an attendee at an event; 2) from individuals and organizations solicited by him for inclusion in the collection; 3) as part of his work as a journalist for the Philadelphia Gay News and other media outlets. The cassettes are arranged chronologically by date, and in alphabetical order by title for undated items. They are currently housed in two flat Hollinger boxes. Ultimately they will be stored in our Russ Bassett CT48-7-8 Pro-Media Cabinet which we recently received as part of an NEH Preservation Assistance Grant for Smaller Institutions. Brief descriptions have been created from the usually handwritten information on the cassette cases and/or the tapes themselves. This information is included in the online finding aid for the collection available here: http://waygay40.org/s/MsColl25.pdf. Because of the fragile nature of the tapes, we do not currently allow direct access to them. Thus they have not been played in several years."
 ---
-
-

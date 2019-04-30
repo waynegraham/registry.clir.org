@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: A Pilot Project of the Society of Architectural Historians to Digitize, Share and House At Risk 35mm Slide Collections of Architectural Historians and Built Environment Professionals for Scholarly Research, Teaching and Public Access
+title: "A Pilot Project of the Society of Architectural Historians to Digitize, Share and House At Risk 35mm Slide Collections of Architectural Historians and Built Environment Professionals for Scholarly Research, Teaching and Public Access"
+year: 2015
+end_range: 2005
+formats: "NULL"
+geographic_extant: "The geographic scope of the collections span North America, Western Europe, Asia, parts of the Middle East and Guatemala. There is a concentration of work in the Eastern US, Midwest and California."
+institution: "Society of Architectural Historians (SAH)"
+institution_type: "NULL"
+primary_contact: "Ms. Pauline Saliga"
+size: "NULL"
+start_range: "1962"
+summary: "This two-year pilot project is a natural outgrowth of SAH's three innovative online educational resources and the realization of a project to preserve and share endangered, original 35 mm slide collections created by 20th century scholars, preservationists, design practitioners and photographers of the built environment. SAH recognizes the importance of this unique 75-year period of intellectual history that documents the built environment and aims to facilitate its preservation, digitization, and access by partnering with libraries and other institutions including Harvard Graduate School of Design Information Resources and University of California Santa Barbara Image Resource Center that have the technical and physical capacity to process and house them. The body of work in these collections, which includes lost and radically changed buildings and landscapes, will enhance both scholarly and public knowledge through images that were taken by a critical eye and present an informed perspective on our architectural and cultural heritage."
+hc_id: "17596393"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Society of Architectural Historians"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>50000 35 mm color slides</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$243,624"
+material_description:  "The materials nominated are representative selections (6,000 -10,000 each) from 35 mm slide collections of six highly accomplished and respected professionals working in the built environment: architectural historians, a photographer and an interior designer. All are longstanding members of SAH and have gifted their collections, or parts of them to SAH, or to our partner liaisons with a desire to share them with others to add to the body of knowledge in these fields. Each image contributor spent a significant portion of their career traveling and documenting architecture, the natural environment and our cultural history, which they used in their academic teaching, research and publications. Through their lenses, they have captured images of buildings and landscapes at unique moments in time, of some that no longer exist, due to natural and man-made destruction; they have captured the work of architects who are now deceased, and various styles of architecture, all with an eye trained on preserving and detailing history. \n\nA detailed description of the work of each of the Collectors can be found in the Representative Sample pdf uploaded to this application. The Collections include: \n\nJean France Collection, Retired Adjunct Associate Professor of Art History, University of Rochester, Rochester, NY; Architectural Historian and preservation consultant. \n\nDamie Stillman Collection, Retired Professor of Architectural History, University of Wisconsin Madison and University of Delaware. American Architecture Teaching Collection\n\nMirza Dickel Collection, (deceased). Acclaimed interior architect and designer in the Portland, OR metropolitan area with a focus on Modernism. \n\nMary Ellen Sigmond Collection, (deceased) Extensive images from world from world travels from World Heritage sites to vernacular architecture. \n\nDavid Gebhard Collection, (deceased) Professor of Architectural History, University of California Santa Barbara and founder of the Architecture and Design Collection at UCSB. \n\nNaomi Miller Collection, Professor Emerita, Boston University, Department of History, Art and Architecture."
 ---
-
-

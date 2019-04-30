@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Working for Freedom: Documenting Civil Rights Organizations
+title: "Working for Freedom: Documenting Civil Rights Organizations"
+year: 2008
+end_range: 2007
+formats: "NULL"
+geographic_extant: "The national focus of this project will document civil rights in Louisiana, Mississippi, and Georgia; New York and Illinois; and California."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Christopher Harter"
+size: "150 linear feet"
+start_range: "1873"
+summary: "The Amistad Research Center at Tulane University processed and cataloged nine collections of personal papers documenting Civil Rights era organizational history. The focus of this project was to provide access to branch and local chapter records of key Civil Rights organizations that are hidden within the personal papers of individuals who were participants or officers. Organizations represented include the Congress of Racial Equality (CORE), National Association for the Advancement of Colored People (NAACP), National Association of Human Rights Workers (NAHRW), Southern Christian Leadership Conference (SCLC), Student Nonviolent Coordinating Committee (SNCC), and the Urban League. The collections include the James Egert Allen Papers (1925-1974), Lloyd Davis Papers (1950-2007), Arnold DeMille Papers (1950-1993), John Wesley Dobbs Family Papers (1873-1993), Rose Carver Fishman Papers (1965-1968), James H. Hargett Papers (1918-2007), Ronnie M. Moore Papers (1960-1999), Marr McGee Family Papers (1951-1974) and the A.P. Tureaud Papers Addendum (1903-1970), with the bulk of the material dating 1950-1970. The processing of these collections will complement and expand access to the Center’s Civil Rights holdings. The formats of the materials include audiovisual items, correspondence, manuscripts of writings, minutes, photographs, publications, reports, sermons and speeches. All of these collections were previously unarranged with accessibility limited or non-existent for research."
+hc_id: "360"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Tilton Hall - Tulane University"
+address2:  "6823 St. Charles Ave."
+city:  "New Orleans"
+state:  "LA"
+zip: "70118"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$250,000"
+material_description:  "NULL"
 ---
-
-

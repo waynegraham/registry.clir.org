@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Rosalie Edge-Maurice Broun-Hawk Mountain Archives
+title: "Rosalie Edge-Maurice Broun-Hawk Mountain Archives"
+year: 2012
+end_range: 2011
+formats: "NULL"
+geographic_extant: "New York City to Philadelphia to Washington, DC, to Harrisburg, Pa. in scope and centered on Hawk Mountain located near Kempton, PA."
+institution: "Hawk Mountain Sanctuary"
+institution_type: "NULL"
+primary_contact: "Craig George"
+size: "55 boxes, 300 cubic feet, 35 linear feet, 8370 objects"
+start_range: "1932"
+summary: "Original manuscripts, letters, color slides, audio recordings, video recordings, some 3-dimensional objects such as pottery shards, maps, drawings, concept papers, charters, licenses, land titles all stemming from our founder, Rosalie Edge, and our first scientist and curator, Maurice Broun. Rosalie Edge was a fiery woman who in the 1930's took on state and national organizations as well as conservation groups such as National Association of Audubon Societies for not protecting hundreds of thousands of birds being blasted from the sky each migration. Single handedly, she protected Hawk Mountain and removed the shooters, and formed Hawk Mountain Sanctuary. She founded three National Parks, expanded Yosemite. Yet, she always claimed Hawk Mountain as her greatest achievement."
+hc_id: "1010"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1700 Hawk Mountain Rd."
+address2:  "NULL"
+city:  "Kempton"
+state:  "PA"
+zip: "19529-9379"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

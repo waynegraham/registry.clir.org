@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation
+title: "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation"
+year: 2009
+end_range: 1898
+formats: "NULL"
+geographic_extant: "The main geographic scope is Brooklyn, New York. Long Island and New York City are also included, given the geographic areas' intertwined histories."
+institution: "Brooklyn Historical Society"
+institution_type: "NULL"
+primary_contact: "Chela Weber"
+size: "300 linear feet, 2000 objects"
+start_range: "1834"
+summary: "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation comprises materials covering the period from 1834, when Brooklyn was first incorporated as a city, to its consolidation with New York City in 1898. Because Brooklyn's history is central to understanding 19th-century American history, these significant resources, once brought to light, hold the potential for scholars to place Brooklyn within its proper national and global context. Map collections consist of manuscript and printed street, political, topographical, demographic and transit maps, richly illustrative of Brooklyn's remarkable expansion in the 19th century, demonstrating the subdivision and conversion of farmland to a densely-populated city and the development of public transportation and urban planning. Archival materials include personal papers whose creators range from working class immigrants and Civil War foot soldiers to small business operators and captains of industry; business records from a variety of manufacturing, banking and transportation interests and municipal records documenting myriad infrastructure and cultural projects. Photographic materials include glass negatives and slides, tintypes, stereographic prints and daguerreotypes, all providing a powerful visual synonym for the history documented in the textual collections. When cataloged, these collections will be invaluable resources for serious scholars of American history."
+hc_id: "529"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "128 Pierrepont St."
+address2:  "NULL"
+city:  "Brooklyn"
+state:  "NY"
+zip: "11201"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$440,491"
+material_description:  "NULL"
 ---
-
-

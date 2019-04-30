@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Biodiversity Heritage Library Field Notes Project
+title: "Biodiversity Heritage Library Field Notes Project"
+year: 2015
+end_range: 2000
+formats: "NULL"
+geographic_extant: "Materials to be digitized have an international reach, and are known to cover North, Central, and South America, as well as the Caribbean, China, Indonesia, and the Arctic and Antarctic. Materials may provide additional coverage of Europe, Africa, Asia, and Australia/New Zealand."
+institution: "Smithsonian Institution"
+institution_type: "NULL"
+primary_contact: "Mr. Martin Kalfatovic"
+size: "NULL"
+start_range: "1815"
+summary: "The Smithsonian, Internet Archive, Missouri Botanical Garden Raven Library, American Museum of Natural History, Yale Peabody Museum, Harvard University Herbaria Botany Libraries, Harvard Museum of Comparative Zoology Mayr Library, UC Berkeley Museum of Vertebrate Zoology, New York Botanical Garden Mertz Library, and Field Museum, seek to increase accessibility to original scientific documentation through the digitization of entire collections of archival field notes. Currently, field notes from related persons and expeditions are scattered across institutions, inaccessible to any but the determined researcher. By enabling the complete, online collocation of collections, the Project will significantly improve research opportunities for scholars with interests as diverse as climate change, evolution, history of science, and women and minorities in science. The Project will coordinate work to digitize field notes, assign metadata, and publish the field notes online through the Biodiversity Heritage Library and Internet Archive, with an emphasis on quality, quantity, and closely related content."
+hc_id: "18603486"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Smithsonian Libraries"
+p2_name:  "Ms. Anne Van Camp"
+p2_institution:  "Smithsonian Institution Archives"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>460000 Mixed Archival Collections</li>"
+collaborating_institution:  "Missouri Botanical Garden Peter H. Raven Library; Internet Archive; American Museum of Natural History; Yale Peabody Museum; Harvard University Herbaria Botany Libraries; Harvard Museum of Comparative Zoology Mayr Library; UC Berkeley Museum of Vertebrate Zoology; New York Botanical Garden LuEsther T. Mertz Library; and the Field Museum"
+grant_amount:  "$491,713"
+material_description:  "Materials to be digitized include bound notebooks, loose field notes, unpublished manuscripts, collections of correspondence, and photographs and photo albums related to the last 200 years of scientific expeditions carried out by staff employed by or associated with the partner institutions. All field notes collections were initially created by scientists employed by the holding institution or in partnership with the holding institution during the course of their careers. Upon retirement, scientist's field notes were retained by their employing institutions, under archival control for description and preservation purposes, as reference materials for the expeditions, specimens, organizations, persons, and scientific observations they recorded. Most are still actively used by current curators and researchers. Each is a unique and valuable document that may be inaccessible to the casual researcher. Digitization and online, digital publication will bring these valuable documents to the general public for the first time, enabling vastly expanded types and amounts of research. Furthermore, due to changing employers and affiliations during their lifetimes or to expeditions which employed many scientists who, upon their return, dispersed back to their own institutions, collections related by a common creator or expedition may be scattered amongst many institutions. Digitization allows these collections to be reunited online in a way impossible to replicate physically, critical for any researcher interested in the full context of the scientific expeditions, discoveries, or collections described therein. Project partners engaged in scanning will digitize larger or smaller amounts of material, depending on the size of their collections, with an emphasis on the digitization of related collections, and partners will smaller collections will provide additional support assigning metadata and ingesting digitized collections into the Internet Archive and Biodiversity Heritage Library."
 ---
-
-

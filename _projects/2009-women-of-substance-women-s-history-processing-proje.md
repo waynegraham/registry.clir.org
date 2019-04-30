@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Women of Substance : Women's History Processing Project
+title: "Women of Substance : Women's History Processing Project"
+year: 2009
+end_range: 2004
+formats: "NULL"
+geographic_extant: "The focus of this project is Illinois, but it spans the United States and includes American women who spent their careers abroad."
+institution: "Southern Illinois University Carbondale"
+institution_type: "NULL"
+primary_contact: "Pam Hackbart-Dean"
+size: "220 boxes, 220 cubic feet"
+start_range: "1920"
+summary: "The project would encompass materials relating to key women educators and activists from Illinois, the Midwest and the nation from 1920 to 2004. The selected collections contain the personal and professional papers of nine distinguished women. The collections highlight some of the most transformational moments and movements of education, women's rights and political activism, including health education, pro-choice advocacy, and the equal rights movement. The collections include the papers of nine distinguished and notable women: Louisa Rosenblatt (educator and developer of the Reader-Response Theory in the teaching of literature, and a student of John Dewey); Anne West Lindsay (journalist and fiction writer); Elena Sliepcertich (educator and developer of health education programs used around country); Katherine Dunham (African American educator, anthropologist and dancer—pioneer of the Dunham technique); Helen Topping (educator and missionary to Japan); Jane Adams (educator and anthropologist of the Mississippi delta region); Carolyn Plochmann (educator and nationally renowned artist); Betty Mitchell (educator and local historian); Lillian Adams (social activist and founder of Southern Illinois ACLU and Planned Parenthood)."
+hc_id: "487"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Morris Library (MC 6632)"
+address2:  "605 Agriculture Dr."
+city:  "Carbondale"
+state:  "IL"
+zip: "62901"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

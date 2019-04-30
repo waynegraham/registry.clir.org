@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Merchant Mariners Muster: Cataloging Crew Manuscripts
+title: "Merchant Mariners Muster: Cataloging Crew Manuscripts"
+year: 2011
+end_range: 1927
+formats: "NULL"
+geographic_extant: "All collections have Maine origins, but they also document historical activity in all the continents of the world except Antarctica."
+institution: "Maine Maritime Museum"
+institution_type: "NULL"
+primary_contact: "Nathan Lipfert"
+size: "133 linear feet"
+start_range: "1761"
+summary: "44 separate manuscript collections relating to shipping, predominantly Maine sea captains' business papers but also including ship owners' records, customs house records and a shipping agent's records, all of which have been determined to include records of individual mariners (other than officers) serving aboard a vessel. Most are merchant mariners, but there are also some fishermen and naval seamen. The collections include documentation of mariners who signed aboard both in foreign ports and US ports. Most are 19th century, but there are also late 18th and early 20th century manuscripts. The unifying element to all the collections is that they relate to Maine. They are the papers and records of Maine mariners, Maine-built ships, Maine shipyards and Maine ship owners. The vessels and the mariners traveled to major and minor ports all over the world, and so the manuscripts document maritime history world-wide. All the collections contain documentation of people, ships, and firms outside the region. The shipmasters documented here occasionally served in the Navy during the Civil War so, in at least two instances, their papers include records of their naval commands. Aside from the mariners documents which we are studying in this project, the collections will include: important and revealing correspondence between captain and owner; correspondence with family; construction details of ships; charter, cargo and insurance information; and detailed documentation of port visits."
+hc_id: "764"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "243 Washington Street"
+address2:  "NULL"
+city:  "Bath"
+state:  "ME"
+zip: "4530"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$125,600"
+material_description:  "NULL"
 ---
-
-

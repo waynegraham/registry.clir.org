@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloguing Southern California's architectural history
+title: "Cataloguing Southern California's architectural history"
+year: 2011
+end_range: 1989
+formats: "NULL"
+geographic_extant: "Early and mid-century modernism is the strength of the collection, with emphasis on southern California and some coverage of other areas in the West."
+institution: "University Art Museum"
+institution_type: "NULL"
+primary_contact: "E. B. Robertson"
+size: "3500 linear feet"
+start_range: "1890"
+summary: "The Architecture and Design Collection comprehensively and uniquely documents the history of the built environment of Southern California. The project will address 240 uncatalogued archives. These are the papers of individuals-- architects, landscape architects, designers, and a critic-- and the records of design firms. In some cases we hold the extant archive of the individual or firm, others are partial. Familiar names among these include, F.L. Wright, Esther McCoy, Case Study houses, Thornton Ladd, Carleton Winslow, A.E. Hanson, William Pereira, Charles Moore, and Barton Myers. Materials date from the late 19th through the late-20th century and document the responses of architects to the climate, landscape, and early architecture of California influenced by Mexican and Spanish sources. Archives document early and late Modernism, urban planning, and experiments in low-cost and system-built housing. These and many other topics can be traced through multiple archives, which comprise drawings, documents, photographs, audio-visual, artifacts, and models. Six frequently used archives will be fully cataloged as part of the project: John Byers papers, 1919-1966; Roland Coate papers, 1922-1958; Rex Lotery papers, 1970-1999; Maynard Lyndon papers, 1936-1991; John Elgin Woolf papers, 1938-1980, and the Walter S. White papers, 1939-1994. These six archives comprise circa 36 linear feet of documents and photographs, and over 6,000 drawings."
+hc_id: "747"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "University Art Museum"
+address2:  "University of California, Santa Barbara"
+city:  "Santa Barbara"
+state:  "CA"
+zip: "93106-7130"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$183,500"
+material_description:  "NULL"
 ---
-
-

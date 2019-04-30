@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Poet, President & Pioneer In Women's Education: The Sr. M. Madeleva Wolff, C.S.C. (1887-1964) Papers
+title: "Poet, President & Pioneer In Women's Education: The Sr. M. Madeleva Wolff, C.S.C. (1887-1964) Papers"
+year: 2016
+end_range: 1965
+formats: "NULL"
+geographic_extant: "Wolff lived in Wisconsin, California, Utah, and England (Oxford) at various times and the collection includes material on these periods along with her life and work in Indiana and her European travels. Notable is her correspondence with Tom Dooley in Southeast Asia and Helen Hayes in California and New York."
+institution: "Saint Mary's College"
+institution_type: "NULL"
+primary_contact: "Ms. Janet Fore"
+size: "NULL"
+start_range: "1887"
+summary: "This project will digitize a major archival collection pertaining to Sr. M. Madeleva Wolff, C.S.C. (1887-1964), president of Saint Mary's College, South Bend, IN, 1934-1961, and housed at Saint Mary's. Wolff was a poet, scholar, pioneer in women's higher education, and correspondent of major American figures including Helen Hayes, Tom Dooley, Thomas Merton, Clare Boothe Luce, and Conrad Hilton. Wolff's archives include letters, papers, published writings, photographs, video, audio, and memorabilia ranging from her student days at Saint Mary's to her time as faculty member and president. In collaboration with the Cushwa Center for the Study of American Catholicism at the University of Notre Dame, we will digitize the collection; construct a research website with full access; and construct a curated online exhibit. We intend to provide global digital access to scholars of history, gender, education policy, and more, while also building robust links to existing search portals."
+hc_id: "21038967"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Saint Mary's College"
+p2_name:  "Dr. Catherine Osborne"
+p2_institution:  "University of Notre Dame, Cushwa Center for the Study of American Catholicism"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>13.75 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$141,228"
+material_description:  "Following Wolff's death (1964), the Saint Mary's Archives received her papers, supplemented over the years by donations from her friends, family, correspondents, and from papers and objects discovered elsewhere in the College. This collection is invaluable not only for the light it sheds on 20th century Catholicism and on women's colleges, but for Wolff's wide-ranging correspondence and acquaintance with important literary, cultural, and political figures from Helen Hayes to Tom Dooley to Clare Boothe Luce to Conrad Hilton to C.S. Lewis to Thomas Merton. The materials designated for digitization include: --Extensive correspondence from the early 20th century to her death; --Manuscripts for her books of poetry, scholarship on medieval literature, and writings on women's education; --Papers regarding her administration of Saint Mary's College; her involvement in the Sister Formation Movement; and her establishment of the School of Sacred Theology; --A scrapbook from her college years (1906-1909), shedding light on collegiate life for young women; --Daybooks, diaries, and notebooks; --Photographs illustrating her life over decades as well as that of college life at Saint Mary's; --A wide selection of memorabilia and objects ranging from her honorary degrees to her personal collections of bells, saints' relics, and walking sticks, and even including her gardening tools. [3-dimensional objects will be photographed for digital representation.] This collection supports research about Madeleva herself, including her impact on higher education for women religious and for other Catholic women; her career as a poet and scholar; and her role as a cultural broker for mid-20th century Catholicism. It also supports research into higher education, women's education, campus life, and women religious in this period more generally. It sheds light on related figures including Madeleva's correspondents listed above. More generally, the collection offers insight into 20th century United States history, intellectual history, politics, and literature."
 ---
-
-

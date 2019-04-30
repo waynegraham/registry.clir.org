@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Los Angeles County Museum of Art Archives
+title: "Los Angeles County Museum of Art Archives"
+year: 2011
+end_range: 1990
+formats: "NULL"
+geographic_extant: "United States (especially Los Angeles), Asia, Europe"
+institution: "LACMA"
+institution_type: "NULL"
+primary_contact: "Amanda Lipsey"
+size: "523 linear feet"
+start_range: "1954"
+summary: "For this project, LACMA proposes to appraise and process approximately 523 linear feet of records from circa 1954 through the early 1990s. The largest portion of the targeted records comprises general exhibition files created by various museum departments before the creation of the Exhibition Programs Department in the late 1990s, consolidating many exhibition activities. The correspondence, photographs, installation drawings and other records document the planning of exhibition installation, hiring of specialized staff, and creation of publications. Exhibitions documented in these records include The Arts of lndia and Nepal: The Nasli and Alice Heeramaneck Collection (1967), the landmark traveling exhibition The Treasures of King Tutankhamen (at LACMA in 1978), and The Avant-Garde in Russia: 1910-1930 New Perspectives (1980-1981). The project will also target records from the South and Southeast Asian Art, Japanese Art, Prints and Drawings, and Modern and Contemporary Art Departments. In some cases, these records dovetail with the general exhibition records, including curatorial correspondence regarding exhibitions, but also include other department activities including art acquisitions and scholarly publication."
+hc_id: "756"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "5905 Wilshire Boulevard"
+address2:  "NULL"
+city:  "Los Angeles"
+state:  "CA"
+zip: "90036"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Immigration, Migration, and Assimilation in the 20th Century American West: An Oral History Collection at California State University, Northridge
+title: "Immigration, Migration, and Assimilation in the 20th Century American West: An Oral History Collection at California State University, Northridge"
+year: 2012
+end_range: 1999
+formats: "NULL"
+geographic_extant: "The geographic scope is the United States, Mexico, Central America, Europe, Southwest Asia, and East Asia."
+institution: "California State University"
+institution_type: "NULL"
+primary_contact: "Ellen Jarosz"
+size: "342 objects"
+start_range: "1900"
+summary: "These oral histories chronicle immigrant and migrant experiences from the perspectives of Asian, European, Latino, Jewish, and African-American individuals. Most relocated to and worked in the western United States. Their narratives are first-hand accounts of the sweeping cultural, social, political, and economic transformations that reshaped the United States and the world in the 20th century. The collection includes descriptions of the conditions that motivated immigrants and migrants to leave their homes, journeys to the US, and the challenges faced by immigrants and their children. More specifically, the collection includes first-hand accounts from Armenian refugees following World War I, migrants to California from the Dust Bowl and other parts of the US during the Great Depression, Jewish immigrants from Europe in the late 1930s, Japanese immigrants and Japanese-American experiences throughout the 20th century, migrants to California from other parts of the US who worked in the war industry during World War II, Jewish refugees and survivors of the Holocaust following World War II, refugees of the Communist Revolution in China, Jewish and other refugees from Russia in the early years of the Cold War, African Americans who moved west as part of the Second Great Migration, and migrant workers from Mexico and other Central and South American nations from the 1930s through the 1980s."
+hc_id: "924"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "18111 Nordhoff Street"
+address2:  "NULL"
+city:  "Northridge"
+state:  "CA"
+zip: "91330"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

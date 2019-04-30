@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Other Voices of the Frontier: A Digital Archive of the Arkansas/Oklahoma River Valley
+title: "Other Voices of the Frontier: A Digital Archive of the Arkansas/Oklahoma River Valley"
+year: 2017
+end_range: 2016
+formats: "NULL"
+geographic_extant: "The geographic regions represented in the nominated collections focus on the Arkansas/Oklahoma River Valley, with most of the materials representing the greater Fort Smith, AR metropolitan area, including Fort Chaffee and Van Buren."
+institution: "University of Arkansas - Fort Smith"
+institution_type: "NULL"
+primary_contact: "Dr. Lindsy Lawrence"
+size: "NULL"
+start_range: "1940"
+summary: "Our goal is to digitize, index, and make accessible six archival collections from the Arkansas/Oklahoma River Valley that document the voices of the minority groups that have helped shaped this frontier/border region of the United States. These other voices of the frontier are found in the Jack E. Hill Collection, the Judy Blevins Collections, The Lincoln Echo, the Dr. Harry McDonald Collection, the Southeast Asian Refugees at Fort Chaffee Collections, and the Bobby and Jerry Turner Collection. These collections represent African-American, Laotian, Hmong, Native American, and Vietnamese voices, which will help illuminate and enhance our collective understanding of US frontier history. Specifically, we seek to create open access digital copies of these repositories with a searchable index. This archive will function as a sampling of these border voices, helping scholars reconceive the predominantly white history of the frontier."
+hc_id: "26335791"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Arkansas - Fort Smith"
+p2_name:  "Mr. Jordan Ruud"
+p2_institution:  "University of Arkansas - Fort Smith"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>3 Artworks</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$103,805"
+material_description:  "A collection of documents, including photographs, artworks, oral history transcripts, personal communications, and newspapers, chronicling the history of minority communities within the Arkansas/Oklahoma River Valley, with a focus on the Fort Smith, AR metropolitan area. Associated groups will include African American, Cuban, Laotian, Hmong, Native American, and Vietnamese communities. Events chronicled within the temporal scope of the collection include the desegregation of Van Buren and Charleston, AR schools, the dwelling of southeast Asian refugees and Cuban refugees at Fort Chaffee (and refugees’ subsequent settlement in the area), and the history of the contemporary African American community in Fort Smith as chronicled by the local newspaper Lincoln Echo. The nominated collections are: Jack E. Hill Collection; Judy Blevins Collection; Lincoln Echo; Dr. Harry McDonald Collection; Southeast Asian Refugees at Fort Chaffee, which includes Sondra LaMar Collection; Fort Chaffee Oral Interviews – SE Asia Relocation: \"Operation New Life\" Collection; WestArk Community College Collection; Melanie Speer Wiggins Collection; Bobby and Jerry Turner Collection."
 ---
-
-

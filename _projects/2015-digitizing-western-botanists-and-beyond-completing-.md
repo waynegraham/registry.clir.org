@@ -1,6 +1,34 @@
 --- 
 layout: project 
 title: "Digitizing Western Botanists and Beyond: Completing the Online Archives of John and Sara Plummer Lemmon, Civil War Veteran, Women's Rights Activist, and Noted Amateur Western Botanists."
+year: 2015
+end_range: 1927
+formats: "NULL"
+geographic_extant: "The papers are predominantly from California, however their correspondents were located throughout the United States and Europe. Sara's letters document her life in New England and Santa Barbara. John's papers chronicle his Civil War experiences in Georgia, South Carolina, and Tennessee. They traveled to Arizona, Mexico, and New Orleans."
+institution: "The Regents of the University of California, Berkeley on behalf of the University and Jepson Herbaria, University of California, Berkeley"
+institution_type: "NULL"
+primary_contact: "Dr. Bruce Baldwin"
+size: "NULL"
+start_range: "1855"
+summary: "The University and Jepson Herbaria propose a 1.5-year project to make freely available online the papers of the husband and wife pioneering botanical team John Gill Lemmon and Sara Plummer Lemmon. This project will involve the digitization of two collections, the John Gill and Sara Plummer Lemmon papers, and the St. John Collection of Sara Plummer and John Gill Lemmon material. Additionally, botanical specimens collected by the Lemmons will be digitized. Digitized archives material will be linked to existing finding aids in ArchivesSpace. Where available, existing transcriptions will be added to the metadata for each digital object to improve access. Digitized specimens will be made available via our existing specimen database, CollectionSpace, and links between the specimens and pertinent archives material will be created. Providing free access to this material online will benefit scholars of botany, the history of the West, the Civil War, and women's history among others."
+hc_id: "17206326"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of California, Berkeley"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>12 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$149,729"
+material_description:  "John Gill Lemmon was a Michigan schoolteacher who fought in the Civil War and was incarcerated in Andersonville Prison. He moved to California to recuperate and write about his war experience and became interested in botany. He discovered more than 100 plant species new to science and communicated with leading scientists of the day, such as Harvard's Asa Gray who named and published the new species. Lemmon married Sara Plummer, a Cooper Union graduate and former teacher and nurse with the Red Cross during the Civil War, who had started the first Library and Natural History Society in Santa Barbara, California. The two moved to Oakland, started their own Herbarium, and made wide ranging botanical collecting trips throughout the west. After their trip to Tucson their guide named Mt. Lemmon after Sara as he was impressed with her ability to climb the mountain. John became the California Board of Forestry Botanist and Sara worked as his botanical illustrator; they traveled to the New Orleans Worlds Fair with a Forestry Exhibit. Both were active in civic life and early conservation groups such as the Sierra Club. John served as Oakland City Councilman and Sara was active in the Red Cross and Ebell Society, leading to correspondence with Clara Barton and California's poet laureate Ina Coolbrith. The Lemmon Papers consist of correspondence, writings and diaries, photographs and personal papers. The Lemmon's combined lives, shared correspondence (including John Muir), and resulting archives cover many aspects of American life before the turn of the century. \n\n\n\nThe Plummer Family Papers, part of the St. John Collection contain correspondence between Sara Plummer and her younger sister Martha and between other Plummer family members. Also included are letters from John before he and Sara married and letters from Sara and John back to her family."
 ---
-
-

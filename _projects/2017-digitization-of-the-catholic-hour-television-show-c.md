@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitization of The Catholic Hour Television Show Collection.
+title: "Digitization of The Catholic Hour Television Show Collection."
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "University of Dayton"
+institution_type: "NULL"
+primary_contact: "Ms. Stephanie Shreffler"
+size: "NULL"
+start_range: "NULL"
+summary: "The University of Dayton Libraries proposes the digitization of 840 episodes of The Catholic Hour television talk show. The Catholic Hour was produced by the Archdiocese of Denver from December 1984 to July 2003. Each hour-long episode featured several stories, on topics ranging from priests’ lives, to refugee camps in Africa, to Catholic education in Denver, and more. The show also featured content showcasing speakers of national and international importance, such as Mother Angelica, Mother Teresa, and Pope John Paul II. The eleven-month project will require the digitization of 840 U-matic tapes, with the UD Libraries receiving the converted files (both master and web-accessible) on external storage media. The master files will also be copied onto LTO-7 tapes for additional security. A portion of the digitized content will be made available on the Libraries’ online digital repository, and the rest will be accessible on-site."
+hc_id: "26900615"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "840 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$24,650"
+material_description:  "NULL"
 ---
-
-

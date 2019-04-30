@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Mapas historicos de Nuevo Mexico = Historic New Mexico Maps
+title: "Mapas historicos de Nuevo Mexico = Historic New Mexico Maps"
+year: 2010
+end_range: 2000
+formats: "NULL"
+geographic_extant: "Southwestern United States; New Mexico; Santa Fe; Mexico; Colony of New Spain; Western Hemisphere. Miscellaneous maps of many US states."
+institution: "History Library"
+institution_type: "NULL"
+primary_contact: "Patricia Hewitt"
+size: "5500 objects"
+start_range: "1564"
+summary: "The Mapas historicos de Nuevo Mexico = Historic New Mexico Maps project will make an important regional collection of southwest history accessible to a wide range of researchers, historians, students and the general public. The map collection of primary historical documents held at the Fray Angélico Chavez History Library is a major resource of information about perspectives, beliefs and attitudes of long ago. The collection showcases the rich and complex history of the 47th state. It is a window to the past, to the age of Puebloan societies and to Spanish missions on the Camino Real. The maps reflect the changing landscapes, from Spain to Mexico, to US Territory, and the long struggle for statehood. By the advance of the modern era, with the influx of \"Americans\" on the Santa Fe Trail and the coming of the railroad, to the creation of a tourist mecca in the Land of Enchantment, the maps mirror the diversity of culture, language and geography that is today's New Mexico. The collection includes approximately: 3,100 maps from the 16th through 20th centuries of the Southwest, New Mexico, and Santa Fe, including Wheeler topographical maps, New Mexico county and city maps, as well as maps of North America, the Western Hemisphere, and many US states ; 1,200 blueprint Right of Way, Valuation, and Station railway maps from companies that operated in New Mexico, from the 19th to early 20th centuries ; 1,200 New Mexico Highway Department maps from the 20th century."
+hc_id: "625"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "PO Box 2087"
+address2:  "NULL"
+city:  "Santa Fe"
+state:  "NM"
+zip: "87504-2087"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

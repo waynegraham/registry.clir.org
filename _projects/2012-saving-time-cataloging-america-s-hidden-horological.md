@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Saving Time: Cataloging America's Hidden Horological History
+title: "Saving Time: Cataloging America's Hidden Horological History"
+year: 2012
+end_range: 1970
+formats: "NULL"
+geographic_extant: "The companies covered in the Museum's collection were based in Ohio, Connecticut, Illinois, and Pennsylvania."
+institution: "National Watch & Clock Museum"
+institution_type: "NULL"
+primary_contact: "Noel Poirier"
+size: "400 linear feet"
+start_range: "1830"
+summary: "The archives of the National Watch and Clock Museum contain material related to the manufacture and collection of watches and clocks in the United States and abroad. Included are correspondence, patents, ledgers, blueprints, advertisements, and other ephemera. The American watch and clock company collection contains the records of the Seth Thomas Clock Company, Hamilton Watch Company, Illinois Watch Company, Westclox Clock Company, and Gruen Watch Company created during the height of the American watch and clock industry. Creating better access to this collection will allow visitors to the museum and library to conduct research on the companies in general and into the specific timepieces that they and their families own. A better understanding of the contents of the collection will also allow the library staff to conduct research on behalf of the remote patrons who regularly request help. Additionally, the Museum will contact other institutions with relevant horological holdings in order to examine their collections and create or merge finding aids into a centralized database."
+hc_id: "865"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "514 Poplar Street"
+address2:  "NULL"
+city:  "Columbia"
+state:  "PA"
+zip: "17512"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

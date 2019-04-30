@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: For the People, for Education, for Science: Web Access to the American Museum of Natural History Archives
+title: "For the People, for Education, for Science: Web Access to the American Museum of Natural History Archives"
+year: 2010
+end_range: 2005
+formats: "NULL"
+geographic_extant: "The geographic scope is the planet Earth."
+institution: "American Museum of Natural History Library"
+institution_type: "NULL"
+primary_contact: "Barbara Mathé"
+size: "1788 linear feet"
+start_range: "1864"
+summary: "The Archives of the American Museum of Natural History (AMNH) hold a wealth of historical resources that document scientific research in anthropology, astronomy, earth sciences, paleontology and zoology, as well the Museum’s 141 year history as a preeminent research and educational institution. The manuscripts, photographic print and slide collections and department records include professional papers of individuals whose work revolutionized science and public understanding, including Franz Boas, Margaret Mead, Henry Fairfield Osborn and Ernst Mayr. The collections also detail the evolving role of museum exhibitions and how they impart knowledge, from Carl Akeley’s dioramas to today’s multi-media interactive presentations. Some 4 million people visit the Museum each year to learn about important scientific issues, like climate change, biodiversity, cultural transitions, genomics and evolutionary biology, but very few know of the depth and breadth of its historical documentation. Referencing every continent--from paleontology in Mongolia to ichthyology in the Congo Basin, from the Bounty mutineers’ descendants on Pitcairn Island to archeological sites in Peru, and from expeditions in Antarctica to agriculture in Mexico--the collections' multi-disciplinary focus continues to support researchers worldwide. The project will enable the AMNH Library to serve even more by increasing awareness of these unique and valuable sources of information for research and education."
+hc_id: "582"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Research Library"
+address2:  "American Museum of Natural History"
+city:  "New York"
+state:  "NY"
+zip: "10024"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$117,600"
+material_description:  "NULL"
 ---
-
-

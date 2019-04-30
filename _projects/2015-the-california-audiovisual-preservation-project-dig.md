@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The California Audiovisual Preservation Project: Digitizing Hidden California Light and Sound
+title: "The California Audiovisual Preservation Project: Digitizing Hidden California Light and Sound"
+year: 2015
+end_range: 2008
+formats: "NULL"
+geographic_extant: "All California: Northern California; Southern California; Sierra; Eastern Sierra; Death Valley; San Joaquin Valley; Central Valley; Mendocino; Davis; San Francisco Bay Area; Sacramento; Los Angeles; Pasadena; San Diego"
+institution: "Peninsula Library System"
+institution_type: "NULL"
+primary_contact: "Mr. Barclay Ogden"
+size: "NULL"
+start_range: "1927"
+summary: "The proposed two-year project, Digitizing Hidden California Light and Sound will continue to build a unique reference and research resource called the California Light and Sound (CLS) collection, a collection of over 3,500 endangered, historically significant, audiovisual recordings of Californiana. To grow, enrich and complete a comprehensive collection in the making, the CAVPP proposes to digitize, preserve, and make available online 4,316 hidden audio, film and video recordings representing 21 collections from 16 partner archives, libraries and museums. Digitization of analog, obsolete, media is critical to enable access and save the content from oblivion, and will support research, teaching, and learning across a broad array of disciplines, including science, social science, political science, women's studies, Native American studies, African-American studies, Asian-American studies, urban studies, environmental studies, cultural studies, sociocultural anthropology, ethnomusicology, technology, religion, the visual arts, and media studies."
+hc_id: "17588572"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "California Audiovisual Preservation Project"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>3695 Audio Recordings</li>"
+collaborating_institution:  "African American Museum and Library at Oakland; California Academy of Sciences; California Historical Society; California Institute of Technology Archives; California State University, Bakersfield; California State University, Sacramento; California State University, Fresno, Special Collections Research Center; Center for Sacramento History; Eastern California Museum; Hoover Institution Archives, Stanford University; Labor Archives and Research Center, California State University, San Francisco; Oakland Museum of California; San Diego Air and Space Museum; Stanford University Libraries; University of California, Davis Library; University of California, Los Angeles, Ethnomusicology Archive"
+grant_amount:  "$498,954"
+material_description:  "Project partners have proposed collections to enrich the CLS collection that develop critical themes of the state's, and the country's, rapid development from the early 20th to the early 21st century: \n\n\n\nImmigration and settlement. Eastern California Museum and California State University, Bakersfield nominated collections of regional oral histories that cover historic events, issues and culture, including construction of the Los Angeles Aqueduct, Japanese-American internment, and culture of Paiute and Timbisha-Shoshone Native Americans. \n\n\n\nIndustry. The San Diego Air and Space Museum nominated interviews with Charles Lindbergh as well as oral histories of \"The Greatest Generation,\"  of men and women who worked in San Diego's aerospace factories during WWII. Stanford University Libraries nominated a series of lectures featuring Silicon Valley computer professionals who influenced the direction of technology well beyond California. \n\n\n\nPolitics. Hoover Institution nominated a series of governor Ronald Reagan's press conference-style meetings with California high school students. California Historical Society's The American Civil Liberties Union of Northern California records include ACLU-related clips from news reports, press conferences, and community forums, documenting efforts to protect individual liberties in California.\n\n\n\nEnvironmentalism. The California Academy of Science's Olmstead Collection documents natural areas including the Sierra, Mt. Diablo, and Jug Handle State Natural Reserve, footage taken by conservationist John Olmstead.\n\n\n\nReligion. California Historical Society's [Additions to] Peoples Temple Records include never-before-seen film and video from the Peoples Temple Publications Department.\n\n\n\nArt and culture. The Oakland Museum of California nominated a collection of prominent artist interviews and lectures with Ansel Adams, Paul Taylor, Edith Hamlin, and Roger Sturtevant. The Ethnomusicology Archive nominated interviews and performances with Don Ellis, noted jazz musician and performer that document his musical career and the West Coast jazz scene. \n\n\n\nThese and many more recordings will be digitized; please see ProjectPlanAppendix.xlsx for a list of collections proposed for this project."
 ---
-
-

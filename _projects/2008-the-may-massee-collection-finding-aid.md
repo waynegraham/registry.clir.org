@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The May Massee Collection Finding Aid.
+title: "The May Massee Collection Finding Aid."
+year: 2008
+end_range: 1966
+formats: "NULL"
+geographic_extant: "Massee worked for American companies based in New York City, but she worked with an international array of authors and artists, many of whom were European."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Judith Heasley"
+size: "504 linear feet"
+start_range: "1921"
+summary: "The May Massee Collection was compiled during the late 1960s and early 1970s as a memorial tribute to May Massee, a prominent children's book editor who founded two of the first three children's book divisions in American publishing houses. The collection was intended to convey the scope of May Massee's contribution to the world of children's book publishing from four perspectives: that of the publisher, the editor, the author and the illustrator. It holds nearly 3,000 original book illustrations by 56 artists who worked for May Massee, including Caldecott Medal winners Robert McCloskey, Ingri and Edgar Parin D'Aulaire, Robert Lawson, Elizabeth Orton Jones, Maud and Miska Petersham, Berta and Elmer Hader, Lynd Ward, Leo Politi, Ludwig Bemelmans, Feodor Rojankovsky, and Marie Hall Ets. The collection also houses first editions and international editions of more than 1,000 books that Massee saw published in her career. Correspondence with many of the artists and authors with whom Massee worked, and multi-media adaptations of the books that were published under Massee's editorship are also included. Additionally, the collection contains correspondence documenting Massee's role as Nobel Prize poet Carl Sandburg's literary agent. The office that Massee used at Viking Press in New York, which was designed for Massee by Eric Gugler, the architect of the Oval Office in the White House, is also included. Bulk dates: 1921-1966. The collection is international in scope."
+hc_id: "143"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1200 Commercial Street"
+address2:  "Campus Box 4002"
+city:  "Emporia"
+state:  "KS"
+zip: "66801"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

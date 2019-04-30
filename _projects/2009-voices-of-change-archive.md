@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Voices of Change Archive
+title: "Voices of Change Archive"
+year: 2009
+end_range: 2009
+formats: "NULL"
+geographic_extant: "Recordings and archival documents primarily from Dallas, TX and New York; scores published worldwide; composers and performers drawn internationally."
+institution: "Southern Methodist University"
+institution_type: "NULL"
+primary_contact: "Jonathan Haupt"
+size: "8000 objects"
+start_range: "1900"
+summary: "Formed in 1974 as ensemble-in-residence at Southern Methodist University, Voices of Change (VOC) is one of the longest standing new music ensembles in the U.S. The ensemble performs music from the 20th and 21st centuries, with a primary focus on living composers. VOC has performed music by over 300 composers, including more than 60 world premieres, of which the ensemble commissioned more than 25. VOC’s performers represent the top tier of Dallas-area musicians, including many Dallas Symphony principals. Visiting composers actively participate in pre-concert forums and occasionally conduct or perform. VOC has been recognized nationally and internationally for the high caliber of its performances and adventuresome programming. It has received several grants from the NEA and Copland Foundation. The VOC Archive consists of three collections of materials: over 800 musical scores of works performed by VOC, roughly 20% of which are not cataloged in OCLC; approximately 600 sound and 100 video recordings from performances and pre-concert forums; and 40 cubic feet of archival material from 1974 to 2000, including program booklets, artist and vendor files, awards, and other business files. Materials will be added to the archive periodically once materials are no longer in active use by the organization. The Archive will provide invaluable primary source material for research on 20th and 21st century music, particularly in the scholarly areas of performance and reception history."
+hc_id: "488"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Hamon Arts Library"
+address2:  "P.O. Box 0356"
+city:  "Dallas"
+state:  "TX"
+zip: "75275-0356"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

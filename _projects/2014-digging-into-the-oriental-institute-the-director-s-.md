@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digging into the Oriental Institute: The Director's Office Correspondence of James Henry Breasted, 1916â€“1935
+title: "Digging into the Oriental Institute: The Director's Office Correspondence of James Henry Breasted, 1916â€“1935"
+year: 2014
+end_range: 1935
+formats: "NULL"
+geographic_extant: "North America, Europe, and the Middle East"
+institution: "The Oriental Institute Museum, University of Chicago"
+institution_type: "NULL"
+primary_contact: "Dr. John D.M. Green"
+size: "NULL"
+start_range: "1916"
+summary: "The Director's Office Correspondence of the founding director of the Oriental Institute of the University of Chicago, James Henry Breasted (1865â€“1935), comprises the most important hidden collection in the Oriental Institute's Archives and serves as a significant body of source materials for scholars researching institutional and biographical histories, archaeological and philological projects, and US-Middle East cultural relations. The correspondence includes office letters, reports from the field (archaeological missions), and letters to and from Middle Eastern government officials. The project will involve the re-housing of the materials and the generation of a finding aid that will list the contents of the collection at the item level."
+hc_id: "11652839"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Oriental Institute Museum"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>50 Manuscript</li>"
+collaborating_institution:  "N/A"
+grant_amount:  "$159,944"
+material_description:  "NULL"
 ---
-
-

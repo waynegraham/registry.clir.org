@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Preserving the Voices of the Don Bolles Bombing Investigation
+title: "Preserving the Voices of the Don Bolles Bombing Investigation"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Arizona State Archives"
+institution_type: "NULL"
+primary_contact: "Ms. Laura Keller"
+size: "NULL"
+start_range: "NULL"
+summary: "In 1976, Don Bolles, an investigative journalist for The Arizona Republic, died after a bomb exploded beneath his car in central Phoenix. Many, including Bolles himself, believe that organized criminals were behind the hit. Bolles’s murder has become an infamous mark in Arizona history—a watershed moment which spurred law officers, politicians and the courts into reform. On a national scale, its notoriety called attention to the dangers of Investigative Journalism and reinforced its viability. Forty years later, the bombing is still shrouded in mystery and controversy. The Arizona State Archives is requesting funding to digitize a small portion of tapes from the Bolles Collection that we believe contain valuable information such as police interviews and wiretaps of the case’s most important figures. Their digitization will expand access and provide new information about the criminal activity that spanned many levels of Arizona society during the late twentieth century."
+hc_id: "26938347"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Arizona State Archives"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "129 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$24,725"
+material_description:  "NULL"
 ---
-
-

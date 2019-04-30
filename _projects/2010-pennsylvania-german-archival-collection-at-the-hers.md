@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Pennsylvania German Archival Collection at The Hershey Story
+title: "Pennsylvania German Archival Collection at The Hershey Story"
+year: 2010
+end_range: 1950
+formats: "NULL"
+geographic_extant: "Materials are of national and international interest, particularly areas with strong German ancestry such as PA, OH, IN, WI, MN, ND, SD, IA, NE & TX."
+institution: "The Hershey Story: The Museum on Chocolate Avenue"
+institution_type: "NULL"
+primary_contact: "Valerie Seiber"
+size: "164 linear feet"
+start_range: "1654"
+summary: "The archival collection covers a wide range of subjects, but primarily falls within these broad categories: religion; general history/reference; agriculture; trade, manufacture and business; advertisements, domestic materials; education; legal records; health/medicine; world's fairs and expositions; and personal papers. Materials include published volumes, unpublished manuscripts, early newspapers, account books, almanacs, dictionaries, religious texts, broadsides, student workbooks and attendance records, land deeds, military records, diaries, scrapbooks and photographs. A significant portion of the collection consists of German language texts, fraktur and broadsides. Many of the published volumes are beautifully decorated with watercolor and ink drawings. German immigrants settled in many other parts of the United States, with Pennsylvania being one of the earliest areas established. Many Americans with German ancestry can trace their family origins to Pennsylvania. The material originates from two main sources, George Danner and Nevin Moyer. Both were prominent members of their communities and extensive collectors. Danner was a dry goods merchant and operated a small “museum” while Moyer's career varied from teacher, military officer and political official. Items from the Moyer collection also relate to Indiana were he had extended family. Sizable portions of the Museum's artifacts originate from the Danner and Moyer collections."
+hc_id: "608"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "63 W. Chocolate Avenue"
+address2:  "NULL"
+city:  "Hershey"
+state:  "PA"
+zip: "17033"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

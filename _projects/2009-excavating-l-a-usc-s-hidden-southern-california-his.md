@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Excavating L.A.: USC’s Hidden Southern California Historical Collections
+title: "Excavating L.A.: USC’s Hidden Southern California Historical Collections"
+year: 2009
+end_range: 1992
+formats: "NULL"
+geographic_extant: "The regional history collections selected for our project focus on Los Angeles, so the majority of the materials originate in Southern California."
+institution: "USC Libraries"
+institution_type: "NULL"
+primary_contact: "Dace Taube"
+size: "937 linear feet"
+start_range: "1897"
+summary: "Excavating L.A. includes diverse archival materials from 26 regional history collections at the USC Libraries. Primarily focused on Los Angeles urban and social history, the collections include a wealth of materials on California politics and community activism; L.A.’s freeways and architectural history; the Christopher and Webster Commission reports on the 1992 riots; and photographs and other visual materials documenting the rapid growth of mid-century Los Angeles. The Excavating L.A. project includes the papers of former U.S. representatives Alphonzo Bell and Lynn Schenk, early 20th-century women’s voting rights activist Amy Ransome, and activists Catherine Stern and Warren Steinberg. Other collections feature archival materials from the Bunker Hill Redevelopment Project, the Century Freeway, the Los Angeles Board of Education, and the 1939 WPA Household Survey, allowing researchers to study the unique patterns of urban development that differentiate Los Angeles from cities like Chicago and New York that gained most of their populations in the 19th and early 20th centuries. The Gregory Freeman Stone papers about the assassination of Robert Kennedy in L.A., outtakes from the nightly TV program Ralph Story’s L.A. (1964-70), and the Institute for the Study of Homelessness and Poverty archive shed light on underexplored aspects of L.A. history. Additional collections provide resources for studying Southern California journalism, industry, and public art."
+hc_id: "510"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Doheny Memorial Library"
+address2:  "Room 100"
+city:  "Los Angeles"
+state:  "CA"
+zip: "90089-0182"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$160,000"
+material_description:  "NULL"
 ---
-
-

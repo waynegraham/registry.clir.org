@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Georgetown University Forum: Preserving Historic Radio
+title: "Georgetown University Forum: Preserving Historic Radio"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Georgetown University"
+institution_type: "NULL"
+primary_contact: "Ms. Karen O'Connell"
+size: "NULL"
+start_range: "NULL"
+summary: "The Georgetown University Forum: Preserving Historic Radio pilot project will reformat, preserve, and make available the earliest audio recordings of this long-running public affairs program. A sample of 1947 programs includes: “Student Action in the United States,” “States' Rights,” “What is the Veterans Administration Doing for Veterans in College?” and “Should Washington Have Home Rule?” Many topics are as timely today as they were when they were originally broadcast. When these recordings are reformatted and made available, students and scholars will be able to consider today’s issues in a broader historical context, as well as to learn more about student engagement and attitudes over the decades. The entire collection has been thoroughly curated by archival staff, and metadata has already been created; however, the content is currently completely inaccessible due to brittleness of the tapes, so these unique and powerful recordings are at risk of being lost forever."
+hc_id: "25982458"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Georgetown University Library"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "39 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$14,208"
+material_description:  "The Georgetown University Forum began in 1946 as an on-campus radio show. The show’s purpose, according to a 1954 document in the Georgetown University Archives, was to \"bring to the attention of Georgetown men the questions and problems of the day clamoring for solution . . . groups of students met weekly to discuss various aspects of public affairs, usually with an invited guest expert on the particular field. Thus the students were at once made more aware of the implications of current affairs and problems, [and] were afforded the opportunity to exchange ideas with trained and experienced minds.\" The same document relates how, shortly after the Forum’s establishment, local radio stations began to rebroadcast its programs, followed by the Liberty Broadcasting System (then the second biggest radio network in the U.S.) in 1950. The Georgetown University Archives houses audio recordings of Forum broadcasts (each approximately thirty minutes in length) from 1947-1972. These are arranged in chronological order and have been inventoried; that inventory is publicly available on the Georgetown Archival Resources site: http://findingaids.library.georgetown.edu/repositories/12/resources/11338. The 39 tapes in box 1 (see http://findingaids.library.georgetown.edu/repositories/12/archival_objects/1366720) are the focus of this grant application. These date from 1946-1947, represent the earliest Forum broadcasts, and cover topics as varied as education, foreign policy, and racial tolerance. Recordings of some shows from 1946 and 1947 do not survive in the Archives, as reflected in the gaps in tape numbers. Forum broadcasts were suspended for a time in 1972 when Georgetown University felt, given competition from similar programming, that the financial outlay was too great for the audience being reached. The Georgetown University Archives does not have transfer/accession records for the Forum recordings – presumably they were transferred sometime after the show’s suspension."
 ---
-
-

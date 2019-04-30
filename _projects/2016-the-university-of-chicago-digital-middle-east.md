@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The University of Chicago Digital Middle East
+title: "The University of Chicago Digital Middle East"
+year: 2016
+end_range: 1997
+formats: "NULL"
+geographic_extant: "The bulk of the materials in this collection were published in the Ottoman Empire, modern Turkey, Iran, and the various Arab countries. A small number of the journals were published in Europe or the United States."
+institution: "The University of Chicago"
+institution_type: "NULL"
+primary_contact: "Ms. Elisabeth Long"
+size: "NULL"
+start_range: "1734"
+summary: "The University of Chicago Library proposes a 2-year project to digitize our collection of 1,175 monograph and serial titles from the University's Microform Projects in Ottoman, Persian, and Arabic. The collection includes materials spanning the dates 1734-1997, though the bulk are fragile materials from the late 19th and early 20th centuries. This collection offers a rich resource for scholars in a broad range of academic disciplines, from social, intellectual, and political history through literature, religion, and philosophy, relating to the Arab World, Iran, North Africa, and all the areas included within the former Ottoman empire. The project will utilize the existing preservation-quality microform surrogates to create an efficient and cost-effective digitization workflow. Both digitization and cataloging will be done by vendors and staff will be hired locally to process the resulting files. The digital files will be made available through records in OCLC, the Library's catalog, and HathiTrust."
+hc_id: "21428573"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Chicago LIbrary"
+p2_name:  "Ms. Marlis Saleh"
+p2_institution:  "University of Chicago Library"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>1990560 monographs and serials on microfilm and microfiche</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$218,224"
+material_description:  "In 1983 the Middle East Department of the University of Chicago Library initiated an ambitious program to assemble and preserve in microformat valuable Ottoman, Persian, and Arabic research materials under the rubric Middle East Documentation Center (MEDOC). These materials were acquired by staff traveling to Turkey and Iran, through purchases facilitated by local vendors there, and through loans from institutions and individuals. Although some of these items have been catalogued, the collection as a whole is discoverable only through a local listing. The Chicago Ottoman Microforms Project consists of a number of collections. The first six subsets are Ottoman government publications: state, ministry, provincial, and city yearbooks; budgets and financial reports; commerce and industry reports; and the publications of the Turkish Grand National Assembly. The Ottoman and Modern Turkish Journals and Popular Press collection comprises newspapers and journals on such topics as political satire, women's issues, religion, and intellectual, social, and cultural matters. The Divan Project was a collaborative project with the Library of Congress, Princeton, and UCLA. By pooling their resources with those held in Chicago, we were able to assemble and microfilm a complete collection of all published Ottoman divans (poetry collections). Ottoman Histories, and Ottoman Literature, Writers and the Arts, contain many important early sources. The Chicago Persian Microforms Project concentrated chiefly on journals, including titles in the fields of literature, politics, religion, women's studies, and the social sciences. Other components include some government materials, and the documents, letters, and papers of the Shaykhi religious movement, founded in the nineteenth century. The Chicago Arabic Microforms Project similarly focused on journals, including a collection of late nineteenth- to early twentieth-century publications from Egypt which include important women's and Coptic Christian publications. Other Arabic Research Materials includes indexes of manuscript collections, and the official gazette of the Syrian government."
 ---
-
-

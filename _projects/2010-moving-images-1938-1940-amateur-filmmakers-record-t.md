@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Moving Images 1938-1940: Amateur Filmmakers Record the New York World's Fair and Its Period
+title: "Moving Images 1938-1940: Amateur Filmmakers Record the New York World's Fair and Its Period"
+year: 2010
+end_range: 1940
+formats: "NULL"
+geographic_extant: "The collections are centered on the New York metropolitan area, the New York World's Fair in Queens, NY, and encompass locations in the US and Canada."
+institution: "Northeast Historic Film"
+institution_type: "NULL"
+primary_contact: "Karan Sheldon"
+size: "715 objects"
+start_range: "1938"
+summary: "The topic of this three-institution collaborative project is the New York World's Fair (1939-1940), and the context of other amateur films made during that period. The materials are original 16mm and 8mm film reels, the records of individuals and families. The partners will catalog film at Northeast Historic Film, Queens Museum of Art, and George Eastman House International Museum of Photography and Film. These moving images are primary source materials considered essential to study of the period. Footage is by members of the Amateur Cinema League and others. Architect Stephen F. Voorhees was vice president of the New York World's Fair and president of the Amateur Cinema League (ACL). In the ACL monthly magazine he wrote, \"The New York World's Fair depends upon your camera and your eye to tell other generations that here, in 1939, men and women of good will from all over the earth had the courage to set up a tribute to the ways of peace and the hope of perfection.\" (ACL Movie Makers, June 1939) The Robert Decker Collection at Northeast Historic Film is Kodachrome color footage. Kodachrome, introduced by Kodak in 1923 and discontinued 2009, provided exceptional color quality and archival stability. Queens Museum of Art holds the 8mm and 16mm film of Ritabelle Shore and others. George Eastman House film is b&w and Kodachrome, received from personal collections, that describe New York City including Times Square, Jones Beach, and the World’s Fair."
+hc_id: "629"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "85 Main Street"
+address2:  "PO Box 900"
+city:  "Bucksport"
+state:  "ME"
+zip: "4416"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "George Eastman House International Museum of Photography and Film, Queens Museum of Art"
+grant_amount:  "$186,900"
+material_description:  "NULL"
 ---
-
-

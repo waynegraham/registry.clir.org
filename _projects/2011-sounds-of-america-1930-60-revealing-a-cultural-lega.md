@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Sounds of America, 1930-60: Revealing a Cultural Legacy of Radio and Audio Discs
+title: "Sounds of America, 1930-60: Revealing a Cultural Legacy of Radio and Audio Discs"
+year: 2011
+end_range: 1960
+formats: "NULL"
+geographic_extant: "The discs were produced primarily in the US and broadcast internationally on the Voice of America and US networks or intended for individual use."
+institution: "University of Missouri-Kansas City"
+institution_type: "NULL"
+primary_contact: "Bonnie Postlethwaite"
+size: "22762 objects"
+start_range: "1930"
+summary: "The UMKC Armed Forces Radio Service (AFRS) Collection features programs recorded from 1942-60 on 12,400 16” transcription discs. AFRS was established in 1942 by the US War Dept. to entertain and inform troops around the world. The AFRS edited, produced, and distributed programming from the major radio networks, from government productions and for its own productions for broadcast over the Voice of America and Armed Forces radio stations abroad. Programming includes all types of music, dramas and comedies, and educational programs. The AFRS programming documents the type of popular and cultural programming that reflected the times. The Stanford Archive of Recorded Sound transcription disc collection contains 10,362 radio and instantaneous discs chronicling the diversity of radio broadcasting, culture, and American life from the 1930s-50s. Significant musical collections include the Standard Hour radio programs, which showcase the most significant vocalists from the golden age of opera, and the Hollywood Bowl Collection, a series of symphonic programs featuring great conductors of the time. Spoken word collections include many news programs documenting issues and social attitudes surrounding America's entrance into WWII, such as the discrimination against Japanese-Americans. The collection contains discs distributed to radio stations and also many unique recordings of events and live performances. The two collections are complementary overlapping by about 400 items."
+hc_id: "707"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "University Libraries"
+address2:  "214 Miller Nichols Library"
+city:  "Kansas City"
+state:  "MO"
+zip: "64110-2499"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

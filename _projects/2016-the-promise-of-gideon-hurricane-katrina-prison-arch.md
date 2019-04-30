@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Promise of Gideon: Hurricane Katrina Prison Archive
+title: "The Promise of Gideon: Hurricane Katrina Prison Archive"
+year: 2016
+end_range: 2016
+formats: "NULL"
+geographic_extant: "Southeast Louisiana including Baton Rouge and New Orleans. Some correspondence from lawyers through the United States."
+institution: "Tulane University"
+institution_type: "NULL"
+primary_contact: "Ms. Amanda Watson"
+size: "NULL"
+start_range: "2005"
+summary: "In August 2005, Hurricane Katrina made landfall in Southeast Louisiana. The largest hurricane to ever hit the United States, the effects of Hurricane Katrina were far reaching. One of the many things thrown into the chaos of Katrina was the incarcerated population of Southeast Louisiana. The Promise of Gideon project proposes to archive and share the experiences of this incarcerated population during and after the storm. Through personal interviews with prisoners, officers, and officials as well as attorney correspondence, Tulane University Law Professor Pamela Metzger collected these stories. We would like to make this truly unique collection freely and widely available to not only document what happened, but also to aid and inform preparations for future instances when natural disaster and incarceration meet."
+hc_id: "22320040"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Tulane University Law Library"
+p2_name:  "Ms. Pam Metzger"
+p2_institution:  "Tulane University School of Law"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>18 Handwritten Interviews, printed interviews, interview materials.</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$173,109"
+material_description:  "The bulk of the materials are the collected prisoner and incarcerated interviews and narratives. The prisoners were housed throughout Southeast Louisiana during Hurricane Katrina. These mostly hand-written materials were collected by Professor Pam Metzger and have been held in a paper archive since the Hurricane. Each interview/narrative also has an attached police report (if available) noting the circumstance of the incarceration. In addition, we have a collection of Professor Metzger's email correspondence with multiple attorneys regarding the potential legal issues of the incarcerated."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Intellectual Access to Moving Images of Work Life, 1916-1950
+title: "Intellectual Access to Moving Images of Work Life, 1916-1950"
+year: 2009
+end_range: 1950
+formats: "NULL"
+geographic_extant: "Following NHF's regional mandate, the collections are centered on Maine, New Hampshire, Vermont, and Massachusetts."
+institution: "Northeast Historic Film"
+institution_type: "NULL"
+primary_contact: "Karan Sheldon"
+size: "50 objects"
+start_range: "1916"
+summary: "\"Intellectual Access to Moving Images of Work Life, 1916-1950\" has created descriptive records for 50 film collections (16mm, 8mm, 35mm) identified as significant moving image archival documents relating to work and labor in the first half of the 20th century. Like NHF's films named to the National Film Registry, From Stump to Ship (1930) and The Making of an American (1920), our accessions reward scholars with detailed records of labor, environment, and society. Each reel is unique coverage, not otherwise available. Our collecting criteria result from cooperation with historians since our founding, including David C. Smith, our first board member, Bird & Bird Professor of History at the Univ. of Maine, and Martha J. McNamara, Director, New England Arts & Architecture Program, Wellesley College. The reels hold hidden research materials--with a range of cataloging requirements--from among 800 collections gathered at NHF over 23 years. Many relate to non-moving image documents in other repositories, as moving images are a demanding category of archival holdings too often separated from related materials. NHF's Albert Farwell Bemis Collection, 16mm film (1920s-1930) shot by Bemis, an industrialist and benefactor to housing research, adds depth to MIT Institute Archives and Special Collections Albert Farwell Bemis Foundation papers. Film from our Edwin Bienick Collection of the American Writing Paper Co. enhance holdings at W.E.B. Du Bois Library, Univ. of Mass., Amherst."
+hc_id: "544"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "85 Main Street"
+address2:  "PO Box 900"
+city:  "Bucksport"
+state:  "ME"
+zip: "4416"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$214,626"
+material_description:  "NULL"
 ---
-
-

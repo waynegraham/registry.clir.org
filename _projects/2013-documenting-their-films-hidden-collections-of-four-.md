@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Documenting Their Films: Hidden Collections of Four Independent Filmmakers
+title: "Documenting Their Films: Hidden Collections of Four Independent Filmmakers"
+year: 2013
+end_range: 1991
+formats: "NULL"
+geographic_extant: "The geographic scope is primarily the United States; two collections include materials featuring Europe and Israel and one includes Mexico."
+institution: "George Eastman House International Museum of Photography and Film"
+institution_type: "NULL"
+primary_contact: "Caroline Yeager"
+size: "223 boxes, 153 cubic feet"
+start_range: "1895"
+summary: "The project focuses on four manuscript collections that are housed in the Motion Picture Department Stills, Posters and Paper Collections. The materials cover the period 1895 through 1991, with a geographic scope including North America, Europe and Israel. Each was a part of a larger donation that included films made by these independent filmmakers: Leo Hurwitz, Lothar Wolff, Douglass Crockwell, and James Reese. Though their films have been well documented and cataloged, the accompanying paper collections have gone largely unprocessed and uncataloged for years, and in some cases, decades. The collections vary in size (from 1 box to 101 boxes) and include a wide range of materials such as correspondence, notes, scripts, financial records, photographs, photo albums, drawings, patents, audio tapes, flip books, mutoscope reels, plaques and awards, newspaper clippings, and other personal effects. Each of these collections compliments and enhances the film collections and will help scholars, researchers and students more fully understand the films and the people who made them."
+hc_id: "1119"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "900 East Ave."
+address2:  "NULL"
+city:  "Rochester"
+state:  "NY"
+zip: "14607"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$155,900"
+material_description:  "NULL"
 ---
-
-

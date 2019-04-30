@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging the Collectors: Documenting Film Stills in the George Eastman House Collection
+title: "Cataloging the Collectors: Documenting Film Stills in the George Eastman House Collection"
+year: 2010
+end_range: 1950
+formats: "NULL"
+geographic_extant: "The collections in this project are international in scope with an emphasis on American filmmaking during the \"Golden Age\" of Hollywood (1910 - 1950). The stills fall into two categories: those images which document the production and exhibition of a film and those classified as large format glamour photos taken by the more famous studio photographers like George Hurrell, Clarence Sinclair Bull, Eugene Richee, and Ruth Harriet Louise. Unlike production stills, these were taken in the photographer��s portrait gallery, away from the set of a film."
+institution: "George Eastman House"
+institution_type: "NULL"
+primary_contact: "Caroline Frick Page"
+size: "167 linear feet, 120000 objects"
+start_range: "1910"
+summary: "The Motion Picture Stills collection currently includes over 600,000 vintage production photographs, reproductions made internally over the years, as well as prints made from frame enlargements prior to digital technologies. It is composed of many individual collections that were amassed by private collectors. \"Cataloging the Collectors\" will focus on documenting and cataloguing the 120,000 stills donated to the Museum after its founding that form the basis of the historic study and research materials at GEH documenting motion picture film production. These core collections reflect the personal tastes and interests of film historian and avant-garde filmmaker Theodore Huff (1905-1953), generally regarded as the first person to systematically collect film stills; James Card (1915-2000), film collector, author and the first curator of GEH's motion picture collection; and Ray Rueby (1898-1967), a sign painter who created theatre lobby displays and amassed his collection from the stills sent by Hollywood studios to local theatres in the midwest. Huff's collection encompasses the widest range of films produced in the first half of the 20th Century including rare vintage stills from D. W. Griffith's films; Card focused his collecting on the personalities from silent European productions, and Rueby's collection is a representation of how publicity stills were used in the exhibition side of the film industry."
+hc_id: "600"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "900 East Ave."
+address2:  "NULL"
+city:  "Rochester"
+state:  "NY"
+zip: "14607"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

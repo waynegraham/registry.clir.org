@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Balboa Park Virtual Library
+title: "Balboa Park Virtual Library"
+year: 2015
+end_range: 2015
+formats: "NULL"
+geographic_extant: "The project is global in scope, with a focus on the American Southwest, southern California, Baja California, and Mexico."
+institution: "Balboa Park Online Collaborative"
+institution_type: "NULL"
+primary_contact: "Mr. Nik Honeysett"
+size: "NULL"
+start_range: "1514"
+summary: "With 17 museums, nine performing arts venues, 19 beautiful gardens, and the world-famous San Diego Zoo, San Diego's Balboa Park contains an astonishing array of treasures, including 150,000 research volumes, 600,000 collections objects, 7 million specimens, 5.5 million photographs, 120 million historic documents, and 4,000 annual music and theatrical performances and films. In April 2015, the Balboa Park Online Collaborative (BPOC) launched the Balboa Park Virtual Library project, an initiative to digitize and make accessible the Park's esteemed research libraries. Phase Two of the project (2016-2017) will focus on digitizing the San Diego Museum of Man and San Diego Natural History Museum's book collections and archival materials, such as photographs, field notes, and historic maps. This initiative will provide scholars and students with unprecedented access to Balboa Park's extraordinary science, anthropology, and cultural studies resources, which are currently available only to a handful of museum staff and researchers."
+hc_id: "16942210"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Balboa Park Online Collaborative"
+p2_name:  "Ms. Dani"
+p2_institution:  "Project Manager"
+p3_name:  "Ms."
+p3_institution:  "NULL"
+material_string: "<li>25000 Books</li>"
+collaborating_institution:  "San Diego Museum of Man; San Diego Natural History Museum"
+grant_amount:  "$225,150"
+material_description:  "The libraries of the San Diego Museum of Man (SDMoM) and San Diego Natural History Museum (SDNHM) are two are the most foremost archives of anthropological and natural sciences in Southern California. They feature a wealth of research materials, comprising over 74,000 research volumes, 15,000 scientific journals, 50,000 historic photographs, 5,000 maps, and countless field notes and other artifacts. \n\n\n\nSDMoM's Scientific Library specializes in anthropology and cultural studies, with additional collections relating to paleopathology, medical anthropology, forensics, and human evolution. The collection includes facsimile copies of rare Mesoamerican codices; the proceedings of the International Congress of Americanists from its inception in 1877; the U.S. Geological Survey from 1873\"”1900; and rare works such as Incidents of Travel in Central America, Chiapas, and Yucatan (1841, 1842) by explorer John Lloyd Stephen and Conquest of Mexico by historian William H. Prescott. The SDMoM library also contains over 50,000 photographs on San Diego regional history.\n\n\n\nThe SDNHM Research Library features volumes about the natural history of the world, with many titles from the 16th to 19th centuries. Highlights include Hortus Sanitatis (1517) by Johannes von Cuba; Histora naturalis ranarum (1758) by German painter Johann Rsel von Rosenhof; and Hierozoicon (1663) by French biblical scholar Samuel Bochart. The library also contains over 5,000 maps dating from the 17th century to the present; a photograph collection dating from 1918\"”1980; and the Klauber Herpetology Library, with rare volumes on herpetology and natural history, extensive field notes, and 45 of herpetologist L.M. Klauber's personal research diaries.\n\n\n\nIn Phase Two of the Balboa Park Virtual Library project, BPOC seeks to digitize 25,000 of these research volumes, focusing on the rare book collections, as well as 10,000 photographs, 4,000 field notes, and 1,000 historic paper maps from southern and Baja California."
 ---
-
-

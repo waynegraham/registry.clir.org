@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Dashiell-Marine Collection
+title: "Dashiell-Marine Collection"
+year: 2008
+end_range: 1998
+formats: "NULL"
+geographic_extant: "The primary scope is Baltimore City and County, and the high seas. Some of the documents relate to the Carolinas, Texas, California and Mississippi."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Ellen von Karajan"
+size: "335 boxes"
+start_range: "1797"
+summary: "This is a public history collection comprised of materials from four generations of the Fell's Point line of the Dashiell-Marine family, two of America's founding Hugeonot families. The collection begins with logs and letters of sea captain and privateer Henry Dashiell and his wife, Mary Leeke, neice of a British admiral, and continues through to two sisters who fought to save Fell's Point from demolition. The special collection consists, in part, of ship's logs, privateer records, letters of marque, maps, account ledgers, photographs and personal correspondence, books and pamphlets, sharecroppers records, diaries, documents about slavery and from the Union's Mississippi Campaign during the Civil War, the Depression, WW1 and WW2, family members' efforts to lobby Congress to have Fort McHenry become a National Monument instead of a prison, to have the Star Spangled Banner named the National Anthem, a poem by James Whitcomb Riley, correspondence in French from the Pachon family, who emigrated after the slave revolts in Haiti, Sam Houston, James Madison and others; DAR, CAR, shipping, 1812, Masonic Order, U.S. Marshall's, Hugeneot Society and Road Fight records, medical books, doctor's paraphanelia and supplies, labelled medicine bottles/vials, books, account books, patient ledgers, medical school thesis and receipts from father/son doctors in the family. Outside the scope of this, there are also portraits, artwork, textiles and 3-dimensional objects and furnishings."
+hc_id: "375"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "808 S. Ann St."
+address2:  "NULL"
+city:  "Baltimore"
+state:  "MD"
+zip: "21231"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Revealing Hidden Collections in the Northwest
+title: "Revealing Hidden Collections in the Northwest"
+year: 2008
+end_range: 2006
+formats: "NULL"
+geographic_extant: "Includes Alaska, Washington, Oregon, Idaho, Montana, Mexico, and to a lesser extent California, Nevada, and Virginia."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Jodi Allison-Bunnell"
+size: "1919 cubic feet, 906 linear feet, 30 objects"
+start_range: "1848"
+summary: "Representing a broad range of institutions in the Northwest, records in this proposal range widely. Materials include government, religious, personal, and corporate records, and date from the mid-19th century to 2006. The primary geographic scope of the records is Alaska, Washington, Oregon, Idaho, and Montana, although selected collections touch on Mexico, Virginia, California, and Nevada. Highlights include the records of recent Idaho Governor Dirk Kempthorne, who served from 1998 until 2006, when he was appointed Secretary of the Interior. Natural resources in Oregon are documented through films, photographs, maps and textual records relating to forestry, irrigation, the wood preservation industry and agricultural methods and products. Oregon's women's history is highlighted through the records of women in both the political and the academic arenas. A broad range of topics on Alaskan history is represented, including Alaska Natives, World War II in Alaska, African American soldiers, reindeer herding, mining, and the gold rush. Montana and the larger creative community of writers are documented through correspondence in the Goedicke-Robinson Papers. Correspondents in this collection include two Nobel Prize winners and a number of luminaries of the writing/poetry world. Washington's history is explored through individuals key to the development of the Pacific Northwest as a frontier territory and as a state. Religious heritage is also a strong theme."
+hc_id: "178"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1299 University of Oregon"
+address2:  "NULL"
+city:  "Eugene"
+state:  "OR"
+zip: "97403-1299"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

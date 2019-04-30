@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Sharing Terpsichore's Legacy: A Collaborative Project (Terpsichore)
+title: "Sharing Terpsichore's Legacy: A Collaborative Project (Terpsichore)"
+year: 2010
+end_range: 2010
+formats: "NULL"
+geographic_extant: "Activities and research in the United States, Canada, Mexico, South America, Europe, Korea, Japan, China and Indonesia."
+institution: "Dance Heritage Coalition"
+institution_type: "NULL"
+primary_contact: "Libby Smigel"
+size: "568 boxes, 68 cubic feet, 339 linear feet"
+start_range: "1850"
+summary: "Terpsichore' covers a variety of dance-related materials in 14 collections at four institutions (the Repositories). The Dance Notation Bureau (DNB)in New York City collections feature the writings of dance notation innovator Rudolf Laban, documentation of the DNB's history from 1940, material on different notation systems, and files of choreographers whose works have been notated. The Museum of Performance & Design (MPD) in San Francisco holds videos of culturally and artistically diverse West Coast dance companies including AXIS Dance Company presenting disabled and non-disabled dancers (\"mixed-ability\"), Lily Cai Chinese Dance Co., Joe Goode Performance Group, Oakland Ballet, San Francisco Butoh Festival, SFJazz's Tap-Jazz Summit, and Theatre Flamenco. Work at The Ohio State University (OSU)in Columbus will focus on collections of African American choreographer Bebe Miller, Broadway choreographer Randy Skinner, dancer/choreographer Kenneth Rinker, show-business printer Bill Curtiss, three collections relating to eurhythmics creator Emile Jaques-Dalcroze, and Dance Notation Bureau materials distinct from those at DNB itself. The UCLA Library Special Collections (UCLA) will work on the substantial personal collection of modern dance pioneer Ruth St. Denis, whose legacy influenced seminal choreographers such as Martha Graham, Charles Weidman, and Doris Humphrey."
+hc_id: "595"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1111 16th Street NW"
+address2:  "Suite 300"
+city:  "Washington"
+state:  "DC"
+zip: "20036"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

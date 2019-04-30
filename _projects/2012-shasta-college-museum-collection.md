@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Shasta College Museum Collection
+title: "Shasta College Museum Collection"
+year: 2012
+end_range: 1980
+formats: "NULL"
+geographic_extant: "Shasta County, California"
+institution: "Shasta Historical Society"
+institution_type: "NULL"
+primary_contact: "Brianne Lilienthal"
+size: "600 boxes"
+start_range: "1850"
+summary: "The Shasta College Museum and Research Center began in 1968 by a group of college faculty members. In 1972 a permanent facility was established, modeled after Pierson B Reading's adobe house. Mr. Reading was the areas first white settler. During the Museums prime, the facility maintained an array of one-dimensional items (photographs, manuscripts, maps) as well as three-dimensional items (mining equipment, logging apparatuses). The Shasta College Museum has been closed since 2006 as a result of budget cutbacks. The materials were quickly boxed and the utilities turned off creating a storage unit rather than a usable facility. In the spring of 2011, SHS received approval by the Shasta College Board of Trustees to accept responsibility for the Shasta College Museum collection. The collection being assumed by SHS consists of one-dimensional pieces, which includes books, manuscripts, maps, photos and other historical documents. The Shasta College Museum Collection will result in a searchable catalog that will link patrons with MARC records to the holdings. These materials cover the greater Shasta County area between 1850 and 1980. Researchers of all ages will be able to access social, educational, medical, religious, geological and employment information."
+hc_id: "883"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1449 Market Street"
+address2:  "NULL"
+city:  "Redding"
+state:  "CA"
+zip: "96001"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

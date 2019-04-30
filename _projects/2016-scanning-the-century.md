@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Scanning the Century
+title: "Scanning the Century"
+year: 2016
+end_range: 2004
+formats: "NULL"
+geographic_extant: "North Castle NY. (Bedford, Banksville, North White Plains, Armonk)"
+institution: "North Castle Public Library"
+institution_type: "NULL"
+primary_contact: "Ms. Edie Martimucci"
+size: "NULL"
+start_range: "1960"
+summary: "We are scanning the Historical local Newspapers dating as far back as 1915. We have completed a segment up to the 50's and are looking to complete the 60's and up, over a period on the next two years. We have microfilm, as well as an online hosted page which is searchable."
+hc_id: "22175390"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "North Castle Public Library"
+p2_name:  "Ms. Mary Johnson"
+p2_institution:  "North Castle Public Library"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>24165 newspapers both bound and unbound</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$50,000"
+material_description:  "Local newspapers that covered news about the Town of North Castle (Bedford, Banksville, North White Plains, Armonk). These newspapers are in poor condition, and this project is crucial to preserve the history of our town. The scanned items to date have been utilized internationally, with inquiries as far as Australia."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Massachusetts Horticultural Society Historic Collection
+title: "Massachusetts Horticultural Society Historic Collection"
+year: 2008
+end_range: 1940
+formats: "NULL"
+geographic_extant: "Primarily the United States and Western Europe"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Anya Maziak"
+size: "3062 linear feet, 4500 objects"
+start_range: "1483"
+summary: "The collection, containing 4,500 book and journal titles dating from the 15th through the 20th centuries, was acquired by the Lenhardt Library of the Chicago Botanic Garden (CBG) in 2002 from the Massachusetts Horticultural Society. This rare treasure has been virtually inaccessible for the past 40 years and minimally cataloged due to a lack of funding and staff while in the Society’s possession. \n \nThis collection brings together a comprehensive perspective of five centuries of research in botany, gardening, and landscape design, ranging from Theophrastus’ editio princeps of 1483 to Charles Darwin’s experiments in the 19th century. In addition to rare books, the collection contains important and unique journals, newsletters, almanacs, and bulletins of a variety of organizations in America and Europe. The serials, dating primarily from the 18th and 19th centuries, comprise the majority of the materials that remain uncataloged. The collection contains particularly scarce the cumulative volumes or complete runs of serials of more than 100 years. The journals comprise a unique body of literature, reflecting the dynamic intellectual and cultural landscape of 19th century New England, the emerging presence of the United States in the world, and the evolution of agriculture."
+hc_id: "271"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1000 Lake Cook Road"
+address2:  "NULL"
+city:  "Glencoe"
+state:  "IL"
+zip: "60022"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

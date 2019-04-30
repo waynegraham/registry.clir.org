@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Manuscripts of the Muslim World
+title: "Manuscripts of the Muslim World"
+year: 2017
+end_range: 1900
+formats: "NULL"
+geographic_extant: "Middle East, Northern Africa, Iran, South Asia, Spain, Turkey"
+institution: "Free Library of Philadelphia Foundation"
+institution_type: "NULL"
+primary_contact: "Ms. Caitlin Goodman"
+size: "NULL"
+start_range: "1000"
+summary: "This three-year project will provide digital access to 576 Islamic manuscripts and 827 paintings heretofore largely invisible to scholars. Together these holdings represent in great breadth the Middle East’s flourishing intellectual and cultural heritage from 1000 to 1900, covering mathematics, astrology, history, law, literature, and the Qur’an and Hadith. The bulk are Arabic and Persian illuminated manuscripts, along with examples of Coptic, Indo-Persian, Samaritan, Syriac, and Turkish calligraphy, and paintings on disbound leaves and cuttings. Columbia University will digitize 345 manuscripts. University of Pennsylvania will digitize 84 of its codices, along with 94 manuscripts from the Free Library and smaller collections from Bryn Mawr and Haverford colleges. The Free Library will digitize 827 paintings. A cataloger will be hired by the University of Pennsylvania to enhance metadata for all partners. All digital images and records will be available as a unified collection at OPenn and added to other online repositories."
+hc_id: "26893540"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Free Library of Philadelphia"
+p2_name:  "Dr. Mitch Fraas"
+p2_institution:  "University of Pennsylvania Libraries"
+p3_name:  "Dr. Janet Gertz"
+p3_institution:  "Columbia University"
+material_string: "<li>576 Manuscripts</li>"
+collaborating_institution:  "Columbia University in the City of New York; University of Pennsylvania; Bryn Mawr College; Haverford College"
+grant_amount:  "$500,000"
+material_description:  "Mathematics professor David Eugene Smith donated his collection of Arabic script manuscripts to Columbia University in 1934. The collection remained hidden from all but the most persistent scholars for years, largely due to a lack of language expertise in the Libraries. This changed in 2016 when a group of faculty and graduate students in religion, history, and Middle East studies joined with Columbia’s librarians to begin a cataloging project. The manuscripts include bound codices, single leaves, and scrolls. Approximately half of them concern the broad history of mathematics, including arithmetic, algebra, geometry, astronomy, accounting, and science. Other topics include religion and poetry. Anne Baker Lewis, the widow of prominent Philadelphia collector John Frederick Lewis, donated his collection to the Free Library of Philadelphia in 1936. At its heart is a fine selection of Arabic and Persian illuminated manuscripts, along with examples of Coptic, Indo-Persian, Samaritan, Syriac, and Turkish calligraphy, and more than 800 paintings on disbound leaves and cuttings. There are works of astronomy, history, philosophy, religion, law, and literature, including two dozen copies of the Qur’an and eleven of Firdawsi's epic poem, the Shahnama. The University of Pennsylvania’s holdings come from the Katz Center for Advanced Judaic Studies at the University, and date to early 20th-century collectors like John Frederick Lewis and Mayer Sulzberger. The majority of these manuscripts are relatively unknown to scholars and include commentaries on the Qur’an, collections of Hadith, Islamic law texts, astrological and magical manuscripts, Persian poetry, and hybrid Arabic-Coptic Christian texts."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Documenting Advocacy: Human Rights Collections in the Center for Human Rights Documentation and Research, Columbia University
+title: "Documenting Advocacy: Human Rights Collections in the Center for Human Rights Documentation and Research, Columbia University"
+year: 2012
+end_range: 2011
+formats: "NULL"
+geographic_extant: "Global. These collections reflect the international work of their organizations and contain information on all regions of the world."
+institution: "Columbia University"
+institution_type: "NULL"
+primary_contact: "Michael Ryan"
+size: "1910 linear feet"
+start_range: "1971"
+summary: "Lawyers' Committee for Civil Rights Under Law Southern Africa Project (LCCR), 1971-1994; Physicians for Human Rights (PHR), 1982-2011; Human Rights First (HRF), 1978- 2003. The collections contain a broad range of material from the 1980s through the early 2000s, covering these US organizations’ formation and early history, day-to-day operations, missions, meetings, interactions with other NGOs and governments, participation in conferences, and research projects. Some files also contain interviews/correspondence with victims of human rights violations. Topics are diverse, ranging from women’s rights in China to refugees seeking US asylum to the formation of the International Criminal Court. HRF places emphasis on issues in the Middle East and Latin America, while PHR contains extensive files on missions to the Philippines, South Korea, Turkey, the former Yugoslavia, Cambodia, and Iraqi Kurdistan. However, both collections contain significant material on all regions of the world. LCCR contains material used by the Committee to carry on and advocate for their work throughout Southern Africa, with the highest concentration of material relating to South Africa and Namibia. Because of their large size and variety of information, these collections have tremendous research potential for scholars and current human rights activists, particularly those interested in how human rights organizations form and develop over time, and what programs and strategies have been most effective."
+hc_id: "917"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "535 West 114th Street"
+address2:  "6th Floor E. Butler"
+city:  "New York"
+state:  "NY"
+zip: "10027"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$242,500"
+material_description:  "NULL"
 ---
-
-

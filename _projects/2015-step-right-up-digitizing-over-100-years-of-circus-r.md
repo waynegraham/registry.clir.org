@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Step Right Up: Digitizing Over 100 Years of Circus Route Books
+title: "Step Right Up: Digitizing Over 100 Years of Circus Route Books"
+year: 2015
+end_range: 1969
+formats: "NULL"
+geographic_extant: "United States; Canada; Cuba; Mexico; South America; Europe."
+institution: "The Board of Trustees of Illinois State University"
+institution_type: "NULL"
+primary_contact: "Mr. Dallas Long"
+size: "NULL"
+start_range: "1842"
+summary: "The most critical decision any owner had was the routing of the circus for the season; a good route meant a successful season financially. Route books document the season for 19th and 20th century circuses, recording not only dates, locations, and general attendance but behind the scenes of the show and listing the people who created the magical world of the circus. Our goal is to improve access to these sources for scholars who now have to examine the route books on-site. We will accomplish our goal by digitizing the 346 unique route books (out of 400 known in existence) owned by Illinois State University; The Ringling; and Circus World Museum, enabling discovery by applying the circus controlled vocabulary to metadata, and aggregating the images into a single digital collection. Illinois State University and The Ringling will digitize their respective collections on-site, whereas Illinois State will digitize Circus World Museum's route books."
+hc_id: "16186254"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Illinois State University"
+p2_name:  "Mr. Patrice-Andre"
+p2_institution:  "Head of Digital Collections"
+p3_name:  "Mr. Mr. Ron"
+p3_institution:  "Digital Collection Manager"
+material_string: "<li>346 Books</li>"
+collaborating_institution:  "The John and Mable Ringling Museum of Art (The Ringling); Circus World Museum"
+grant_amount:  "$259,367"
+material_description:  "Route books were published at the end of the circus season and describe the show's activities for that year. They were sold to employees of the show and were also often advertised and sold to circus fans. The name \"route book\" is derived from the listing of planned and/or contracted show engagements, listed by month and date, and state and city, a compilation known as the \"route.\" Grander volumes included much more information about show activity. By their very name, they indicated and underscored the itinerancy of the circus. Route books typically list all the personnel for the show, usually broken down by department. Stories and photos of employees may also be included. For circuses, the route traveled was key to the financial success of the show. Route books, as their name suggests, also listed cities visited, date(s) played, railroads used, and number of miles traveled. Provenance for the collection varies; from circuses, circus employees, individuals, booksellers, antique dealers, and other middlemen. The route books are for a diverse range of circuses, including well known circuses like the Barnum & Bailey Circus and the Ringing Bros Circus and what are now lesser known circuses such as Adam Forepaugh and Sells Brothers Circus, as well as specialty shows such as Pawnee Bill's Wild West and AL G. Barnes' Wild Animal Circus."
 ---
-
-

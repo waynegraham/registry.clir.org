@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Bringing Objects into Focus: Digitizing 40 Years of Hidden Cataloging Photographs, Negatives, and Slides
+title: "Bringing Objects into Focus: Digitizing 40 Years of Hidden Cataloging Photographs, Negatives, and Slides"
+year: 2016
+end_range: 1959
+formats: "NULL"
+geographic_extant: "SDMoM's collection has a strong focus on the Western Hemisphere, and strengths in California, the Southwestern United States, Mexico, and western South America. Important ancillary collections include artifacts from Alaska, the Pacific Northwest Coast, the Great Plains, Central America, and South America. Significant comparative collections feature ancient Egypt and Polynesia."
+institution: "San Diego Museum of Man"
+institution_type: "NULL"
+primary_contact: "Ms. Kelly Revak"
+size: "NULL"
+start_range: "1959"
+summary: "The proposed project would digitize documentary photographs, negatives, and slides of objects within the San Diego Museum of Man (SDMoM) collections. These images were produced by SDMoM curatorial staff between the years 1959-1999, as part of systemic cataloging efforts. While SDMoM moved to an electronic collections database in 2000, the aforementioned images are still largely inaccessible to the public and to Museum staff. By digitizing these images, we can connect them to the Object Records they relate to, and add significant value to our understanding of the objects. Connecting the documentary image collection and the cataloged object collection will finalize links that were always intended but lost, as we made the leap to digital databases and digital imaging. SDMoM will work to make these digitized images publicly accessible through the design and implementation of an Online Collections Portal. This will make our collections widely available online to the general public."
+hc_id: "21202975"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "San Diego Museum of Man"
+p2_name:  "Ms. Kelly Williams"
+p2_institution:  "San Diego Museum of Man"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>15000 Black & White Acetate Strip Negatives</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$250,000"
+material_description:  "The San Diego Museum of Man's (SDMoM) collections include more than 150,000 ethnographic objects, over 500,000 archaeological items, and over 150,000 photographic images from around the world. The materials nominated for digitization are documentary images (photographs, negatives, and slides) of the diverse objects in our collection. These images were produced by SDMoM curatorial staff between the years 1959-1999 as part of systematic cataloging efforts. Beginning in 1959, there were two major shifts in SDMoM's cataloging methodologies. The first was the adoption of a new numbering system, from a 5-digit number to a trinomial accession number-based system. The second was the beginning of the systematic photographic documentation of objects in our collection. From 1959-1999 objects were photographed by curatorial staff as a part of the cataloging process. Small contact prints were affixed directly to the Catalog Card for reference. In 1979, efforts were made to photograph objects that had been cataloged before 1959. From roughly 1975-1999 color slides were produced of many of the objects in our collection. Since 2000, SDMoM has made great strides in cataloging, inventorying, and documenting our object collection into an electronic database. However, associated images of our collection are still largely locked in physical form, rendering them essentially inaccessible even to Museum staff and truly invisible to the public."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing and Cataloging the Student Work Collection of The Irwin S. Chanin School of Architecture Archive at The Cooper Union
+title: "Digitizing and Cataloging the Student Work Collection of The Irwin S. Chanin School of Architecture Archive at The Cooper Union"
+year: 2015
+end_range: 2006
+formats: "NULL"
+geographic_extant: "The works in the collection represent numerous geographic regions, as the architectural designs/investigations were proposed for or studied locations in North and South America, Europe, Asia, Africa, Russia, and Australia."
+institution: "The Cooper Union for the Advancement of Science and Art"
+institution_type: "NULL"
+primary_contact: "Mr. Steven Hillyer"
+size: "NULL"
+start_range: "1930"
+summary: "The core collection of The Irwin S. Chanin School of Architecture Archive is a photographic archive of student work from the 1930s through the present. Largely unpublished, the collection represents a comprehensive trajectory of the pedagogy of architecture at The Cooper Union for over 75 years. The proposed project entails the digitization of photographic negatives, prints, and transparencies of 2,966 documented works spanning from the 1930s to 2006, and the development of an online research database to provide unlimited access to what is now a primarily closed collection. It is anticipated that this digitization and cataloging project will be a 22-month undertaking. The results of the effort will serve as an invaluable resource for student, faculty, and academic/historical research, providing direct access to the photographic archive of a school that has made a significant impact on the education of young architects across the globe."
+hc_id: "17625403"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "The Cooper Union for the Advancement of Science and Art"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>56 4\"x5\", 5\"x7\" and 8\"x10\" black and white negatives and color transparencies, 35mm color slides and 4\"x5\", 5\"x7\" and 8\"x10\" black and white photographic prints</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$238,113"
+material_description:  "The Cooper Union's Student Work Collection of the Architecture Archive is unique among schools of architecture. To our knowledge, few architecture schools possess such an extensive archive of their pedagogies over such a lengthy period of time. The collection has the potential to provide an opportunity for the extensive academic research of its curricula, developed under the leadership of John Hejduk, who served as Dean of the school from 1965-2000. His radical rethinking of the means by which young architects were trained redefined both the approach to the discipline and The Cooper Union's stature among schools of architecture. Over Hejduk's 35-year tenure, work produced at the school made a significant impact on how educators at other institutions developed their pedagogies.\n\n\n\nMore recent works in the collection were completed under the deanship of Anthony Vidler, whose influence on the curriculum is clearly reflected in their attention to the global, contemporary issues challenging today's architects. In chronicling the exemplary work completed by its students under the guidance of renowned architectural educators, the school continues its preeminent role in examining the changing nature of architectural education and its relationship to practice.\n\n\n\nThe Cooper Union has a longstanding history of producing exceptional architects, many of whom have also become prominent educators. Among them are Stan Allen, Elizabeth Diller, Daniel Libeskind, Toshiko Mori, Jesse Reiser, Ricardo Scofidio, Shigeru Ban, and Nanako Umemoto. Documentation of their student work and their work as educators (many returned to teach at The Cooper Union after completing their studies) can also be found in the Archive collection."
 ---
-
-

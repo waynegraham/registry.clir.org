@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Discovering Florida in Maps: A Partnership to Catalog the State's Historic Cartography
+title: "Discovering Florida in Maps: A Partnership to Catalog the State's Historic Cartography"
+year: 2011
+end_range: 1975
+formats: "NULL"
+geographic_extant: "The collection covers the cartographic history of Florida and encompasses the American Southeast, Gulf of Mexico, and Caribbean."
+institution: "George A. Smathers Library"
+institution_type: "NULL"
+primary_contact: "James Cusick"
+size: "5335 objects"
+start_range: "1502"
+summary: "This project's focus is historic cartographic collections of Florida held in Special Collections of four major institutions: University of Florida (UF); University of Miami (UM); History Miami/Historical Museum of Southern Florida (HM); and Florida Historical Society (FHS). Collectively, the 5,335 maps in this project cover Florida from the time when it comprised most of the American South to its current status as a leading Sun Belt State. These collections represent 500 years of cartography and chart the region's development, its drastically altered topography, and its changing relationship with adjacent areas such as the Caribbean. Languages in collections include English, Spanish, French, Latin, Italian, Dutch, and Portuguese. These maps provide data on early European exploration of North America, the colonial rivalries of Spain, France, and Britain, Indian Removal in the 1830s, and 20th century environmental dilemmas. Topics overlap across collections but in general have a unique perspective on Florida and will complement each other. As primary sources, they support research in colonial and US history, anthropology, archaeology, historic preservation, Native American studies, historical geography, urban planning, water management, travel and tourism, agriculture, and maritime and environmental studies. They will be of great use in ecology for establishing historic baselines of marsh areas, habitats and coastlines."
+hc_id: "704"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Department of Special & Area Studies Collections"
+address2:  "208 Smathers Library"
+city:  "Gainesville"
+state:  "FL"
+zip: "32611-7007"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

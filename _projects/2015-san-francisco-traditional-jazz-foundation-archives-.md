@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: San Francisco Traditional Jazz Foundation Archives Project
+title: "San Francisco Traditional Jazz Foundation Archives Project"
+year: 2015
+end_range: 2005
+formats: "NULL"
+geographic_extant: "The San Francisco Bay Area is central to the development of this unique style of traditional jazz. The material is primarily from San Francisco and Oakland. However, the bands enjoyed an international audience. There are materials relating to tours to Europe and Australia, performances in New York and similar locations."
+institution: "Board of Trustees of the Leland Stanford Junior University"
+institution_type: "NULL"
+primary_contact: "Mr. Michael Keller"
+size: "NULL"
+start_range: "1938"
+summary: "Over a three year period Stanford Libraries and the San Francisco Traditional Jazz Foundation (SFTJF) will arrange, describe, digitize and make accessible archival materials covering the history of West Coast traditional jazz, a topic on which little research has been done. These materials of significant research value will be digitized and presented as a curated collection, and the digital files will be added to the Stanford Digital Repository. In 1939 the Yerba Buena Jazz Band was formed to play New Orleans style jazz in San Francisco followed by the Turk Murphy Jazz Band from 1949-1984. The Murphy Band and the other bands it spawned were among the principal influences behind the international traditional jazz revival for forty years. There are 200 linear feet of archives containing a wide variety of archival materials (print, photographs, audio, and video) documenting the traditional jazz revival on the West Coast."
+hc_id: "17593122"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Stanford University"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>189 Mixed Archival Collections</li>"
+collaborating_institution:  "San Francisco Traditional Jazz Foundation"
+grant_amount:  "$500,000"
+material_description:  "The archives of the SFTJF center around the Turk Murphy Collection with smaller sub-collections of band leaders, Lu Watters, Clancy Hayes, Wally Rose, Bob Helm, Bob Scobey, Charlie Sonnastine, and Hal Smith, which were collected from the musicians and donated to Stanford in 2007. The collection consists of 195 boxes of various formats of archival materials, 6 boxes of instantaneous disc recordings, and 76 folders of large posters and art works. The archival materials consist of disparate types: writings by the musicians, letters, music manuscripts, business and legal documents, contracts, awards, certificates, concert programs, promotional materials (flyers, pamphlets, posters), booking records, appointment and address books, news clippings, realia and memorabilia, and photographs. There are several sets of scrapbooks or three-ring notebooks organized in chronological order for each of the most important musicians in the collection: Turk Murphy, Clancy Hayes, Wally Rose, Carl Ravazza, and Lu Watters. Another set of notebooks comprise a subject file of the same type of materials but arranged in alphabetical order. The notebooks are well organized and will be of prime interest to anyone doing research in the collection. The music manuscripts comprising all of Turk Murphy's original arrangements and also some arrangements by the other musicians are of high research value. At least 14 boxes are photographs in addition to the photographs interspersed throughout the archival collection. There are 56 boxes of reel-to-reel audio tapes and cassettes primarily of unique, live performances in addition to the instantaneous discs and one box of video recordings and three films. The collection documents all aspects of the musical and business careers of the musicians, including the operation of Murphy's club (Earthquake McGoon's), concerts, tours, recording sessions, music festivals, public relations, advertising, etc."
 ---
-
-

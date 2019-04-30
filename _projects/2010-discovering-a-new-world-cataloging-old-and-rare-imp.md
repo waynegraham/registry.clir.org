@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Discovering a New World: Cataloging Old and Rare Imprints from Colonial and Early Independent Mexico
+title: "Discovering a New World: Cataloging Old and Rare Imprints from Colonial and Early Independent Mexico"
+year: 2010
+end_range: 1850
+formats: "NULL"
+geographic_extant: "Mexico, Spain, other former Spanish colonies, other European countries"
+institution: "Cushing Memorial Library & Archives"
+institution_type: "NULL"
+primary_contact: "Felicia Piscitelli"
+size: "2700 objects"
+start_range: "1500"
+summary: "This special collection of over 3,500 books, manuscripts, broadsides, newspapers, pamphlets and devotionals covers practically all aspects of life in Mexico (New Spain) from the mid-16th to the mid-19th centuries. The historical value of these materials is obvious; they are also of interest to scholars in the fields of anthropology, linguistics, military history, political science, philosophy, religion, civil and canon law, literature, and the sciences and arts. This is a standard library collection rather than an archival one. Of the approximately 3,500 items in the collection, only about 15% have been cataloged. It is anticipated that only another 200 titles will be cataloged by January 2011. Therefore, the plan for cataloging the remainder of the collection is: Approximately 500 manuscripts, broadsides, documents and ephemera, to be cataloged with the help of a visiting librarian from Mexico; Approximately 2000 monographs (printed books and broadsides) to be processed with the help of students, plus about 200 issues of serials (chiefly newspapers); and 1 painting."
+hc_id: "651"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Cushing Memorial LIbrary & Archives"
+address2:  "Texas A&M University"
+city:  "College Station"
+state:  "TX"
+zip: "77843-5000"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

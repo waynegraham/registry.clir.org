@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Bringing Back the Soaps: The Louis J. Boeri and Minín Bujones Boeri Collection of Cuban American Radionovelas at Tulane’s Latin American Library
+title: "Bringing Back the Soaps: The Louis J. Boeri and Minín Bujones Boeri Collection of Cuban American Radionovelas at Tulane’s Latin American Library"
+year: 2017
+end_range: 1970
+formats: "NULL"
+geographic_extant: "Based in Miami, Florida, America’s Productions, Inc. licensed its programming throughout the Spanish-speaking world and the United States. Soap operas were set in Europe and Spanish America in the 19th and 20th centuries. Variety, comedy, and other shows were contemporary, situated in Miami or Spanish American cities, real or fictional."
+institution: "Tulane University, The Latin American Library"
+institution_type: "NULL"
+primary_contact: "Dr. Hortensia Calvo"
+size: "NULL"
+start_range: "1963"
+summary: "Tulane’s Latin American Library proposes a two-year project to digitize 36 of the 135 radio soap operas from the Louis J. Boeri and Minín Bujones Boeri Collection of Cuban American Radionovelas. The audio recording masters are contained on 8,934 reel to reel tapes that were produced by Miami-based America’s Productions, Inc. between 1963 and 1970. These programs were transmitted to over 200 radio stations in Latin America and Spain, to U.S. Spanish-language stations, and to the U.S. government. With scripts penned by acclaimed Cuban and Mexican writers, the broadcasts included soap operas, comedies, advice programs, biblical dramas, mysteries, spy stories, and variety shows. The digitized radionovelas will be freely available worldwide as a collection within the Tulane University Digital Library and will afford a unique resource for the study of the political, cultural, and commercial ties between the United States and Cuba via public broadcasting during the pivotal Cold War."
+hc_id: "26893159"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "The Latin American Library, Tulane University"
+p2_name:  "Dr. Christine Hernández"
+p2_institution:  "The Latin American Library, Tulane University"
+p3_name:  "Jeff Rubin"
+p3_institution:  "Howard-Tilton Memorial Library, Tulane University"
+material_string: "<li>3076 Audio Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$229,189"
+material_description:  "From his studios on the fifth floor of “The Freedom Tower” in Miami, Florida, Louis J. Boeri and his company of writers, performers, and technicians at America's Productions, Inc. (API) forged a radio programming empire, distributing their products to over 200 radio stations in Latin America and Spain, to Spanish-language radio stations in the United States, and to the U.S. government. With scripts penned by acclaimed Cuban and Mexican scriptwriters, API produced two types of programming: one featured overt political content; a second consisted of entertainment-centered programs that included radionovelas/soap operas, comedies, advice programs, biblical dramas, mysteries, spy stories, and variety shows. In 2004, the Latin American Library at Tulane University acquired API’s extant library of master audio recordings of entertainment programming and associated print and photograph materials to form the Louis J. Boeri and Minín Bujones Boeri Collection of Cuban American Radionovelas (hereafter referred to as the Radionovelas Collection). The bulk of this collection (570 linear feet) consists of over 3,600 hours of audio programs recorded on magnetic 1/4\" reel-to-reel polyester audio tape on 7” reels. The tapes total 8,934 reels representing 135 serialized program titles and their constituent episodes. Supplementary to the audio materials is 12 linear feet of marketing reports, promotional brochures, catalogs, ephemera, photographs, VHS tapes, 16mm film, DVDs, and newspaper clippings. We selected 2,508 reels (28%) of the total audio reels for digitization. These reels contain 3,076 episodes from 36 program titles representative of the range of API programming to be digitized in their entirety."
 ---
-
-

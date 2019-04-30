@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Revealing Secrets: A Project to Provide Access to the Remarkable Literary Archives of the University of Illinois at Urbana-Champaign
+title: "Revealing Secrets: A Project to Provide Access to the Remarkable Literary Archives of the University of Illinois at Urbana-Champaign"
+year: 2010
+end_range: 2010
+formats: "NULL"
+geographic_extant: "The Materials are Anglo-American."
+institution: "University of Illinois"
+institution_type: "NULL"
+primary_contact: "Chatham Ewing"
+size: "1398 cubic feet"
+start_range: "1800"
+summary: "As described on our project web-page, we propose arranging and describing 80 literary collections. The largest collections are the H.G. Wells papers, Carl Sandburg papers, and W. S. Merwin papers. For each of these authors we are the repository for the major collection of the author's personal papers. Additional extensive collections include the papers of James Jones (the author of _From Here to Eternity_), the authoritative collection of William Maxwell papers (author and longtime editor of the _New Yorker_), and the Edwin Rolfe papers (poet and member of the Abraham Lincoln Brigade during the Spanish Civil War). Turning to the 19th century, we have manuscript materials documenting the life of Lewis Carroll (the Flodden Heron collection) and William Cobbett (the famous labor activist of the early nineteenth century). We have an interesting collection of uncataloged 19th-century scripts, including several pantomines. We have strong collections in the area of literary publishing history, including one of the three major groups of records documenting the famous Bentley publishing firm, a small collection relating to Mudie's lending library, and a little known archive of materials related to Grant Richards and his publishing firm, Grant Richards Limited. Finally, we have a variety of small, hidden collections that document a wide range of literary and social figures."
+hc_id: "662"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Rare Book & Manuscript Library"
+address2:  "346 Library, MC-522"
+city:  "Urbana"
+state:  "IL"
+zip: "61801"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

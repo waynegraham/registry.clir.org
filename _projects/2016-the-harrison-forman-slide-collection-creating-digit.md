@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Harrison Forman Slide Collection: Creating Digital Access to a Hidden Collection of Mid- Century Color Photography from Around the World
+title: "The Harrison Forman Slide Collection: Creating Digital Access to a Hidden Collection of Mid- Century Color Photography from Around the World"
+year: 2016
+end_range: 1950
+formats: "NULL"
+geographic_extant: "Harrison Forman's work took him to over 130 countries around the world. In the collection nominated for digitization, the coverage of South America, Asia and Africa is extensive both in the size of the collection and the sociological, political and ancient religious significance of the images captured."
+institution: "Board of Regents of the University of Wisconsin System for University of Wisconsin-Milwauke"
+institution_type: "NULL"
+primary_contact: "Ms. Marcy Bidney"
+size: "NULL"
+start_range: "1950"
+summary: "The American Geographical Society Library (AGSL) at University of Wisconsin-Milwaukee (UWM) seeks funding to digitize 49,000 35 mm Kodachrome and 2,000 2x2\" Ektachrome slides of the Harrison Forman Collection which will take two years to complete. Work includes scanning individual slides, creation of metadata and uploading images to our digital collections site. It will be completed by the UWM Libraries Digital Collection and Initiatives Department staff. Harrison Forman was a prominent photojournalist who focused his camera on major world events from the late 1920s to the mid-1970s, creating a significant culturally focused photographic collection. Forman's images reflect his desire to capture aspects of the human experience and condition with a focus on his interest in underrepresented subjects of the non- western world. The depth and breadth of the cultural, geographic and historical subjects of Forman's work make it a valuable cross-disciplinary resource for researchers and educators."
+hc_id: "22169208"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "American Geographical Society Library, University of Wisconsin-Milwaukee"
+p2_name:  "Ms. Ann Hanlon"
+p2_institution:  "University of Wisconsin Milwaukee"
+p3_name:  "Mr. Ling Meng"
+p3_institution:  "University of Wisconsin Milwaukee"
+material_string: "<li>51000 35mm Kodachrome and 2x2 Ektachrome slides</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$96,937.00"
+material_description:  "Harrison Forman was a prominent photojournalist, whose work has appeared in the New York Times, the Times of London, Life, Look, Collier's, Harpers, and Readers' Digest. Described as an \"anthropologist with his camera\", Forman photographed people and their daily lives. His mid- twentieth century color photography provides an extensive study of human and physical geography, which show the extent of worldwide cultural diffusion focused primarily on the non- western world. Subjects include: *Candid portraits of ethnic groups such as Sakai aborigines, Bajau, Berbers, Todas, Chakma, and Hunza people. *Western influences depicted in business ventures, American movie posters, and clothing such as Afghani men wearing repurposed U.S. Air Force uniforms. *Commerce and industry including business centers, shipping, shopping districts, skilled workers, female laborers, food harvesting and processing, mining, manufacturing, and agriculture. *Infrastructure and transportation including road building, bridges, dam projects, and the Red Flag Canal construction in Linxian, China. *Politics and government including an exploration of communism, building the Berlin Wall, and Mao Zedong's cave home in Yanan, China. *Historic events including the Dalai Lama upon exile to India during Tibetan uprising; apartheid in South Africa; Portuguese troops during Angola's Colonial War; post-war evidence of bomb damage in Berlin and Warsaw. *Historic sites and memorials such as Nagasaki and Hiroshima; archeological sites in Greece, Italy, the Buddhas of Bamian, Afghanistan prior to destruction; Angkor Wat (Cambodia); Khajuraho (India); and the Zimbabwe Acropolis (Central Africa). *Customs and the arts including pilgrims bathing in the holy waters in Varanasi, weddings, traditional dance, musicians and instruments. *Landscape and wildlife such as mountains and glaciers showing effects of erosion and climate change; rainforests and jungles; volcanoes and volcanic formations; Mongolia's wild horses; and Indonesia's Komodo dragons."
 ---
-
-

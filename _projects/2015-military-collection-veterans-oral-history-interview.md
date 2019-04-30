@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Military Collection Veterans Oral History Interview Collection
+title: "Military Collection Veterans Oral History Interview Collection"
+year: 2015
+end_range: 2014
+formats: "NULL"
+geographic_extant: "North Carolina; Hawaii; United States; France; Germany; England; South Korea; North Korea; Vietnam; Japan; Philippine Islands; Africa; Europe; Asia; South Pacific; South America; Iraq; Afghanistan."
+institution: "State Archives of North Carolina (North Carolina Department of Cultural Resources)"
+institution_type: "NULL"
+primary_contact: "Mr. Matthew Peek"
+size: "NULL"
+start_range: "1996"
+summary: "The Military Collection Veterans Oral History Interview Collection, composed of more than 1,150 oral history interviews with military service members with North Carolina connections from all U.S. military branches. The materials date from 1996 to 2014. The veterans oral history project has recorded interviews with veterans of all military engagements from World War I to the present. It is the largest veterans interview collection in North Carolina. This two-year project will digitize all audio and video interview recordings in its collection; create an online veterans oral history interface for the public; provide discoverable online metadata for the interviews; have many of the digitized oral history interviews transcribed or summarized; and make the interviews available through the NC Digital Collections and the Internet Archive. The project will also help the Military Collection asses the condition of the original audio recording formats, and plan for long-term physical storage of the recordings."
+hc_id: "16878648"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Special Collections, State Archives of North Carolina"
+p2_name:  "Ms. Kelly"
+p2_institution:  "Digital Services Section Head"
+p3_name:  "Ms."
+p3_institution:  "NULL"
+material_string: "<li>2300 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$170,192"
+material_description:  "The State Archives of North Carolina (SANC) Military Collection's Veterans Oral History Interview Collection contains more than 1,150 oral history interviews of military veterans living in or from North Carolina. The Veterans Oral History Project began in 1996--two years after SANC initiated a formal Military Collection to collect original state military historical materials--in order to record the personal military service accounts of the remaining North Carolinians who served in World War I. The project would expand from 1996 to 2003 to focus on interviewing veterans of World War II, at the same time that the Military Collection attempted to build its holdings of primary historical materials for the benefit of the citizens of North Carolina. The interviews were conducted largely by volunteers from across the state, as well as by the Military Collection Archivist, and helped to build SANC's relationship with the state's veterans. The interviews eventually grew in terms of their historical scope, and the collection now contains interviews with veterans from World War I up to the recent conflicts in Iraq and Afghanistan, as well as peacetime service individuals and non-combatants. The interviews of many of the veterans correspond with original and copied archival materials donated to the Military Collection from 1996 to 2014. The interviews include the last living World War I soldiers in North Carolina; numerous interviews with female members of the U.S. Armed Forces; and interviews with members of every branch and many of the military regiments formed in North Carolina."
 ---
-
-

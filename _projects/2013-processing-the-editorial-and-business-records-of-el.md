@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Processing the Editorial and Business Records of Eleven Little Literary Magazine Archives in the Poetry Collection
+title: "Processing the Editorial and Business Records of Eleven Little Literary Magazine Archives in the Poetry Collection"
+year: 2013
+end_range: 2010
+formats: "NULL"
+geographic_extant: "The literary magazines from which these editorial and business records originated range across the United States from New York to San Francisco."
+institution: "The Poetry Collection"
+institution_type: "NULL"
+primary_contact: "James Maynard"
+size: "273 linear feet"
+start_range: "1960"
+summary: "The Editorial and Business Records of Eleven Little Literary Magazine Archives in the Poetry Collection feature the administrative and organizational records of eleven diverse poetry magazine archives. Representative of small press poetry publishing across the United States from 1960 to 2010, the archives--all of which have either been donated to or purchased by the Poetry Collection--are composed of literary letters, manuscripts, notebooks, business and production records, and publishing ephemera. The magazines, their locations, and the extent of publishing life are: Fire Exit (Boston, MA, 1968-1975); The Wormwood Review (Stockton, CA, 1960-1999); Chain (Philadelphia, PA, 1994-2005); Manroot (San Francisco, CA, 1969-1981); Drafting (Baltimore, MD, 2004-2005); Boss (New York, NY, 1966-1979); Buckle / Buckle & (Buffalo, NY, 1977-1982 / 1998-2006); Osiris (Schenectady, NY, 1972-2010); Lost & Found Times (Columbus, OH, 1975-2005); Score (Oakland, CA, 1983-1990); and First Intensity (Lawrence, KS, 1993-2007). These magazines represent different socio-aesthetic communities from feminist to academic avant garde to verbo-visual poetry and have served the careers of poets as different as Susan Howe and Charles Bukowski. Together, their archives document fifty years of poetic history, and the cataloging of these collections will immediately impact scholarship in the field of post-WWII American Poetry."
+hc_id: "1172"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "The Poetry Collection of the University Libraries"
+address2:  "University at Buffalo"
+city:  "Buffalo"
+state:  "NY"
+zip: "14260"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$150,600"
+material_description:  "NULL"
 ---
-
-

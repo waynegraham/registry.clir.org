@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Recordings from The Edge of Texas radio program
+title: "Recordings from The Edge of Texas radio program"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "The University of Texas at El Paso"
+institution_type: "NULL"
+primary_contact: "Ms. Claudia Rivers"
+size: "NULL"
+start_range: "NULL"
+summary: "The Edge of Texas radio program aired weekly for 20 years beginning in 1984 on public radio in El Paso. The program presented stories of the Southwest with hosts, writers, and narrators Alex and Patti Apostolides. The radio show consisted of scripted programs as well as interviews with notable people. Stories of the Southwest recounted tales such as Indian myths, historical events, and folklore. Other common subjects included natural history and archeology. The program provided both entertainment and educational content while encouraging community involvement. In the interviews, museum directors, artists, politicians, musicians, and writers spoke about life in the borderlands. The first fifteen years of program recordings are saved on 783 7-inch reel-to-reel magnetic audiotapes to be reformatted, described, and made available online. Improved access to this collection would benefit research in local history, border studies, anthropology, literature, and music, among other subjects."
+hc_id: "26878335"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "The University of Texas at El Paso"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "783 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$49,025"
+material_description:  "NULL"
 ---
-
-

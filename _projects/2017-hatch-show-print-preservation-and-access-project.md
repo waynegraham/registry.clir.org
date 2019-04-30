@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Hatch Show Print Preservation and Access Project
+title: "Hatch Show Print Preservation and Access Project"
+year: 2017
+end_range: 2017
+formats: "NULL"
+geographic_extant: "National, with an emphasis on Nashville and the Southeast."
+institution: "Country Music Hall of Fame and Museum"
+institution_type: "NULL"
+primary_contact: "Ms. Lee Boulie"
+size: "NULL"
+start_range: "1920"
+summary: "The Country Music Hall of Fame and Museum seeks support over 24 months for Phase 1 of the Hatch Show Print Preservation and Access project. This project will conserve, digitize, and provide public access to 10,000 rare, historically significant, and fragile works on paper in the Museum’s permanent collection. The Hatch Show Print collection is composed of posters, prints, documents, proofs, and tracings that chronicle 137 years of American culture through promotional and advertising poster design and printing. The project will make historical show posters available and accessible to the general public and to scholars of American history, advertising, and many other disciplines. It will also make artifacts readily searchable and available for exhibitions and educational programs at the Museum and through content partners like Vanderbilt University."
+hc_id: "26331093"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Country Music Hall of Fame and Museum"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>10000 Posters</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$106,984"
+material_description:  "OVERVIEW: The Hatch Show Print Collection is composed of 66,000 items—posters, related prints, documents, proofs, and tracings—that chronicle 137 years of American culture through Hatch Show Print’s poster design and printing. The collection contains rare and unduplicated items, including posters promoting every touring member of the Grand Ole Opry, from Hall of Fame members Roy Acuff and Minnie Pearl through contemporary acts like Carrie Underwood and Blake Shelton; more than a thousand posters for African-American minstrel shows, live music venues, and the Negro League of Baseball; posters advertising mid-twentieth century circuses, fairs, and carnivals; and more. PROVENANCE: The Country Music Hall of Fame and Museum obtained Hatch Show Print’s historic archive when it assumed ownership of the shop in 1992. The Museum owns and operates Hatch Show Print as a working print shop, including holding the rights to its archive. ASSOCIATED SUBJECTS: Beginning in 1879 with a handbill for the Reverend Henry Ward Beecher, Nashville’s Hatch Show Print produced show posters for musicians, minstrel shows, vaudeville tours, and carnival acts. Already associated with the Nashville entertainment tradition, Hatch Show Print rose in prominence in the mid-1920s, because of the shop’s proximity to the Ryman Auditorium, home to the Grand Ole Opry. Still in operation today, Hatch Show Print is America’s second-oldest continuously operated print shop. Its archives include posters that range from early 20th century vaudeville and minstrel shows to posters for contemporary Opry members like Vince Gill and Little Big Town."
 ---
-
-

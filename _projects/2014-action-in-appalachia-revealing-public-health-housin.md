@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Action in Appalachia: Revealing Public Health, Housing, and Community Development records in the UK Libraries Special Collections Research Center
+title: "Action in Appalachia: Revealing Public Health, Housing, and Community Development records in the UK Libraries Special Collections Research Center"
+year: 2014
+end_range: 1990
+formats: "NULL"
+geographic_extant: "The geographic scope of this project is the Appalachian region: primarily Kentucky, Tennessee, Ohio, West Virginia, Virginia, and North Carolina."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "William Weber"
+size: "645 cubic feet"
+start_range: "1965"
+summary: "This two-year project will result in 645 cubic feet of fully processed Appalachian records comprising seven hidden collections of War on Poverty-era, social justice organizational records. These community-driven groups worked to improve public health, housing, education, and economic development from the 1960s to the present by taking action in Appalachia. These records include those of the Appalachian Leadership and Community Outreach, Inc., a collaborative program for college students, and the Congress on Religion in Appalachia, an ecumenical response to the War on Poverty. Accessibility to these collections will contribute to new scholarship and public understanding about the social and economic development of Appalachia."
+hc_id: "12990371"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "109 Kinkead Hall"
+address2:  "NULL"
+city:  "Lexington"
+state:  "KY"
+zip: "40506-0057"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$156,439"
+material_description:  "NULL"
 ---
-
-

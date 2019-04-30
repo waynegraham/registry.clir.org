@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Unveiling the Clyfford Still Museum Archive
+title: "Unveiling the Clyfford Still Museum Archive"
+year: 2012
+end_range: 1980
+formats: "NULL"
+geographic_extant: "The CSMA's scope is national, principally Washington State, California, New York and Maryland, all places where Clyfford Still lived and worked."
+institution: "Clyfford Still Museum"
+institution_type: "NULL"
+primary_contact: "Dean Sobel"
+size: "38 boxes, 100 linear feet"
+start_range: "1904"
+summary: "The Clyfford Still Museum Archives (CSMA) represents the complete, intact archival materials contained with the Clyfford Still Estate, which, along with 2,400 Still artworks, was transferred from the estate to the Clyfford Still Museum (CSM) in November 2011. The CSMA contains studio records, photographic materials, personal effects, the artist's tools and materials (valuable to conservators), his personal library, and extensive documentation pertaining to the art, career, and life of this important American artist. Of particular significance is a trove of correspondence between Still and virtually all of the major artists, critics, dealers, museum professionals, and collectors of the Abstract Expressionist era (Jackson Pollock, Mark Rothko, Clement Greenberg, Peggy Guggenheim, etc.). These materials have never been accessible to scholars or researchers, neither during nor after Still's lifetime. The CSM collection contains 94 percent of Still's artistic output, including more than 800 paintings and 1,600 drawings. The comprehensive nature of the CSM collection makes these archival materials uniquely compelling. The CSMA especially represents one of the most significant archives of the Abstract Expressionist movement, and is therefore unique within American 20th-century art."
+hc_id: "879"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1250 Bannock Street"
+address2:  "NULL"
+city:  "Denver"
+state:  "CO"
+zip: "80204"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

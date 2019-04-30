@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Illuminating Art History in the Early 20th Century: The Lantern Slide Collection of Columbia University’s Art History Department
+title: "Illuminating Art History in the Early 20th Century: The Lantern Slide Collection of Columbia University’s Art History Department"
+year: 2017
+end_range: 3000
+formats: "NULL"
+geographic_extant: "The scope of this collection is truly global, with images spanning continental Europe, north and south America, East and Southeast Asia, the Middle East, all regions of Africa, and Oceania."
+institution: "Media Center for Art History, Columbia University"
+institution_type: "NULL"
+primary_contact: "Dr. Stefaan Van Liefferinge"
+size: "NULL"
+start_range: "3000"
+summary: "This project will digitize a legacy collection of approximately 70,000 lantern slides in the collection of the Media Center for Art History (MCAH) at Columbia University, and create an online database to provide free access to the newly created metadata and high-resolution images. The images in the lantern slide collection cover a vast geographic and temporal scope, and will provide historically significant images and data about works of art and architecture, as well as provide a comprehensive archive of the historiography of art history at a time when the field was being created and shaped by some of the university’s most prominent faculty. Through integration with MCAH’s existing resources, including geolocation, virtual reality tours, and dynamic end-user collection building, and collaboration with other open access and linked data cultural heritage projects, the collection will be a synergistic resource for scholars, institutions, and the general public."
+hc_id: "26306763"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Media Center for Art History, Columbia University"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>70000 glass lantern slides</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$211,157"
+material_description:  "In the first decades of the 20th century, the Art History Department at Columbia University acquired a collection of over 70,000 lantern slides of art and architecture. As a reflection of Columbia’s reputation as a leader in the field, the content of this image collection spans vast geographic and temporal boundaries. The lantern slide collection has been curated and collected by such eminent scholars as Meyer Schapiro, Rudolf Wittkower, Margarete Bieber, Howard McP. Davis, Julius Held, and William Bell Dinsmoor— to name a sample of the faculty that have held appointments in the department since its founding. This legacy collection was inherited by the Art History department’s Visual Media Center, which merged with the Media Center for Art History in 2003. Since then, the MCAH has been the steward of this collection. The diversity of the collection embodies the expansive coursework that has been a staple of the department since the 1930s. In addition to images of European and Classical art, the slides feature the arts of Africa, Oceania, Native America, South and Central America, the Near East, and East and Southeast Asia. Included are images of architecture from the monumental to the vernacular, depicting many buildings that have been altered or destroyed, as well as images of paintings, sculptures, manuscripts, archaeological sites and artifacts, and a nearly global collection of material culture. The slides also possess immense archival value as a record of curricula in the field of art history, and of the development of visual media in education."
 ---
-
-

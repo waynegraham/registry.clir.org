@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Discovering the Sisters Stapp: The EMILIE BLACKMORE AND MARIE GRAHAM STAPP PAPERS
+title: "Discovering the Sisters Stapp: The EMILIE BLACKMORE AND MARIE GRAHAM STAPP PAPERS"
+year: 2010
+end_range: 1962
+formats: "NULL"
+geographic_extant: "The Stapps spent their youth in U.S. Midwest, their professional years in Boston, and later years in the Deep South, their influence was worldwide."
+institution: "Univeristy of Southern Mississippi"
+institution_type: "NULL"
+primary_contact: "Ellen Ruffin"
+size: "60 cubic feet"
+start_range: "1898"
+summary: "The preliminary finding aid provides an initial inventory of materials, including the following: a brief biographical sketch of Emilie Blackmore Stapp, an American children's author and philanthropist, and of her sister, Marie Graham Stapp; their extensive collection of lively correspondence and letters, published and unpublished manuscripts for children's stories in books, periodicals, and newspapers; original plays, illustrations and publicity materials; and, personal items, such as photographs of friends and notables, fragile scapbooks documenting Emilie Stapp's work by Stapp from 1904 through the time of her death in 1962. The Stapps lived in Indiana, Iowa, Massachusetts, and finally in Mississippi during a significant historical period, covering two world wars and the tumultuous Jim Crow era. A visionary woman, Emilie Blackmore Stapp possessed a moral certitude that rose above and beyond any provincial norm. Stapp recognized social injustice as evidenced by her personal commitment to better the lives of specific children who crossed her path in everyday life. As result of her support, a young newspaper boy, a \"newsie,\" received a degree in law; and she supported a young African American girl to complete high school and attend Tuskegee Institute, earning a degree in education and later taught in an African American private school. Due to the hidden condition of this collection these stories are unknown to historians and other scholars."
+hc_id: "673"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "McCain Library and Archives"
+address2:  "University of Southern Mississippi"
+city:  "Hattiesburg"
+state:  "MS"
+zip: "39406"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

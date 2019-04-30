@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Uncovering California's Environmental Collections: A Collaborative Approach
+title: "Uncovering California's Environmental Collections: A Collaborative Approach"
+year: 2009
+end_range: 2005
+formats: "NULL"
+geographic_extant: "All collections relate to California. Some show contributions to environmental protection beyond the state, e.g. papers of activists and scientists."
+institution: "University of California Office of the President"
+institution_type: "NULL"
+primary_contact: "Daniel Greenstein"
+size: "820 cubic feet"
+start_range: "1871"
+summary: "This California Digital Library (CDL) project has uncovered 33 hidden collections at institutions across California related to the state's environment and environmental history. The collections were selected and assembled for their unique and diverse perspectives on this broad theme. They document an array of important sub-topics such as irrigation, mining, forestry, agriculture, industry, land use, activism, and research. Together they form a multifaceted picture of the natural world and the way it has been probed, altered, exploited, and protected in California over the past century. Highlights include the corporate records of Unocal, a major oil company; the papers of Frank Sherwood Rowland, the Nobel-prize winning scientist who discovered the effects of CFCs on the ozone layer; the Rudi Becking collection, describing the political battle to enlarge the Redwood National Park; several collections illustrating the development and impact of hydraulic mining; the records of prominent California leaders in the Sierra Club and other activist organizations; field research on the development of the citrus industry; and materials on the state’s tidelands controversy, with a complete environmental profile of Los Angeles Harbor. Project partners: California State University Chico; California State University Fresno; Humboldt State University; UC Berkeley, Davis, Irvine, Los Angeles, and Riverside; and University of Southern California."
+hc_id: "425"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "University of California"
+address2:  "1111 Franklin St., 11th Floor"
+city:  "Oakland"
+state:  "CA"
+zip: "94607"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "California State University Chico; California State University Fresno; Humboldt State University; UC Berkeley, Davis, Irvine, Los Angeles, and Riverside; University of Southern California"
+grant_amount:  "$446,817"
+material_description:  "NULL"
 ---
-
-

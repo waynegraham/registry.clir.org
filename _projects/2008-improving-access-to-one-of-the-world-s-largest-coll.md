@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Improving Access to One of the World's Largest Collections of Plant Rust Fungi
+title: "Improving Access to One of the World's Largest Collections of Plant Rust Fungi"
+year: 2008
+end_range: 9999
+formats: "NULL"
+geographic_extant: "Specimens are from around the world, but the bulk of the collection is from the United States (or the territories that would eventually become the US)."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Marianne Stowell Bracke"
+size: "1365 linear feet, 110000 objects"
+start_range: "1769"
+summary: "Purdue University’s Arthur Herbarium is home to one of the world’s largest and, despite inadequate cataloging, most-studied collections of plant rust fungi. Its 110,000 specimens comprise the “rusted” part of a plant, identified and stored in archival envelopes. More than 100 of these are authoritative, typed specimens from which the species was originally discovered, classified, and described. Rusts are important plant pathogens and are of scientific interest because of their close evolutionary relationships with their host plants, their complex life cycles, and their ability to morph and thrive in extreme environments. As new strains of rust attack crops and threaten the world’s food supply, it is critical that collections such as this one become more widely available for study. This collection is also significant to our cultural heritage. The earliest specimen was collected in 1769 during James Cook’s first voyage, and others were collected by famous Americans such as George Washington Carver. Accompanying the specimens are original botanical sketches, scientific and historical notes, photographs, microscope slides, and DNA sequences. These can provide insight to the development of botany as a discipline as well as into the history of the collectors. Despite its obvious scholarly value, much of the Arthur collection remains hidden. For example, six specimens collected by General George Custer from the Western Territories were recently discovered in the collection."
+hc_id: "304"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "504 West State St"
+address2:  "NULL"
+city:  "West Lafayette"
+state:  "IN"
+zip: "47907-2058"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

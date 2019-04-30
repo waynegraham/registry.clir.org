@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Tibetan Audio-Visual Collections at Trace Foundation's Latse Library
+title: "Tibetan Audio-Visual Collections at Trace Foundation's Latse Library"
+year: 2014
+end_range: 2014
+formats: "NULL"
+geographic_extant: "China (Tibet Autonomous Region, Qinghai, Sichuan, Gansu, and Yunnan); Bhutan; Ladakh; and Tibetan communities in India, Europe, and the Americas."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Laura Rice"
+size: "4000 objects"
+start_range: "1980"
+summary: "For two decades, Trace Foundation's Latse Library has been one of the only institutions in the world comprehensively acquiring audio-visual materials from Tibetan and Himalayan regions. The collection of nearly 7,000 items is the largest of its kind and represents the vast array of Tibetan music and performing arts, in both audio and video formats that have emerged since the Cultural Revolution (1967-76), a time of great socio-economic change. Over 28 months, this project will provide access to these otherwise hidden resources for the benefit of scholars, researchers, students, and widespread Tibetan communities, and serve as a model for other institutions that seek to catalog similar multilanguage A/V materials."
+hc_id: "12990342"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "132 Perry Street, #2B"
+address2:  "NULL"
+city:  "New York"
+state:  "NY"
+zip: "10014"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$160,389"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitization, Archiving and Access; 90 years of Film and Video History at the National Cathedral
+title: "Digitization, Archiving and Access; 90 years of Film and Video History at the National Cathedral"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Washington National Cathedral"
+institution_type: "NULL"
+primary_contact: "Mr. Matthew Echave"
+size: "NULL"
+start_range: "NULL"
+summary: "Since its original vision by Major L’Enfant as “a great church for national purposes,” granted a charter by Congress in 1893, and its foundation laid in 1907 attended by President Theodore Roosevelt, the Washington National Cathedral has been a place of prayer, reflection, and solace for generations of Americans. This is where history has been made, serving both the revered and everyday individual with its awe-inspiring architecture, prayerful events, stimulating lectures, and extraordinary musical performances. These events have been captured by Cathedral staff for over 90 years on more than a thousand film reels and videotapes starting in the 1930’s. This proposal requests funding to assess and digitize a selected portion of this collection (218 tapes) and to create a long-term plan for preservation and access for the entire collection (>1,000 items). The project will create and outreach plan provide access to scholars, educators, and the public to this collection."
+hc_id: "26921706"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Washington National Cathedral"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "100 items<li>13 Betamax</li><li>5 1/2\" Reel</li><li>100 Betacam</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$44,381"
+material_description:  "NULL"
 ---
-
-

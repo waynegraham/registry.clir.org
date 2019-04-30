@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cincinnati Rail History Preservation Project
+title: "Cincinnati Rail History Preservation Project"
+year: 2011
+end_range: 2010
+formats: "NULL"
+geographic_extant: "Focus is on Cincinnati, Ohio and the surrounding 300 mile radius; because the project involves railroads, we may have artifacts from across the US."
+institution: "N/A"
+institution_type: "NULL"
+primary_contact: "Patrick Rose"
+size: "70000 objects"
+start_range: "1850"
+summary: "Some of Cincinnati's richest history centers on its railway involvement--one of the largest collections of original photographs, architectural drawings, planning documents, railroad artifacts and printed material has long been closely held by the Cincinnati Railroad Club. The collection comprises over 70,000 items--its core is source material from all 7 major railroads that once served Cincinnati. The collection continues to grow through donations, estate gifts, and acquisitions. Most of the collection is inaccessible to researchers or the general public, stored in a manner and at a location unsuitable for public viewing, and ultimately not conducive to preservation of the artifacts. Many of the items in the collection are in critical need of attention, having been produced on deteriorating, unstable media. Invaluable expertise needed to provide informed descriptions and appropriately catalogue the artifacts rests with Club members, many of whom are advancing in years—it's vital to begin this project now, before their unique knowledge is lost. The project will digitally capture and catalogue the entire collection. This will make this collection--of great importance to our history--available to a global audience, and ultimately prepare the most fragile items for responsible stewardship. Artifacts would be available for digital reproduction and distribution, which could be used to help defray costs of proper storage and ongoing preservation."
+hc_id: "813"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "PO Box 14157"
+address2:  "NULL"
+city:  "Cincinnati"
+state:  "OH"
+zip: "45250-0157"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

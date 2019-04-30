@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: New Dimensions Broadcast Media: Preserving & Providing Access to At-Risk Media
+title: "New Dimensions Broadcast Media: Preserving & Providing Access to At-Risk Media"
+year: 2015
+end_range: 1997
+formats: "NULL"
+geographic_extant: "The ND interviews were recorded in California. The interviewees originate from across the United States and abroad. While some interviews cover events and themes local to California, the topics tend to be broader in scope than a specific region, addressing subjects relevant to cultures, peoples, and societies across the globe."
+institution: "Board of Trustees of the Leland Stanford Junior University"
+institution_type: "NULL"
+primary_contact: "Mr. Michael Keller"
+size: "NULL"
+start_range: "1968"
+summary: "The New Dimensions Media collection -- an extensive archive containing recorded radio broadcasts that feature interviews and discussions with some of the leading thinkers of the late 20th and early 21st centuries -- represents a major resource for interdisciplinary scholarship in the areas of spirituality, consciousness, history, the arts, literature, philosophy, psychology, ecology, social justice, communications, and more. The bulk of the collection consists of 6,500 professionally-produced audio recordings in obsolete media formats, both analog and digital. Paper files and video recordings also exist. Due to preservation issues with the original recordings and insufficient descriptive information overall, the content is entirely inaccessible to researchers. Through a multi-phase project, the collection will be processed in full and the recordings and documents will be digitized for preservation and online delivery. In Phase 1, Stanford proposes to process and digitize 3,200 recordings and 10 linear feet of documents for online access."
+hc_id: "17264355"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Stanford University Libraries"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>3200 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "247893"
+material_description:  "Stanford University Libraries acquired the media archive of the New Dimensions Broadcasting Media Network in 2007 as a gift and the archival records as a purchase in 2008. The audio archive consists of approximately 6,500 recordings of over 2,200 individuals and programs spanning 45 years; the archival records total 90 linear feet. Each year the latest productions are added to the collection.\n\n \n\nNew Dimensions (ND) is an independent, listener-supported, educational broadcasting group that began in the San Francisco area and then moved to Ukiah, California where most of the archive was produced. Now based in Santa Rosa, ND continues to broadcast interviews today. Most of the interviews were conducted by Michael Toms. Over 2,000 individuals are represented in this archive; a small sampling of individuals include: the Dalai Lama, scientist and Nobel laureate Linus Pauling, mythologist Joseph Campbell, psychologist/futurist Timothy Leary, economist and winner of Nobel Peace Prize Muhammad Yunis, physician/author Andrew Weil, biologist E.O. Wilson, physicist David Bohm, poet/ecologist Gary Snyder, doctor/writer/spiritualist Deepak Chopra, religious scholar Huston Smith, journalist Bill Moyers, writer/activist Alice Walker, poet Maya Angelou, writer/radio host Studs Terkel, activist/journalist Gloria Steinem, and Werner Erhard, developer of est Training. Several other ND interviewees have deposited their papers at Stanford, including visionary inventor R. Buckminster Fuller; John Lilly, whose work on consciousness utilized isolation tank and dolphin communication; Stewart Brand, creator of The Whole Earth Catalog; artist Ruth Asawa; and architect of sustainable building and the cradle to cradle movement, William McDonough.\n\n\n\nPrograms by ND are carried by public and community radio stations and are broadcast nationally in more than 300 communities reaching approximately 1.7 million listeners in the U.S. Other outlets are the American Forces Radio Network, the Australian Broadcasting Corporation's Radio National (300 stations), parts of Canada, New Zealand and on shortwave radio in Southeast Asia."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Providing Access to Primary Sources Documenting the Studio Craft Art Movement in America
+title: "Providing Access to Primary Sources Documenting the Studio Craft Art Movement in America"
+year: 2014
+end_range: 2014
+formats: "NULL"
+geographic_extant: "United States"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Barbara Aikens"
+size: "725 linear feet"
+start_range: "1920"
+summary: "This project will provide detailed finding aids for 115 unprocessed archival collections that document the studio craft movement in America from the mid-20th century to the present. These newly accessible collections, along with more than 270 related oral history interviews will comprise the world's largest single source of primary materials for the study of American craft. The project will also create unprecedented contextual online access via a dedicated webpage that will feature a comprehensive “guide” to these archival resources, with links to newly created EAD finding aids and oral history transcripts, enhanced with user-contributed essays and other features. The project will culminate in a symposium on craft scholarship."
+hc_id: "10916369"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

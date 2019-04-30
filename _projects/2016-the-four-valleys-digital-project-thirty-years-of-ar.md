@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Four Valleys Digital Project: Thirty Years of Archaeological Research in the Naco, Cacaulapa, Santa Barbara, and El Paraíso Valleys, Northwestern Honduras
+title: "The Four Valleys Digital Project: Thirty Years of Archaeological Research in the Naco, Cacaulapa, Santa Barbara, and El Paraíso Valleys, Northwestern Honduras"
+year: 2016
+end_range: 2013
+formats: "NULL"
+geographic_extant: "These four valleys in northwestern Honduras are on the southeast edge of the Maya lowlands. The area's prehistory was shaped by complex interactions among societies of varying sizes, complexities, and locations within lower Central America and central Mexico. Histories of diverse peoples were thus related through transactions spanning this zone."
+institution: "Kenyon College"
+institution_type: "NULL"
+primary_contact: "Dr. Edward Schortman"
+size: "NULL"
+start_range: "1983"
+summary: "Unprecedented in its scope and comprehensiveness, the Four Valleys collection consists of all paper, photographic, and digital records resulting from archaeological investigations conducted in four northwest Honduran basins. Housed at Kenyon College, Ohio, its digitization promotes information equality by enabling diverse constituencies to address questions of political, economic, and cultural change from 1200BC through the 17th century. The archive contains data on the configurations, sizes, and locations of 941 significant sites, along with excavation results at 180 settlements, and the analysis of over one million artifacts. Spanning 1983-2013, the research has generated 47 publications, 128 papers, and 68 PhDs, MAs, and undergraduate honors theses. Over a two-year period we propose to: complete digitizing these records; upload them to a sustainable, accessible platform; advertise their presence; and assess the digital archive as a research and teaching tool in archaeology, colonial history, art history, information science, and training in the field sciences."
+hc_id: "23080803"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Kenyon College"
+p2_name:  "Dr. Ellen Bell"
+p2_institution:  "California State University, Stanislaus"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>1000 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$217,458"
+material_description:  "With more than 256,000 records, mostly collected before digitizing records in the field was feasible or common, the Four Valleys collection is one of the world's richest resources for understanding long-term sociopolitical and cultural processes. It provides basic data for tracing how people of all ranks and cultural affiliations lived over almost three millennia of prehistory. Among the materials to be digitized through this grant are: handwritten field notes documenting site surveys and excavations; scale drawings recording horizontal and vertical relations among sites, constructions, features, artifacts, and soils; catalog sheets providing detailed descriptions of individual artifacts, often accompanied by drawings of those items; photographs of features and artifacts documenting cultural materials and their contexts; descriptions of lots specifying the three-dimensional proveniences of artifacts recovered during research; sheets describing in situ finds (thus capturing information on cultural practices); and results of artifact analyses summarizing the material styles and functions crucial for reconstructing temporal periods and inferring what people did during those intervals. These documents result from field research conducted from 1983-2013 by the project's leaders within four valleys in northwestern Honduras: Naco,the middle Ulua, 40km south of Naco,the lower Cacaulapa, 9km southwest of Naco,and the El Paraíso valley, 90 km SW of Naco on the Guatemala/Honduras border. Their histories, though related, took divergent turns in how their inhabitants engaged with agents of the lowland Maya capitals of Copan and Quirigua. These people also pursued different strategies for creating and challenging centralized, hierarchically structured realms, especially during the Late (AD 600-800) and Terminal Classic (AD 800-1000) periods. The research involved in each drainage included: near-total ground surveys (ca. 180km2 covered overall, 941 sites recorded); excavation of 180 sites--from political capitals to hamlets-- spanning 1200 BC through the 17th century,and, analyses of over a million artifacts."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Unearthing the Historic Geology Library and Archives Resources at the Museum of Geology, SDSM&T
+title: "Unearthing the Historic Geology Library and Archives Resources at the Museum of Geology, SDSM&T"
+year: 2012
+end_range: 2012
+formats: "NULL"
+geographic_extant: "Western South Dakota, western Nebraska, eastern Wyoming, and western North Dakota"
+institution: "Museum of Geology"
+institution_type: "NULL"
+primary_contact: "Sally Shelton"
+size: "500 boxes, 3000 linear feet, 50000 objects"
+start_range: "1885"
+summary: "The library and archives resources of the Museum of Geology, SDSM&T, reflect over 125 years of institutional and regional history in mining, mineralogy and paleontology. Recently these collections were moved into a new, dedicated repository building, and for the first time can be catalogued, databased, and made available to students and researchers. The existing collections have been augmented by donations from state agencies and individuals. We are in the initial stages of establishing a linked geological archives system for the history and natural science institutions in western South Dakota and surrounding regions. This award will enable us to complete the crucial next phase of this project: establishing a database, cataloguing, developing finding aids, and providing help to bring other related collections across the region into this coordinated system."
+hc_id: "916"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Museum of Geology, SDSMT"
+address2:  "501 E. St. Joseph"
+city:  "Rapid City"
+state:  "SD"
+zip: "57701"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

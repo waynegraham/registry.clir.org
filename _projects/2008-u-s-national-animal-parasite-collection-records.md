@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: U.S. National Animal Parasite Collection Records
+title: "U.S. National Animal Parasite Collection Records"
+year: 2008
+end_range: 1987
+formats: "NULL"
+geographic_extant: "Primarily United States with some European publications."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Susan Fugate"
+size: "2361 linear feet"
+start_range: "1886"
+summary: "The U.S. National Animal Parasite Collection Records span 100 years of animal parasitology research. A significant part of the collection consists of original line drawings and photographic records of animal parasites with descriptive indexes. A detailed history of USDA parasitology research at the Beltsville Agricultural Research Center from 1886 through the 1980s (including employee biographies, photographs of staff and research facilities, program information, films, and parasite documentation) form another unique part of this collection. Other important parts of the collection include the personal papers of pioneering animal parasite researchers Brayton Howard Ransom and Cooper Curtice; an extensive collection of publications including proceedings of animal science organizations, significant journals and books in the field of animal parasitology, and collections of articles and research notes related to specific types of parasites. The original card file of the Index-Catalogue of Medical and Veterinary Zoology, a unique index to the world’s literature on parasites from 1892-1985, is also part of the collection. Most of the records in this card file have never been published. The U.S. National Animal Parasite Collection Records is a companion collection to the U.S. National Parasite Specimen Collection held at the Beltsville Agricultural Research Center. This unique set of materials on the history of veterinary parasitology is likely the most comprehensive in the world."
+hc_id: "63"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "National Agricultural Library"
+address2:  "NULL"
+city:  "Beltsville"
+state:  "MD"
+zip: "20705"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

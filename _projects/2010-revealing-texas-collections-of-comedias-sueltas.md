@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Revealing Texas Collections of Comedias Sueltas
+title: "Revealing Texas Collections of Comedias Sueltas"
+year: 2010
+end_range: 1899
+formats: "NULL"
+geographic_extant: "Spain"
+institution: "Harry Ransom Center"
+institution_type: "NULL"
+primary_contact: "Richard Oram"
+size: "14600 objects"
+start_range: "1680"
+summary: "\"Sueltas\" is a generic term for plays published in Spain from the late seventeenth through the nineteenth century in small pamphlet formats. The Ransom Center owns 14,000 of these, mostly concentrated in the later part of this period. The collection was purchased in pieces, generally in collections of bound volumes. \"Suelta\" means \"loose\" in Spanish, and individual play titles were frequently bound together. Portions of the collection are partially, but minimally cataloged, although a card index and printed catalog (M.V. Boyer, The Texas Collection of Comedias Sueltas: A Descriptive Bibliography [Boston, 1978]) are available. Boyer's bibliography covers only about ten percent (1,119 separate plays) of the Ransom Center's collection, and only those titles published before 1834. Boyer describes the Texas collection as \"one of the major collections of Spanish dramatic literature in suelta form in North America\" (xxi). According to Boyer, approximately 10,000 dramatic sueltas remained uncataloged in the collection in 1978. Another portion of the collection is organized according to Boyer's bibliographical numbers. There is also a 36-drawer card catalog, which, again, describes only a portion of the collection. Texas A&M University recently acquired approximately 600 sueltas, that are partially cataloged and A&M staff agreed to the Ransom Center's proposal to include their materials in this project."
+hc_id: "675"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Harry Ransom Center"
+address2:  "P.O. Drawer 7219"
+city:  "Austin"
+state:  "TX"
+zip: "78713-7219"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "Texas A&M University Libraries"
+grant_amount:  "$137,100"
+material_description:  "NULL"
 ---
-
-

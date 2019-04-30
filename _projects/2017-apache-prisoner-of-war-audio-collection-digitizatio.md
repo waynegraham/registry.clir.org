@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Apache Prisoner of War Audio Collection Digitization and Processing Project
+title: "Apache Prisoner of War Audio Collection Digitization and Processing Project"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Fort Sill Chiricahua/Warm Springs Apache Tribe"
+institution_type: "NULL"
+primary_contact: "Dr. T. Christopher Aplin"
+size: "NULL"
+start_range: "NULL"
+summary: "We plan to digitize Fort Sill Chiricahua/Warm Springs Apache sound collections. This community is descended from the Apache prisoners of war seized with Geronimo in 1886. Collections highlight the music and oral history of Chihene, or Warm Springs Apache youth living in Sierra Madre camps during 1882s so-called “Loco Outbreak,” including ancestors of the Haozous, Gooday, and Kawaykla families. Their recordings constitute the cultural heritage of Geronimo’s child soldiers. Fort Sill Apache recordings help scholars understand the consequences of the Loco Outbreak on Warm Springs Apache youth; their consolidation as prisoners of war alongside Nednai captors; as well as their re-assertion of Warm Springs consciousness when released from imprisonment in 1913. Including War and Mountain Spirit Dance songs dating from 19th-century southwestern warfare (1881-1886) and social dance songs and Christian hymnody dating from Apache prisoner of war exile and imprisonment (1886-1914), this is a collection of great historical significance."
+hc_id: "26832295"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "University of California, Los Angeles"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "50 items<li>90 Open Reel Audio Tape</li><li>316 Audio Cassette</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$41,733"
+material_description:  "NULL"
 ---
-
-

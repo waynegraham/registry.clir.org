@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Lost in Balboa Park: Digitization and Online Access to The Veterans Museum at Balboa Park's Artifact and Library Collections
+title: "Lost in Balboa Park: Digitization and Online Access to The Veterans Museum at Balboa Park's Artifact and Library Collections"
+year: 2016
+end_range: 2016
+formats: "NULL"
+geographic_extant: "The project is global in scope, with a focus on San Diego and Southern California. VMBP's collection features artifacts from each U.S. war from the Civil War onward, as well as American books dating back to the 19th-century."
+institution: "Balboa Park Online Collaborative, Inc."
+institution_type: "NULL"
+primary_contact: "Mr. Nik Honeysett"
+size: "NULL"
+start_range: "1804"
+summary: "With 17 museums, nine performing arts venues, 19 beautiful gardens, and the world-famous San Diego Zoo, San Diego's Balboa Park contains an astonishing array of treasures, including 700,000 collections objects, 150,000 research volumes, 7.7 million specimens, 5.5 million photographs, 120 million historic documents, and 4,000 annual music and theatrical performances and films. In spring 2015, the Balboa Park Online Collaborative (BPOC) launched the large-scale \"Lost in Balboa Park\" initiative in order to manage, digitize, and connect this diverse content to individuals. As part of the initiative's pilot phase, in 2017-2018 BPOC will focus on digitizing and making accessible The Veterans Museum at Balboa Park (VMBP)'s 10,000-plus artifact collection and related library materials. This project will not only help VMBP to fully understand the treasures it owns, but make them fully available to scholars, students, veterans, and the public for the first time in the museum's nearly 30-year history."
+hc_id: "22358073"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Balboa Park Online Collaborative"
+p2_name:  "Ms. Dani Heinemeyer"
+p2_institution:  "Balboa Park Online Collaborative"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>10000 Artifacts</li>"
+collaborating_institution:  "The Veterans Museum at Balboa Park"
+grant_amount:  "$122,233"
+material_description:  "As part of the broader \"Lost in Balboa Park\" initiative, BPOC seeks to digitize, catalog, and create detailed primary, research, and discoverability metadata for the following collections from The Veterans Museum at Balboa Park (VMBP): The VMBP Artifact Collection features men's and women's uniforms from World War I, World War II, Korean War, Vietnam War, Desert Storm, and the post-9/11 campaigns; weapons; communication and navigation equipment; jewelry; military award ribbons and medals; art works; and much more. Highlights include the pen that Admiral Nimitz used to sign the Japanese surrender document and the first American flag captured by the Japanese in the Philippines during World War II. These 10,000-plus artifacts, all donations from local veterans and their families, are of great historical, scholarly, and personal significance. They represent the hardships, bravery, and achievements of the men and women who have made America what it is today. The VMBP Research Library contains over 10,000 books and training manuals on topics ranging from poetry to weaponry. As part of this project, BPOC will digitize up to 100 rare, unique public domain holdings that do not currently exist digitally, including Norman Angell's \"The Great Illusion\" (1914) and LT Frank C. Tillson's signed copy of his book of poetry, \"Dugouts and Dreams\" (1920). In addition, we will digitize a collection of approximately 1,000 photographs by E. Muller, Jr., detailing U.S. Navy ships and operations prior to World War I (1910-1916). All items digitized as part of this project will be showcased on VMBP's institutional website and BPOC's \"Lost in Balboa Park\" online platform, an encyclopedic, unified digital experience that will enable students, researchers, and the public--both online and at the Park--to access and make connections between Balboa Park's diverse and valuable collections."
 ---
-
-

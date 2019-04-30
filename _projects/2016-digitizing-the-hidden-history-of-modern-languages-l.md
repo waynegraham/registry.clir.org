@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing the Hidden History of Modern Languages, Literatures, and Linguistics
+title: "Digitizing the Hidden History of Modern Languages, Literatures, and Linguistics"
+year: 2016
+end_range: 1883
+formats: "NULL"
+geographic_extant: "The geographic focus of the 1883-1933 archives is the northeastern United States. However, because its subject is the research and teaching of foreign languages and literatures, the archive includes content from several other countries, particularly Germany, because of World War I."
+institution: "The Modern Language Association (MLA)"
+institution_type: "NULL"
+primary_contact: "Ms. Barbara Chen"
+size: "NULL"
+start_range: "1883"
+summary: "The Modern Language Association (MLA), a nonprofit 501(c)(3) organization headquartered in New York City, seeks Council on Library and Information Resources (CLIR) grant support for the project Digitizing the Hidden History of Modern Languages, Literatures, and Linguistics. The project will result in three major deliverables: (1) the digitization of roughly 176 individual artifacts comprised of about 933 pages, prints, and views, (2) the creation of a richly described database and finding aid, and (3) the production of an open-access digital exhibition on the history of the research and teaching of modern languages, literatures, and linguistics. The artifacts nominated for digitization span the years 1883-1933 and will be drawn from the following collections in the MLA Archive: MLA Images Collection, MLA Papers Collection, MLA Scrapbook Collection, Newspaper and Newsletter Collection, MLA Library Collection, and MLA Objects Collection."
+hc_id: "22132436"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Modern Language Association"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>880 Ephemera</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$66,324"
+material_description:  "The MLA aims to digitize materials from five collections in its archives. The first collection, MLA Images, includes forty-two photographs of MLA presidents and executive directors (1883-1933), one photograph of future MLA leaders (1887-88), and one photograph of the 1919 annual convention attendees (1920) accompanied by a hand-drawn portrait ID identifying select modern language scholars (c. 1920). The second collection includes Executive Council scrapbooks that document critical events, decisions, and developments shaping the research and teaching of modern languages, literatures, and linguistics (1912-33). The third collection (created c. 1953) consists of twenty-four reproductions and transcriptions of newspapers 1883 to 1884 that document the founding meeting of the MLA. The fourth collection (created c. 1953) is composed of forty brief biographies of MLA presidents, along with ephemera, such as MLA Annual Convention programs (1884-1927) and association correspondence produced between 1896 and 1933. Finally, the fifth collection, MLA Objects, includes one twenty-one-inch-tall statue known as The Old Guard (c. 1923), likely created in the image of the MLA's principal founder, A. Marshall Elliott. We have selected these roughly 933 images, pages, and objects for their potential to contribute to a cohesive exhibition on the development of the research and teaching of language and literature between 1883 and 1933. The images and biographies of deceased scholars give life to distant figures, while Executive Council scrapbooks and association correspondence shed light on issues, developments, and historic events of the era. The scrapbooks and correspondence also cover the humanistic initiatives launched in the wake of World War I, including calls for book donations to Europe, aid for German scholars, and the backlash against government-mandated restrictions on the research and teaching of German, a backlash that illuminated an important and understudied moment in scholarship and history in the United States."
 ---
-
-

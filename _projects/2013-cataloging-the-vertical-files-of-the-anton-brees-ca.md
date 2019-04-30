@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging the Vertical Files of the Anton Brees Carillon Library
+title: "Cataloging the Vertical Files of the Anton Brees Carillon Library"
+year: 2013
+end_range: 2013
+formats: "NULL"
+geographic_extant: "The collection has an international scope with primary focus in North America, Europe, and Australia where the majority of carillons are found."
+institution: "Bok Tower Gardens"
+institution_type: "NULL"
+primary_contact: "Joy Banks"
+size: "40 boxes, 81 linear feet"
+start_range: "1920"
+summary: "Cataloging the vertical files of the Anton Brees Carillon Library (ABCL), including the archives of the Guild of Carillonneurs in North America (GCNA), will provide access to one of the world’s most comprehensive collections of carillon related materials. Most of the items date from the early 1920’s when carillons were introduced to North America and carry through to the present day as this collection continues to grow. Serving as a repository of primary and supporting secondary resources for professionals, students, and researchers, the ABCL vertical files aggregate as much information about past and present carillons in the world, of which there are approximately 600 in operation. For this collection, a carillon is defined as an instrument made up of at least 23 bells arranged in chromatic series and operated from a manual keyboard, though there are materials related to bells of historical importance and carillons that have been converted to electronic instruments. Materials may include correspondence, concert programs, PR materials, postcards, photographs, books, slides, rare carillon recordings, newspaper clippings, souvenirs, and biographical information. Collectively, these materials represent the artistic development and continued growth of an entire field of musical performance. Cataloging these materials will allow us not only to promote the profession and its instrument but also to provide more efficient access to a much broader scholarly audience."
+hc_id: "1087"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1151 Tower Blvd."
+address2:  "NULL"
+city:  "Lake Wales"
+state:  "FL"
+zip: "33853"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$219,700"
+material_description:  "NULL"
 ---
-
-

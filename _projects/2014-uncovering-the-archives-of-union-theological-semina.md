@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Uncovering the Archives of Union Theological Seminary
+title: "Uncovering the Archives of Union Theological Seminary"
+year: 2014
+end_range: 2014
+formats: "NULL"
+geographic_extant: "The focus is New York City and areas where faculty and students worked, including the Near East, England, Germany and Switzerland."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Beth Bidlack"
+size: "1135 linear feet"
+start_range: "1742"
+summary: "The archive of Union Theological Seminary contains approximately 141 collections (1,135 linear feet) of papers from faculty members, students, and others associated with UTS, one of the oldest theological schools in the United States. This archive is housed in the Burke Library, which since 2004 has been part of the Columbia University Libraries system. Columbia manages and provides oversight of this collection. The bulk of this important archive remains hidden to researchers. Organizing and describing these materials will enable scholars to access these unique materials. This project will take three years and will require one project archivist, twelve interns, and archival supplies. We are requesting funding for one project archivist."
+hc_id: "11832258"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

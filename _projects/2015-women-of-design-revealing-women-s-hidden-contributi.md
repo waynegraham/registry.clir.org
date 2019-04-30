@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Women of Design: Revealing Women's Hidden Contributions to the Built Environment
+title: "Women of Design: Revealing Women's Hidden Contributions to the Built Environment"
+year: 2015
+end_range: 2013
+formats: "NULL"
+geographic_extant: "These collections feature women who lived and worked in 17 countries across North America, South America, Europe, Asia, and Africa. The bulk of the materials represent women who worked in Europe and the United States, including a significant number of expatriates from former Communist countries."
+institution: "Virginia Tech"
+institution_type: "NULL"
+primary_contact: "Dr. Aaron Purcell"
+size: "NULL"
+start_range: "1912"
+summary: "Virginia Tech maintains the largest and longest continually operating archives in the world for women in architecture. This two-year project will digitize, describe, and provide virtual access to approximately 1,200 cubic feet of materials documenting the contributions of women to architecture and design in the 20th century. These digitized collections, freely accessible to and discoverable by scholars around the world, will promote a more complete understanding of women's contributions to modern architectural history and the progression of global architectural theory and practice. Representing the work of 50 individual women from the United States, Europe, Asia, Africa, and South America, the selected collections comprise architectural drawings and design sketches, personal and professional correspondence, project files, and photographs. Digitization will support international scholarship in several fields, including architecture and design, higher education, gender studies, urban studies, history, and sociology."
+hc_id: "17598028"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Virginia Tech"
+p2_name:  "Ms. Samantha"
+p2_institution:  "Collections Archivist"
+p3_name:  "Ms."
+p3_institution:  "NULL"
+material_string: "<li>215000 textual documents</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$159,501"
+material_description:  "For thirty years, Special Collections at Virginia Tech has collected the professional and personal papers of more than 400 women in architecture and design. This effort, known as the International Archives of Women in Architecture (IAWA), represents a joint partnership between the University Libraries and Virginia Tech's College of Architecture and Urban Studies. The purpose of the IAWA is to provide access to documentary evidence of women's contributions to the field of architecture through outreach, education, and collection building. \n\n\n\nThis project will focus on the collections of fifty women who worked in architecture from 1912 through 2013, prioritizing collections of high interest to researchers that feature a wealth of original material in multiple formats. Selected collections include the personal and professional papers of Eleanore Pettersen, Sigrid Rupp, Zelma Wilson, Beverly Willis, Pamela Webb, Han Schroeder, Susana Torre, Jane Hall Johnson, and Elsa Leviseur, among others. The contribution of these and other women architects to the development of architectural theory and practice has been understudied and overlooked by scholars. In addition to supporting a deeper understanding of the development of architectural theory and practice around the world, these collections provide broad insights into the experiences of women as professionals in the twentieth and twenty-first centuries. \n\n\n\nSelections for digitization comprise architectural drawings, mixed media artwork, travel journals, personal and professional correspondence, project files, and photographs. The bulk of the materials are in English and German, with some items are in Bulgarian, Croatian, Dutch, French, Hebrew, Italian, Japanese, and Spanish. Project metadata will include limited English translation of core elements. The collections span approximately 1,200 cubic feet. This project proposes to produce approximately 50,000 digital objects for researchers and the general public to access and download."
 ---
-
-

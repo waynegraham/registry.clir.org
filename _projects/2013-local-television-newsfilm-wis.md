@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Local Television Newsfilm: WIS
+title: "Local Television Newsfilm: WIS"
+year: 2013
+end_range: 1980
+formats: "NULL"
+geographic_extant: "Comprehensive coverage of central South Carolina, extensive coverage of the state of South Carolina, and significant coverage of national events."
+institution: "Moving Image Research Collections"
+institution_type: "NULL"
+primary_contact: "Angi Fuller Wildt"
+size: "400000 linear feet"
+start_range: "1950"
+summary: "The WIS television news collection comprises 16mm films shot by Columbia, South Carolina's NBC news affiliate from the mid 1950s through 1980. Donated in 1984, the collection contains an estimated 1,000,000 feet of film (over 450 hours of content). Even though the collection has been with the University for 20 years, roughly 40% of the content is still unprocessed and wholly unavailable to researchers. The following years are considered to be mostly or completely cataloged: 1963, 1965, 1967, 1970, 1972, 1975, 1976, 1977, 1978, and 1979. This leaves all elements from the 1950s and the majority of film from the 1960s--two decades that are absolutely pivotal in our nation's history--outside the reach of scholars. The films in the WIS collection document the city of Columbia and the Midlands region of South Carolina. Because Columbia is also the state capital, the WIS collection contains vital records of the entire state's political history as well as its response to national events, political movements, and cultural trends. For the purpose of this application we do not seek funds to revise existing catalog records. Nor do we seek to continue processing and cataloging records in the same unsustainable manner that identifies each story as an individual item. We have sought and received permission from the CLIR to submit these vital remaining films as a separate \"hidden collection.\""
+hc_id: "1171"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1600 Hampton Street, Suuite 404"
+address2:  "NULL"
+city:  "Columbia"
+state:  "SC"
+zip: "29208"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

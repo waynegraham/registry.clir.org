@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Living Legends Project
+title: "The Living Legends Project"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Oklahoma Historical Society"
+institution_type: "NULL"
+primary_contact: "Mr. JA Pryse"
+size: "NULL"
+start_range: "NULL"
+summary: "The Oklahoma Historical Society {OHS) plans to digitize and make available <5000> Audio files including: 1/4\" magnetic reel tape; audio/mpeg; cassette Tape; CO-ROMs from the Living Legends Collection. The interviews selected will reflect the state's political, cultural, and economic history, span Oklahoma regionally and cover the mid nineteenth to the early twentieth century time period. The OHS believes that this undertaking vAll successfully contribute to the public's access to these regionally significant interviews."
+hc_id: "26663129"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Oklahoma Historical Society"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "5000 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$50,000.00"
+material_description:  "NULL"
 ---
-
-

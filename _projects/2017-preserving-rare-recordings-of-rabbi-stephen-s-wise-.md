@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Preserving Rare Recordings of Rabbi Stephen S. Wise and the Free Synagogue Pulpit that are held at The Jacob Rader Marcus Center of the American Jewish Archives
+title: "Preserving Rare Recordings of Rabbi Stephen S. Wise and the Free Synagogue Pulpit that are held at The Jacob Rader Marcus Center of the American Jewish Archives"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Hebrew Union College-Jewish Institute of Religion. The Jacob Rader Marcus Center of the American Jewish Archives"
+institution_type: "NULL"
+primary_contact: "Dr. Gary Zola"
+size: "NULL"
+start_range: "NULL"
+summary: "This project proposes to digitize original recordings of sermons and addresses primarily of Rabbi Stephen S. Wise, together with other speakers, delivered during services for The Free Synagogue held at Carnegie Hall in New York City from 1931-1942. Wise is considered among the most significant American religious leaders of the 20th century. Wise was an active communal leader, a vocal and vigorous advocate for social justice nationwide, and a leading voice against Nazism.(See appendix for a biographical entry on Wise). These sermons reflect Wise's passion for social justice and his efforts for gathering support for Jewish survival and rescue during the Nazi era. Recorded on 10 and 12-inch aluminum and glass discs, no other known copies of these sermons and addresses exist. In their current format they are inaccessible and increasingly in danger of being lost. Digital transfer is urgently needed to preserve and provide access to these rare recordings."
+hc_id: "26704700"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "The Jacob Rader Marcus Center of the American Jewish Archives"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "1070 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$38,240"
+material_description:  "NULL"
 ---
-
-

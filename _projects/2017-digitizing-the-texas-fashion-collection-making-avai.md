@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing the Texas Fashion Collection: Making available nearly 20,000 historic and designer garments and dress-related objects
+title: "Digitizing the Texas Fashion Collection: Making available nearly 20,000 historic and designer garments and dress-related objects"
+year: 2017
+end_range: 1200
+formats: "NULL"
+geographic_extant: "The TFC’s holdings primarily represent the history of the Western fashion system, which primarily draws from European and American traditions of tailoring and dressmaking. Geographic areas of focus include Paris, New York, London, Los Angeles, and Dallas. A smaller percentage of holdings include traditional cultural ensembles from five continents."
+institution: "Texas Fashion Collection"
+institution_type: "NULL"
+primary_contact: "Ms. Annette Becker"
+size: "NULL"
+start_range: "1200"
+summary: "The two year project will digitize and make publically available records of the nearly 20,000 historic and designer garments and dress-related objects held by the Texas Fashion Collection at the University of North Texas. The TFC’s holdings include important examples of American ready-to-wear and high fashion, many of which are by designers not represented in other archives and museum collections. This project will encompass transferring data from an outdated proprietary database to a new web-based program, editing existing metadata to make it more robust, photographing undocumented objects, and making records publicly available through a free web-based platform."
+hc_id: "26257246"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "UNT Texas Fashion Collection"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>16761 garments and accessories</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$144,754"
+material_description:  "The Texas Fashion Collection is a unique repository of nearly 20,000 historic and designer garments and dress-related objects. While the origins of the collection focus on Dallas, Texas, as a center of fashion manufacturing, design, and high-end retail, the TFC’s holdings include examples of innovative construction, materials, and silhouette from diverse social, historical, and cultural contexts. Importantly, the TFC’s holdings include examples of both haute couture - which is considered the highest form of fashion design and execution in the world - and ready-to-wear garments that reflect the trends of more quotidian clothing. These perspectives complement each other, forming a more complete and holistic view into dress - both the material fashion objects and the complex systems that people participate in when they adorn themselves. When the TFC was formed in 1972, it brought together two historic collections - the Carrie Marcus Neiman Foundation Collection of Fashion that documented popular styles from the twentieth century that were collected by the department store Neiman-Marcus; and the Dallas Museum of Fashion, which documented both historic and contemporary clothing through the efforts of fashion industry professionals who worked in manufacturing, merchandising, and design. These two seed collections have been augmented by donations from designers, fashionable figures, estates, and individuals, bringing critical diversity to this unique collection of dress."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Providing access and minimum description to backlog collections
+title: "Providing access and minimum description to backlog collections"
+year: 2010
+end_range: 2010
+formats: "NULL"
+geographic_extant: "United States, with a substantial portion associated with New England."
+institution: "Thomas J. Dodd Research Center"
+institution_type: "NULL"
+primary_contact: "Betsy Pittman"
+size: "3000 linear feet"
+start_range: "1850"
+summary: "The Dood Research Center has a backlog of approximately 280 archival and manuscript collections for which there are no finding aids, catalog descriptions or preliminary access tools. The collections included in the backlog include materials acquired under the following areas of our collection development policy (http://doddcenter.uconn.edu/collections/cd/cd_policy_2008.htm): University Archives, Literary, Children's Literature, Business, Nursing and Political collections, as well as rare manuscripts and personal papers collections and organizational records. Within each of these collecting areas are collections of international significance such as the Papers of Bill Berkson, Tom Clark, William Costley, Michael McClure and Tom Raworth, Michael Rumaker (20th century American poets); Leonard Weisgard, Donald Carrick, Shelley Orr, Hilary and Clayton Knight (children's literature authors and illustrators); Pratt & Whitney Photograph Collection, and National Organization of Women (Connecticut and Rhode Island) Records. Records of the UConn Schools of Medicine, Dental Health, Allied Health and Family Studies represent some of the earliest institutional records that reside in the Dodd Center and provide a record of the university's development and significant achievements."
+hc_id: "658"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "405 Babbidge Road"
+address2:  "Unit 1205"
+city:  "Storrs"
+state:  "CT"
+zip: "06269-1205"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

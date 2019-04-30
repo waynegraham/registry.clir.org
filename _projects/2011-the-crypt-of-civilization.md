@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Crypt of Civilization
+title: "The Crypt of Civilization"
+year: 2011
+end_range: 2011
+formats: "NULL"
+geographic_extant: "The collection contains materials and information on a national scope and also includes information from Europe."
+institution: "Oglethorpe University"
+institution_type: "NULL"
+primary_contact: "Anne Salter"
+size: "8 boxes, 5 objects"
+start_range: "1935"
+summary: "In 1935, Thornwell Jacobs, president of Oglethorpe University in Atlanta, Georgia, conceived of an idea that would evolve into an historical curiosity of international scope eventually finding its way into the Guinness Book of World Records. While writing his book, The New Science and the Old Religion, Jacobs became aware that “at no period in history do we have complete and accurate information on any single generation of mankind.” It became his mission to create and preserve a slice of life in the 1935 period of American history. To this end, he persuaded Orson Munn, editor of Scientific American to assist in cooperating and making public what would become The Crypt of Civilization. In addition he hired Thomas Kemmwood Peters to preserve the materials in the crypt through the new technique of microfilming. The fully documented orchestration of the Crypt of Civilization provides a virtual blueprint and script for the project through its papers which include photographs, list, recordings, films, publications, and copious correspondence that document the life cycle of the project. The documents include all letters of procurement for items to be contained in the crypt. It also contains printed programs, brochures, magazines and newspaper articles about the project."
+hc_id: "727"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Philip Weltner Library"
+address2:  "4484 Peachtree Rd. NE"
+city:  "Atlanta"
+state:  "GA"
+zip: "30319"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

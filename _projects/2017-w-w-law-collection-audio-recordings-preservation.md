@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: W. W. Law Collection Audio Recordings Preservation
+title: "W. W. Law Collection Audio Recordings Preservation"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "City of Savannah, Georgia, Research Library and Municipal Archives"
+institution_type: "NULL"
+primary_contact: "Ms. Luciana Spracher"
+size: "NULL"
+start_range: "NULL"
+summary: "The City of Savannah Research Library & Municipal Archives (RLMA), partnering with the Northeast Document Conservation Center (NEDCC), will reformat at-risk, rare audio recordings (34 open -reel tapes; estimated 43 hours; dating 1955-1978, undated) from the W. W. Law Collection. Westley Wallace “W. W.” Law (1923-2002) was a prominent Civil Rights leader, local historian, historic preservationist and community leader in Savannah, Georgia. As president of the Savannah Branch NAACP from 1950-1976, his collection includes a variety of material related to the Civil Rights movement, not only in Savannah but throughout the United States. The audio included in this project include speeches by NAACP leaders, Civil Rights events, recordings of regional musicians, and local history programs. They will be valuable to researchers from a broad array of disciplines, including local and national scholars of American, social or music history, local community members, biographers, and students, among others."
+hc_id: "25849258"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "City of Savannah, Research Library & Municipal Archives"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "34 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$13,111"
+material_description:  "The thirty-four (34) open-reel audio tapes included in this proposal were collected and maintained by W. W. Law (1923-2002) during his lifetime. At his death they were willed to Remer Pendergraph, who transferred them by deed to the W. W. Law Foundation, as part of the larger W. W. Law Collection. The Foundation transferred the W. W. Law Collection to the City of Savannah by deed of gift in 2014. The tapes were originally stored in W. W. Law’s home. In 2004, they were transferred to a climate-controlled City storage facility. In 2014, this facility was put under the supervision of the RLMA. The audio tapes, recorded 1955-1978 and undated, include original recordings of National Association for the Advancement of Colored People (NAACP) events in Savannah, speeches and lectures made by prominent Savannah leaders, including W. W. Law and R. W. Gadsden, Negro History Week programs, concerts by regional musicians, and more related to the Civil Rights Movement and documentation/preservation of African American history in the coastal Georgia area. The audio reels were received with no arrangement, mixed in with a variety of audiovisual materials. They have since been sorted by format, as we have proceeded with processing and providing access to other formats in the audiovisual collection (shellac, vinyl, and cassette). To date, the open-reel audio tapes have been inaccessible due to lack of suitable playback equipment and concerns for their stability, hindering our ability to both process them and provide public access. Current intellectual control is based on existing labelling on the tapes provided by the creator and physical inspection, from which a basic inventory in Microsoft Access captures metadata including: title, contributor, genre, date, estimated time, and condition."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Fresh Air in the Sunlight: Opening Access to Forty Years of WHYY's Fresh Air with Terry Gross
+title: "Fresh Air in the Sunlight: Opening Access to Forty Years of WHYY's Fresh Air with Terry Gross"
+year: 2014
+end_range: 2014
+formats: "NULL"
+geographic_extant: "The 8,000 programs are international in scope-spanning all continents."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Kathryn Hammond Baker"
+size: "8000 objects"
+start_range: "1976"
+summary: "WHYY seeks support to create free access to its 38+-year collection of the Peabody Award-winning national radio program FRESH AIR WITH TERRY GROSS. Produced and owned totally by WHYY, this award-winning, weekday magazine of contemporary arts and culture is in its 38th year of production and the 27th year of national distribution. 8,000 of these rich oral histories of best in class literary, visual and performing artists dating from 1976 till today have been digitized and archived by WHYY but are hidden from the public. Drexel University in Philadelphia will serve as a sub-contracted partner on this project bringing extensive experience in the standardization, cataloguing and \"open access\" of archives and hidden collections to the project."
+hc_id: "12990377"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "150 North Sixth Street"
+address2:  "Independence Mall West"
+city:  "Philadelphia"
+state:  "PA"
+zip: "19106"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "Drexel University, Philadelphia"
+grant_amount:  "$254,769"
+material_description:  "NULL"
 ---
-
-

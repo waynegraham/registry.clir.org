@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Foundations of Dance Research (Foundations)
+title: "Foundations of Dance Research (Foundations)"
+year: 2011
+end_range: 2011
+formats: "NULL"
+geographic_extant: "Throughout the United States, with substantial material from or relating to Canada, Mexico, and various countries of Europe, Asia, and Africa"
+institution: "Dance Heritage Coalition"
+institution_type: "NULL"
+primary_contact: "Libby Smigel"
+size: "593 boxes, 79 cubic feet, 775 linear feet, 2657 objects"
+start_range: "1880"
+summary: "The Foundations project (Project) includes materials relating to dance performance, theory, and education in 22 collections held by seven institutions (Repositories): Arizona State University (ASU), Dance Notation Bureau (DNB), Library of Congress (LOC), Museum of Performance & Design (MPD), The Ohio State University (OSU), Jacob's Pillow Dance Festival (Pillow), and University of California, Los Angeles (UCLA). Several collections are from individuals: modern dance pioneers Ruth St. Denis, Ted Shawn; Shawn's associates Jess Meeker and Barton Mumaw; second generation modern dancer and choreographer Kenneth Rinker; postmodern dancer Robert Ellis Dunn; film dancer Marge Champion; mime specialists Sandra Hughes and Robert Post; ballet dancer and company director Michael Smuin; scholar and ethnologist Allegra Fuller Snyder; critic and writer Janice Ross; Dalcroze eurhythmics teacher John Colman; Dalcroze biographer and musicologist Irwin Spector; and dance notation creator Rudolph Laban. Other collections are from organizations significant to dance: the San Francisco Ballet, the Dance Notation Bureau, and the Dalcroze Society of America. There is also a collection of performance videotapes from artistically innovative West Coast dance groups such as AXIS Dance Company, the Lily Cai Chinese Dance Company, the Joe Goode Performance Group, the San Francisco Butoh Festival, the San Francisco Jazz’s Tap-Jazz Summit, and Theatre Flamenco."
+hc_id: "723"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1111 16th Street NW"
+address2:  "Suite 300"
+city:  "Washington"
+state:  "DC"
+zip: "20036"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "Arizona State University; Dance Notation Bureau; Library of Congress; Museum of Performance and Design; Ohio State University; Jacob's Pillow Dance Festival; University of California, Los Angeles"
+grant_amount:  "$350,000"
+material_description:  "NULL"
 ---
-
-

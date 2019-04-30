@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Glass to Access: Revealing the Carroll Photo Service Collection
+title: "Glass to Access: Revealing the Carroll Photo Service Collection"
+year: 2010
+end_range: 1947
+formats: "NULL"
+geographic_extant: "The Southern California region, including Los Angeles, Ventura, Riverside, San Bernardino, Orange, and San Diego Counties, as well as Tijuana, Mexico."
+institution: "Natural History Museum of Los Angeles County"
+institution_type: "NULL"
+primary_contact: "William Estrada"
+size: "32000 objects"
+start_range: "1924"
+summary: "The Carroll Photo Service Collection is an important photojournalism collection in the Natural History Museum of Los Angeles County History Division's Seaver Center for Western History Research. It complements other Seaver collections whose strengths consist of documenting people and locations in California from 1870 to the early 1930s. Covering the years 1924 to 1947, the collection documents the rapidly expanding Southern California region through images such as L.A.'s Mexican American community, taken on assignment for La Opinion, the nation's oldest Spanish language daily newspaper. The collection covers aviation extensively, including: the 1928 opening ceremonies of Mines Field, now LAX, and the 1928 National Air Races held there; the 1929 and 1931 National Women's Air Derbies--also known as the Powder Puff Derby--held at Clover Field, Santa Monica; and the first trans-continental commercial flight, piloted by Charles Lindbergh. By 1929, Los Angeles was the aviation capital of the United States with 55 airports and landing fields; 27 accredited aviation schools; more than 1,500 students of aviation and aviation mechanics; and 12 major airplane factories. Gubernatorial, Mayoral, and ballot initiative campaigns are documented. Sporting events coverage includes the 1932 L.A. Summer Olympics; the growth of intercollegiate sports, including USC, UCLA, Occidental College, Loyola University, and Whittier College; and outstanding athletes from Riverside's Sherman Indian School."
+hc_id: "613"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Seaver Center for Western History Research"
+address2:  "900 Exposition Boulevard"
+city:  "Los Angeles"
+state:  "CA"
+zip: "90007"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

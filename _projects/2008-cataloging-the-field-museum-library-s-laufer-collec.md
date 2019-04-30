@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging The Field Museum Library's Laufer Collection
+title: "Cataloging The Field Museum Library's Laufer Collection"
+year: 2008
+end_range: 1934
+formats: "NULL"
+geographic_extant: "The geographic scope of the project covers China, Tibet, Japan, Mongolia, Eastern Europe and Russia."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Melissa Anderson"
+size: "486 linear feet"
+start_range: "1461"
+summary: "Berthold Laufer (1874-1934), one of the most distinguished Sinologists of his generation, was a renowned Asian scholar, bibliographer, linguist and collection curator. Between 1907 and 1934, Laufer built the core of the Field Museum's Asian collection including an extensive collection of books. Numerous other institutions have items collected by Laufer. A 2007 survey of the Laufer collection has revealed it contains items of great importance and numerous rarities. The Field Museum Library's Laufer Collection can be divided into two main categories based on location of publication: Asian works and Western works. Both sections cover a broad range of topics including arts, anthropology, archaeology, biographies, customs and manners, encyclopedias, geography (gazetteers), history, industry, literature, philosophy, religion, science, and travel. The Asian works originate from China, Tibet, Japan, and Mongolia. The collection is particularly strong in the Chinese works on bronze and stone inscriptions (jinshixue). This section of the collection covers the fifteenth to the twentieth centuries. The geographic scope of these Asian language publications is primarily China and Japan. The Western language publications include books largely Eastern European and Russian in origin. These books were all published between the eighteenth and twentieth centuries. These Western publications focus on China, Tibet, Japan, Mongolia and Eastern Europe."
+hc_id: "173"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "The Field Museum"
+address2:  "Library"
+city:  "Chicago"
+state:  "IL"
+zip: "60605"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

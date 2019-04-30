@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Yesterday's Farm, Today: 100 years of farming history at SUNY Cobleskill's Van Wagenen Library and the Schoharie County Historical Society
+title: "Yesterday's Farm, Today: 100 years of farming history at SUNY Cobleskill's Van Wagenen Library and the Schoharie County Historical Society"
+year: 2015
+end_range: 1998
+formats: "NULL"
+geographic_extant: "The range of geographic regions represented in the nominated collections is fairly broad. The Harold Tolles collection focuses primarily on Schoharie, Deleware and Otsego county. SUNY's archival material ranges from Schoharie county to almost all of the outlying regions in Upstate New York."
+institution: "State University of New York at Cobleskill"
+institution_type: "NULL"
+primary_contact: "Ms. Beth Orgeron"
+size: "NULL"
+start_range: "1726"
+summary: "Over the next three years, SUNY Cobleskill's Van Wagenen Library, in collaboration with the Schoharie County Historical Society, will publish 100 years of regional farming memorabilia, maps, and agricultural research, including nearly 90,000 photo negatives collected over the last 40 years by Harold Tolles, to meet the rising demand of farm-to-table practices currently fueling economic growth and academic research in Upstate New York. This partnership is particularly exciting as it allows access to material thought lost in the wake of 2011's Hurricane Irene. While the country came together to rebuild the many homes and businesses destroyed in Schoharie County, it was unable to replace the countless photo albums and regional artifacts lost during the hurricane. By digitizing our agricultural material we will meet the rising demand for our region's history and academic research, while protecting against future loss by providing students, farmers, genealogists, and historians access to invaluable scholarly material."
+hc_id: "16935919"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "SUNY Cobleskill"
+p2_name:  "Ms. Katherine"
+p2_institution:  "Librarian"
+p3_name:  "Ms. Mr. Dan"
+p3_institution:  "Deputy Director"
+material_string: "<li>90000 Photographs</li>"
+collaborating_institution:  "Schoharie County Historical Society"
+grant_amount:  "397314"
+material_description:  "We will be digitizing the life's work of Harold Tolles, nearly 90,000 photo negatives amassed over the last forty years. During his lifetime Mr. Tolles photographed almost every major event in Schoharie County and its boarding regions. In addition to parades, gatherings, automobile accidents and town fairs, Mr. Tolles was also hired by many of the local high schools to capture student photographs, award ceremonies, and performances. For local families and genealogists, Mr. Tolles' collection has been invaluable, as many families in our region lost their photo albums in the floods of 2011. In addition to Harold Tolles' collection, we will be digitizing nearly 200 years of land deeds and regional maps housed in the Schoharie County Historical Society. Over the last five years, the maps and land deeds have been of particular scholarly interest, as the present generation, exponentially more so than that of the previous generation, have vested interest in organic, locally monitored farms and food. By digitizing the Tolles collection, maps, land deeds, and Van Wagenen's collection of rare, local farm related documents, historical journals, glass slides, and campus newsletters, we will make available regional and agriculture material to help enrich and educate the current wave of farmers as they work to underscore the importance of grassroots, locally owned farms."
 ---
-
-

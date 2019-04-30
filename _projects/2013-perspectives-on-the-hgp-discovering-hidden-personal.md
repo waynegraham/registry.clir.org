@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Perspectives on the HGP: Discovering hidden personal collections documenting the origins and development of the Human Genome Project in the U.S.
+title: "Perspectives on the HGP: Discovering hidden personal collections documenting the origins and development of the Human Genome Project in the U.S."
+year: 2013
+end_range: 2003
+formats: "NULL"
+geographic_extant: "The collections are from 7 areas: Seattle; NY Metro; Boston; CA; Houston; Denver; and Wisconsin. Most of the collections' owners will consider donating."
+institution: "Cold Spring Harbor Laboratory"
+institution_type: "NULL"
+primary_contact: "Ludmila Pollock"
+size: "185 linear feet"
+start_range: "1980"
+summary: "This project involves 27 personal collections, comprising some 185 lf of physical material and ~15GB of electronic material related to HGP. Among the individuals who created these collections are the developers of many methods/devices that were critical to the HGP; key leaders of the HGP; those instrumental in formulating genome policy and disseminating knowledge about the HGP; and specialists in the ethical, legal, and social implications (ELSI) of genome research. The creators of the collections are life scientists: Norman G. Anderson, David Botstein, Patrick O. Brown, Charles Cantor, George Church, Helen Donis-Keller, Russell Doolittle, Dick McCombie, David L. Nelson, Harry Noller, Maynard Olson, Gerry Rubin, David C. Schwartz, Jim Sikela, Lloyd Smith, Ignacio Tinoco, and James Weber; computer scientists David Haussler and Jim Kent; and government administrators: Elbert Branscomb, Charles DeLisi, and Ari Patrinos; ELSI specialists: Reid Adler and Thomas Murray; and authors/journalists: Daniel Kevles and Nicholas Wade. The materials include: correspondence about the HGP, such as letters, memos, and emails; meeting materials, such as presentations, notes, and hand-outs; workshop materials, such as research materials, notes, and transcripts; scientific research materials, such as lab notebooks, raw data, and grant applications; public relations material, such as press releases and videos; and book materials, such as notes from interviews."
+hc_id: "1094"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1 Bungtown Rd."
+address2:  "Library/ Osterhout"
+city:  "Cold Spring Harbor"
+state:  "NY"
+zip: "11724"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

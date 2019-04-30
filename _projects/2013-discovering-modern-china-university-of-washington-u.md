@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Discovering Modern China: University of Washington & University of British Columbia Collections
+title: "Discovering Modern China: University of Washington & University of British Columbia Collections"
+year: 2013
+end_range: 1970
+formats: "NULL"
+geographic_extant: "UW: Guangdong province & China in general; UBC: Guangdong & Shandong provinces of China, and some Overseas Chinese publications"
+institution: "University of Washington"
+institution_type: "NULL"
+primary_contact: "Joyce Agee"
+size: "15 boxes, 2000 objects"
+start_range: "1600"
+summary: "Among the top East Asian collections in North America, UW & UBC hold a wealth of hidden Chinese collections including pre-modern classical texts & source materials from the Ming Dynasty (1368-1644) through the early years of the People’s Republic of China (1949-). The pre-modern texts, in a literary form of the Chinese language, are printed in traditional complex characters and bound with string. The 20th century materials include thousands of imprints from the Republic Period (1911-1949). Materials cover subjects in social sciences, literature, humanities & traditional medicine. UW titles are largely from the early 20th century, although some date from the Qing Dynasty (1644-1911) through the 1970s. The collection includes 373 wooden fish books (i.e., rare and important Cantonese song lyric books), 120 scrolls of Chinese paintings, Republic Period texts and the papers of Wu Xianzi (1881-1959), an activist in the Chinese Constitutional Movement. UBC Library holds rare Chinese materials in pre-modern and contemporary formats from a dozen world-renowned collections, including the Puban, Pang Jingtang and Jing Yizhai collections. The hidden classical items include books, manuscripts, rubbings, maps and letter albums of key figures also from the Qing Dynasty to the early Republic and imprints of the Ming. The 20th century publications include unique or rare items: traditional Chinese medicine, fine art, textbooks and lineage association publications."
+hc_id: "1105"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Box 352900"
+address2:  "NULL"
+city:  "Seattle"
+state:  "WA"
+zip: "98195"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "University of British Columbia Libraries"
+grant_amount:  "$183,500"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Bibliotheca Philadelphiensis: Toward A Comprehensive Online Library of Medieval and Early Modern Manuscripts in PACSCL Libraries in Eastern Pennsylvania and Delaware
+title: "Bibliotheca Philadelphiensis: Toward A Comprehensive Online Library of Medieval and Early Modern Manuscripts in PACSCL Libraries in Eastern Pennsylvania and Delaware"
+year: 2015
+end_range: 1593
+formats: "NULL"
+geographic_extant: "With only a few exceptions from the Middle East, the materials to be digitized are from Europe, with the majority from Western Europe. They represent most of the major manuscript and scholarly centers in England, France, and the Low Countries as well as significant holdings from Italy, Spain,"
+institution: "Lehigh University, Linderman Library"
+institution_type: "NULL"
+primary_contact: "Ms. Lois Black"
+size: "NULL"
+start_range: "1050"
+summary: "This project, hosted at Lehigh University Library and the University of Pennsylvania Libraries and involving fifteen members of the Philadelphia Area Consortium of Special Collections Libraries (PACSCL), will provide online access to high-resolution images, with metadata, of 159,512 pages of medieval manuscripts from more than 400 codices plus leaves. These images will be released to the public domain for free use by scholars and the general public and, added to existing digitized resources, will make the overwhelming majority of the region's medieval manuscripts -- one of the largest concentrations in the United States -- available worldwide, in their entirety and easily downloadable. By providing unfettered, unmediated consolidated access to such a comprehensive corpus of images and metadata, the project will shape a new understanding of libraries' and archives' role in sharing our historical and cultural heritage. (Member libraries are also contributing previously-digitized manuscripts at no cost to the project.)"
+hc_id: "18602936"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Lehigh University"
+p2_name:  "Ms. Dot Porter"
+p2_institution:  "University of Pennsylvania Libraries, Schoenberg Institute for Manuscript Studies"
+p3_name:  "Ms. Janine Pollock"
+p3_institution:  "Free Library of Philadelphia"
+material_string: "<li>159510 Manuscripts</li>"
+collaborating_institution:  "Lehigh University; Free Library of Philadelphia; University of Pennsylvania Libraries; Bryn Mawr College; Haverford College; Swarthmore College; Library Company of Philadelphia; College of Physicians of Philadelphia; Rosenbach Museum and Library; University of Delaware; Temple University; Science Heritage Institute; Franklin & Marshall College; Villanova University; Philadelphia Museum of Art"
+grant_amount:  "$499,086"
+material_description:  "The materials nominated for digitization comprise 159,512 pages of medieval and early modern manuscripts, ranging in date from the eleventh to the sixteenth centuries with the major concentrations in the thirteenth to fifteenth centuries. The topics range from sacred and religious texts (Bibles, Psalters, Books of Hours, liturgical texts, commentaries) through literature, politics and law, to science and technology, medicine and magic, in editions ranging from luxe copies prepared for and presented to royalty to humble text-only volumes copied for individual use. A review of the manuscripts' provenance also reflects the history of manuscript collecting in the United States. Three of the codices are among the earliest medieval manuscripts brought to this country, in the late eighteenth century. Additional manuscripts represent materials assembled in the late nineteenth century by scholars or institutions to form study collections, particularly in the fields of the history of the book, medicine and the sciences, and philosophy and law. Lehigh University is noteworthy for its early institutional commitment to assembling a small but choice collection to support the study of early book production. Among individual collectors, the admiralty lawyer John F. Lewis amassed a collection of more than 250 codices and 2,000 leaves as a research resource, now held by the Free Library of Philadelphia. For more information on the history of collecting in Philadelphia, see James R. Tanis, \"Collecting Illuminated Manuscripts in Philadelphia,\" in Leaves of Gold: Manuscript Illumination from Philadelphia Collections (Philadelphia: Philadelphia Museum of Art, 2001). Scholarly interest in these collections, already stimulated by the 2001 Leaves of Gold exhibition, has grown through the digitization and online availability of selected leaves and representative codex images from the Free Library of Philadelphia and the complete manuscript collections of the University of Pennsylvania Library."
 ---
-
-

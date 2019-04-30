@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Rediscovering Our Roots: Digitizing Sound Portraits Productions Materials
+title: "Rediscovering Our Roots: Digitizing Sound Portraits Productions Materials"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "StoryCorps"
+institution_type: "NULL"
+primary_contact: "Ms. Virginia Millington"
+size: "NULL"
+start_range: "NULL"
+summary: "StoryCorps requests a grant to digitize analog media materials produced by Sound Portraits Productions (SPP). SPP was an independent production company formally established by StoryCorps’ founder and MacArthur Genius, Dave Isay, in 1994. Starting in the late 1980s, SPP produced over 70 audio documentaries that tell the stories of diverse and underrepresented people from across the nation, whose stories would otherwise have been excluded from the historical record. The masters and related source materials for these groundbreaking and award-winning documentaries represent a unique resource for educators, scholars, producers, and the public. However, most remain un-digitized and face decay and obsolescence. Support from CLIR will enable StoryCorps to digitize part of this collection and share these rare audio materials with generations to come."
+hc_id: "25743159"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "StoryCorps"
+p2_name:  "Ms. Tamara Thompson"
+p2_institution:  "StoryCorps"
+p3_name:  "Ms. Samantha Abrams"
+p3_institution:  "StoryCorps"
+material_string: "6 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$24,814"
+material_description:  "StoryCorps requests a grant to digitize: high quality masters of two (2) audio documentaries, “Remembering Stonewall” (1990) and “Tossing Away the Keys” (1998); and 38 quarter-inch, open-reel audiotapes, which contain a variety of other high quality masters made by SPP from 1989 to 2007 that have been recommended for digitization. These rare and unique recordings feature audio profiles of marginalized people originally collected as part of a number of SPP radio documentary projects and address poverty, race, civil rights, and prison reform, among other issues. These recordings have unique research potential and historical value and could also be used to spark new discussion and broaden the national debate on these issues today. After managing SPP for nearly a decade, MacArthur Fellow, Dave Isay, founded StoryCorps in 2003 with the mission to preserve and share humanity’s stories in order to build connections between people and create a more just and compassionate world. Today, the entire SPP collection is stored on-site at StoryCorps’ headquarters in Brooklyn, NY. StoryCorps has an organized inventory of the entire collection at the item level in a FileMaker database and a duplicate Excel spreadsheet that are accessible to StoryCorps employees only. Currently, some edited audio content from the SPP collection is available to the public online. However, unedited audio content from our SPP collection is not accessible to the public and only exists in obsolete and proprietary formats. In addition to ensuring the long-term preservation of these materials through digitization, support from CLIR will also enable StoryCorps to further disseminate and share this rare and unique collection."
 ---
-
-

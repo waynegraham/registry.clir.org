@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Sharing "Gabo" with the World: Building the Gabriel Garci­a Marquez Online Archive from His Papers at the Harry Ransom Center
+title: "Sharing \"Gabo\" with the World: Building the Gabriel Garci­a Marquez Online Archive from His Papers at the Harry Ransom Center"
+year: 2015
+end_range: 2013
+formats: "NULL"
+geographic_extant: "A native of Colombia, Garci­a Marquez frequently wrote novels set in fictional locations based on Colombia or other Latin America countries in which he lived and worked. He traveled internationally as a foreign correspondent and celebrity writer, with homes in Barcelona, Bogota, Cartagena, Mexico City, and Paris in later years."
+institution: "The Harry Ransom Center at The University of Texas at Austin"
+institution_type: "NULL"
+primary_contact: "Dr. Stephen Enniss"
+size: "NULL"
+start_range: "1950"
+summary: "The Harry Ransom Center proposes an eighteen-month project to digitize major segments of the papers of Gabriel Garci­a Marquez (1927-2014), considered one of the most significant authors of the twentieth century and affectionately known as \"Gabo\" throughout Latin America. His family has given permission to share a huge trove of materials online, including manuscripts for novels, a memoir, screenplays, and non-fiction writings; notebooks; scrapbooks; photographs; and related ephemera. The Center plans to: digitize at least 24,000 pages and make them available as an online digital archive; enable FancyBox viewing of the images from within the finding aid; and implement Mirador Image Viewer to allow scholars to compare drafts of evolving literary works side-by-side. The project will allow unprecedented access to the creative mind of a major contemporary author--through papers never before made available to the public--to a worldwide audience for the benefit of scholars, educators, and students everywhere."
+hc_id: "18602827"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Harry Ransom Center"
+p2_name:  "Ms. Elizabeth Gushee"
+p2_institution:  "Harry Ransom Center"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>10 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$126,730"
+material_description:  "Following the death of the Nobel Prize-winning novelist and journalist Gabriel Garci­a Marquez on April 17, 2014, the Ransom Center purchased his papers from his family. The remarkable Garci­a Marquez archive, which arrived at the Center in December 2014, spans more than half a century and richly documents Garci­a Marquez's singular life and work as a novelist, journalist, screenwriter, and social activist. The materials nominated for digitization include: -Extensive manuscript drafts with revisions for seven novels, ranging from the landmark One Hundred Years of Solitude (1967) to Memories of My Melancholy Whores (2004); a memoir, Living to Tell the Tale (2002); two non-fiction books, Clandestine in Chile (1986) and News of a Kidnapping (1996); one play; three screenplays; and shorter writings such as articles, introductions, poems, and speeches (including drafts of his Nobel Prize acceptance speech); -Notes in three notebooks for an unwritten book on the U.S. embargo of Cuba, circa 1975; -A selection of 100 photographs from forty-three albums vividly illustrating all aspects of his life over the course of nearly nine decades; -Twenty-two scrapbooks meticulously detailing his writings and life via news clippings from Latin America and around the world, including his early journalism written under the pseudonym Septimus, 1950-1952; -Nobel Prize ceremony memorabilia and nine passports recording his worldwide travel from 1957 forward. The papers support research about: Garci­a Marquez himself, such as biographies, bibliographies, textual and literary studies, his critical reception, and literary translations; closely-related figures ranging from Mexican novelist Carlos Fuentes to Cuban leader Fidel Castro; subjects of Garci­a Marquez's non-fiction, such as exiled Chilean filmmaker Miguel Littin and ten Colombian journalists kidnapped by drug lord Pablo Escobar in 1990; and more generally, the study of contemporary Latin American literature, history, and politics; filmmaking and screenwriting; journalism; human rights; and social activism."
 ---
-
-

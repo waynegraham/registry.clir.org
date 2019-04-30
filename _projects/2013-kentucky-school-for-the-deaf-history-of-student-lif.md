@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Kentucky School for the Deaf: History of Student Life
+title: "Kentucky School for the Deaf: History of Student Life"
+year: 2013
+end_range: 1944
+formats: "NULL"
+geographic_extant: "Photographs are all from Kentucky. Student/Staff documents pertain to all areas of the United States."
+institution: "Mary Girard Art Conservation"
+institution_type: "NULL"
+primary_contact: "JoAnn Hamm"
+size: "19 boxes, 10 linear feet"
+start_range: "1823"
+summary: "We want to work with the following related materials: Ledgers: Two large ledgers dating from January 1888 to October 1944, document basic student enrollment information, including age, home, date of enrollment. These ledgers also list the relationship of the parents to each other, cause of deafness and any deaf relatives. Student and staff cards: Student cards exist for almost all of the students who enrolled from 1823 to the present. The student cards list years at school and post-graduation life events. Staff cards record information about all hearing and deaf employees who did not attend the school. Student and staff cards are available in two formats: the original paper card and a digital .tiff file. Photographs: Photographs date from the 1860s to 1944 and represent all aspects of residential, academic, and vocational life. Some are dated, most are not. Some individuals and groups are identified, many are not. Geographic scope: Although the majority of materials relate to Kentucky and Kentuckians, there is information on students and staff from all over the country, including US territories well into the 20th century. After 1944 school enrollment, with a few exceptions, was restricted to residents of Kentucky. Time Span - Ending in 1944: The school underwent major changes and closed for nine months after 1944; the last ledger entry was in 1944; and we have concerns about the privacy of living alumni."
+hc_id: "1098"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P.O. Box 27"
+address2:  "303 S. Second St."
+city:  "Danville"
+state:  "KY"
+zip: "40422"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

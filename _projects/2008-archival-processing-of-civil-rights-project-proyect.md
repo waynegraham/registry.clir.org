@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Archival Processing of Civil Rights Project/Proyecto Derechos Civiles (CRP/PDC)
+title: "Archival Processing of Civil Rights Project/Proyecto Derechos Civiles (CRP/PDC)"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "Baltimore, MD, Chicago, IL,Hartford, CT, Kansas City, KS, Omaha, NE, Pittsburgh, PA, San Francisco, CA, St. Louis, MO."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Deepee Sahota"
+size: "165 linear feet"
+start_range: "1960"
+summary: "Founded in 1996 at Harvard University, the Civil Rights Project (CRP) serves as a multidisciplinary research/policy national think tank which focuses on the U.S. civil rights movement. In 2007 the CRP relocated to UCLA and became the Civil Rights Project/Proyecto Derechos Civiles (CRP/PDC), along with the archival research files of the current CRP/PDC co-directors Gary Orfield and Patricia Gandara. [see: www.civilrightsproject.ucla.edu] The CRP archives reflect an unusually broad spectrum of U.S. civil rights activities and advocacy. Dating from c.1960, the files and documents civil rights activities and advocacy in the areas of education, employment, housing, the law, and city/state/federal legislation among the African American, Asian, Latino, and Native American communities."
+hc_id: "153"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "UCLA Office of Contract & Grant Administration"
+address2:  "11000 Kinross Avenue, Suite 102"
+city:  "Los Angeles"
+state:  "CA"
+zip: "90095-1406"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

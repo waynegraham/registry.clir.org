@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Oregon Public Leadership Archive (OPLA)
+title: "Oregon Public Leadership Archive (OPLA)"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "The scope is primarily Oregon, with a strong emphasis on Portland, though many materials are of national and international relevance and interest."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Claudia Weston"
+size: "230 cubic feet"
+start_range: "1920"
+summary: "The Oregon Public Leadership Archive (OPLA) contains the papers of key civic and community leaders who each contributed unique, creative and practical approaches to government and to community building that helped establish Oregon’s national and international reputation for independence, innovation and leadership in public service, legislation, and government as well as its progressive programs and citizen participation in government. Representing the diversity of Oregon, the OPLA includes papers from prominent and groundbreaking women politicians including former Portland mayor and speaker of the Oregon House of Representatives, Vera Katz; Governor Barbara Roberts, Oregon’s first women governor; Portland City and Multnomah County Commissioner Gretchen Kafoury; and Avel Gordly, the first African American woman elected to the Oregon senate. Oregon’s history of innovative public planning is represented in collections such as the papers of Ernie Bonner, the Director of Planning for the City of Portland who, in the early 1970s, spurred the nationally touted revitalization of downtown Portland, and E. Kimbark MacColl, historian and noted author of works documenting the social, political and land development of Portland in the first half of the 20th century. Together these collections, as well as other smaller holdings from Portland State professors and other local community members, constitute a priceless archive of civic innovation, public planning and activism."
+hc_id: "197"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Branford P. Millar Library"
+address2:  "P.O. Box 1151"
+city:  "Portland"
+state:  "OR"
+zip: "97201-1151"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

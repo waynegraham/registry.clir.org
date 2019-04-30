@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Josef A. Brozek Collection of Non-English Language Monographs in the Humanities and Human Sciences Project
+title: "Josef A. Brozek Collection of Non-English Language Monographs in the Humanities and Human Sciences Project"
+year: 2014
+end_range: 1989
+formats: "NULL"
+geographic_extant: "Books in this collection represent the human sciences in countries across Eastern Europe. They include: Russia, Poland, Bulgaria, and Czechoslovakia."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Rhonda Rinehart"
+size: "4999 objects"
+start_range: "1948"
+summary: "The collections at the Center for the History of Psychology are of considerable significance and influence to the discipline of psychology and related fields of study. The Josef A.Brozek Collection of Foreign Language Monographs in the Humanities and Human Sciences contains nearly 5,000 monographs in Eastern European languages encompassing subjects from psychology to Russian culture and politics. The Center's purpose is to make this portion of the uncataloged collection accessible to a global audience by creating English language records in a content management system and linking these records to a variety of other resources. The resultant metadata will be shareable across social media networks and searchable using any search engine."
+hc_id: "11918897"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

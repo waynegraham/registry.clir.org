@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Hamlets, Houses, and Highways: Digitizing the Built Environment
+title: "Hamlets, Houses, and Highways: Digitizing the Built Environment"
+year: 2016
+end_range: 1966
+formats: "NULL"
+geographic_extant: "The inventory documents all 120 Kentucky counties, 54 of which belong to the Appalachian cultural region. Other regions include the Bluegrass and the Western and Eastern Coal Fields. The southcentral Pennyroyal Plateau is known for its limestone bedrock, rich farmland, and Mammoth Cave- the world's most extensive cave system."
+institution: "University of Kentucky Research Foundation"
+institution_type: "NULL"
+primary_contact: "Ms. Deirdre Scaggs"
+size: "NULL"
+start_range: "1966"
+summary: "Over the course of two years, UK Libraries will digitize the Kentucky Heritage Council (KHC) Kentucky Historic Resource Inventory. Started in 1966, the KHC has conducted an ongoing survey of historic sites in all 120 Kentucky counties. The inventory serves as a permanent written and photographic record of all known historic buildings, structures, and sites in the commonwealth. In partnership with the KHC, UK Libraries will make 100,000 surveys and associated metadata available in an online database. Kentucky's historic places dot the landscape from Appalachia in the east to the Purchase region in the west, encompassing river towns and railroad towns, historic neighborhoods, courthouse squares, African-American hamlets, Native American villages, coal mining camps and roadside architecture -- urban and rural landscapes that define our sense of place and tell the story of who we are as Americans. Online access to the surveys will increase research opportunities across numerous disciplines."
+hc_id: "22156780"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Kentucky"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>260 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$193,449"
+material_description:  "The Kentucky Heritage Council's Kentucky Historic Resources Inventory (KHRI) includes surveys of all known historic buildings, structures, and sites in the Commonwealth of Kentucky, the earliest dating back to Kentucky's prehistory. The KHRI documents the built environment of all 120 counties, from Appalachia in the east to the Purchase Region in the west. They encompass river towns and railroad towns, historic neighborhoods and courthouse squares, African-American hamlets and prehistoric Native American villages, coal mining camps and roadside architecture. The KHC has been creating surveys since the passage of the National Historic Preservation Act in 1966. The act gives future generations the opportunity to appreciate the rich cultural heritage of the U.S. in the face of the ever-increasing expansion of urban areas, highway systems, and industry. Therefore, the KHRI documents not only Kentucky's varied historic places, but also the effect of time and development on our built environment. Additionally, they document the migration of populations into, within, and out of Kentucky and the Appalachian Region through the dwellings and businesses they built. These groups include Jewish, Irish, Latin, Eastern European, and African Americans. The surveys range in length from a single page to several folders and include the following supplemental documentation: photographs, sketches, maps, property descriptions, newspaper clippings, architectural plans, and other research. The following is a partial list of information recorded in the survey forms: Building or site location address and geographic coordinates; Original construction and modification architectural styles and dates; Original and current structural and decorative materials; Building height and floor plan; Original and current functions; Site condition; Architect and builder names; National Register of Historic Places report and/or landmark certificate dates; Survey date, source, and purpose."
 ---
-
-

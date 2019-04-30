@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Tolton, Tibesar and Quincy University: the Catholic Response to Racism
+title: "Tolton, Tibesar and Quincy University: the Catholic Response to Racism"
+year: 2013
+end_range: 2012
+formats: "NULL"
+geographic_extant: "The collections cover the US (Missouri and Illinois), Japan, and China."
+institution: "Quincy University"
+institution_type: "NULL"
+primary_contact: "Julie Boll"
+size: "32 linear feet"
+start_range: "1880"
+summary: "The Tolton collection is particularly valuable to Catholic scholarship with the investigation for canonization underway by the Catholic Church. The Tolton collection includes autographed, cabinet card size photographs of Fr. Tolton, autographed prayer cards, materials relating to the canonization process, and the original typescript of From Slave to Priest, entitled Good Father Gus. Highly regarded among Japanese Catholics, Fr. Tibesar voluntarily moved with Japanese Americans into an internment camp in Minidoka, Idaho in 1942. The collection includes letters (1925-1970 from China, Japan and the United States) an unpublished autobiography, parish and sermon notes, greeting cards and letters in Japanese, small Japanese artifacts including hand-made chopsticks, art work including a hand-painted scroll illustrating the Tibesar parish in Japan. The Quincy University archives contain materials that can provide context and depth to collections previously highlighted. They include: History of Quincy College by Fr. Francis J. Grey, an unpublished, typescript manuscript covering 1860-1990; Hilchenbach Letters translated from the German by Fr. A. Reyling, 1974, 3 vols. which includes letters exchanged with Fr. Tolton; Quincy College presidential papers and publications from 1870-1900 and 1940-1965; and the collection of Harry Forrester, one of the first basketball coaches in the Midwest to integrate African American players onto the team."
+hc_id: "1161"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1800 College"
+address2:  "NULL"
+city:  "Quincy"
+state:  "Illinois"
+zip: "62301"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

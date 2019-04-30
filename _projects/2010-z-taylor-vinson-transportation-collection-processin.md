@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Z. Taylor Vinson Transportation Collection Processing Project
+title: "Z. Taylor Vinson Transportation Collection Processing Project"
+year: 2010
+end_range: 2009
+formats: "NULL"
+geographic_extant: "Global -- United States, Europe, Asia, South America, Australia, New Zealand, and the Middle East"
+institution: "Hagley Museum and Library"
+institution_type: "NULL"
+primary_contact: "Theresa Snyder"
+size: "700 cubic feet"
+start_range: "1891"
+summary: "As a lawyer working for the Department of Transportation, Z. Taylor Vinson wrote the federal safety regulations for car tail light requirements. His first spoken word, “car,” presaged a lifelong passion of building one of the greatest, most comprehensive, transportation collections ever assembled. The collection, approximately 700 linear feet, is among the most significant collections on transportation history. The main focus of the collection includes an estimated 200,000 trade catalogues documenting automotive history from its beginning to the present day. Most every make and model is represented, as is every country that produced automobiles. Additionally, there are thousands of related items, including newspapers and magazine advertisements from 1900 onwards, operators’ manuals, showroom sales albums, dealer data books, corporate annual reports, newspaper and magazine articles, books and an array of promotional toys and scale models. The magazine section alone comprises long runs and often complete runs of: Road & Track; Motor Trend; Antique Automobile; Special Interest Autos; Automotive News; Motor (US) annual issues; Motor (UK), including the show issues; The Autocar (UK), including the show issues; Illustration (France), including the annual Salon numbers. Finally, there is a strong, but concentrated, collection of imprints relative to automotive history and brand specialization."
+hc_id: "603"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P.O. Box 3630"
+address2:  "NULL"
+city:  "Wilmington"
+state:  "DE"
+zip: "19807"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$246,100"
+material_description:  "NULL"
 ---
-
-

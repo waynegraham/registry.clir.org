@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Revealing An Architectural Drawing Heritage: Significant Northwest Architects
+title: "Revealing An Architectural Drawing Heritage: Significant Northwest Architects"
+year: 2010
+end_range: 1996
+formats: "NULL"
+geographic_extant: "Pacific Northwest--also includes projects from outside the region (other states and countries)"
+institution: "University of Washington Libraries"
+institution_type: "NULL"
+primary_contact: "Nicolette Bromberg"
+size: "40000 objects"
+start_range: "1905"
+summary: "Architectural drawing collections documenting significant architects in the Northwest. (1) Carl Gould (1873-1939) attended Harvard & Ecole des Beaux-Arts in Paris. He worked for McKim, Mead & White & brought the academic eclectic approach west; founded UW School of Architecture. (2) Lionel Pries (1897-1968) studied at UC Berkeley & Univ. of Pennsylvania. Teaching at UW, he profoundly influenced students such as Minoru Yamasaki (World Trade Center) and A. Quincy Jones (innovative LA modern architect) & many others. (3) Elizabeth Ayer (1897-1987) 1st woman architect to graduate from UW & 1st woman architect registered in Washington. She integrated modernism with traditional forms. (4) John Graham Jr. (1908-1991) studied at UW & Yale. Gained international acclaim as a pioneer in the design of large-scale regional shopping centers & the Seattle Space Needle (1962 Seattle World's Fair). (5) Paul Kirk (1914-1995) studied under Lionel Pries & was influenced by Mies van der Rohe. A major force in Northwest Mid-century Modernism & the most widely published Seattle architect in national architecture journals. (6) Roberta Wightman (1912-2010) attended Cambridge University & studied landscape architecture at Univ. of Illinois. One of the first women to practice in the Northwest; she led efforts to gain professional recognition for landscape architects. (7) Wendell Lovett (1922-) studied at UW, & at MIT under Alvar Aalto; internationally published Northwest modern architect; taught at UW."
+hc_id: "676"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Box 352900"
+address2:  "NULL"
+city:  "Seattle"
+state:  "WA"
+zip: "98195"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

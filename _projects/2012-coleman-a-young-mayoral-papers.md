@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Coleman A. Young Mayoral Papers
+title: "Coleman A. Young Mayoral Papers"
+year: 2012
+end_range: 1992
+formats: "NULL"
+geographic_extant: "Primarily Detroit but also including the state of Michigan and the Midwest."
+institution: "DPL Friends Foundation"
+institution_type: "NULL"
+primary_contact: "Patrice Merritt"
+size: "1175 boxes, 1175 linear feet"
+start_range: "1973"
+summary: "The Coleman A. Young Mayoral Papers consist of 1,175 boxes of documents from his twenty years as mayor of Detroit. The bulk of the documents pertain to communications from city of Detroit departments, the federal government, and a wide array of groups, organizations, and citizens from Detroit and Michigan. The records would breakdown into the following correspondence series: Businesses; Citizen's Letters; City of Detroit departments; Detroit Economic Develpment Corporation; State of Michigan; Wayne County; U.S. Government."
+hc_id: "890"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "5201 Woodward Avenue"
+address2:  "NULL"
+city:  "Detroit"
+state:  "MI"
+zip: "48202"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$87,400"
+material_description:  "NULL"
 ---
-
-

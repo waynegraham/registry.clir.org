@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing the New Bauhaus: Moholy-Nagy and the Institute of Design
+title: "Digitizing the New Bauhaus: Moholy-Nagy and the Institute of Design"
+year: 2017
+end_range: 1962
+formats: "NULL"
+geographic_extant: "The nominated collection focuses on Chicago, Illinois and other areas in Illinois. Germany is represented, to a lesser degree."
+institution: "Illinois Institute of Technology"
+institution_type: "NULL"
+primary_contact: "Mr. Adam Strohm"
+size: "NULL"
+start_range: "1937"
+summary: "Illinois Institute of Technology, Paul V. Galvin Library, with the support of the Institute of Design, proposes a twelve-month project to digitize a substantial portion of the Institute of Design Records, 1937-ca. 1955, to celebrate the Bauhaus centennial (1919-2019). The Institute of Design has given permission to share this trove of materials online, which include departmental records, instruction material, correspondence, photographs, and departmental publications, which will be shared via an Islandora digital repository and will be discoverable through the collection’s finding aid. This project will make available a large collection of previously-hidden materials which are vital to the study of the Bauhaus movement throughout the world."
+hc_id: "26002647"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Paul V. Galvin Library, Illinois Institute of Technology"
+p2_name:  "Dr. Sharon Bostick"
+p2_institution:  "Illinois Institute of Technology"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>27 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$76,945"
+material_description:  "This main body of Institute of Design Records, 1937-ca. 1955 (008.01.01) came to University Archives & Special Collections in the early 1990s, and was formally accessioned in 1998 upon the hiring of IIT’s first full-time archivist. The materials to be digitized are the academic and creative materials of the New Bauhaus (aka American School of Design), School of Design, and the Institute of Design, 1937 -ca. 1955. The collection includes academic catalogues, class and school activities announcements, lecture notes and instruction materials by faculty (including founder László Moholy-Nagy). Also included are examples of artistic works, exhibit catalogues and announcements of student and alumni professional activities. Essays, speeches, and correspondence are also represented in the collection. Some materials concern specific courses, such as Camouflage Course, Rehabilitation and Occupational Therapy, Summer Art Camp and Junior Workshop. A small amount of individual student and group projects are included. Photographs include 4½x6” black & white images depicting completed class projects, classroom and studio settings, and exhibitions. Additional 8x10” photographs depict student designs and inventions, product designs; school buildings and faculty and additional exhibit installations, such as the Gebonden Kunsten federatie (GKf) graphic arts exhibit of 1954, social documentary and industrial design exhibits, and others. The collection represents the only known official records of the New Bauhaus and School of Design and the early years of the Institute of Design. The vast majority of the collection is unique, making it a prime source for information on Moholy-Nagy, the Institute of Design, and its predecessor schools."
 ---
-
-

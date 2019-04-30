@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Reconstructing Beaufort History, 1840-1915
+title: "Reconstructing Beaufort History, 1840-1915"
+year: 2009
+end_range: 1915
+formats: "NULL"
+geographic_extant: "The geographic scope of the project is current day Beaufort County, South Carolina."
+institution: "Beaufort County Library"
+institution_type: "NULL"
+primary_contact: "Grace Morris Cordial"
+size: "2 boxes, 77 cubic feet, 60 linear feet, 5750 objects"
+start_range: "1840"
+summary: "The original materials to be cataloged under the auspices of this project cover a crucial period of American history. Unfortunately, scholars see Beaufort County as a county with significant destruction of records due to the ravages of war, destructive fires, natural disasters, and periods of shoddy record keeping. In spite of the validity of this perception, important original resources survive for scholarly investigation in our respective institutions. Collectively, our materials highlight local manifestations of broader topics in social history (race relations, religion, education, domestic life, arts, architecture), economic history (slavery, nascent labor movement, phosphate, seafood, and agricultural industries), political history (secession, reconstruction), military history (Civil War era), and cultural history (Gullah heritage, emergence of the \"New South\") from 1840 - 1915. We are stewards of family papers, organizational papers, legal records, newspapers, images, and artifacts that help illuminate the unique story of Beaufort County's contribution to our national cultural heritage. From the start of the Bluffton Movement (1844) to the advent of the 20th century, a uniquely different version of what America was and what it should be is documented in our respective holdings. We have no doubt that once scholars learn about our research resources, they will find our materials fascinating."
+hc_id: "417"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "311 Scott Street"
+address2:  "NULL"
+city:  "Beaufort"
+state:  "SC"
+zip: "29902"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

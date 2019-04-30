@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Luther College Archives/Vesterheim Archives - Journeys to American: Documenting Norwegian-American Collections
+title: "Luther College Archives/Vesterheim Archives - Journeys to American: Documenting Norwegian-American Collections"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "Materials represent Norway and the United States with primary focus on Illinois, Wisconsin, Minnesota, and Iowa."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Rachel Vagts"
+size: "2500 cubic feet"
+start_range: "1848"
+summary: "The materials contained within the Luther College Archives and the archives at Vesterheim Norwegian-American Museum document the history and culture of emigrants from Norway to the United States and their descendants, with additional emphasis on the origins of the Norwegian Lutheran church in America west of the Mississippi River and the founding of Luther College, the first Norwegian-American college. The collection includes, but is not limited to, photographs, diaries, letters, sermons, institutional records from Luther College (the first Norwegian-American college), records from other early Norwegian-American educational institutions, the Norwegian Lutheran Synod, congregational records, audio, and moving images. These collections are used by students at Luther College, the staff and faculty at the college, genealogists, emigration scholars and other researchers from the United States and abroad."
+hc_id: "158"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Luther College - Preus Library"
+address2:  "700 College Drive"
+city:  "Decorah"
+state:  "IA"
+zip: "52101"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

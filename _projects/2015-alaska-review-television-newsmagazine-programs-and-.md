@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: "Alaska Review" Television Newsmagazine Programs and Raw Footage Digitization and Dissemination Project
+title: "Alaska Review: Television Newsmagazine Programs and Raw Footage Digitization and Dissemination Project"
+year: 2015
+end_range: 1987
+formats: "NULL"
+geographic_extant: "Videotaped mainly throughout rural and urban Alaska, the series also ventured to San Diego shipyards to examine oil tanker safety, to open seas to view the U.S. Coast Guard policing foreign vessels, to Colorado to report on wolf management, and to Scandinavia with Alaskans studying new fishing techniques."
+institution: "University of Alaska Fairbanks"
+institution_type: "NULL"
+primary_contact: "Ms. Angela Schmidt"
+size: "NULL"
+start_range: "1976"
+summary: "\"Alaska Review,\" a publicly-funded television newsmagazine program airing in Alaska from 1976 to 1987, covered local, state and federal issues facing the young state during a period of intense growth and development. Topics ranged from the trans-Alaska pipeline to education in Indigenous communities. The Alaska Film Archives at University of Alaska Fairbanks (UAF) Rasmuson Library holds all 63 \"Alaska Review\" finished programs, nearly 2,000 raw footage videos utilized in making the series, and related production documents. This two-year project aims to complete cataloging and digitizing of video materials, and to utilize open source media management software to provide online access to the full collection. This project will mirror successful access developments pioneered by UAF Rasmuson Library's oral history unit, and will benefit scholars in media studies, history, and community development. History students will participate, and the public can track project progress as it unfolds."
+hc_id: "16771383"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Alaska Fairbanks"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>693 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$240,902"
+material_description:  "Airing from 1976 to 1987, \"Alaska Review\" was the first statewide public affairs television program in Alaska. The show was designed to explore public policy issues confronting Alaska, and to assist citizens in making decisions about the future of their land. Produced by Independent Public Television, Inc., (IPTV), the series consisted of 16 one-hour shows, 46 half-hour shows, and one three-hour special broadcast.\n\n \n\nPrimary producers and reporters included: Mark O. Badger, Eric Eckholm, Ed Bennett, Janet Archibald, Gary Williams and Laura Richmond. Funded through the Alaska Humanities Forum and State of Alaska, the series won multiple awards for public service and educational programming. An initially substantial budget allowed for reporting from throughout the state, including from remote communities, and furthermore allowed for raw footage videotapes to be retained rather than recorded over as per customary practices. Program segments covered local, state and federal issues facing the state during a period of intense growth and development. Topics included the new trans-Alaska oil pipeline, education and sanitation in rural Indigenous communities, the Alaska Native Claims Settlement Act, community planning in booming cities, alcoholism, aviation safety, wildlife, resource development, homesteading, the growing environmental movement, the U.S military and the Cold War. The series co-produced the first live broadcast of court proceedings in Alaska, with justices hearing arguments on the constitutionality of Alaska's innovative Permanent Fund Dividend program allowing state residents a share in state oil profits.\n\n \n\nIPTV dissolved in 1988. Videotapes for all finished productions and raw footage were later moved to the University of Alaska Fairbanks (UAF), where they became housed with the Alaska Film Archives, a unit of the Alaska and Polar Regions Collections & Archives department in the Rasmuson Library at UAF, shortly after the unit was founded in 1993."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging Women in Jazz Collections at the Institute of Jazz Studies
+title: "Cataloging Women in Jazz Collections at the Institute of Jazz Studies"
+year: 2011
+end_range: 1998
+formats: "NULL"
+geographic_extant: "Primarily United States but there are materials pertaining to the worldwide performance tours of of these jazz artists."
+institution: "Institute of Jazz Studies"
+institution_type: "NULL"
+primary_contact: "Jacqueline Cornelius"
+size: "160 cubic feet"
+start_range: "1927"
+summary: "The materials consist of five separate archival collections of prominent women in jazz: Ella Fitzgerald (1917-1996), known as America's \"First Lady of Song,\" whose collection includes music manuscripts, artwork, and memorabilia; Abbey Lincoln (1930-2010), a singular vocal stylist, composer, and civil rights activist, whose holdings include notebooks of her writings, scrapbooks, music manuscripts and scores, and video and audiocassettes of unissued performances and interviews; singer and \"vocalese\" pioneer Annie Ross (1930-), still active and recently named an NEA Jazz Master, whose collection includes music manuscripts, personal papers, and photographs, and audio and videotapes of interviews and performances; blues singer Victoria Spivey (1906-1976) whose career extended from 1920s recordings with jazz legends King Oliver and Louis Armstrong to a 1960s association with young admirer Bob Dylan. Her collection, a subset of a larger one belonging to producer and recording historian Len Kunstadt, consists of correspondence, photographs, business records, discographical research, and unissued session tapes; and Wilma Dobie (1918-2005), a pioneering promoter, journalist, and jazz activist, whose collection consists of photographs, correspondence, programs, clippings, artist files, and memorabilia, as well as extensive archival materials pertaining to the career of the early jazz bandleader Fate Marable (1880-1947)."
+hc_id: "733"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "249 University Avenue"
+address2:  "NULL"
+city:  "Newark"
+state:  "NJ"
+zip: "7102"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$165,000"
+material_description:  "NULL"
 ---
-
-

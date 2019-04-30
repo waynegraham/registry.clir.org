@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: An Ounce of Prevention: Uncovering Hidden Public Health Pamphlets and Grey Literature through the Medical Heritage Library, 1700-2000
+title: "An Ounce of Prevention: Uncovering Hidden Public Health Pamphlets and Grey Literature through the Medical Heritage Library, 1700-2000"
+year: 2017
+end_range: 2000
+formats: "NULL"
+geographic_extant: "The majority of the materials were printed and disseminated in the United States; however, across collections, there are occasional publications from the United Kingdom, assorted major European cities, Australia, and South America."
+institution: "Center for the History of Medicine, Francis A. Countway Library of Medicine, Harvard Medical School"
+institution_type: "NULL"
+primary_contact: "Ms. Emily Novak Gustainis"
+size: "NULL"
+start_range: "1700"
+summary: "Building on the strong collaborative partnerships and successes of the Medical Heritage Library (MHL), the Center for the History of Medicine (CHM) proposes to digitize 11,540 rare and historically rich pamphlets and print materials held by MHL partners that span the evolution of the field of public health from 1700 to 2000. These works, surfaced from thirty collections held by six of the largest history of medicine collections in the United States, cover health issues populations continue to grapple with today: communicable disease; health education; hygiene; food purity; nutrition; water sanitation; and the impact of alternative medicine on public health."
+hc_id: "26893180"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Francis A. Countway Library of Medicine, Harvard University"
+p2_name:  "Dr. Melissa Grafe"
+p2_institution:  "Cushing/Whitney Medical Library, Yale University"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>11540 Non-monographic printed works (pamphlets)</li>"
+collaborating_institution:  "College of Physicians of Philadelphia (CoPP); New York Academy of Medicine (NYAM); Regents of the University of Minnesota (UMN); University of California San Francisco (UCSF); Yale University (Yale)"
+grant_amount:  "$130,310"
+material_description:  "Pamphlets and other printed materials are the products of the activities of numerous charitable and private-sector social welfare organizations; medical and dental professional organizations (such as the American Dental Association, American Public Health Association, the California Nurses Association, California Society for the Promotion of Medical Research, the National Association for the Study and Prevention of Tuberculosis, the George Williams Hooper Foundation, and the New Orleans Medical and Surgical Association); the food and insurance industries; state and federal offices; religious organizations; and materials collected by social workers or other professionals. Materials topically address: child labor; disease prevention and control; cancer; food and water safety; HIV-AIDS; homeopathic medicine; maternal and child health; medical climatology; mental health; occupational health and safety; recreational fitness; resources for individuals with disabilities; sanataria and treatment facilities; social hygiene; temperance; visiting nurses; and 20th century services for single mothers. Pamphlets and printed materials to be digitized were gifted to or acquired by the collaborating institutions either from the organizations or individuals generating or collecting the publications as part of routine professional activities or via purchase."
 ---
-
-

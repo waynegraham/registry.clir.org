@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Pocket Collections
+title: "Pocket Collections"
+year: 2010
+end_range: 1996
+formats: "NULL"
+geographic_extant: "Western Europe, specifically England, Italy, France, and Germany, as well as California, primarily Southern California."
+institution: "Clark Library"
+institution_type: "NULL"
+primary_contact: "Bruce Whiteman"
+size: "110 linear feet, 3825 objects"
+start_range: "1600"
+summary: "The Clark Library has identified six separate collections to be cataloged: 1. Ward Ritchie (1905-1996): 2500 monographs, serials, pamphlets, and clippings on both fine and commercial printing, typography, papermaking, and the history of the book, published during the 19th and 20th centuries, from Ritchie's personal library. A collection of about 10 boxes of personal papers, artwork, and ephemera. 2. Richard Popkin (1923-2005): a donation of approximately 100 cartons of archives and personal papers used in his study and writing of religion and the history of philosophy. 3. William Roscoe (1753-1851): a donation of 220 books, dating from the 18th-20th centuries, comprising contemporary and modern publications of his works. 4. James MacNeill Whistler (1834-1903): 780 books published in the late 19th through mid-20th centuries, primarily in English, comprising works about him, works illustrated by him, as well a multi-volume portfolio of his etchings. 5. History of women collection: a collection of about 100 books, primarily in French, but also in English and German, from the 17th and 18th centuries. 6. Engraved music : a collection of 200 scores, dating primarily from the 17th and 18th centuries, comprising operas, sonatas, and scores for instrumental music."
+hc_id: "655"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "William Andrews Clark Memorial Library"
+address2:  "2520 Cimarron Street"
+city:  "Los Angeles"
+state:  "CA"
+zip: "90018"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

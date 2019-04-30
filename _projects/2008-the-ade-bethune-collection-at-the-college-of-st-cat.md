@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Ade Bethune Collection at the College of St. Catherine
+title: "The Ade Bethune Collection at the College of St. Catherine"
+year: 2008
+end_range: 2002
+formats: "NULL"
+geographic_extant: "The project covers Ade Bethune's work and activities throughout the U.S. and internationally, including the Philippines, Canada and Mexico."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Deborah Kloiber"
+size: "280 cubic feet, 155 linear feet"
+start_range: "1914"
+summary: "Ade Bethune was a world-renowned liturgical artist, writer and social activist, and was influential in American liturgical art in the 20th century. Her career spanned 70 years from art school at the National Academy of Design and Cooper Union in New York in the 1930s to her final projects in the early years of the 21st century. Materials in the Collection cover her entire career. \nHighlights: Correspondence with Dorothy Day and the Catholic Worker community; Correspondence with Graham Carey on art and the Catholic Art Association; Project files (correspondence, drawings, architectural plans, models) from her U.S. and international church projects; Manuscripts and published writings on liturgical and social justice issues for Liturgical Arts, Orate Fratres/Worship, Interracial Review, etc.; Writings and drawings for children; Records and inventory of St. Leo Shop, her business which sold liturgical items for home use; Records and architectural drawings of the Church Community Housing Corporation, which provided affordable housing in Newport, RI; Design drawings for bronze altar candlesticks used at the Second Vatican Council; Examples of her work in many media: paper, tempera, metal, wood, textile, clay, stained glass. Topics covered: Sacred art and iconography; Liturgy and art; Theology of imagery; Graphic arts, lettering, illustration; Church architecture and furnishings; Catholic Worker Movement; Liturgical Movement, especially the role of women; Christian social movements."
+hc_id: "253"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "2004 Randolph Ave."
+address2:  "NULL"
+city:  "St. Paul"
+state:  "MN"
+zip: "55105"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

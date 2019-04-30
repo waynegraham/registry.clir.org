@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Foundations of Public Health Policy
+title: "Foundations of Public Health Policy"
+year: 2008
+end_range: 1995
+formats: "NULL"
+geographic_extant: "The collections' creators lived and practiced medicine in Boston, Mass.; New York; and Washington, D.C., but their work had global impact."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Kathryn Hammond Baker"
+size: "274 boxes, 274 cubic feet"
+start_range: "1930"
+summary: "The collections, created by key leaders in American public health from the latter half of the twentieth century, have the capability to critically inform researchers concerning the origins, evolution, and optimal future direction of our contemporary health care system. The collections are those of: a) Leona Baumgartner, the first woman commissioner of the New York City Department of Health, 1954-1962, and who was later a national advocate and advisor to the federal government on the expansion of public health efforts in maternal health, preventive medicine, and international aid; b) Allan Macy Butler, Chief of the Children’s Medical Service at Massachusetts General Hospital from 1942 to 1960, who engendered and exemplified emerging physician concerns with human rights, nuclear disarmament, and the organization of medical care; c) David Rutstein, who headed the Harvard Medical School Department of Preventive Medicine, 1947-1971, and who played a national role in the organization of medical care, the integration of preventive medicine into the care of individual patients, and the measurement of medical outcomes, so as to inform such efforts themselves; and d) Howard Hiatt, the Dean of the Harvard School of Public Health from 1972-1984, who has catalyzed a wide range of initiatives concerning health care delivery, from those regarding the relationship of hospitals to their communities, to those regarding social justice and the ensuring of optimal care in the developing world."
+hc_id: "208"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Countway Library"
+address2:  "NULL"
+city:  "Boston"
+state:  "MA"
+zip: "2115"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$217,933"
+material_description:  "NULL"
 ---
-
-

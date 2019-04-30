@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging of Chinese and Korean Language Hidden Collections
+title: "Cataloging of Chinese and Korean Language Hidden Collections"
+year: 2008
+end_range: 1990
+formats: "NULL"
+geographic_extant: "Most materials were produced in China and Korea. The materials in the Chen Shou Yi collection were produced in China and the U.S."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Carrie Marsh"
+size: "30 boxes, 0 cubic feet, 222 linear feet, 1065 objects"
+start_range: "1573"
+summary: "The materials to be cataloged include the McCormick Collection, a group of rare monographs, calligraphy, and rubbings in Chinese and classical Korean; selected materials from the Asian Studies Collection, including an 80-volume Chinese Bible, materials from the California College in China, textbooks in Chinese, and rare literary and historical monographs in Chinese and Korean; papers of Chen Shou Yi, a Claremont Colleges faculty member and pioneer of Asian Studies in the U.S.; 120 posters from the Cultural Revolution; and the Jessie Chambers Collection of 20th century Chinese children's books. Scholars in the Asian Studies community have noted the rarity of the materials in the collections, have stressed their significance, and have expressed interest in working with them. Cataloging of the collections will enable The Libraries of the Claremont Colleges to work with UCLA and the University of Southern California (USC) to build a regional web of significant Asian Studies collections and enable further collaborations on scholarly communication projects with an international scope. All of the materials are deeply connected with the significant legacy of Asian Studies at The Claremont Colleges. The materials are also of key interest to faculty teaching in this area for their linguistic, cultural, and historical value. Cataloging would allow for an expressed desire by faculty for primary sources to be accessible for senior theses and other advanced undergraduate projects."
+hc_id: "106"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Libraries of the Claremont Colleges"
+address2:  "800 N. Dartmouth Avenue"
+city:  "Claremont"
+state:  "CA"
+zip: "91711"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

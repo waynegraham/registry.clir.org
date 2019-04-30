@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Radio Haiti Open Reel Audio Tape: Intensive Remediation Project
+title: "Radio Haiti Open Reel Audio Tape: Intensive Remediation Project"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Duke University Libraries"
+institution_type: "NULL"
+primary_contact: "Mr. Winston Atkins"
+size: "NULL"
+start_range: "NULL"
+summary: "Duke University Libraries seeks support for digitizing 88 quarter - inch open-reel tapes from the Radio Haiti Collection. An NEDCC assessment notes that twelve have an acetate base and suffer moderate to severe spoking, cupping, and brittleness. Seventy-six are Scotch 206 tapes with magnetic coating separation. The necessary intensive remediation is beyond the funding of our NEH-funded project. We will describe the digitized recordings in Haitian Creole, French, and English, and make them available available through a Duke website created for the larger collection. The tapes, representing the unique recorded legacy of Radio Haiti, have significant research and social value. Under the leadership of station directors Jean Dominique and Michèle Montas, Radio Haiti was a voice of social change and democracy, speaking out against oppression while advocating for human rights and celebrating Haitian culture and heritage."
+hc_id: "26713825"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Duke University Libraries"
+p2_name:  "Mr. Craig Breaden"
+p2_institution:  "Duke University Libraries"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "88 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$15,889"
+material_description:  "NULL"
 ---
-
-

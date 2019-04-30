@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Changing the Landscape: Exposing the Legacy of Modernist Architects and Landscape Architects
+title: "Changing the Landscape: Exposing the Legacy of Modernist Architects and Landscape Architects"
+year: 2009
+end_range: 2000
+formats: "NULL"
+geographic_extant: "Concentrated in North Carolina, extending nationally and internationally."
+institution: "Special Collections Research Center"
+institution_type: "NULL"
+primary_contact: "Linda Sellars"
+size: "1200 linear feet, 40000 objects"
+start_range: "1948"
+summary: "NCSU Libraries’ SCRC holds the papers of several significant modernist architects and landscape architects who changed their professions as well as the national and regional landscape. SCRC has collected representations of their works to make them widely accessible to scholars and practitioners. Selections from six influential designers--Matthew Nowicki; Lewis Clarke; Richard Bell; George Smart; Holloway & Reeves; Biberstein, Bowles, Meacham & Reed--comprise approximately 1200 linear feet of material spanning the latter half of the 20th century. All practiced in North Carolina but had national scope and influence. Comprising over 40,000 original plans and drawings in both paper and electronic formats as well as related project files and records, these collections offer valuable insight to the evolution of the field and modernism's relevance today. Among the works that this project has uncovered are Matthew Nowicki's internationally acclaimed J.S. Dorton Arena, unique for its steel cable supported saddle-shaped roof in tension and held up by parabolic concrete arches in compression; Lewis Clarke’s plan for Palmetto Dunes, Hilton Head Island; Richard Bell's Water Garden, an influential mixed used development; and Holloway and Reeves's North Carolina Museum of Art, done with the nationally renowned architect Edward Durrell Stone. These works reveal how the local practice of modernism changed the built environment as well as the cultural climate of cities around the nation."
+hc_id: "474"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Special Collections Research Center (SCRC)"
+address2:  "Campus Box 7111"
+city:  "Raleigh"
+state:  "NC"
+zip: "27696-7111"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$221,023"
+material_description:  "NULL"
 ---
-
-

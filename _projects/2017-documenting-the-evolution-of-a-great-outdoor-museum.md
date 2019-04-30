@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Documenting the Evolution of a Great Outdoor Museum: The Plans and Images behind Building, Shaping, and Developing The Morton Arboretum
+title: "Documenting the Evolution of a Great Outdoor Museum: The Plans and Images behind Building, Shaping, and Developing The Morton Arboretum"
+year: 2017
+end_range: 2010
+formats: "NULL"
+geographic_extant: "The focus of these collections is The Morton Arboretum in Lisle, Illinois. At the time of the Arboretum’s founding in 1922, the area was largely rural. After decades of (sub)urbanization, the Arboretum is now a green oasis of 1,700 acres ringed by expressways, highways, and suburban communities."
+institution: "The Morton Arboretum"
+institution_type: "NULL"
+primary_contact: "Ms. Rita Hassert"
+size: "NULL"
+start_range: "1915"
+summary: "This two-year project will enable the Sterling Morton Library of The Morton Arboretum to digitize over 7,000 plans, maps, and photographic images that document the creation and evolution of the Arboretum’s landscapes, buildings, and grounds since its founding in 1922. These materials will be made publicly available through ACORN, the Arboretum’s web-based collection management system; this platform supports scholarship and the creation of new knowledge by providing rich, meaningful context for the Library’s collections. CLIR funding would allow us to purchase large-format digitization equipment; hire staff to manage the project, digitize objects, curate online exhibitions, and create metadata / contextual materials; and identify and coordinate with scholars for a capstone event. The Arboretum's prominence as a long-standing regional institution, combined with the completeness of these collections in documenting the transformation of the Arboretum over time, makes this project a valuable resource for local historians, landscape architects, and land use planners."
+hc_id: "26222451"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "The Morton Arboretum, Sterling Morton Library"
+p2_name:  ""
+p2_institution:  ""
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>3600 Landscape plans, maps, and architectural drawings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$216,943"
+material_description:  "The source materials are primarily landscape plans, maps, and architectural drawings created by Arboretum staff; a smaller number were created by outside designers, architects, and consultants. As the Arboretum completed these projects—designing gardens, planning accessioned plant collections, digging lakes, building trails / roads, and constructing buildings—the plans were stored in various locations throughout the grounds. In 1990, the Research department launched an effort to gather all the plans and maps. During this time, a basic finding aid following modified cataloging rules was created to classify and identify the collection. With staff changes and program realignments, the collection came under the purview of the Sterling Morton Library. The landscape design collection begins with our first landscape architect, O.C. Simonds, and continues through successive generations of architects and designers at the Arboretum. The architectural plan collection begins prior to the establishment of the Arboretum with Holabird & Root’s plan for Thornhill, home of the Arboretum’s founder Joy Morton. The acquisition and organization of plans for new buildings and building renovations continue through the decades to contemporary projects. These plans and associated images illustrate almost 100 years of landscape architecture, land use planning, and site development conducted on the Arboretum grounds. The collection of historic images (glass lantern slides, negatives and slides) further illuminate the development of the Arboretum. Through the decades, Arboretum staff captured images of the changing landscape and the scope of the living collections; these images add vital context to understanding the development of a great outdoor museum."
 ---
-
-

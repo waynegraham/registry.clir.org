@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: William Henry Seward Papers
+title: "William Henry Seward Papers"
+year: 2015
+end_range: 1917
+formats: "NULL"
+geographic_extant: "Among other regions, WHSP covers New York State, Washington, D.C., Alaska, Yosemite, family trips below the Mason-Dixon line prior to the Civil War, and Seward's activities as one of the first diplomats to go \"around the world,\"  visiting Japan, China, Ceylon, British India, Egypt and Palestine, Europe, among other places."
+institution: "University of Rochester River Campus Libraries"
+institution_type: "NULL"
+primary_contact: "Mr. Jim Kuhn"
+size: "NULL"
+start_range: "1730"
+summary: "We seek funding to complete digitization of the entire print and manuscript contents of the papers of William Henry Seward and family (WHSP), housed at River Campus Libraries of the University of Rochester (RCL). This collection of record consists of public, private, and family correspondence of William Henry Seward and immediate family; files from Seward's term as governor, and United States Secretary of State; personal financial and legal records; speeches, proclamations, diaries and secondary printed material relating to his life and career. Approximately 325,000 images will be produced through this collaboration with the Internet Archive (IA) and made broadly accessible to researchers and the general public via IA and the Digital Public Library of America (DPLA). A graduate student intern will be funded by the grant to administer digitization activities including packing and quality control, and to provide assistance to library staff engaged in archival description and collection conservation."
+hc_id: "17556156"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "River Campus Libraries, University of Rochester"
+p2_name:  "Dr. Nora"
+p2_institution:  "Assistant Dean for IT, Research and Digital Scholarship"
+p3_name:  "Dr."
+p3_institution:  "NULL"
+material_string: "<li>212 Mixed Archival Collections</li>"
+collaborating_institution:  "Internet Archive"
+grant_amount:  "$155,451"
+material_description:  "WHSP contains over 150,000 items on Seward's life, family, career. This collection of record was given by Seward's grandson between 1945-1951. Augmented by 1987 gifts from the Fred L. Emerson Foundation, WHSP continues to grow through endowment-funded accruals and other gifts. In addition to political papers, WHSP includes public, personal, and family letters, photographs, household, business, and public account books, manuscript speech drafts, diaries, scrapbooks, sheet music, school exercise books, literary writings, commonplace books, travel souvenirs, maps, phrenological evaluations, memorabilia, printed pamphlets, and other manuscript items, ca. 1730-1917. Over 50,000 letters include many to Seward and family members from politicians, including Presidents Lincoln, Johnson, John Quincy and Abigail Adams. Papers are present from his careers as New York State Senator (1831-1834), Governor (1839-1842), abolitionist U.S. Senator (1849-1861), and U.S. Secretary of State (1861-1869). When WHSP was cataloged and organized, little was done with family material. However, family subcollections provide extensive firsthand accounts of the life and times of a large and influential extended nineteenth-century American family. As an intact family manuscript collection from the mid-nineteenth century, the collection is extraordinary if not unique. The Emerson Foundation currently funds digitization, transcription, annotation of letters among biological family members and servants working at the family home (33 South Street, Auburn, NY), 1817-1873. Based on these papers, Professor Thomas Slaughter leads a student team creating an online critical family papers edition. Remaining material requiring digitization includes political papers previously microfilmed (1981); a collection of ca. 3,600 printed pamphlets covering political and reform subjects, including anti-slavery, temperance, religion, woman suffrage; and tens of thousands of manuscripts never photographed, including public and family items. We seek complete WHSP digitization, focusing on the ca. 90% not covered by the Emerson grant, thereby opening up this vast personal library and archive to students and researchers worldwide."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: “The Animal Turn”: Digitizing Animal Protection and Human-Animal Studies Collections
+title: "“The Animal Turn”: Digitizing Animal Protection and Human-Animal Studies Collections"
+year: 2017
+end_range: 2011
+formats: "NULL"
+geographic_extant: "The geographic scope is global; the animal protection organizations and individuals that are included within the context of this grant are headquartered either in the United States or the United Kingdom, but are also deeply involved in international animal welfare efforts."
+institution: "NCSU Libraries"
+institution_type: "NULL"
+primary_contact: "Ms. Gwyneth Thayer"
+size: "NULL"
+start_range: "1866"
+summary: "The NCSU Libraries and the ASPCA (American Society for the Prevention of Cruelty to Animals) as its collaborating institution, propose a three-year project to digitize an estimated 239,000 pages of mixed archival materials from the Libraries’ nationally significant animal rights and animal welfare collections, and an estimated 150,000 pages from the ASPCA’s records documenting its history as a leader in national animal protection since its founding in 1866. These materials document diverse and multi-disciplinary components of animal advocacy discourse in the growing field of human-animal studies. This enormous shift in scholarly interest is widely referred to as the “animal turn.” Major activities to be carried out include the digitization and description of an estimated 389,000 archival pages for online access and discoverability; outreach and promotion; the development of a digitization workflow plugin for ArchivesSpace; and contributions to the International Image Interoperability Framework (IIIF) support of scholarly annotations."
+hc_id: "26893485"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NCSU Libraries"
+p2_name:  "Mr. Brian Dietz"
+p2_institution:  "NCSU Libraries"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>251.75 Mixed Archival Collections</li>"
+collaborating_institution:  "ASPCA (American Society for the Prevention of Cruelty to Animals)"
+grant_amount:  "$360,386"
+material_description:  "Animal Rights and Animal Welfare Pamphlets. Subjects covered include animal welfare; vivisection; animals in sports and hunting; and anti-cruelty. Most of this early historic material was created by organizations in the United Kingdom such as the RSPCA. Animal Welfare Institute Records. Subjects include the activities of the Animal Welfare Institute (AWI) and its lobbying organization, the Society for Animal Protective Legislation (SAPL) and address subjects such as animal welfare and lobbying efforts; animals in laboratories; humane education; veterinary medicine; animals in the wild; and animals in agriculture. Materials include correspondence and lectures of AWI founder Christine Stevens. Tom Regan Papers. The collection includes materials that span the internationally recognized professional career of one of the leading scholars in the modern animal rights movement. Subjects include vivisection; animal rights and the legal status of animals; vegetarianism and veganism; animals in agriculture; animals in sports and entertainment; anti-cruelty; social justice movements, environmental ethics; and activities of the Culture and Animals Foundation. Wim DeKok Animal Rights Collection. Subjects include animal welfare; animal cruelty; vivisection; animals in agriculture; pet keeping; animals in sports and entertainment; and the activities of the World Society for the Protection of Animals. John Ptak Collection of Animal Rights and Animal Welfare Printed Educational Materials. Subjects include animal welfare; humane education; animal cruelty; and vivisection. ASPCA Collection. Subjects include animal welfare; animal cruelty; humane education; pet keeping and animal rescue; shelter medicine; urban working horses; early animal protection efforts and ASPCA operations; and ASPCA founder Henry Bergh."
 ---
-
-

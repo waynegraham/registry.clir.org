@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging Cavagna: Italian imprints from the Sixteenth through the Nineteenth Century
+title: "Cataloging Cavagna: Italian imprints from the Sixteenth through the Nineteenth Century"
+year: 2014
+end_range: 1913
+formats: "NULL"
+geographic_extant: "Northern Italy primarily, with the rest of Italy also represented, along with some French and German imprints as well."
+institution: "The Board of Trustees of the University of Illinois"
+institution_type: "NULL"
+primary_contact: "Dr. Valerie Hotchkiss"
+size: "NULL"
+start_range: "1500"
+summary: "The project will catalog some 20,000 rare Italian imprints from the 16th through 19th centuries in the historically significant Cavagna Collection, using our innovative and highly successful \"Quick & Clean Rare Book Cataloging\" model originally funded by the Mellon Foundation (2006-2009). In this model, a lead rare book cataloger serves as Project Manager to train apprentice catalogers drawn from local GSLIS students and recent MLS graduates, with an eye toward both speed and accuracy, and with costs averaging less than $25 per volume. Using this model, we plan to make this rich collection accessible to scholars in multiple fields, including but not limited to Italian history, literature, art, theatre, law, economics, and religion."
+hc_id: "12990332"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "University of Illinois at Urbana-Champaign"
+p2_name:  "Dr. Anna Chen"
+p2_institution:  "University of Illinois at Urbana-Champaign"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>20000 Architectural Drawings , Book (Including Serials), Ephemera, Maps, Musical Scores, Text (Including Electronic Texts)</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$498,942"
+material_description:  "NULL"
 ---
-
-

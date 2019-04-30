@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Far West and Far East: Uncovering Urban and International Archives at CSUN
+title: "Far West and Far East: Uncovering Urban and International Archives at CSUN"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "The geographic scope focuses 1)on California, with a concentration on the many communities in the Los Angeles area and 2) on China and Macau."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Marianne Afifi"
+size: "338 cubic feet, 1308 linear feet, 855 objects"
+start_range: "1870"
+summary: "Two distinct collections of Special Collections & Archives will be covered in this project: the Urban Archives Center (UAC) collection with a Far West focus and the Old China Hands Collection with a Far East focus. The UAC, first established in 1979, comprises 200 individual collections, documenting the history of California, with a primary concentration on the Greater Los Angeles area in seven special focus areas: Urban Development, Education, Journalism in Southern California, Labor and Guild History, Minority and Ethnic Studies, Political Movements, and Women of Los Angeles. Major topics that fall within our overall collecting focus include: city and county planning; change in the labor union movement; school desegregation, bilingual education, and student rights; the journalistic history of prominent guilds and individuals; civil rights, the Chicano Movement, Asian community activism, anti-Semitism, and the diverse cultural history of Los Angeles; communism, national health care, tax reform, and the political education of Los Angeles’ citizens; the philanthropic history of Los Angeles; and the role women have played to improve their communities. The Old China Hands Archive was established in 1996 to preserve and publicize the heritage of people from other countries and cultures who have resided and worked in China. Over the years, the Archive has acquired unique collections such as oral histories, diaries, letters, and photographs, which are awaiting processing."
+hc_id: "291"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "18111 Nordhoff St"
+address2:  "NULL"
+city:  "Northridge"
+state:  "CA"
+zip: "91330-8326"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

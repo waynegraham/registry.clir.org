@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Albert Johannsen Project: Digitizing the House of Beadle and Adams and their Nickel and Dime Novels
+title: "The Albert Johannsen Project: Digitizing the House of Beadle and Adams and their Nickel and Dime Novels"
+year: 2016
+end_range: 1910
+formats: "NULL"
+geographic_extant: "Beadle & Adams were based in New York, but also had offices in London, where they published such series as American Library and American Tales. The stories themselves are predominantly set across the continental United States, from urban New York City to frontier territories in California."
+institution: "Northern Illinois University"
+institution_type: "NULL"
+primary_contact: "Mr. Matthew Short"
+size: "NULL"
+start_range: "1852"
+summary: "Northern Illinois University (NIU) and Villanova University (VU) propose to digitize the dime novels of Beadle & Adams, the first and most important publisher of the format. The project will involve digitizing Albert Johannsen's personal collection, acquired by NIU in 1967, and will include related publications from VU's special collections. A total of 5,400 dime novels will be digitized and made freely available to read and download via the website Nickels and Dimes. In addition, the project will incorporate metadata from Johannsen's The House of Beadle and Adams and their Nickel and Dime Novels (1950), one of the most significant works of dime novel scholarship and bibliography of the 20th century, including relationships between stories, editions, and authors. This will be published as open linked data on dimenovels.org and include digital holdings information, which will be used to coordinate dime novel digitization across multiple institutions."
+hc_id: "23080820"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Northern Illinois University"
+p2_name:  "Mr. Demian Katz"
+p2_institution:  "Villanova University, Falvey Memorial Library"
+p3_name:  "Ms. Lynne M. Thomas"
+p3_institution:  "Northern Illinois University"
+material_string: "<li>5400 Books</li>"
+collaborating_institution:  "Villanova University"
+grant_amount:  "$448,893"
+material_description:  "By 1864, Beadle & Adams had sold more than five million dime novels, making them one of the most successful publishers in the country. The secret to this success was undercutting rival publishers by selling novels for a dime, which was significantly lower than the going rate of a dollar. This was achieved by using inexpensive paper, exploiting cheaper postage rates for periodicals, and reprinting previously published works. Although their popularity waned towards the end of the century, they were among the most significant and innovative publishers of their time, single-handedly responsible for popularizing the dime novel format and playing an important role in the evolution of American popular fiction and the novel. Albert Johannsen (1871-1962) wrote The House of Beadle and Adams and Its Nickel and Dime Novels (1950), a landmark work in the study of 19th century popular literature and publishing. While working on his book, he amassed one of the largest private collections of dime novels and story papers in the United States, purchased by Northern Illinois University in 1967. This collection contains 6,593 publications issued by Beadle and Adams between 1852 and 1897, representing approximately 86% of Beadle & Adams' total output, including near-complete runs of Beadle's New York Library, Beadle's Half-Dime Library, the Saturday Journal, and Beadle's Weekly. The bulk of this collection consists of 25 dime novel series and 7 story papers, but also includes songbooks, handbooks, biographies, almanacs, histories, and even national tax laws. Villanova University's dime novel collection covers gaps in the Johannsen Collection, along with related publications. The latter includes titles originally published by Beadle & Adams that were later reprinted by other publishers, like M. J. Ivers and Arthur Westbrook."
 ---
-
-

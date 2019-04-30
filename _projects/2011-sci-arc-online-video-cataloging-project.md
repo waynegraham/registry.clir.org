@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: SCI-Arc Online Video Cataloging Project
+title: "SCI-Arc Online Video Cataloging Project"
+year: 2011
+end_range: 2002
+formats: "NULL"
+geographic_extant: "The lecture archive's primary focus is on Los Angeles and Southern California, with a secondary focus that is national and international in scope."
+institution: "Southern California Institute of Architecture"
+institution_type: "NULL"
+primary_contact: "Dawn Mori"
+size: "570 objects"
+start_range: "1974"
+summary: "SCI-Arc has long used technology to facilitate access to new ideas in architecture and design. The Institute began its video archive in 1974 when students began taping lectures by visiting speakers. Now standard practice at educational and cultural institutions, videotaping lectures was uncommon in the mid-1970s. Featured speakers include Pritzker Prize winners Tadao Ando, Frank Gehry, Zaha Hadid, Rem Koolhaas, Thom Mayne, Rafael Moneo, Christian Portzamparc, Richard Rogers, Kazuyo Sejima, James Stirling, and Peter Zumthor; notable American architects such as Elizabeth Diller, Peter Eisenman, and Michael Graves; and some of the world's most distinguished architects, including Wolf Prix, Peter Cook, Shigeru Ban, and Gunther Domenig. SCI-Arc has always stressed architecture as an interdisciplinary pursuit and thus provides a forum for creative leaders across disciplines. Included in the collection are major figures in art (Chris Burden, David Hockney, Robert Irwin, Alexis Smith, Diana Thater, James Turrell), landscape architecture, critical thinking, film, design, and graphic design. The collection is among the most complete of its kind. Many speakers are captured more than once, providing opportunities for analysis of their development at different stages of their careers. The archive features groundbreaking symposia on the challenges facing minority and women architects as well as the development of alternative visions of urban planning and community development."
+hc_id: "829"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "960 E 3rd Street"
+address2:  "NULL"
+city:  "Los Angeles"
+state:  "CA"
+zip: "90013"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

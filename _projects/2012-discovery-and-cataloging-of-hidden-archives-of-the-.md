@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Discovery and Cataloging of Hidden Archives of the Essig Museum of Entomology
+title: "Discovery and Cataloging of Hidden Archives of the Essig Museum of Entomology"
+year: 2012
+end_range: 2012
+formats: "NULL"
+geographic_extant: "Primarily western North America, particularly California and Mexico, with considerable collections from Costa Rica, Hawaii, and the South Pacific."
+institution: "Essig Museum of Entomology"
+institution_type: "NULL"
+primary_contact: "Peter Oboyski"
+size: "200 linear feet"
+start_range: "1890"
+summary: "The Essig Museum (EMEC) at UC Berkeley is among the top three largest University arthropod collections in the US, with specimens dating to the 1890s. UCB faculty pioneered the field of Medical Entomology, with documents, images, and specimens dating back 80 years. The California Insect Survey, beginning 1939, launched expeditions throughout the state to discover the unique fauna and habitat associations of California arthropods, resulting in many publications. UCB also has been a pioneer in biological control, testing and releasing insects against pests since the 1940s. The EMEC archives provide the historical, ecological, legal, and sociological context for the specimens that comprise our extensive collections. They document the expeditions and research of prominent students and faculty associated with the museum who have become leaders in entomology at institutions throughout the world. However, the extent and condition of many of these materials are largely unknown due to the idiosyncrasies of record keeping and archiving by hundreds of individuals throughout the years. Recent efforts to discover these materials have uncovered annotated maps, rearing records, glass 35mm slides, photographs, original drawings, and notebooks not recorded in any catalogs. Materials are also distributed across many laboratories and offices in several buildings using a variety of storage systems. It is likely that a considerable amount of historically valuable materials still await discovery."
+hc_id: "970"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Essig Museum of Entomology"
+address2:  "1101 VLSB #4780"
+city:  "Berkeley"
+state:  "CA"
+zip: "94720-4780"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

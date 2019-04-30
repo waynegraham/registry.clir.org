@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: WGBH Media Library and Archives (MLA): Foreign Policy Media Materials
+title: "WGBH Media Library and Archives (MLA): Foreign Policy Media Materials"
+year: 2008
+end_range: 1998
+formats: "NULL"
+geographic_extant: "The collection covers world history with a particular emphasis on China, Europe, Latin America and the United States."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Karen Cariani"
+size: "3122 objects"
+start_range: "1911"
+summary: "WGBH MLA holds primary elements from the television production process. Comprised of interviews, footage, research files, images, etc., these materials comprehensively document the subjects explored in programs. Producers filmed hours of interviews with respected scholars, politicians, decision makers, and eyewitnesses to history, but use a small selection in the final programs. Foreign policy in the 20th century represents a significant volume of our collection. We selected 3122 tapes of primary importance, with a particular emphasis on China. Core to this project is the series China: A Century of Revolution. Made over a ten-year period, this series was the first to explore the turbulent and transformative events in China between 1911 and 1997 from the perspective of people who lived through them. Other titles include Solzhenitsyn at Harvard; Crisis in Central America; Prospects of Mankind; Middle East: US Disaster; East Asia and Our Future; Mexico; and Korea: The Unknown War. These tapes contain interviews with 403 people on subjects such as China, Central America, Mexico, South America, and the former USSR. Other topics include an interview with Joseph Stalin’s daughter, Henry Kissinger discussing the Middle East crisis in 1958, a critical look at US foreign aid to underdeveloped countries in 1964, and a 1960 program of leading US and Soviet scientists discussing nuclear disarmament. These programs were produced between 1958 and 1998."
+hc_id: "72"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "One Guest St"
+address2:  "NULL"
+city:  "Boston"
+state:  "MA"
+zip: "2135"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

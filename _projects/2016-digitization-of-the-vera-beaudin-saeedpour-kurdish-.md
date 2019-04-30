@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitization of the Vera Beaudin Saeedpour Kurdish Library & Museum Collection
+title: "Digitization of the Vera Beaudin Saeedpour Kurdish Library & Museum Collection"
+year: 2016
+end_range: 2010
+formats: "NULL"
+geographic_extant: "The collection's materials relate to the regions in southwest Asia, namely Turkey, Iraqi Kurdistan, Iran, Syria, and parts of the former Soviet Union."
+institution: "Binghamton University"
+institution_type: "NULL"
+primary_contact: "Dr. Aynur de Rouen"
+size: "NULL"
+start_range: "1828"
+summary: "Binghamton University is one of the few institutions in the world possessing an extensive collection of materials related to the history and culture of the Kurdish people -- the Vera Saeedpour Kurdish Library & Museum Collection. This collection includes manuscripts, literature, private papers, artwork, newspapers, journals, maps, and material artifacts. Binghamton University is requesting funds for a two-year project which will allow for the digitization of this collection to make its contents available through open online access. Bound journals and newspapers will be outsourced for digitization and unbound journals, newspapers, correspondence, and photographs will be digitized in-house. Material artifacts will be photographed professionally. Funding is requested for employees to digitize and document the collection, translate key documents to English, and assist with the creation of metadata. Making these materials readily accessible online will help scholars and researchers globally in different academic disciplines such as Kurdish, Turkish, Ottoman, and Middle Eastern Studies."
+hc_id: "22370791"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Binghamton University SUNY"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>254 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$249,041"
+material_description:  "Binghamton University is planning to digitize materials from the Vera Beaudin Saeedpour Kurdish Collection which contains a wide range of materials pertaining to politics of cultures, namely Kurdish and Middle Eastern. Subject areas represented in this collection also include history, political science, anthropology, archaeology, sociology, and belles lettres. The materials in the manuscript collection were arranged categorically, such as newspapers, journals, and photographs. The same concept was applied to the artifacts, for instance, clothing, textiles, and jewelry. Based on this categorization, we plan to digitize the following: correspondences between Dr. Saeedpour and newspapers, politicians, scholars (1977-2010); Dr. Saeedpour's research and writings; a wide range of newsletters and newspapers in Kurdish, Turkish, and English published in Iraq, Turkey, and various Western countries such as Sweden, France, Brussels, and Germany; greeting cards; photographs depicting people, landscape, events (1960s-2000s); maps of Kurdistan and surrounding areas (early 19th century-mid 20th century); artwork of various Kurdish artists; and interviews with Iraqi Kurdish refugees who are currently living in the Binghamton area. The Kurdish Collection was received by Binghamton University as a donation from Vera Beaudin Saeedpour's children in 2010."
 ---
-
-

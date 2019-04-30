@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Hidden Experiences of the Civil War: A Collaboration between the American Civil War Museum and the Virginia Historical Society
+title: "Hidden Experiences of the Civil War: A Collaboration between the American Civil War Museum and the Virginia Historical Society"
+year: 2016
+end_range: 1889
+formats: "NULL"
+geographic_extant: "The materials in the targeted collections focus on the continental United States, being drawn primarily from the states that comprised the Southern Confederacy, as well as contiguous states from which Union soldiers emanated (including prisoners of war whose records survive in these materials)."
+institution: "American Civil War Museum"
+institution_type: "NULL"
+primary_contact: "Dr. John Coski"
+size: "NULL"
+start_range: "1835"
+summary: "Hidden Experiences of the Civil War: A Collaboration between the American Civil War Museum (ACWM) and the Virginia Historical Society (VHS) will unite the unparalleled manuscript collections of the ACWM with the expertise and capacity of the VHS to offer scholars in Civil War history, gender studies, African-American studies, labor history, and related disciplines access to more than 50,000 items depicting experiences of soldiers and civilians, enslaved and free African-Americans, and women between 1835-1889. From diaries and correspondence to military papers and impressment certificates for slaves, this collection offers insight into complex challenges faced at war and at home. ACWM historians and VHS archivists anticipate that digitizing these materials will illuminate connections and trends that would have lain hidden without digital cataloging. The project reinforces ACWM's mission to share a spectrum of Civil War experiences and will be a cornerstone of the new Civil War Research Center at the VHS."
+hc_id: "21042211"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "American Civil War Museum"
+p2_name:  "Mr. Lee Shepard"
+p2_institution:  "Virginia Historical Society"
+p3_name:  "Ms. Meg Eastman"
+p3_institution:  "Virginia Historical Society"
+material_string: "<li>47850 Manuscripts</li>"
+collaborating_institution:  "Virginia Historical Society"
+grant_amount:  "$474,554"
+material_description:  "The materials proposed are in large measure focused on the military side of the Civil War; however, these collections also contain extensive documentation of the lives not only of soldiers, but of their families, of the enslaved persons in their households and communities, and of the contributions and concerns of women on the homefront and in the aftermath of war. Alongside private and family papers, collections relating to Confederate government operations include hiring-out and impressment certificates for enslaved African-Americans, the Department of South Carolina, Georgia, and Florida headquarters papers which include scores of letters from mothers requesting the return of under-aged sons who had enlisted without permission and from civilians protesting decisions that affected their properties, all documenting the effect of war on civilians and soldiers alike. The materials targeted for digitization comprise portions of, or all items in, the collections designated as part of this project (see section 3). These collections are part of the holdings compiled since 1890 by the Confederate Memorial Literary Society (CMLS), now part of ACWM. These collections are in turn part of paper-based holdings of the CMLS being incrementally transferred to the VHS for storage, full processing, and selective digitization. This project will provide access to resources in selected collections of the CMLS through an extensive three-year digitization program of a wide variety of correspondence, financial materials, record books, official documents and related items. From the families of well-known figures like Jefferson Davis and Robert E. Lee to the relatives of common foot soldiers, African Americans, and women, some who supported the Confederacy and some who did not, a remarkably diverse group of people will be documented and their lives and experiences made accessible through this project."
 ---
-
-

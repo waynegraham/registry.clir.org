@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Eastern Bloc Borderlands: Digitizing Russian Military Topographic Maps of Eastern Europe, 1883-1947
+title: "Eastern Bloc Borderlands: Digitizing Russian Military Topographic Maps of Eastern Europe, 1883-1947"
+year: 2017
+end_range: 1947
+formats: "NULL"
+geographic_extant: "The map collection covers Eastern Europe, consisting of present-day Poland, Ukraine, Belarus, Latvia, Lithuania, Estonia, Finland, and Western Russia, and features areas, such as Crimea in Ukraine, which are hot spots in current day international relations."
+institution: "Indiana University"
+institution_type: "NULL"
+primary_contact: "Ms. Michelle Dalmau"
+size: "NULL"
+start_range: "1883"
+summary: "Funding for Eastern Bloc Borderlands: Digitizing Russian Military Topographic Maps of Eastern Europe, 1883-1947 will support the digitization, cataloging, and georeferencing of 4,000+ largely Soviet-era maps that were originally captured by the Germans during World War II, then Americans, and ultimately deposited in the Library of Congress (LC). The Indiana University Libraries (IUL) holds duplicates of this map series based on a cataloging exchange arrangement between IUL and LC. The Russian Military Topographic Map Collection covers areas of Eastern Europe that were greatly impacted by World War II, and were of strategic importance to Russia/Soviet Union. Areas featured, such as Crimea, are critical in international relations today. These maps also provide a glimpse of pre-war Eastern Europe, with villages and settlements that in some cases no longer exist. Increasing patron demand from IU and scholars abroad and preservation concerns provided the impetus for this year-long digitization project."
+hc_id: "26893715"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Indiana University Libraries"
+p2_name:  "Ms. Theresa Quill"
+p2_institution:  "Indiana University Libraries"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>3452 Maps</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$62,218"
+material_description:  "The Russian Military Topographic Map Collection at Indiana University contains just over 4,000 maps of Poland, Ukraine, Belarus, Latvia, Lithuania, Estonia, Finland, and Western Russia at scales of 1:25,000, 1:50,000 and 1:100,000. They measure 38 x 63cm. These maps were made by the Russian Military for internal, tactical use in the field. In the years surrounding World War II, many of these maps were captured in the field by opposing forces, including German and American troops. The history of these maps is told by the myriad stamps from institutions such as the University of Berlin, the US Army Map Service, and the CIA Map Library. After the war, the maps were sent to the Library of Congress. Indiana University’s collection came from a cataloging exchange arrangement with the Library of Congress. While Soviet military topographic maps from the Cold War era are abundant, it is rare to find pre-World War II maps of this area in such detailed scale. Given that the geographic area covered by these maps would later become part of the Soviet sphere of influence, the existence of these maps provides evidence for intentionality, or at the very least interest on the part of the Soviets in this borderland region."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Archiving the Bascom and Jenkins Collections
+title: "Archiving the Bascom and Jenkins Collections"
+year: 2011
+end_range: 1975
+formats: "NULL"
+geographic_extant: "North, Central, East, Southeast Mexico, Mexico City, Guatemala, El Salvador, Costa Rica, Panama,Columbia, Ecuador, and Peru. West and Central Africa."
+institution: "Phoebe A. Hearst Museum of Anthropology"
+institution_type: "NULL"
+primary_contact: "Penelope Betts"
+size: "110 boxes, 150 linear feet, 7132 objects"
+start_range: "1935"
+summary: "African Textiles (William R. Bascom Collection): Bascom (1912-81) was a pioneering Africanist anthropologist. The first American anthropologist to do fieldwork in Nigeria, he was noted for his comprehensive research on the Yoruba, especially \"Ifa\" divination. The collection includes finished clothing, untailored textiles, partially-woven textiles, looms and other weaving implements. A particular strength is a study collection of fully-documented narrow-band Yoruba weavings. The collection documents the Yoruba of Nigeria, but also other peoples of Nigeria, Ghana, Mali, Niger, Sierra Leone, Ivory Coast, Benin, Congo, and Madagascar. The collection covers principal periods of Bascom's African fieldwork (1937-38, 1942-45, 1950-51), plus shorter trips in the 1960s and 1970s. Photographs of Latin American Folk Art (Katherine D. Jenkins Collection): Jenkins (1906-82) was a noted scholar of Mexican folk art, especially textiles and lacquer. The collections includes lacquer, ceramics, metals, glass, paper maché, basketry, textiles, miniatures and toys, wood, and miscellaneous crafts; also archaeology and fiestas of Mexico. A particular focus deals with the gathering and processing of the aje insect for lacquer production, in Olinalá, Guerrero, Mexico. The collection is from Mexico (North, Central, Mexico City, East, Southeast), Guatemala, El Salvador, Costa Rica, Panama, Columbia, Ecuador, and Peru and is principally from 1949 to 1959, with a few later slides from the 1960s and 70s."
+hc_id: "790"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "103 Kroeber Hall"
+address2:  "UC Berkeley"
+city:  "Berkeley"
+state:  "CA"
+zip: "94705"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

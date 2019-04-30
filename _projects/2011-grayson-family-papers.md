@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Grayson Family Papers
+title: "Grayson Family Papers"
+year: 2011
+end_range: 1924
+formats: "NULL"
+geographic_extant: "The geographic scope of the collection is primarily the United States and Europe."
+institution: "Woodrow Wilson Presidential Library"
+institution_type: "NULL"
+primary_contact: "Thomas Robinson"
+size: "90 linear feet"
+start_range: "1856"
+summary: "Admiral Cary T. Grayson was President Wilson's physician and friend from the President's inauguration in 1913 until his death in 1924. For the last twelve years of the President's life, Dr. Grayson attended to him all day and often at night. The collection includes hundreds of letters from Dr. Grayson to his wife and others describing events and behind-the-scenes discussions at the Paris Peace Conference and other incidents in the President's life. In his diary, letters, and medical records, Dr. Grayson detailed events such as Wilson's daily activities, conversations with heads of state, and the President's health and the medical care given to him after his stroke in 1919. These papers will provide great insights into the American involvement in the war and peace negotiations. Dr. Grayson's papers also give insights into Woodrow Wilson the man and alters aspects of the current historical interpretation of Wilson and his presidency. This collection needs to be made available to scholars, students, and the general public. The James Gordon Papers contain the papers of Alice Gordon Grayson's father. Alice Grayson married Cary T. Grayson. James Gordon was a multi-millionaire who made his money in coal and other natural resources. He died of cancer in June of 1911."
+hc_id: "810"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "PO Box 24"
+address2:  "NULL"
+city:  "Staunton"
+state:  "VA"
+zip: "22844"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

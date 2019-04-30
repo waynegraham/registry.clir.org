@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitization of the Caribbean Archaeological Archives of the Yale Peabody Museum
+title: "Digitization of the Caribbean Archaeological Archives of the Yale Peabody Museum"
+year: 2016
+end_range: 1930
+formats: "NULL"
+geographic_extant: "The material to be digitized relates to research in the broader Caribbean region. Major excavations in Antigua, Cuba, Puerto Rico, Trinidad, and Venezuela produced the most archaeological material and associated documentation, although other locations throughout the Caribbean as well as Florida are represented in the collections and archives."
+institution: "Yale Peabody Museum of Natural History"
+institution_type: "NULL"
+primary_contact: "Dr. Roger Colten"
+size: "NULL"
+start_range: "1930"
+summary: "The Peabody Museum of Natural History's Anthropology Division curates one of the world's largest systematically acquired Caribbean archaeology collections. Here we propose to digitize the primary field documents from this archaeology program, link the resulting digital assets to records in our collections management system as well as to the library finding aids that have been developed with prior support, and make these available online. Although these collections are unique, are cataloged, and their metadata and selected associated digital assets available online, the documentation is only accessible in the Division archives, which currently limits access to these critical resources to just those scholars who are able to visit the archives. The documentation includes field notes, maps and drawings, laboratory notes, and photographic material. These resources have research potential of worldwide interest to scholars in archaeology, anthropology, history of science, biogeography, and zoology."
+hc_id: "22061389"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Yale Peabody Museum of Natural History"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>12000 35 mm slides</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$174,047"
+material_description:  "The Caribbean archaeological archives of the Yale Peabody Museum are the result of the pioneering research of Irving (Ben) Rouse. The Rouse archives have been cataloged under 11 series and presented as a finding aid (http://hdl.handle.net/10079/fa/ypm.antar.000001), and we propose to digitize the content most closely related to Rouse's field and laboratory work, notably the maps, research materials, photographs, and slides. The material to be digitized encompasses: a. 12,000 35 mm slides; b. 38 linear feet of 4\"x6\" paper cards/slips of field and laboratory notes; c. 10 map drawers containing 200 maps and drawings; d. 30 transfile boxes of correspondence (equivalent to 60 linear feet); e. 10 bankers boxes of field notes (equivalent to 14 linear feet); f. 8 hand written photo log ledgers; g. 4 three-ring binders, 3.5\" thick, with b/w negatives in sleeves; h. 3 Kodak negative albums with approximately 300 b/w negatives; i. 1 wooden box containing approximately 50 rolls of film cut into strips; j. 6 boxes of photographic prints (3 @ 8x10\", 3 @ 5x7\"); k. 5 17\"x13\" archive boxes of maps, manuscript figures, etc.; and l. 1 “Hollinger box” of manuscript notes."
 ---
-
-

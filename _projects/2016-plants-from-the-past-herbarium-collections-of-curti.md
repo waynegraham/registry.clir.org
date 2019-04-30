@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Plants from the Past: Herbarium Collections of Curtis Gates Lloyd (1859-1926) and E. Lucy Braun (1889-1971)
+title: "Plants from the Past: Herbarium Collections of Curtis Gates Lloyd (1859-1926) and E. Lucy Braun (1889-1971)"
+year: 2016
+end_range: 1970
+formats: "NULL"
+geographic_extant: "The Braun collection covers the eastern US with a focus on Ohio and Kentucky. The Lloyd collection also includes many local specimens, as well as the first large collection of Samoan flora (which Lloyd collected on two extended expeditions), and a great number of European specimens that Lloyd had purchased."
+institution: "University of Cincinnati"
+institution_type: "NULL"
+primary_contact: "Dr. Eric Tepe"
+size: "NULL"
+start_range: "1860"
+summary: "Herbarium collections of preserved and archived plants from different localities and time periods are critical in understanding the past and current distribution of plant species. In addition to underlying taxonomic identification, these collections are an invaluable historical repository for studies of biodiversity and climate change. We propose to digitize two collections at the University of Cincinnati over 24 months: specimens collected worldwide by Curtis Gates Lloyd, a prominent botanist affiliated with a renown pharmaceutical company in the early 1900's, and E. Lucy Braun, the prominent forest ecologist and founder of field ecology in the 1900's. Together, these collections consist of 35,000 specimen sheets that can only be currently accessed by visiting the herbarium in person. We propose to use a digitization pipeline currently in use, and to feed into existing online resources to make these two hidden collections publicly available for use by the botanical community and historians worldwide."
+hc_id: "22331658"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Cincinnati"
+p2_name:  "Dr. Theresa Culley"
+p2_institution:  "University of Cincinnati"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>35000 Specimens</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$89,980"
+material_description:  "The plant specimens of Curtis Gates Lloyd and E. Lucy Braun at the Margaret H. Fulford Herbarium at the University of Cincinnati (CINC) are noteworthy in that they represent invaluable collections of both biological and historical relevance. Curtis Gates Lloyd was American mycologist and botanist based in Cincinnati, who along with his two brothers, owned Lloyd Brothers Pharmacists. This company was the first to advocate and offer plant extracts for popular medicinal use, such as Echinacea purpurea (Purple Coneflower). Curtis' speciality was researching pharmaceuticals from medicinal plants, and he traveled extensively, undertaking several collecting expeditions to Samoa and other locations. He also regularly corresponded with botanists worldwide, who would send him specimens of potential medicinal importance. Curtis Gates Lloyd built up a large personal herbarium consisting of 30,000 specimens represented thousands of plant species collected across the world. Dr. E. Lucy Braun (1889-1971) was a renowned biologist considered one of the founders of the field of plant ecology. She was among the first women to receive a Ph.D. from UC in 1914, where she joined the faculty. While exploring the forests of the Eastern US to study the distribution of plant species and their habitats, she collected thousands of plant specimens for the herbarium and her own personal collection (now at the National Museum in Washington D.C.). Dr. Braun's 1950 book, Deciduous Forests of Eastern North America, is still considered today to be the preeminent source on forest ecology. She was a strong advocate for conservation of natural areas, resulting in the preservation of over 10,000 acres of land in Ohio. She was the first woman president of the Ecological Society of America in 1950. In 2001, Dr. Braun was named as one of Audubon Society's Champions of Conservation who shaped the environmental movement of the 20th century."
 ---
-
-

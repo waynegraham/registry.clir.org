@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Unlocking Hidden Collections of the Immigration History Research Center Archives
+title: "Unlocking Hidden Collections of the Immigration History Research Center Archives"
+year: 2013
+end_range: 2000
+formats: "NULL"
+geographic_extant: "Twenty-five immigrant/ethnic groups are represented; the predominant languages are Ukrainian, Polish, Finnish, Estonian, Latvian,Italian."
+institution: "University of Minnesota Libraries"
+institution_type: "NULL"
+primary_contact: "Linda Greve"
+size: "300 linear feet, 25000 objects"
+start_range: "1860"
+summary: "The IHRCA contains archival materials, books, and periodicals. This project addresses hidden printed materials accumulated over the past 50 years which will contribute to the understanding of a multi-ethnic diaspora. Publication dates range from 1860 to 2000, most published after 1900 primarily in the United States and Canada. A small but historically significant number of items originate from the displaced persons camps in Germany and Austria following World War II. These items often had limited print runs and even fewer were transported to the U.S. Although produced outside the United States, these materials document the migration experiences of the refugees who eventually settled in North America. The IHRCA traditionally has utilized a broad definition of \"print\" in relation to its materials. Many ephemeral publications and “near-print” items, printed not by publishers but often mimeographed, e.g., pamphlets or flyers, reflect many genres--memoir, local histories of immigrant settlements, organizations, and commemorative publications, biographies of prominent people, textbooks, songbooks, immigrant business directories, and organizational convention booklets--have significant value."
+hc_id: "1167"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "309 19th Avenue South"
+address2:  "OMWL 499"
+city:  "Minneapolis"
+state:  "MN"
+zip: "55455"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

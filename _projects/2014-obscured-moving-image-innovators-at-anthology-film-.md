@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Obscured Moving Image Innovators at Anthology Film Archives
+title: "Obscured Moving Image Innovators at Anthology Film Archives"
+year: 2014
+end_range: 2008
+formats: "NULL"
+geographic_extant: "The geographic scope of the project is primarily North America, with selected materials produced and published in the United States, Europe and Asia."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Erik Piil"
+size: "1920 linear feet"
+start_range: "1923"
+summary: "Anthology Film Archives (AFA) requests funding to make accessible a significant number of paper collections related to individuals whose works serve as primary source records of cultural movements in the history of cinema and twentieth century art. The Jerome Hill Library at AFA holds the world's largest collection of paper materials documenting the history of American avant-garde and independent filmmaking. Due to limited staff and a growing number of unprocessed collections, scholarly access to materials has become difficult. The proposed 36-month project will initiate cataloging and facilitate access to selected materials through the creation of EAD finding aids and MARC records, made available through AFA's digital collections website."
+hc_id: "10810379"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Paul Singer: Chinese Art and Archaeology
+title: "Paul Singer: Chinese Art and Archaeology"
+year: 2014
+end_range: 1990
+formats: "NULL"
+geographic_extant: "China, Tibet, Southeast Asia, Korea"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "J. Keith Wilson"
+size: "5000 objects"
+start_range: "5000"
+summary: "The Paul Singer collection of 5,000 Chinese objects, ranging from the Neolithic to the 20th century, will be fully cataloged along with his papers and period photographs of the collection, reference images, and scholars and students in his two-bedroom apartment in Summit, NJ. Made accessible to the public for the first time, the collection serves as both a reflection of what was known about Chinese art and archaeology in the latter half of the twentieth century and a platform for new research in a broad range of disciplines."
+hc_id: "12008245"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

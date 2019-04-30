@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Catholic Social Action Access Project (CSAAP)
+title: "Catholic Social Action Access Project (CSAAP)"
+year: 2009
+end_range: 2007
+formats: "NULL"
+geographic_extant: "The bulk of the materials emphasize social action within the U.S., although Bethune's activities extended to the Philippines, Canada and Mexico."
+institution: "Marquette University Libraries"
+institution_type: "NULL"
+primary_contact: "Jean Zanoni"
+size: "18 boxes, 79 cubic feet, 0 linear feet, 1552 objects"
+start_range: "1881"
+summary: "The common thread throughout these three significant-in-their-own-right collections is U.S. Catholic social action in the 20th century. St. Catherine University’s (SCU) Ade Bethune Collection includes the archives of Ade Bethune, world-renowned liturgical artist and social activist. In 1969 she helped found the Church Community Housing Corporation, a non-religious, non-profit organization, to develop affordable housing in Newport County. She designed the prototype for more than 30 new houses for first-time, low-income owners, including Newport's first solar-heated house. This community is vibrant yet today. Catholic University of America (CUA) holds the Catholic Charities, DC records (CCDC). CCDC serves today as a key advocate for progressive social legislation. CCDC provides strong leadership and support to enhance the work of local agencies in their efforts to reduce poverty, support families, and empower communities. Marquette University’s (MU) Dorothy Day-Catholic Worker Collection (DDCW) documents the faith-based movement of Dorothy Day and Peter Maurin. This social movement remains strong, evidenced by over 185 \"houses of hospitality\" around the globe. This project describes the audio recordings within the DDCW archive which capture voices of most influential Catholic social activists, intellectuals, and writers of the era."
+hc_id: "461"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1355 W. Wisconsin Avenue"
+address2:  "Raynor Memorial Libraries"
+city:  "Milwaukee"
+state:  "WI"
+zip: "53201"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "atholic University of America, St. Catherine University"
+grant_amount:  "$149,964"
+material_description:  "NULL"
 ---
-
-

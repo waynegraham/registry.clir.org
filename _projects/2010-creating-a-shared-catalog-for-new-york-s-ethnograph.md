@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Creating a Shared catalog for New York's Ethnographic Collections: A Cooperative Project
+title: "Creating a Shared catalog for New York's Ethnographic Collections: A Cooperative Project"
+year: 2010
+end_range: 2010
+formats: "NULL"
+geographic_extant: "Collections are of New York State material, including the 5 boroughs of New York City, the Adirondack North Country, Southern Tier, Central New York."
+institution: "New York Folklore Society"
+institution_type: "NULL"
+primary_contact: "Ellen McHale"
+size: "527 cubic feet, 2 linear feet, 1054 objects"
+start_range: "1930"
+summary: "The identified folklore collections include materials which illustrate the use of cultural knowledge (oral narrative, handmade objects, music, dance, etc) within New York's communities. They illustrate New York's role in championing traditional music and culture through the Folk Revival Movement based in New York City and the WPA Programs of the 1930s, spearheaded by Ben Botkin. The collections for this project date to early twentieth century fieldwork and field studies influenced by early anthropological theories and methods. Early folklorists sought out rural communities or inner city ethnic enclaves for study. Folklore collecters and researchers were also active in 20th century radical political and social movements as well as educational reform movements. The collections of Camp Woodland are notable in this regards. The contents of the identified folklore collections include information on New York State arts and architecture, recreation and leisure, labor, education, politics, individual responses to war and conflict, social organization and activity, and social reform and social welfare. They include early Dutch & Iroquois languge and dialect recordings. They chronicle the regional nature of New York State, as well as new immigrant, refugee, and diaspora communities. Folklore materials are important to anthropology and ethnomusicology, sociology, history, and American and popular culture studies. Records are multi-format with audio and film being the norm."
+hc_id: "628"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "PO Box 764"
+address2:  "133 Jay Street"
+city:  "Schenectady"
+state:  "NY"
+zip: "12301"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

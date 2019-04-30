@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging Artifacts and Related Records of the World Trade Center Attack on September 11, 2001
+title: "Cataloging Artifacts and Related Records of the World Trade Center Attack on September 11, 2001"
+year: 2010
+end_range: 2009
+formats: "NULL"
+geographic_extant: "City of New York"
+institution: "NYC Department of Records"
+institution_type: "NULL"
+primary_contact: "Leonora Gidlund"
+size: "726 cubic feet"
+start_range: "2001"
+summary: "The materials can be divided into five general categories: 1) posters, letters, photographs and other ephemera left by the families of the victims at Pier 94 (the temporary family service center), and at the 9/11 memorial sites on the footprint of the towers; 2) material placed in City parks and other public places in the aftermath of the event; 3) artifacts of the World Trade Center buildings, vehicles, and other items recovered from the site, via Fresh Kills, Staten Island, where the debris had been brought for screening; 4) brochures and other printed material prepared by the Mayor's Community Assistance Unit to assist the victim families; and 5) correspondence sent to the Mayor's office and rescue workers."
+hc_id: "627"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NYC Department of Records/Municipal Archives"
+address2:  "31 Chambers Street, Rm 101"
+city:  "New York"
+state:  "NY"
+zip: "10007"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

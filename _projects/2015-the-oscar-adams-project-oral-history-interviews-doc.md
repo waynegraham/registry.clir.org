@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Oscar Adams Project: Oral History Interviews Documenting the Life and Work of Alabama Supreme Court Justice Oscar Adams (1925-1997)
+title: "The Oscar Adams Project: Oral History Interviews Documenting the Life and Work of Alabama Supreme Court Justice Oscar Adams (1925-1997)"
+year: 2015
+end_range: 2008
+formats: "NULL"
+geographic_extant: "State of Alabama; City of Birmingham, Alabama."
+institution: "Birmingham Civil Rights Institute, Birmingham, Alabama"
+institution_type: "NULL"
+primary_contact: "Ms. Laura Anderson"
+size: "NULL"
+start_range: "2006"
+summary: "The Birmingham Civil Rights Institute (BCRI) seeks support to send 36 original VHS interview recording tapes to a vendor for digitization and metadata creation in order to ensure the collection's use and availability to scholars and the general public for years to come. The collection includes recordings of interviews with persons who knew and worked with Oscar Adams, Jr., Alabama's first African American Supreme Court Justice and also the first African American elected to statewide constitutional office. Adams litigated many civil rights cases in his career as a lawyer and was part of the first African American law firm established in the state. Access to these oral histories will contribute to scholarship on Oscar Adams, the legal community in Alabama, and the role of African American lawyers in the 20th century movement for civil and human rights in the United States."
+hc_id: "16901727"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Birmingham Civil Rights Institute"
+p2_name:  "Mr. Michael"
+p2_institution:  "Information Systems Administrator"
+p3_name:  "Mr."
+p3_institution:  "NULL"
+material_string: "<li>72 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$57,952.00"
+material_description:  "Materials to be digitized are videotaped recordings of interviews with a variety of individuals who knew and worked with Oscar Adams, Jr. (1925-1997) over the course of his legal career in the state of Alabama. Interviewees include relatives as well as legal community colleagues. The interviewees were conducted between 2006 and 2008 by staff of the Birmingham Civil Rights Institute (BCRI), which holds full rights to the interviews to be digitized and shared with the public. \n\n\n\nSubjects addressed in the interviews -- in addition to the overall subject, Justice Adams (his personal character, accomplishments, challenges, and contributions to civic life and the movement for civil and human rights in Alabama) -- include: Adams' childhood, youth, and family life; his father Oscar Adams, Sr. minister and publisher of the BIRMINGHAM REPORTER newspaper in the early 1900s; Adams' education and the schools he attended -- Parker High School, Talladega College, and Howard University School of Law; U.S. Supreme Court Justice Hugo Black; brother Frank Adams, Sr.; National Association for the Advancement of Colored People (NAACP); Southern Christian Leadership Conference (SCLC); Alabama Christian Movement for Human Rights (ACMHR); Rev. Fred L. Shuttlesworth; the law firm of Adams, Baker & Clemon and the law partners James C. Baker and U.W. Clemon (Alabama's first African American federal judge); cases and clients including those from US Steel, Pullman Standard Manufacturing, US Pipe and Foundry, and American Cast Iron Pipe Company; the NAACP Legal Defense Fund with whom he often partnered on cases; Adams' appointment to the Alabama Supreme Court by Governor Fob James (1980); Adams' election to the position of Justice of the Supreme Court of Alabama (1982); Adams' time on the state supreme court (1980-1993); relationships with fellow justices, lawyers and judges; practice with firm of White, Arnold & Dowd."
 ---
-
-

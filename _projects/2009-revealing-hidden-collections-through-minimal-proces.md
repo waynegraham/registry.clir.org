@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Revealing Hidden Collections through Minimal Processing and Teaching
+title: "Revealing Hidden Collections through Minimal Processing and Teaching"
+year: 2009
+end_range: 1990
+formats: "NULL"
+geographic_extant: "Washington State—especially its southeastern region—as well as Oregon, Idaho, and China."
+institution: "Whitman College"
+institution_type: "NULL"
+primary_contact: "Michael Paulus"
+size: "1200 linear feet"
+start_range: "1800"
+summary: "The 792 collections included in this proposal comprise the unprocessed portion of the historical manuscripts collection at Whitman College (i.e., records that are not part of the official records of the institution). These collections include the records of missionaries, soldiers, miners, pioneers, and others involved in incorporating the Pacific Northwest into the United States and developing Washington Territory (later State) into a significant cultural and economic region. There are over a dozen collections of papers of missionary families, beginning with missionaries Marcus and Narcissa Whitman and Henry and Eliza Spalding, and dating from the early to the late 19th century; there are over 60 collections of papers of pioneer families, beginning with the orphaned Sager children and the explorer Augustus Thibodo, and dating from the mid to the late 19th century; there are some 400 collections of records of organizations, beginning with some of the earliest voluntary, agricultural, industrial, and technological organizations established in the Northwest, and dating from the mid 19th century to the early 20th century; and there are more than 300 collections of personal papers of important individuals from southeastern Washington, including missionary and anthropologist D. C. Graham and Justice William O. Douglas, and dating from the early to the late 20th century."
+hc_id: "573"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Penrose Library"
+address2:  "345 Boyer Avenue"
+city:  "Walla Walla"
+state:  "WA"
+zip: "99362"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

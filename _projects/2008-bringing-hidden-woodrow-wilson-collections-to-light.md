@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Bringing Hidden Woodrow Wilson Collections to Light: Cataloging Collections and Providing Online Access to Collection Descriptions
+title: "Bringing Hidden Woodrow Wilson Collections to Light: Cataloging Collections and Providing Online Access to Collection Descriptions"
+year: 2008
+end_range: 1930
+formats: "NULL"
+geographic_extant: "The project will take place at the WWPL in Staunton, VA. The provenance of materials to be cataloged originated from all over the US and Europe."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Julie Jones"
+size: "263 boxes"
+start_range: "1856"
+summary: "The Woodrow Wilson Presidential Library (WWPL) seeks to produce online electronic collection-level descriptions and series-level finding aids for 41 archival and manuscript collections in 263 boxes of materials. These resources include manuscripts, letters, speeches, pamphlets, newspapers, photographs, and other materials that are by, to, or about the 28th president and his times. The collections cover the late Victorian era through the birth of modern America, from roughly 1856 to 1930, and span the globe as Wilson’s world expanded from college professor, to Governor of New Jersey, and then to two-term President of the United States. These historic materials, most of which have never been seen by the public, shed light upon major topics in American history, including the establishment of the Federal Reserve System, anti-child labor and anti-trust laws, civil rights, women’s suffrage, World War I, the Paris Peace Conference, the Treaty of Versailles, and presidential health. Many of these collections have been recently acquired from private individuals and families, such as the personal correspondence of Wilson’s doctor, who treated the President throughout his administration and during his debilitating stroke in October 1919. The WWPL wants students, teachers, scholars and the general public to have access-both physical and virtual-to its archival materials. However, none of this material has been cataloged, and no electronic collection descriptions exist."
+hc_id: "210"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P.O. Box 24"
+address2:  "20 North Coalter Street"
+city:  "Staunton"
+state:  "VA"
+zip: "24401"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

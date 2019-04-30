@@ -1,6 +1,34 @@
 --- 
 layout: project 
 title: "Digitizing the Photography Collections of Gabriel Cromer and Alden Scott Boyer at George Eastman House"
+year: 2015
+end_range: 1942
+formats: "NULL"
+geographic_extant: "Although objects in the Cromer collection are made primarily by French photographers, they depict scenes not only in France but throughout Europe and beyond. The Boyer collection contains items that represent a wider geographic scope and includes a significant number of photographs made in England, France and the Americas."
+institution: "George Eastman House"
+institution_type: "NULL"
+primary_contact: "Dr. Lisa Hostetler"
+size: "NULL"
+start_range: "1793"
+summary: "George Eastman House will digitize the photography collections of Gabriel Cromer and Alden Scott Boyer. These materials comprise the foundation upon which our internationally recognized photography collection was built. Approximately 6,625 items will be made freely available to the public through online access. These collections provide a wealth of primary source materials for scholars and others interested in nineteenth-century French, British and American photography, as .well as the history of photography. Digitization and online access will increase public awareness of these collections, will facilitate free access to the materials from anywhere in the world, and will maximize staff efficiency. Funds are requested to hire four individuals whose sole responsibility will be to digitize and catalog photographic objects from these collections and to assure free access through the museum's website. Grant funds are also requested for necessary equipment rental."
+hc_id: "17098937"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "George Eastman House"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>6625 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$249,829"
+material_description:  "The collections of Gabriel Cromer and Alden Scott Boyer form two of George Eastman House's three core collections. \n\n\n\nThe Gabriel Cromer collection was originally acquired by the Eastman Kodak Company in 1939, ten years before George Eastman House opened its doors to the public. Cromer was a French lawyer-turned-photographer and collector who focused on objects related to nineteenth-century French photography, including photographs, books, and apparatus, as well as less-often collected items such as pre-photographic engravings and cartoons related to photography. Following Cromer's death in 1934, his widow, who was concerned over the growing threat of war in Europe, sold his collection to Dr. Walter Clark, head of Kodak's Research Laboratories. The collection was added to the company's Eastman Historical Photographic Collection (EHPC) and comprised its largest and most significant part. Kodak hired Beaumont Newhall to catalog the collection. In 1948, the EHPC was transferred to George Eastman House, and Newhall, previously a librarian at the Museum of Modern Art (New York) who had organized exhibitions on photography, was named the museum's first curator of photography. \n\n\n\nAlden Scott Boyer donated his collection to George Eastman House on April 27, 1951. Boyer was a wealthy perfume manufacturer based in Chicago whose collecting interests included photography, as well as slot machines and high-wheeled bicycles. Like Cromer, Boyer's collection consisted not only of photographs but also an extensive library of books and cameras. Chiefly concerned with nineteenth-century photography, Boyer's collection embraced many of the photographers championed by Newhall in his landmark publication Photography 1839-1937. These photographers included Julia Margaret Cameron, Hill and Adamson, and additional materials from lesser known photographers such as Fischer & Brothers (early views of the U.S. Naval Academy) and others."
 ---
-
-

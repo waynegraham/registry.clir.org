@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Liberté, égalité, Fraternité: Chronicling the French Second Republic
+title: "Liberté, égalité, Fraternité: Chronicling the French Second Republic"
+year: 2010
+end_range: 1895
+formats: "NULL"
+geographic_extant: "Scope of newspapers and ephemera is France. Maps include a world map and various European and S. American countries."
+institution: "Library of Virginia"
+institution_type: "NULL"
+primary_contact: "Mary Clark"
+size: "1000 objects"
+start_range: "1811"
+summary: "The French newspapers were collected by William Wilberforce Mann, a New York attorney who lived in Paris from 1848-1855. The French newspapers are from 1848-1852, published upon the repeal of the laws that restrained freedom of the press. The collection includes many of the approximately 500 new newspapers that appeared just between 24 February 1848 to the end of the year, with views ranging from moderate republicanism to socialism. Many of the papers were short-lived. Later that year, the restraints on the press were re-instituted, causing several newspapers to fold. This collection of newspapers represents a period in France's history with a free press, resulting in a flourish of newspapers. They chronicle Louis Napoleon Bonaparte's (Napoleon III) election as president by popular vote and include biographies of him. They host political, cultural, and business topics in addition to letters from Alexandre Dumas and Victor Hugo, among others. Of note, several of the papers were created by women publishers. The collection includes the only known complete run of the Moniteur Universel in the Americas. Additional materials to be included are French maps and ephemera ranging from 1811-1895, which provide context for the content reflected in the newspapers. It is believed that the size and scope of this collection make it unique in the United States, certainly in the Southeastern US."
+hc_id: "614"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "800 East Broad Street"
+address2:  "NULL"
+city:  "Richmond"
+state:  "VA"
+zip: "23219-8000"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

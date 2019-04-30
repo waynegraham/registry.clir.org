@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Capturing History: Cataloging the San Diego Museum of Man's Photographic Collection
+title: "Capturing History: Cataloging the San Diego Museum of Man's Photographic Collection"
+year: 2011
+end_range: 1950
+formats: "NULL"
+geographic_extant: "The geographic scope of the photographic collection that will be cataloged encompasses San Diego County as well as Baja California."
+institution: "San Diego Museum of Man"
+institution_type: "NULL"
+primary_contact: "Tori Randall"
+size: "25000 objects"
+start_range: "1890"
+summary: "The San Diego Museum of Man (SDMoM) seeks funding to catalog a collection of 25,000 photographs taken from 1890 to the mid-1900s depicting the history of San Diego and the surrounding area. These photographs have never been cataloged and consist of assorted media, including albumen prints, glass negatives, and daguerreotypes. Cataloging the collection at this time is critical due to the upcoming Centennial Anniversary of the 1915 Panama-California Exposition and the need for scholars to study the changing culture and history of the San Diego region. The images reveal a comprehensive pictorial study of life in the greater San Diego area, ranging from early contact with Native Americans up through the Panama-California Exposition and development of Balboa Park. Many of the photographs in the collection were gifted to SDMoM in conjunction with artifacts, which enrich knowledge about those objects and provide priceless insight into how San Diego County has evolved over the years. Abbie Boutelle, Constance Goddard DuBois, Malcolm Rodgers and E.H. Davis are just a few of the prominent San Diegans who made significant contributions to our understanding of the anthropology and archaeology of the San Diego area and also donated their photographs and artifacts to SDMoM. With proper cataloging, this collection of images will be invaluable to those interested in researching and understanding the history, culture, and archaeology of the greater San Diego region."
+hc_id: "827"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "San Diego Museum of Man"
+address2:  "1350 El Prado"
+city:  "San Diego"
+state:  "CA"
+zip: "92101"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$115,200"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Documenting Chicano and Latino newspapers in the United States, 1835-1989
+title: "Documenting Chicano and Latino newspapers in the United States, 1835-1989"
+year: 2013
+end_range: 2009
+formats: "NULL"
+geographic_extant: "The collections spans 20 states and Washington DC, with the bulk from California, New Mexico, and Texas."
+institution: "Chicano Studies Research Center"
+institution_type: "NULL"
+primary_contact: "Connie Heskett"
+size: "280 linear feet"
+start_range: "1835"
+summary: "The materials consist of approximately 350 newspaper titles serving Latino communities from across the US covering the period from 1835 to 1989. These titles start with La Cronica: The Voice of Northern New Mexico (bilingual with issues up to 1915) and end with community-based weeklies and student newspapers prior to the 1990s when digital technologies and the internet began ensuring greater preservation and access. The bulk of the collection dates to 1960-1979. While only two-thirds of the titles have been inventoried, the geographic scope already includes 20 states (titles in parentheses): Arizona (3), California (78), Colorado (9), Connecticut (1), Florida (1), Hawaii (1), Illinois (4), Indiana (5), Iowa (1), Kansas (3), Massachusetts (1), Michigan (3), Missouri (3), New Mexico (44), New York (8), Oregon (3), Pennsylvania (1), Texas (60), Washington (1), Wisconsin (2), and Washington DC (3). The geographic core of the materials is in California, New Mexico, and Texas. The bulk of the newspaper titles address a Mexican American or Chicano readership (276 linear feet), however the materials include titles focused on Puerto Rican, Central American, and pan-Latino communities in the US (4 linear feet). This collection includes a significant number of titles that are not available on microfilm (238 titles or 68%). Only 33% of the titles (115) are available on paper at other collections. We estimate that at least half the collection consists of only available copies."
+hc_id: "1170"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "193 Haines Hall"
+address2:  "Box 951544"
+city:  "Los Angeles"
+state:  "CA"
+zip: "90095-1544"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

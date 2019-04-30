@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Avian Archives of Iowa Online (avIAn)
+title: "Avian Archives of Iowa Online (avIAn)"
+year: 2016
+end_range: 2012
+formats: "NULL"
+geographic_extant: "This material is focused on the state of Iowa. It documents birds found in Iowa, conservation and ornithology in Iowa, and Iowans engaged in observing birds, nests, and habitats within the state of Iowa. Because Iowa is part of the Mississippi flyway, it also represents ornithology in central North America."
+institution: "Iowa State University"
+institution_type: "NULL"
+primary_contact: "Dr. Kimberly Anderson"
+size: "NULL"
+start_range: "1895"
+summary: "Iowa State University Library proposes a 24 month project to establish the Avian Archives of Iowa Online (avIAn), a portal for digital Iowa ornithological primary sources. The eight collections we have selected for this project provide robust documentation of over one hundred years of bird study in Iowa and encompass some of the Midwest's most influential conservationists. The project will present approximately 13,600 documents, 2,124 images, 14 field journals, and 7 audiovisual recordings freely accessible online and available for education and personal reuse. avIAn will become a space for future collaboration with other archives holding materials pertaining to ornithological collections from Iowa and the Mississippi Flyway. A special feature of this project is our presentation of the items as both archival materials and as scientific data. We have designed the project to enable use as formal scientific data as well as more traditional humanities and educational uses."
+hc_id: "23080881"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Iowa State University"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>37 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$188,825"
+material_description:  "These eight collections provide robust documentation of ornithology activities in Iowa over the last century in a variety of formats. At the core of the nominated set of collections are the records of the Iowa Ornithologists' Union (IOU). The IOU records form what we believe is the largest and most comprehensive archival documentation of bird sighting records in Iowa, with national significance as a complement to the North American Bird Phenology Program. Additionally, these materials, when accessed collectively, reveal the social network of Iowa conservation and ornithology in the 20th century. Walter Rosene (MS 589) was one the founders and early presidents of the IOU (MS 166). Additionally, he was a correspondent of Philip Dumont (MS 153), as was Woodward Hart Brown (MS 502). Philip Dumont himself was involved in the IOU. At the same time that Philip Dumont worked to assess wildfowl management and habitat in the state of Iowa, Frederic Leopold (MS 113), brother of Aldo Leopold, began his 35 year study of wood ducks centered in Burlington, Iowa. The social connections continue with recent materials. The Big Bluestem Audubon Society (MS 592) and the IOU share some leadership. The remaining collections, the Fairfield Bird Club (MS 386) and the Iowa Ornithological Association (MS 581) round out the proposed digital collection through inclusion of bird clubs not affiliated with the IOU. Additionally, the Fairfield Bird Club materials document a club with a large percentage of female leadership."
 ---
-
-

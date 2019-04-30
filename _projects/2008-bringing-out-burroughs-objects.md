@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Bringing Out Burroughs Objects
+title: "Bringing Out Burroughs Objects"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "worldwide"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Delinda Buie"
+size: "4344 objects"
+start_range: "1884"
+summary: "Originally established in 1977 by curator George T. McWhorter, this collection of Edgar Rice Burroughs is the largest in any institutional library worldwide. First editions in English and thirty other languages, rare periodicals with first appearances in print, pulps, comics, fanzines, films, posters, correspondence, photographs, realia, ephemera, and memorabilia all document the popular culture phenomenon of Tarzan and other heroes created by Edgar Rice Burroughs. Recently other collectors have begun to place materials at the University of Louisville. Roy and Dela White of Colorado gave their extensive collection, including the family papers of Edgar Rice Burroughs' daughter Joan, in 2000. From 2004 to 2006 collector Bob Hyde of Pittsburgh and his children placed the collection he had developed since age 14. The Burroughs Collections are especially rich in primary source material, with original art by illustrators such as J. Allen St. John and Burne Hogarth; the files of first Burroughs biographer Irwin Porges; Burroughs family letters; toys, games, and other types of both licensed merchandise and homemade objects with which four generations of fans have explored and celebrated the iconic figure of Tarzan. While standard methods of cataloging and archival arrangement and description can provide access to print and manuscript items, the range of objects, spanning a century and representing multiple genres and formats, requires a new approach. A community of scholars and fans devoted to Burroughs stands ready to help, but their efforts, interest and expertise must be channeled, systemically organized, and documented."
+hc_id: "206"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Special Collections"
+address2:  "Ekstrom Library"
+city:  "Louisville"
+state:  "KY"
+zip: "40292"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Wedgwood Ceramics Collectors Archive Fellowship
+title: "The Wedgwood Ceramics Collectors Archive Fellowship"
+year: 2012
+end_range: 2012
+formats: "NULL"
+geographic_extant: "Materials focus primarily on objects created in England and collected in the United States."
+institution: "Birmingham Museum of Art"
+institution_type: "NULL"
+primary_contact: "Rebecca Dobrinski"
+size: "84 boxes"
+start_range: "1750"
+summary: "The Wedgwood Ceramics Collectors Archive at the BMA is currently composed of the following collections: The Buten Museum of Wedgwood Institutional Archive (approx. 35 boxes); Elizabeth Chellis Papers (35 boxes); Dwight and Lucille Beeson Papers (6 boxes); Esme Wedgwood Papers (1 box); Wedgwood International Seminar archive (5 boxes with materials being added annually); Wedgwood Societies archives (2 boxes with materials being added). All of the materials relate to ceramics in the BMA collection. Most materials came to the Museum as part of art object gifts and provide insight into the minds of the collectors of these objects."
+hc_id: "886"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "2000 Rev. Abraham Woods Jr. Blvd."
+address2:  "NULL"
+city:  "Birmingham"
+state:  "AL"
+zip: "35203"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

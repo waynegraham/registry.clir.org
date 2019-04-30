@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The J.D. Mason Special Collections
+title: "The J.D. Mason Special Collections"
+year: 2014
+end_range: 2014
+formats: "NULL"
+geographic_extant: "South Florida and the mid west and Northeast U.S."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Leslie Rivera"
+size: "216 linear feet"
+start_range: "1896"
+summary: "The collections of the First Presbyterian Church of Miami date back to 1896 when the congregation was first founded. It includes memorabilia from the earliest settlers and pre-dates the founding of the city of Miami. The collection consists of an range of items manuscripts, books, photographs, architectural drawings, film, oral histories, artifacts, paintings and commemorative plaques (dating to approximately 1899). The library was begun by the granddaughter of the first minister of First Presbyterian, W.W. Faris in the 1930's. The volunteer librarians from the church have amassed the collection through the years. We are now poised to actively process the collection to be used by researchers and the community."
+hc_id: "10771485"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "Florida International University (FIU); History Miami"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

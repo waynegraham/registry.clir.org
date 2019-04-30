@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The New Americans: Video Records of The Immigrant Experience
+title: "The New Americans: Video Records of The Immigrant Experience"
+year: 2017
+end_range: 2003
+formats: "NULL"
+geographic_extant: "US locations include: Phoenix, AZ; Lake Tahoe, Mecca, & San Francisco, CA; Vero Beach, FL; Albany, GA; Chicago, IL; Garden City & Wichita, KS; Great Falls, MT; New York, NY; Cleveland, OH; El Paso, TX. Other countries: Benin, Dominican Republic, India, Mexico, Nigeria, Palestine, United Kingdom, and Vietnam."
+institution: "Media Burn Archive"
+institution_type: "NULL"
+primary_contact: "Ms. Sara Chapman"
+size: "NULL"
+start_range: "1998"
+summary: "The three-year project is a collaboration between Media Burn Archive and Kartemquin Films to digitize, catalog, and create online access to collection of 1,200 hours of documentary video footage of new immigrants from Dominican Republic, India, Mexico, Nigeria, Palestine, and Vietnam. The footage was shot between 1998 and 2003 by nine different filmmakers, providing a portrait of the immigration experience and American attitudes towards immigration in the period immediately prior to and following September 11, 2001. None of the content has ever been available to the public before. Creating public access will further in-depth scholarly research across many disciplines and fields, including history, political science, media studies, sociology, and global issues."
+hc_id: "26225318"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "FITV DBA Media Burn Archive"
+p2_name:  "Mr. Tom Weinberg"
+p2_institution:  "FITV DBA Media Burn Archive"
+p3_name:  "Mr. Gordon Quinn"
+p3_institution:  "Kartemquin Films"
+material_string: "<li>1075 Audiovisual Recordings</li>"
+collaborating_institution:  "Kartemquin Films"
+grant_amount:  "$475,402"
+material_description:  "The collection contains 1,075 videotapes shot for Kartemquin Films’ 2004 seven-hour documentary \"The New Americans.\" The footage contained in the tapes presents a comprehensive picture of the 21st century immigrant experience that has never been available to the public. \"The New Americans is a cinematic masterpiece...It is a sensitive, compelling, irresistible collection of stories.\" — Andrew Greeley, Chicago Sun-Times. Kartemquin’s work has always relied on the compelling, intimate stories of individuals to explore a range of issues in American society. The footage follows five years in the lives of families from Nigeria, India, Dominican Republic, the Israeli-occupied West Bank, Vietnam, and Mexico during the period immediately before and after 9/11. These subjects reflect the diverse range of today’s immigrants — in terms of race and ethnicity, economics and education, and reasons for coming to America. The footage begins in their home countries, then follows this diverse group of subjects as they come to America for myriad reasons: to achieve athletic glory or high tech riches, for education, to escape poverty and persecution, or to marry and pursue a new life. \"The New Americans\" was directed by a dream team of documentary filmmakers, including Steve James, Gordon Quinn, Susana Aiken, Carlos Aparicio, Jerry Blumenthal, Fennel Doremus, Gita Saedi Kelly, Indu Krishnan, and Renee Tajima-Pena, who are responsible for some of the most significant documentaries of all time, such as \"Hoop Dreams\" and \"The Interrupters.\""
 ---
-
-

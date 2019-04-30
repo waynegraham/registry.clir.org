@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitization of the Hidden Madam C. J. Walker Collection and Madam C.J. Walker Supplemental Collection Which Encompass the Life, Work and National Impact of America's First Female African American Self-made Millionaire
+title: "Digitization of the Hidden Madam C. J. Walker Collection and Madam C.J. Walker Supplemental Collection Which Encompass the Life, Work and National Impact of America's First Female African American Self-made Millionaire"
+year: 2015
+end_range: 1989
+formats: "NULL"
+geographic_extant: "The Walker Collection and Walker Supplemental Collection mainly represent Indianapolis and Indiana. However, because Madam C.J. Walker and her business became nationally known, the collections also includes items relating to the various clinics, conventions and beauty schools her work influenced throughout the United States."
+institution: "Indiana Historical Society"
+institution_type: "NULL"
+primary_contact: "Ms. Suzanne Hahn"
+size: "NULL"
+start_range: "1908"
+summary: "Over a 21-month period, the Indiana Historical Society (IHS) will process, digitize and catalog more than 170,000 items of personal correspondence, business records, photographs and artifacts in the Madam C.J. Walker Collection (Walker Collection) and Madam C.J. Walker Supplemental Collection (Walker Supplemental Collection). Once a single collection, it was divided with no regard to preserving content. Once reunited, they will comprise the most comprehensive archival collection of materials relating to nationally renowned African American entrepreneur Madam C.J. Walker. Even in its partially processed state, the Walker Collection is one of the most requested IHS collections, and its online catalog record is the most accessed. Digitization of its remainder plus the Walker Supplemental Collection will allow for organization, merging and sharing of their content, increase dissemination of knowledge in an easily accessed online format, and digitally preserve the items for future generations."
+hc_id: "17290893"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Indiana Historical Society"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>84 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$130,941"
+material_description:  "Materials in the Walker Collection and Walker Supplemental Collection relate to the life and work of Madam C.J. Walker (1867-1919), a pivotal entrepreneurial leader in African American history. The materials span 81 years and include manuscripts, photographs, books and artifacts.\n\n\n\nIn 1982, the IHS entered into an agreement with Madame C.J. Walker Manufacturing Company and the Trustees of the Estate of Sarah Walker (Madam C.J. Walker) to place the Walker Collection \"on deposit\" with the IHS. It includes half of the business and personal papers from the company. Although illogically separated from the second half, the contents were so significant that the IHS agreed to this unusual scenario. In 2010, Madame C.J. Walker Enterprises, Inc. (successor in interest to the Madame C.J. Walker Manufacturing Company) formally donated it with a deed of gift. From 1982 onward, the IHS was caught in the middle of a dispute between two heirs about rightful ownership and proposed several times to reunite the materials under the IHS's care. In 2012, the IHS finally negotiated the purchase of the Walker Supplemental Collection from Madame C. J. Walker Enterprises, Inc. The IHS has since invested over $10,000 in conservation treatments to remove mold from the second half in preparation for digitization.\n\n\n\nMadam C.J. Walker was born in poverty to slaves, married young, sought an education, and built a successful business that also empowered other African American women to establish businesses. She earned her fortune through the successful production and marketing of beauty products for African American women. She became one of the country's most popular African American lecturers on social, political and economic issues. Some of the many subjects covered in the collections' materials include Madame C.J. Walker Manufacturing Company, Madam C.J. Walker, beauty products, business operations, and her advocacy of civil and human rights."
 ---
-
-

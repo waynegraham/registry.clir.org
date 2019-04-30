@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Pruitt and Shanks Photographic Collection: The Life of a Southern Region in 140,000 Images
+title: "The Pruitt and Shanks Photographic Collection: The Life of a Southern Region in 140,000 Images"
+year: 2010
+end_range: 1974
+formats: "NULL"
+geographic_extant: "Primarily northeastern Mississippi, but with coverage of the rest of Mississippi and of northwestern Alabama."
+institution: "The University of North Carolina at Chapel Hill"
+institution_type: "NULL"
+primary_contact: "Patrick Cullom"
+size: "77 linear feet, 142000 objects"
+start_range: "1926"
+summary: "A very large collection of photographic negatives produced by two studio/commercial photographers in Columbus (Lowndes County), Mississippi, and the surrounding area from the late 1920s into the 1970s. There are about 142,000 images, both studio portraits and images of events, scenes, and people taken outside the studio. There also are about 800 digital scans and about 1,000 prints made from these negatives. O.N. Pruitt, who produced the early images, sold his business to Calvin Shanks in 1960. Pruitt and Shanks were the trusted photographers of the community, white and black, taking pictures of many kinds for many purposes. They functioned as studio photographers and also as news photographers, police photographers, photojournalists, street photographers, and ever-available photographers-for-hire. Their images present the full range of community life: portraits, baptisms, work and street scenes, disasters, weddings, birthdays, diseases and injuries, dying people, dead people, funerals, executions, and lynchings. Pruitt and Shanks were competent, discerning photographers, each with an eye for lighting, framing, and choosing subjects. This work can be compared with that of other community photographers of the era, but this collection is distinguished by its size (it may be the largest extant archival photograph collection documenting a single Southern community), its range, and the fact that it captures the entire biracial and highly segregated population of the area."
+hc_id: "670"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Campus Box 3930"
+address2:  "NULL"
+city:  "Chapel Hill"
+state:  "NC"
+zip: "27514"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$78,400.00"
+material_description:  "NULL"
 ---
-
-

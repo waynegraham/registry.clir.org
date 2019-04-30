@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Printing Specimens (1605-present) at the Newberry Library
+title: "Printing Specimens (1605-present) at the Newberry Library"
+year: 2013
+end_range: 2013
+formats: "NULL"
+geographic_extant: "The Wing Collection is international in scope, with pieces representing creative output in North and South America, Britain, and Continental Europe."
+institution: "Newberry Library"
+institution_type: "NULL"
+primary_contact: "Eric Nygren"
+size: "0 boxes, 0 cubic feet, 0 linear feet, 29800 objects"
+start_range: "1605"
+summary: "As physical artifacts representing the many aspects of printing and design history, the Wing Collection’s printing specimens range widely in place and date of origin, and cover numerous subjects and levels of production. Each item was chosen by the curator to represent a printing phenomenon--a genre of production or use, the work of a designer or illustrator, an innovative technology or new typeface, etc. Among the more important groups of materials are hundreds of broadsides, chapbooks, song sheets, advertising pieces, and thousands of fine-press prospectuses. There are also many type specimens and paper specimens, both in pamphlet and book form. Of the nearly 29,800 items in this project, roughly 20,000 pieces (85 linear feet) of printed ephemera represent important rare material unlikely to be collected elsewhere, let alone in the context of printing and design artifacts and certainly not described as such. The Wing Collection represents 90 years’ experience in analyzing books in terms of their creation as printed objects. The project will integrate the diverse collections of uncataloged printing specimens into the existing classified scheme of the larger Wing Collection, producing collection and item-level catalog records that elucidate the logic of the curatorial choices made in creating this collection, and providing Encoded Archival Description (EAD) inventories that allow keyword searching of printing terms and creators across all collections in the project."
+hc_id: "1035"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "60 W Walton St"
+address2:  "NULL"
+city:  "Chicago"
+state:  "IL"
+zip: "60610"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$216,100"
+material_description:  "NULL"
 ---
-
-

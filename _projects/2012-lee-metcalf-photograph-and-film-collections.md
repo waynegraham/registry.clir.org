@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Lee Metcalf Photograph and Film Collections
+title: "Lee Metcalf Photograph and Film Collections"
+year: 2012
+end_range: 1978
+formats: "NULL"
+geographic_extant: "The still and moving images in the Metcalf collections document events and topics significant in Montana, Washington DC, and throughout the nation."
+institution: "Montana Historical Society"
+institution_type: "NULL"
+primary_contact: "Molly Kruckenberg"
+size: "4053 objects"
+start_range: "1915"
+summary: "The Lee Metcalf Photograph and Film Collections document the life and work of Senator Lee Metcalf. The materials, dating from 1915-1978, illustrate the career of one of Montana’s most renowned political figures. During his career Metcalf served as state representative, assistant Attorney General, associate justice on the Montana Supreme Court, U.S. Representative and, for over two decades, U.S. Senator. Metcalf had many interests that he supported, chief of which was protecting the nation's natural resources. He was an early proponent of pollution control; supported research on the harmful effects of pesticides and strip mining; promoted the regulation of timber cutting; and supported alternative energy development. His efforts to preserve the nation's wild areas were lauded by national conservation organizations. Metcalf also supported rural cooperatives, public power projects, and assistance to independent agriculture and mine workers. He advocated using government resources to redress social injustices, including proposing and working for legislation on Social Security, Medicare, unemployment, and veterans' benefits; aid to libraries, schools and small businesses; minimum wage laws; work safety laws; job training programs; consumer protection; and the return of control over their own lives to Native Americans. The Metcalf Collections illustrate the Senator’s projects, interests and work in Montana, Washington DC, and the nation through still and moving images."
+hc_id: "928"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1750 North Washington St."
+address2:  "NULL"
+city:  "Helena"
+state:  "MT"
+zip: "59601"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$91,400"
+material_description:  "NULL"
 ---
-
-

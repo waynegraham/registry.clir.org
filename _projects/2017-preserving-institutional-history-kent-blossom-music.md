@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Preserving Institutional History; Kent/Blossom Music Festival
+title: "Preserving Institutional History; Kent/Blossom Music Festival"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Kent State University"
+institution_type: "NULL"
+primary_contact: "Ms. Virginia Dressler"
+size: "NULL"
+start_range: "NULL"
+summary: "The Kent/Blossom Music Festival (https://www.kent.edu/blossom) is an advanced institute for professional music training operated by Kent State University in conjunction with The Cleveland Orchestra and Blossom Music Center in Northeast Ohio. It offers public performances by distinguished artist faculty and talented musicians from around the world. The program began in 1968, and has acted as a launchpad for many professional musicians, including current members of dozens of well renowned orchestras and noted chamber groups. This proposal focuses on audio recordings of festival performances, addressing specifically the undigitized portion of the remaining reel to reel audio with Sticky Shed Syndrome and unformatted DAT tapes. The project will preserve an important piece of history and also address a serious, known preservation issue within the reel to reel audio recordings. Further, ideas will be outlined in this proposal to increase access and discoverability of the festival recordings."
+hc_id: "26936237"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Kent State University"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "231 items<li>133 Digital Audio Tape (Dat)</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$50,000"
+material_description:  "NULL"
 ---
-
-

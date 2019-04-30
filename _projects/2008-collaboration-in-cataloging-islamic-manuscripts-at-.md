@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Collaboration in Cataloging: Islamic Manuscripts at Michigan
+title: "Collaboration in Cataloging: Islamic Manuscripts at Michigan"
+year: 2008
+end_range: 1900
+formats: "NULL"
+geographic_extant: "The Islamic world of the Middle East. Most of the manuscripts are in Arabic. Some are in Persian and Turkish."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Jonathan Rodgers"
+size: "1250 objects"
+start_range: "800"
+summary: "The Islamic Manuscripts Collection consists of 1,250 manuscripts in Arabic, Persian, and Turkish from the 8th century AD to the 20th. With over half of the contents dating from before 1800, the collection contains historical manuscripts of rich textual significance, many of which are also very beautiful in their decoration and bindings, and ranks among the largest and most important such collections in North America. The first group of these manuscripts was acquired in 1924 from the personal library of Sultan Abdul Hamid II, the 34th sultan of the Ottoman Empire. The subjects covered by these manuscripts include the Qur'an (texts and commentaries); commentaries and other works of criticism; Islamic traditions, theology, and jurisprudence; and philology, philosophy, geography, history, mathematics, astronomy, and astrology. The collection also includes biography, poetry, and belles-lettres. There are many beautifully illuminated manuscripts, exceptional examples of Arabic calligraphy, and works by a number of notable authors. As unique manuscripts, the collection offers a vast range of raw material for the scholar of texts and an array of specimens for the student of Islamic art and calligraphy. Some of the titles are not known in any other copy. For those titles already known and/or edited and published from manuscripts in other repositories, our copies can offer confirmation, amplification, and/or correction of text, as well as different decorations and illustrations."
+hc_id: "357"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "110-E Hatcher Graduate Library"
+address2:  "920 North University Ave."
+city:  "Ann Arbor"
+state:  "MI"
+zip: "48109-1205"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$225,931"
+material_description:  "NULL"
 ---
-
-

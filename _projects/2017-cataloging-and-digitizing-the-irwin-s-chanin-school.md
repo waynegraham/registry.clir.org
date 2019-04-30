@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging and Digitizing The Irwin S. Chanin School of Architecture Archive’s Student Work Collection
+title: "Cataloging and Digitizing The Irwin S. Chanin School of Architecture Archive’s Student Work Collection"
+year: 2017
+end_range: 2006
+formats: "NULL"
+geographic_extant: "The Collection’s material represents a broad range of geographic regions. Faculty design studio syllabi and student investigations address urban, suburban and rural sites in North and South America, Europe, Asia, Africa and Australia. A number of projects also address sites throughout New York City and its surrounding region."
+institution: "The Cooper Union"
+institution_type: "NULL"
+primary_contact: "Mr. Steven Hillyer"
+size: "NULL"
+start_range: "1930"
+summary: "This three year project, initiated with IMLS seed funding, will provide online access to 30,000+ digital surrogates and detailed metadata from The Irwin S. Chanin School of Architecture Archive’s Student Work Collection. This Collection represents over eight decades of The Cooper Union’s influential approach to architectural education. The Collection provides rich opportunities for intellectual and historical inquiry across photographs, text and audio recordings documenting over 2,500 student projects from the 1930’s–2006. The detailed, comprehensive nature of the collection’s material is unique among architecture/design schools and archives. As one of the first collections of its kind to be fully digitized at the item-level for public access, it will become an unprecedented research asset for design communities worldwide, including over 30,000 architecture students and faculty in the U.S. alone. This project will also enhance the Collection’s value as an educational resource for Cooper Union’s students, faculty, public programs and architecture pedagogy."
+hc_id: "26312131"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "The Cooper Union for the Advancement of Science and Art"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>20600 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$171,291"
+material_description:  "The Collection documents undergraduate student work produced in five design studios (1st–4th year and Thesis) and several additional courses (e.g., Advanced and Freehand Drawing; Structures; Building Technology; History of Architecture). 95% of this material dates from the mid-1960’s, when the School began to formalize its process for documenting student work. A 2006 Collection assessment identified 2,550 undergraduate projects by 986 students. 20,000+ photographic prints and negatives – the collection’s core material – document student drawings and models. These images are supplemented with 10,000+ pages of sketches, notes and descriptions. The Collection also includes ~200 unprocessed photographs from the 1930s, 1,200 pages of faculty syllabi and ~200 viable audio recordings of Thesis reviews. Researchers have expressed particular interest in the School’s pedagogy during the tenure of John Hejduk, a renowned architect and educator who began teaching at Cooper Union in 1964 and was the School’s dean from 1975–2000. Under Hejduk’s leadership, the School’s curriculum contributed to a radical and influential reconsideration of architectural education that emerged nationally and abroad in the 1960s and 70s. Many of the faculty Hejduk assembled, including Raimund Abraham, Diana Agrest, Peter Eisenman, Diane Lewis and Lebbeus Woods, are distinguished figures whose teaching and work are represented in the Collection and have been the subject of research requests. The School also has a long history of producing exceptional architects (also represented in the Collection), several of whom have become prominent educators, including Shigeru Ban, Elizabeth Diller, Daniel Libeskind, Toshiko Mori, Jesse Reiser, Ricardo Scofidio and Nanako Umemoto."
 ---
-
-

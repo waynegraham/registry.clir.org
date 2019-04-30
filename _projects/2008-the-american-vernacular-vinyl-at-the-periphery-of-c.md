@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The American Vernacular: Vinyl at the Periphery of Culture
+title: "The American Vernacular: Vinyl at the Periphery of Culture"
+year: 2008
+end_range: 1995
+formats: "NULL"
+geographic_extant: "The focus is on content recorded by musicians in the United States, although some content has been released on labels outside the U.S."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Susannah Cleveland"
+size: "20000 objects"
+start_range: "1948"
+summary: "The American Vernacular: Vinyl at the Periphery of Culture project will result in the cataloging of 20,000 LP recordings of traditional American music, many of which exist in recorded form on obscure record labels that are not readily available in other library collections and are rarely cataloged. Cataloging these materials will make available Bowling Green State University’s holdings on over 600 record labels representing a wide variety of American roots music genres recorded between the late 1940s and the mid 1990s, including gospel, country, folk, blues, bluegrass, zydeco, Cajun, polka, rockabilly, and border music. The project excludes major labels and most of their subsidiaries in order to provide access to these less accessible and rarer recordings. By the completion of the project, all of BGSU's holdings on the following labels will be cataloged: Alshire, Antilles, Arc, Arhoolie, Artist's Recording, Atco, Boot, Cattle, Charly, Chess, Colonial, Coral, Coronet, County, GNP Crescendo, Crown, Diadem, Diplomat, Dot, Everest, Fiesta, Flying Fish, Great Southern, Harmony, Heritage, Impact, Jewel, Kapp, King, Liberty, Light, Mango, Maranatha, Monitor, Monument, Musicor, Myrrh, Nashboro, Rebel, Relic, Rhino, Rite, Roulette, Rounder, Savoy, Shanachie, Skylite, Somerset, Sparrow, Spinorama, Sugar Hill, Sunset, Tempo, Vanguard, White Label, and Word. In addition, BGSU’s complete holdings on hundreds of smaller labels will also be cataloged."
+hc_id: "11"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "BGSU Music Library"
+address2:  "Jerome Library, 3rd Floor"
+city:  "Bowling Green"
+state:  "OH"
+zip: "43403"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

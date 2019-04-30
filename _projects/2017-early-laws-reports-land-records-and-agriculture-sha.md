@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Early Laws, Reports, Land Records, and Agriculture: Sharing Indian Territory and Oklahoma Territory Insights with the World
+title: "Early Laws, Reports, Land Records, and Agriculture: Sharing Indian Territory and Oklahoma Territory Insights with the World"
+year: 2017
+end_range: 1885
+formats: "NULL"
+geographic_extant: "The collections contain materials that represent Indian Territory (as it existed after 1885) and Oklahoma Territory, all areas within the boundaries of the current state of Oklahoma."
+institution: "Oklahoma State University, Stillwater Campus"
+institution_type: "NULL"
+primary_contact: "Dr. Mary Larson"
+size: "NULL"
+start_range: "1885"
+summary: "Over 24 months, the Oklahoma State University (OSU) Library proposes to digitize and make discoverable over 64,000 pages of documents relevant to the history of pre-statehood Oklahoma. These Territorial Laws, Reports, and Proceedings (TLRP), Oklahoma Territory Agricultural Extension Publications (OTAEP), and Payne County Land Records (PCLR) have potential to shed light on underdocumented groups, including Native Americans, African Americans, and isolated ethnic communities. Because of the unique context of Oklahoma and Indian Territories vis-à-vis these populations, the information would be of national interest to scholars. The Library will scan these records to archival standards and enhance discoverability by using Optical Character Recognition (OCR) software on commercially printed items (TLRP and OTAEP) and by creating extensive page-level metadata for the hand-written PCLR. All material will be assigned metadata at the volume level and made publicly available through OSU’s digital collections interface and HathiTrust or the Digital Public Library of America (DPLA)."
+hc_id: "26893350"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Oklahoma State University"
+p2_name:  "Ms. Janet Ahrberg"
+p2_institution:  "Oklahoma State University"
+p3_name:  "Mr. David Thompson"
+p3_institution:  "Oklahoma State University"
+material_string: "<li>64100 Books</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$85,389"
+material_description:  "The OSU Library proposes the digitization of three collections of pre-statehood Oklahoma records. The first is the Territorial Laws, Reports, and Proceedings (TLRP). Composed of government documents covering Oklahoma Territory and Indian Territory, this set of materials includes information on legal decisions, reports from agencies, and legislative proceedings. The records span the period from the early years of Oklahoma Territory in 1892 through 1907. Some items from these years have already been ingested into HathiTrust, so this project focuses on those records which remain less discoverable. The second range of materials is the Oklahoma Territory Agricultural Extension Publications (OTAEP). Published between 1890 and 1907, these educational materials were focused on helping new settlers adjust to an agricultural environment that might be foreign to them. There was also considerable experimentation going on at the time—particularly with wheat varieties, such as the Turkey Red winter wheat brought by Germans from Russia—and the experiment station reports detail these explorations, as well. The third collection is a series of 75 volumes of Payne County Land Records (PCLR) from 1885-1907. Covering the years when the area transitioned from Indian Territory to Oklahoma Territory, these 48,000 pages detail county land transactions. Because of the influx of Euro-American and African American settlers during this era, and because of the inclusion or proximity of Pawnee and Iowa tribal lands to Payne County, these records document the early years of land transfers for three groups whose intersecting histories make Oklahoma’s story unique."
 ---
-
-

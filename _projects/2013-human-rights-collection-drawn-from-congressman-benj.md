@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Human Rights Collection drawn from Congressman Benjamin Gilman's Tenure as International Affairs Committee Chair
+title: "Human Rights Collection drawn from Congressman Benjamin Gilman's Tenure as International Affairs Committee Chair"
+year: 2013
+end_range: 2003
+formats: "NULL"
+geographic_extant: "While there are materials from all over the globe, this project will focus mainly on human rights efforts relating to the Soviet Union during the Cold War (Refuseniks); Vietnam and Southeastern Asia ��� predominantly POW and MIA issues; the State of Israel; Africa; Northern Ireland; Cyprus, and Cuba."
+institution: "SUNY Orange"
+institution_type: "NULL"
+primary_contact: "Judy Osburn"
+size: "1700 cubic feet"
+start_range: "1973"
+summary: "This project culls human rights papers and ephemera from Congressman Gilman's previously unpublished private collection. Correspondence is the strength of the collection including first person documents from political prisoners, their families and prominent world leaders revealing efforts to ameliorate their situations. Personal costs of internationally tense conflicts of Rufuseniks, Irish religious and political prisoners, Vietnam era conflicts in southeastern Asia, and State of Israel concerns are unveiled. The collection also depicts the Congressman's intimate and contentious involvement with Soviet and Easter Bloc leaders providing scholars with unique insight into American international relations. During his tenure, the Berlin Wall fell, East and West Germany reunited, and the Soviet Union fell. Gilman's interest in human rights is reflected in the papers offering a rich array of moments of historical significance such the Cambodian regime of Pol Pot; correspondence with Dalai Lama; the peace process in Ireland; attempts to find Missing In Action soldiers (MIAs); meetings with the Pope regarding the Blue Brigade, and work to overthrow the Communist regime in Poland with Solidarity leader Lech Walesa. Together, they provide unique insights into a pivotal point in American international relations and world history, helping scholars assess events that led to American's emergence as a superpower."
+hc_id: "1084"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "115 South Street"
+address2:  "NULL"
+city:  "Middletown"
+state:  "NY"
+zip: "10940"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Rare Middle East Collection Cataloging
+title: "Rare Middle East Collection Cataloging"
+year: 2009
+end_range: 1950
+formats: "NULL"
+geographic_extant: "Egypt, Turkey, Iran, Afghanistan, Lebanon, Tunisia, Iraq, and other Middle Eastern and North African countries"
+institution: "J. Willard Marriott Library"
+institution_type: "NULL"
+primary_contact: "Brent K. Brown"
+size: "2000 objects"
+start_range: "1600"
+summary: "The Rare Books Division of Special Collections at the J. Willard Marriott Library holds a large collection of rare, fragile print material from the Middle East, mostly in Arabic, but also in Ottoman Turkish, Farsi, Pashto, and Urdu. The materials cover a broad range of topics including history, politics, religion (Islam, Sufism, Christianity), grammar, philosophy, medicine, zoology, poetry, jurisprudence, and others. The materials span a period from ca. 1600 to ca. 1950 CE. They were published in Egypt, Turkey, Iran, Afghanistan, Lebanon, Tunisia, Iraq and other Middle Eastern and North African countries. Approximately 5,000 of these pieces have no or inadequate catalog records. Of these, approximately 2,000 pieces need OCLC records. This collection provides important primary source material for the study of Middle Eastern culture and society, particularly because it is held in the U.S. A brief, random survey of these pieces showed that six out of the 12 reviewed did not have OCLC entries from the U.S. The collection was acquired over several years by Dr. Aziz S. Atiya, founder of the University of Utah’s Middle East Center in 1959 and, in 1960, the Middle East Library, a division of the Marriott Library, which currently holds over 150,000 items."
+hc_id: "512"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "The University of Utah"
+address2:  "Office of Sponsored Projects"
+city:  "Salt Lake City"
+state:  "UT"
+zip: "841102"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

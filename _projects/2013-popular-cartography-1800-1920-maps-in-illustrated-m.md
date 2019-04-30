@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Popular Cartography, 1800-1920: Maps in Illustrated Magazines, Travel Guidebooks and School Geographies
+title: "Popular Cartography, 1800-1920: Maps in Illustrated Magazines, Travel Guidebooks and School Geographies"
+year: 2013
+end_range: 1920
+formats: "NULL"
+geographic_extant: "The materials were published in Europe and the United States, but the maps are global in scope, ranging from world maps to detailed city street maps."
+institution: "Newberry Library"
+institution_type: "NULL"
+primary_contact: "Jessica Grzegorski"
+size: "39500 objects"
+start_range: "1800"
+summary: "The Newberry will catalog maps and geographical views produced within three spheres of 19th- and early 20th-century popular culture: journalism, tourism and education. 1. Maps in illustrated magazines (11,000): L'Illustration, The Illustrated London News, Illustrirte Zeitung, Leslie's and Harper's were seminal illustrated magazines published in Europe and the United States beginning in the mid-19th century. Maps published in these magazines until 1920 will be cataloged. These maps include innovative statistical and political maps, maps depicting contemporary wars and events and maps documenting the prolific public works projects of this period. 2. Maps in travel guidebooks (5,800): The Newberry will catalog maps in a nearly comprehensive run of Murray's Handbooks for Travellers (1836-1915) and those within a significant number of guidebooks in the Guides Joanne and Guides bleus series (1853-1920). These guidebooks include large foldout maps of urban areas and transportation networks, views and panoramas. Maps in guidebooks of India and Africa, published during the apex of the British Empire, are especially noteworthy. 3. Maps in school geographies (22,700): The Newberry will catalog maps in its significant and growing collection of 19th-century school geographies. These holdings represent every important publisher of these staples of American education, including Jedidiah Morse (\"the father of American geography\") and Samuel Augustus Mitchell."
+hc_id: "1082"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "60 W. Walton St."
+address2:  "Collection Services Dept."
+city:  "Chicago"
+state:  "IL"
+zip: "60610"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

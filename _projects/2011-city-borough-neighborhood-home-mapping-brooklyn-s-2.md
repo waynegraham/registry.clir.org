@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: City, Borough, Neighborhood, Home: Mapping Brooklyn’s 20th Century Urban Identity
+title: "City, Borough, Neighborhood, Home: Mapping Brooklyn’s 20th Century Urban Identity"
+year: 2011
+end_range: 1999
+formats: "NULL"
+geographic_extant: "The main geographic scope is Brooklyn, New York. Long Island and New York City are also included, given the geographic areas' intertwined histories."
+institution: "Brooklyn Historical Society"
+institution_type: "NULL"
+primary_contact: "Chela Weber"
+size: "700 objects"
+start_range: "1898"
+summary: "City, Borough, Neighborhood, Home: Mapping Brooklyn's 20th-Century Urban Identity comprises maps covering the period from 1898, when the City of Brooklyn became a borough through consolidation with New York City, to 1999. By tracking the physical, ethnic and institutional transformation of Brooklyn over the course of the 20th century, maps reveal the complex ways in which the borough became a deeply intertwined part of NYC, while still forging an internationally recognized identity of its own. Brooklyn's history offers important lessons about changing notions of the city, urban redevelopment, public-private partnerships, immigration and community building. This significant collection will place Brooklyn at the center of debates about urban history in both a national and global context. Included are political, topographical, transit, utility and property maps richly illustrative of the changing landscape of 20th-century Brooklyn. The majority were created by local entities -- government, neighborhood associations, preservation organizations, businesses -- and are rare or unique to our library. Only 5% of an initial sampling of the collection had records in OCLC. These maps form an important complement to our archives from the same period, as well as a rich collection of 19th-century maps cataloged with support from a 2009 CLIR Hidden Collections grant. When cataloged, they will be invaluable resources for scholars of American urban, social, political and economic history."
+hc_id: "758"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "128 Pierrepont St."
+address2:  "NULL"
+city:  "Brooklyn"
+state:  "NY"
+zip: "11201"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

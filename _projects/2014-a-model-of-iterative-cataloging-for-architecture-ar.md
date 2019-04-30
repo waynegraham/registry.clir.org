@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: A model of iterative cataloging for architecture archives in the Art, Design & Architecture Museum, UCSB
+title: "A model of iterative cataloging for architecture archives in the Art, Design & Architecture Museum, UCSB"
+year: 2014
+end_range: 1990
+formats: "NULL"
+geographic_extant: "Southern California"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Bruce Robertson"
+size: "684 linear feet"
+start_range: "1890"
+summary: "The Art, Design & Architecture Museum plans to extend an iterative cataloging model, begun in 2012, to provide access to the specific buildings and projects in 30 partially cataloged architecture archives and to give public access to existing digital images. The majority of researchers who contact the Architecture and Design Collection want to know which buildings or projects are represented in an archive and to see images online. Leveraging work completed during our past CLIR grant, which enabled us to create collection-level records for every one archive, we propose adding building/project lists to these preliminary records. A web-based image database will expose existing digital images and related live metadata from Archivist Toolkit."
+hc_id: "10934196"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

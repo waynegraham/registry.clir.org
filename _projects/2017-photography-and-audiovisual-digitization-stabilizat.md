@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Photography and Audiovisual Digitization: Stabilization, Quality Control, Image Correction
+title: "Photography and Audiovisual Digitization: Stabilization, Quality Control, Image Correction"
+year: 2017
+end_range: 2012
+formats: "NULL"
+geographic_extant: "The majority of the items nominated for digitization document events that occurred on-site at the New Museum of Contemporary Art in New York City. A small proportion of the materials document events that the Museum organized and co-organized at other museums and galleries in the United States, Japan, and Italy."
+institution: "New Museum of Contemporary Art"
+institution_type: "NULL"
+primary_contact: "Ms. Amye McCarther"
+size: "NULL"
+start_range: "1977"
+summary: "Following an inventory review in 2017, the New Museum has prioritized digitization of its collection of archival photography and audiovisual materials, currently in a fragile state and/or facing format obsolescence, for the next major initiative for its digital archive. The two part project will include stabilization, quality control, image correction, as well as ingest and curation phases."
+hc_id: "26202644"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "New Museum of Contemporary Art"
+p2_name:  "Ms. Lauren Cornell"
+p2_institution:  "New Museum of Contemporary Art"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>2000 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$235,000"
+material_description:  "The New Museum’s Photography Collection contains photographic documentation of the Museum’s early staff, exhibitions and artworks, public programs, performances, and other events dating from its founding in 1977. Of particular note are previously unseen photographs documenting early performances and cross-disciplinary occurrences that took place as part of these exhibitions or as stand-alone events. The Audiovisual Collection contains moving image and sound recordings on obsolescent analog formats. Key among these materials to be digitized are recordings dating back to the Museum’s earliest public programs, including interviews with artists and curators, and exhibitions documentation. These recordings provide rare insight into programs--and participating artists--that challenged many prevalent currencies in the art world, and that addressed controversial topics ranging from the under-representation of women and minorities in the arts to AIDS activism. This collection includes numerous materials that are frequently requested for research. Due to their fragility and often the recording format, we are unable to share and/or release these materials publicly. With digitization, these materials will be ingested into our free online digital archive and available to all. All collections materials were created by the New Museum over the course of its programming. Notable subjects include: director Marcia Tucker; curators and critics William Olander, Laura Trippi, Thelma Golden, Dan Cameron, Hilton Als, and Hans Olrich Obrist; artists Carolee Schneemann, Adrian Piper, David Wojnarowicz, Marina Abramovic, Thornton Dial, Martha Rossler, Kara Walker, Lynda Benglis, Eric Fischl, Cory Arcangel, Elizabeth Peyton, and John Waters."
 ---
-
-

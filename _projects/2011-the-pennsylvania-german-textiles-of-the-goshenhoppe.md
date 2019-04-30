@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Pennsylvania German Textiles of the Goshenhoppen Historians, the Mennonite Heritage Center and the Schwenkfelder Library & Heritage Center
+title: "The Pennsylvania German Textiles of the Goshenhoppen Historians, the Mennonite Heritage Center and the Schwenkfelder Library & Heritage Center"
+year: 2011
+end_range: 1950
+formats: "NULL"
+geographic_extant: "The PA German textiles held in the collections originated in southeastern Pennsylvania, primarily Berks, Bucks, Lehigh and Montgomery Counties."
+institution: "Mennonite Heritage Center"
+institution_type: "NULL"
+primary_contact: "Sarah Heffner"
+size: "3550 objects"
+start_range: "1770"
+summary: "The PA German textile and clothing collections in this collaborative project are a rich record of this southeastern Pennsylvania immigrant group that settled the state in the late seventeenth century and who continued as a distinct group through the early twentieth century. William Penn recruited German weavers to come to Penn’s Wood because of their reputation as accomplished weavers. Early fiber production was done on the home farm with linen and wool the primary fibers. The laborious process was an integral part of the farm family’s activities for both men and women throughout the year. The textile collections have functional textiles such as woven coverlets, bedding, tablecloths and grain bags along with decorative work like samplers and show towels. Manuscripts such as weaver’s account books, diaries with fiber and weaving activities and estate inventories of valuable bedding along with tools such as spinning wheels and looms will provide scholars with increased understanding of the significance of early textile production to the PA German community. Mid nineteenth century textile treasures from the collections include finely made quilts--a tradition that was Anglo-American originally and became a popular women’s textile art among the PA Germans. Clothing artifacts depict the similarities and differences of the Schwenkfelder and Mennonite religious sects within the PA German culture and the reaction to cultural changes over time to the broader society."
+hc_id: "751"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Mennonite Heritage Center"
+address2:  "565 Yoder Rd"
+city:  "Harleysville"
+state:  "PA"
+zip: "19438"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "Schwenkfelder Library and Heritage Center, Goshenhoppen Historians"
+grant_amount:  "$98,500"
+material_description:  "NULL"
 ---
-
-

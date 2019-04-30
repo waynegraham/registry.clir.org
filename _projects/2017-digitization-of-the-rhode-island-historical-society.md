@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitization of the Rhode Island Historical Society’s Revolutionary War Papers and Artifacts
+title: "Digitization of the Rhode Island Historical Society’s Revolutionary War Papers and Artifacts"
+year: 2017
+end_range: 1830
+formats: "NULL"
+geographic_extant: "The Revolutionary War Papers contain manuscripts for all five counties of Rhode Island: Providence County, Kent County, Bristol County, Newport County and Washington County. The Papers also include some Massachusetts manuscripts and single items from Connecticut and New Hampshire."
+institution: "Rhode Island Historical Society"
+institution_type: "NULL"
+primary_contact: "Ms. C. Morgan Grefe"
+size: "NULL"
+start_range: "1775"
+summary: "The Rhode Island Historical Society (RIHS) seeks funding to digitize over 6,400 manuscripts and 46 artifacts pertaining to Rhode Island’s participation in the Revolutionary War. Researchers do not have adequate access to the materials because artifacts are not accessible through our library and all materials are extremely fragile. The documents include references to free and enslaved Africans, Native Americans, and even two women who participated in the War. Due lack of accessibility, knowledge about the people in the documents is limited and scholars are not able to make valuable connections with their research. During this project, the papers and artifacts will be properly cataloged, professionally scanned, and put online where the materials can be searched and made useful to researchers, scholars, teachers, and students. Names of people can be drawn out and lesson plans for schools based on these primary resources can be created."
+hc_id: "26893289"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Rhode Island Historical Society"
+p2_name:  "Ms. Geralyn Ducady"
+p2_institution:  "Rhode Island Historical Society"
+p3_name:  "Ms. Phoebe Bean"
+p3_institution:  "Rhode Island Historical Society"
+material_string: "<li>6466 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$78,184"
+material_description:  "The Revolutionary War Military Papers consist of documents from Rhode Island Continental and State regiments, county militia regiments, and independent companies, ranging from 1775 to 1783. Papers from the Rhode Island black regiment formed by Col. Christopher Greene and Lt. Col. Samuel Ward Jr. during the summer of 1778 are part of the collection. Rhode Island Continental and state regiments represented include those of regimental commanders: Christopher Greene; Jeremiah Olney; Israel Angell; Daniel Hitchcock; Henry Sherburne; Christopher Lippitt; William Richmond; Archibald Crary; Joseph Stanton; William Barton; Benjamin Tallman and Robert Elliott. State militia regiments from all Rhode Island counties are also present, with Providence, Kent, and King’s counties the most widely represented. Papers from Rhode Island independent militia companies include the Kentish Guards, Pawtuxet Rangers, Smithfield and Cumberland Rangers, and North Providence Rangers. Lists of soldiers are the most common type of document in the collection, and consist of muster rolls, pay rolls and abstracts, enlistments, delinquent lists, returns of the sick, and ration bills. Soldiers of Native-American and African-American lineage can be found in these rolls. Occasionally, details such as physical appearance; age; occupation; birth place; and residence are designated. The orderly books, court martial proceedings, and supply and pay requests in the collection are also a source for soldiers’ names and for a general study of military, disciplinary, and supply policies and problems in the army."
 ---
-
-

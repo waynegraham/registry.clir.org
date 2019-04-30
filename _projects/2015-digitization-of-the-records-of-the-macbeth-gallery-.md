@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitization of the records of the Macbeth Gallery, 1838"’1968, the first art gallery in the United States dedicated to the promotion of American art, comprising 132.2 linear feet of correspondence, account books and other financial and inventory records, photographs, printed material, scrapbooks, and reference files.
+title: "Digitization of the records of the Macbeth Gallery, 1838\"’1968, the first art gallery in the United States dedicated to the promotion of American art, comprising 132.2 linear feet of correspondence, account books and other financial and inventory records, photographs, printed material, scrapbooks, and reference files."
+year: 2015
+end_range: 1968
+formats: "NULL"
+geographic_extant: "The bulk of the materials document the gallery's activities in New York City, in the decades when New York rose to prominence as the center of the art world."
+institution: "Archives of American Art, Smithsonian Institution"
+institution_type: "NULL"
+primary_contact: "Ms. Karen Weiss"
+size: "NULL"
+start_range: "1838"
+summary: "The Archives of American Art as a single institution will digitize the entirety of one of its richest and most voluminous collections for the study of American art history, the records of the Macbeth Gallery, which provide almost complete coverage of the New York City firm's operations from its inception in 1892 to its closing in 1953 through more than 132 feet of correspondence, financial records, photographs, exhibition catalogs, and other records. Online availability will support scholarship in multiple aspects of American art history, including the creation and sale of works of art, the development of reputations, the rise of museums and art societies, change and resistance to change in the market, and the evolution of taste. The 24-month project will leverage the Archives' existing large-scale digitization infrastructure and model wherein the existing finding aid provides descriptive and structural metadata and robust software applications support digitization workflows and online presentation."
+hc_id: "16246527"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Archives of American Art, Smithsonian Institution"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>129 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$242,179"
+material_description:  "The records of Macbeth Gallery measure 132.2 linear feet and comprehensively document founder William Macbeth's initial intention in 1892 to open a gallery \"for the permanent exhibition and sale of American pictures\"  and the following sixty years of success as a major New York City art gallery. At a time when most American dealers were almost exclusively promoting European art, Macbeth's decision to focus on American artists was considered unwise by many colleagues. \n\nThe gallery's last director Robert McIntyre donated many of the records to the Archives in 1955, making the collection one of the Archives' earliest acquisitions\"”and a major influence on the Archives' collecting efforts since that time. Upon McIntyre's death in 1957, his estate donated the remaining records. To this day, the collection remains one of the Archives' most significant and heavily used collections. \n\nNinety-five linear feet of correspondence form the core of the collection and illuminate most aspects of American art history\"”changing tastes in the art market, the careers of numerous American artists, sales of works of art, seminal exhibitions of American art, building the permanent collections of major American art museums, and the founding of American art societies. There are letters from dozens of important American painters and sculptors, including Cecilia Beaux, Emil Carlsen, Arthur B. Davies, Charles W. Hawthorne, Robert Henri, Winslow Homer, Rockwell Kent, Ivan G. Olinsky, Ogden M. Pleissner, Constance Richardson, Chauncey F. Ryder, William Sartain, Abbott Handerson Thayer, and Andrew Wyeth to name a few. There are also letters from numerous collectors, curators, other galleries, and critics. Additional records include sales and inventory records, scrapbooks, printed materials, including a complete run of the rare publication Art Notes, and photographs of some of the most important American artists of the 19th and 20th centuries."
 ---
-
-

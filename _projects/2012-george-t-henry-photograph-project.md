@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: George T. Henry Photograph Project
+title: "George T. Henry Photograph Project"
+year: 2012
+end_range: 2004
+formats: "NULL"
+geographic_extant: "The collection documents life on a small liberal arts campus in Cedar Rapids, Iowa."
+institution: "Coe College"
+institution_type: "NULL"
+primary_contact: "Sara Pitcher"
+size: "122000 objects"
+start_range: "1947"
+summary: "The collection contains more than 113,000 negatives and 9,000 black and white photographic prints documenting life on a small liberal arts campus from 1947-2004. The photographer, George T. Henry, came to Coe as a student in 1941, but left after Pearl Harbor to enlist in the Air Corps where he became a bomber pilot flying B-24s in the European Theater. Mr. Henry returned to Coe College in 1946 to finish his education. The earliest dated photographs in the collection come from 1947 when he was the photographer for the student run yearbook. After graduation he became the college's photographer and, despite his retirement, continues to take pictures on campus to this day. As an alumnus of the college Mr. Henry had a knack for being in the right place at the right time. His camera recorded social activities, fashion trends, traditions, and social protest. His photographs include a visual record of campus visitors including: political figures, influential lecturers, and cultural icons. In its entirety Mr. Henry's collection represents a look into Middle America's history through snapshots of the next generation to shape it. As a photographer George has contributed in the publication of 5 books including 3 books of historical photography of his home town Cedar Rapids, IA. Another of his books, titled Row Away from the Rocks, displays his photography and tales from his 40 year career as a whitewater boatman including his photographs of Robert Kennedy and his family."
+hc_id: "874"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1220 First Avenue NE"
+address2:  "NULL"
+city:  "Cedar Rapids"
+state:  "IA"
+zip: "52402"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

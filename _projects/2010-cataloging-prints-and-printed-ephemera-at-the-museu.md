@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging Prints and Printed Ephemera at the Museum of the City of New York
+title: "Cataloging Prints and Printed Ephemera at the Museum of the City of New York"
+year: 2010
+end_range: 2001
+formats: "NULL"
+geographic_extant: "This material relates directly to the five boroughs of New York City and the immediate metropolitan area, with Manhattan predominating."
+institution: "Museum of the City of New York"
+institution_type: "NULL"
+primary_contact: "Lacy Schutz"
+size: "167 cubic feet, 29 linear feet"
+start_range: "1650"
+summary: "The material to be cataloged consists of prints and printed ephemera contained in the Museum's Prints, Manuscripts, and Library collections. The Museum's diverse collection of prints ranges from 17th-century depictions of New Amsterdam to works by contemporary masters like Alex Katz and Robert Rauschenberg. Through commercial illustrations, maps, and artistic impressions, the print collection documents the evolution of the city's built environment as well as its social history. Printed ephemeral materials, traditionally part of the Museum's \"Manuscripts\" collection, cover a variety of topics and formats including: political election and campaign materials such as election cards, circulars, and invitations; items related to social events, concerts, lectures, balls, and public dinners, including invitations, dance cards, and menus; memorabilia related to bridges, fairs, celebrations, and the 1939 and 1964 Worlds Fairs; certificates for volunteer fire departments, churches, schools, and other entities; personal documents such as passports, licenses, and citizenship papers; trade cards, advertisements, and bootleggers' cards; bills and receipts for goods and services; and ephemera related to movements such as prohibition and women's suffrage; and other material documenting the daily life of New Yorkers. Finally, the pamphlets collection from the Museum's Library contains items published in conjunction with political events, anniversaries, inaugurations, and other civic matters."
+hc_id: "621"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1220 Fifth Avenue"
+address2:  "NULL"
+city:  "New York"
+state:  "NY"
+zip: "10029"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

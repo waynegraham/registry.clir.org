@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Caribbean Folklore Recordings, 1950s-1960s, Digitization Project: the University of Pennsylvania Folklore Department Collections.
+title: "Caribbean Folklore Recordings, 1950s-1960s, Digitization Project: the University of Pennsylvania Folklore Department Collections."
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Trustees of the University of Pennsylvania"
+institution_type: "NULL"
+primary_contact: "Mr. Alessandro Pezzati"
+size: "NULL"
+start_range: "NULL"
+summary: "The University of Pennsylvania Museum of Archaeology and Anthropology (Penn Museum) proposes to digitize folkloric sound recordings created by some of the best-known American folklorists, who worked at the University of Pennsylvania’s Folklore Department in the years 1962-2006. These field recordings document songs and stories common to people in the early and mid-20th century. For the purposes of this application we are proposing the transfer of the recordings clustered in the Caribbean: Jamaica, Trinidad and Tobago, Grenada, St. Vincent’s, and Nevis. The recordings are a singular record of folklore and culture in our hemisphere, and are very well documented with text and photographic records. This will make it possible to eventually digitally unite (across media) a body of research of great value to current and future students of folklore, Africana scholars, and many other researchers and music enthusiasts, as well as to people from the places documented."
+hc_id: "26938953"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Penn Museum"
+p2_name:  "Ms. Kate Pourshariati"
+p2_institution:  "Penn Museum"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "330 recorded hours"
+collaborating_institution:  "NULL"
+grant_amount:  "$10,132"
+material_description:  "NULL"
 ---
-
-

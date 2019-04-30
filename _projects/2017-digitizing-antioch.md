@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing Antioch
+title: "Digitizing Antioch"
+year: 2017
+end_range: 1400
+formats: "NULL"
+geographic_extant: "The project centers on the ancient city of Antioch-on-the-Orontes (modern Antakya, Hatay Province, Turkey) and nearby Daphne and Seleucia. At the time of the expeditions, Antioch was part of the French Protectorate of Syria and was transferred to Turkey in 1939."
+institution: "Princeton University"
+institution_type: "NULL"
+primary_contact: "Dr. Alan Stahl"
+size: "NULL"
+start_range: "300"
+summary: "Digitizing Antioch will complete digitization and begin integration of a rich set of materials collected during important archeological excavations of the city of Antioch carried out by Princeton University and the French Archaeological Service during the 1930s in the French Mandate of Syria. The next step in an ongoing effort to create a scalable, interactive platform for scholars and students, the project will concentrate on the digitization of 19,400 coins and coin envelopes, and approximately 45,000 images and source documents in the University’s library and visual resources center. A project coordinator will implement a schema for integration with over 11,000 artifacts held by the University Art Museum. The effort will result in published Linked Open Data and images, provide a foundational discovery tool, and lay the foundation for a Digital Antioch Research Center, to be funded through other sources, making this important material widely available for the first time."
+hc_id: "26893411"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Princeton University"
+p2_name:  "Ms. Trudy Jacoby"
+p2_institution:  "Princeton University"
+p3_name:  "Ms. Cathryn Goodwin"
+p3_institution:  "Princeton University"
+material_string: "<li>19402 Artifacts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$241,940"
+material_description:  "The collection nominated for digitization is made up of ancient coins, photographic negatives, slides, maps and drawings, documentary books and various archival material related to the 1932-39 excavation of Antioch in modern-day Antakya, Turkey. The expeditions were led by Princeton University, in conjunction with the French Archaeological Service and other American institutions. The material is divided between the numismatics collection in Firestone Library and the visual resources collection in the department of Art and Archaeology. The numismatics collection, which contains approximately 22,000 coins, is comprised of coins of Roman, Greek, Byzantine, and Islamic origin. The archival documents range from excavation budgets and lease agreements to general excavation documents dating from the 1930s. The documents are from the excavations and include correspondence between the participating institutions. The transit and level books contain all survey measurements collected at the excavation sites through the eight seasons of excavations. The negatives and slides were all taken in the field. A set of color slides was taken by the well-known architectural photographer G. E. Kidder Smith, employed by the expedition. The collection also includes a recently discovered handwritten inventory and a large number of find, coin, and excavation cards that identify and provide greater detail about each object and coin found in the field during the excavation. The excavation cards detail the progress made at the excavation daily and provide more extensive information about each excavation trench and the items found. Over 11,000 artifacts, already digitized, are housed in the Princeton University Art Museum."
 ---
-
-

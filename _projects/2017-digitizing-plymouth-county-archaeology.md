@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing Plymouth County Archaeology
+title: "Digitizing Plymouth County Archaeology"
+year: 2017
+end_range: 1969
+formats: "NULL"
+geographic_extant: "All of the sites are in Plymouth, MA. The majority of them (Eel River Farm, Spring, and Robert Bartlett) are on private property without significant buildings. The fourth site (Dexter Shoe Store) is in downtown Plymouth, which is difficult to excavate without major disruption to local businesses and residents."
+institution: "Plimoth Plantation, Inc."
+institution_type: "NULL"
+primary_contact: "Dr. Kathryn Ness"
+size: "NULL"
+start_range: "6000"
+summary: "The year 2020 marks the 400th anniversary of the Pilgrims’ arrival in Plymouth, Massachusetts aboard Mayflower. This nationally significant anniversary commemorates the establishment of the first successful European colony in America, and highlights the significance of the Mayflower Compact- a governing covenant that was a precursor to the Constitution of the United States. Digitizing Plymouth County Archaeology is a three-year collaboration between Plimoth Plantation, Inc. and the University of Massachusetts, Boston (UMass), which will result in the digitization of three nationally significant archaeological collections from 17th-century Plymouth Colony and pre-contact Native homelands. Once digitized, these collections will be searchable online and will include printable, 3D renderings of significant artifacts from each collection, allowing them to be studied and printed in 3D by schools, scholars, museums and libraries to glean further insight as to how Native people and the colonists co-existed in early America."
+hc_id: "26301126"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Plimoth Plantation"
+p2_name:  "Dr. David Landon"
+p2_institution:  "University of Massachusetts Boston"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>71 Artifacts</li>"
+collaborating_institution:  "University of Massachusetts, Boston"
+grant_amount:  "$484,376"
+material_description:  "This project will digitize the artifacts and archaeological excavation records for the Eel River Farm and Spring Sites (19 PL 521 and 19 PL 522), the Robert Bartlett Site (C4) and the Dexter Shoe Store Site (C13 and C13A), all located in Plymouth, MA. The Eel River Farm and Spring Sites illuminate Native American activities in the area both before and after the Europeans’ arrival. Excavated by Dr. Barbara Luedtke and University of Massachusetts between 1991 and 2006, this collection provides evidence of late Archaic, early, middle, and late Woodland, and Contact Period occupation of a Native site almost three miles away from the original 1620s English settlement and next to a 1630s English garrison. The Robert Bartlett Site, in contrast,was excavated by Dr. James Deetz, one of the most influential early historical archaeologists, in 1959. This site features some 17th century elements that are associated with Robert Bartlett III, whose grandfather arrived in Plymouth in 1623. The third collection, from the Dexter Shoe Store Site in downtown Plymouth, was also excavated by Deetz and represents the town’s 18th and 19th-century history and offers insight into how the town developed on top of the remains of the original 1620s settlement. Combined, these sites offer unique insight into life before and after the Mayflower’s arrival from both the English and Native perspectives and provide important information regarding the development of the town and how subsequent activities and urban renewal impacted the remains of the earliest permanent European settlement in New England."
 ---
-
-

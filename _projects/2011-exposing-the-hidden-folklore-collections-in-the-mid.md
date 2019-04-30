@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Exposing the Hidden Folklore Collections in the Mid-Atlantic Region
+title: "Exposing the Hidden Folklore Collections in the Mid-Atlantic Region"
+year: 2011
+end_range: 2011
+formats: "NULL"
+geographic_extant: "The collections span the entirety of the states of New York, New Jersey, and Maryland, with additional materials from neighboring states."
+institution: "Maryland Traditions"
+institution_type: "NULL"
+primary_contact: "Ellen McHale"
+size: "12 boxes, 576 cubic feet, 530 linear feet, 1054 objects"
+start_range: "1819"
+summary: "Collections relate to the ethnographic documentation of the cultural practices and lifeways of both the long-established and newly arrived individuals and communities in three contiguous states in the Mid-Atlantic region: New York, New Jersey, and Maryland. The chosen materials are located in 24 partner institutions and were created from the 19th century to the present day by folklorists and fieldworkers wishing to document the plurality of cultural expression found within their states and region. The collections contain a significant amount of audio, visual, and paper documents. In the aggregate, they provide a lasting knowledge base of the region's cultural heritage for community members and the broader public. Topics are varied and include occupational culture of Chesapeake Bay and Long Island watermen, music, including the folk music revival of the 1960s, equestrian traditions (including thoroughbred racing, ring jousting, fox hunting), Baltimore's and New York's street vendors, Dutch and Iroquois language and dialect recordings, hunting and trapping, vernacular architecture, WPA collections of community folklife, crafts traditions and other domestic material culture, food, festivals, responses to war and conflict, 20th century radical, political and social movements, and the emergent traditions of immigrant communities. These materials are important to the disciplines of anthropology and ethnomusicology, sociology, history, and American and popular culture studies."
+hc_id: "832"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "PO Box 764"
+address2:  "133 Jay Street"
+city:  "Schenectady"
+state:  "NY"
+zip: "12301"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

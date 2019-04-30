@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Acting for Animals: Revealing the Records of Animal Rights and Animal Welfare Movements
+title: "Acting for Animals: Revealing the Records of Animal Rights and Animal Welfare Movements"
+year: 2011
+end_range: 2005
+formats: "NULL"
+geographic_extant: "Global. Both ARN and AWI are headquartered in the US and operate chiefly here, but are also deeply involved in international animal welfare efforts."
+institution: "NCSU Libraries"
+institution_type: "NULL"
+primary_contact: "Linda Sellars"
+size: "891 boxes, 1200 linear feet"
+start_range: "1945"
+summary: "Collections include records of the Animal Rights Network (ARN), portions of the records of the Animal Welfare Institute (AWI), and Ron Scott Videotapes. ARN records contain files from animal welfare organizations around the world and much correspondence documenting the coordination of the animal welfare movement, as well as debates among activists from the 1970s to ca. 2000. The collection also features hundreds of subject files on topics related to animal welfare and files documenting groups opposed to the animal welfare movement. The AWI collection contains correspondence and other material related to the activities of AWI and its lobbying organization, the Society for Animal Protective Legislation (SAPL). The bulk dates from the late 1950s to 1990. Although these materials focus on events in the US, they include a large number of files on international issues, reflecting AWI/SAPL’s cooperation with groups in other countries and key involvement in issues such as whaling and the exotic animal trade. The ARN and AWI collections also include many published items from a wide range of groups around the globe, including books, pamphlets, newsletters, and reports. Finally, the project will catalog hundreds of audio and video tapes documenting conferences, demonstrations, debates, and oral histories with important figures in the animal welfare movement. These audiovisual materials are found mainly in the Ron Scott Videotapes, but also among the AWI papers."
+hc_id: "831"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Special Collections Research Center (SCRC)"
+address2:  "Campus Box 7111"
+city:  "Raleigh"
+state:  "NC"
+zip: "27696-7111"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$219,600"
+material_description:  "NULL"
 ---
-
-

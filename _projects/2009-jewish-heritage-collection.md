@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Jewish Heritage Collection
+title: "Jewish Heritage Collection"
+year: 2009
+end_range: 2009
+formats: "NULL"
+geographic_extant: "Our collections span the American South, with a focus on South Carolina, and also include European Judaica and materials related to the Holocaust."
+institution: "Curator, Addlestone Library"
+institution_type: "NULL"
+primary_contact: "Dale Rosengarten"
+size: "410 cubic feet, 26 linear feet, 200 objects"
+start_range: "1670"
+summary: "The College of Charleston's commitment to building a Jewish archives signals its dedication to a broadened view of history and a program of addressing underserved constituencies. The Jewish Heritage Collection is the largest and fastest growing archives of its kind. Since its founding in 1995, JHC has amassed a wealth of materials acquired for their rarity, age, fragility, and intrinsic worth. Collections now come in at a rate that is gratifying but alarming, too, because we lack sufficient staff and funding to promptly conserve and catalog them. With support from CLIR, the College of Charleston processed and cataloged 410 cubic feet of recently acquired collections, including the William A. Rosenthall Judaica Collection, an unparalleled assemblage of first editions, fine art prints, postcards, and artifacts; the Holocaust Archives, consisting of memoirs, photographs, correspondence, and memorabilia from 65 survivors and veterans who witnessed the Shoah; and 100 uncatalogued collections that document Jewish experience in the American South from colonial times to the present. Each collection is evidence of the astonishing diaspora and assimilation of southern Jews, an historic phenomenon that has been both the context and a moving force for some of the most important developments in American Jewish history, including the birth of the Reform movement in the early 19th century. The project also includes processing 200 oral histories of local and national significance, and 26 linear feet of books."
+hc_id: "433"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Addlestone Library, Special Collections"
+address2:  "College of Charleston"
+city:  "Charleston"
+state:  "SC"
+zip: "29424"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$184,000"
+material_description:  "NULL"
 ---
-
-

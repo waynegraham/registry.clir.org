@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Illuminating Hidden Collections at the Center for Jewish History: Community Building and Cultural Engagement
+title: "Illuminating Hidden Collections at the Center for Jewish History: Community Building and Cultural Engagement"
+year: 2014
+end_range: 2009
+formats: "NULL"
+geographic_extant: "These collections contain material from the United States, Canada, Romania, France, Israel and Morocco."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Laura Leone"
+size: "781 linear feet"
+start_range: "1944"
+summary: "The hidden collections initiative will bring to light archival material that shows how Jewish individuals and organizations in the second half of the 20th century formed strong communities and organizations, engaged in social service, impacted scholarship and created art reflecting their experiences. In countries from the U.S. to Morocco to Romania, Jews encountered challenges associated with integration. They developed their cultural identities while maintaining commitments to the broader communities in which they lived. The project will include material from the American Jewish Historical Society and American Sephardi Federation."
+hc_id: "12007836"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "American Jewish Historical Society (AJHS) and American Sephardi Federation (ASF) -- two of the five partners of the Center for Jewish History"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Starting Locally, Thinking Globally: Records of Virginia-Based Businesses in the Twentieth Century
+title: "Starting Locally, Thinking Globally: Records of Virginia-Based Businesses in the Twentieth Century"
+year: 2009
+end_range: 2000
+formats: "NULL"
+geographic_extant: "While the bulk of the materials contained in the targeted collections cover manufacturing, extraction of mineral resources, and service operations in various localities in Virginia, a substantial portion also reflects marketing activities and production in other places, most notably the eastern United States, as well as American entrepreneurial and service activities outside the country, notably in Europe, Great Britain, and the Pacific Rim."
+institution: "Virginia Historical Society"
+institution_type: "NULL"
+primary_contact: "E. Lee Shepard"
+size: "550 linear feet"
+start_range: "1880"
+summary: "Targeted collections consist of records of twentieth-century businesses founded or headquartered in Virginia but employing a broad national workforce and/or supplying an expansive national and international customer or client base and being otherwise engaged in the global economy. The largest collection in this group (300 lin. ft.) consists of a major portion of the records of Reynolds Metals Company, manufacturer of aluminum and aluminum products headquartered in Richmond that promoted mining, manufacturing, and product development in localities and markets both in the United States and abroad. Other collections focus on coal mining (Jewell Ridge Company, 6 ft., and the Erskine Company, 36 ft.), the lumber trade and the production of treated telephone and utility poles for a massive national market (E. F. Conger papers, 6 ft.), oil exploration and production (Edrington Oil Corp., 5 ft.), shoe and hosiery manufacture and sales (including efforts of company owners to offer equal pay for equal work regardless of race or gender well before required by law [Craddock-Terry Company and Lynchburg Hoisery Mills records, 94 ft.]), pharmaceuticals (Owens & Minor, 27 ft.), insurance (including efforts to influence national legislation regarding roads and travel safety [Travelers Protective Assoc., 15 ft.]), retail and marketing (assorted collections, 53 ft.), containers (Seward, 18 ft.), and paper manufacturing (Cauthorne Paper, 3 ft.)."
+hc_id: "518"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P.O. Box 7311"
+address2:  "NULL"
+city:  "Richmond"
+state:  "VA"
+zip: "23221-0311"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

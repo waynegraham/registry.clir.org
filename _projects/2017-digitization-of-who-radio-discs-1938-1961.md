@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitization of WHO Radio Discs, 1938-1961
+title: "Digitization of WHO Radio Discs, 1938-1961"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Archives of Iowa Broadcasting, Wartburg College"
+institution_type: "NULL"
+primary_contact: "Ms. Amy Moorman"
+size: "NULL"
+start_range: "NULL"
+summary: "The Archives of Iowa Broadcasting (AIB), in partnership with George Blood, L.P. and Northeast Document Conservation Center, will reformat 347 transcription discs of radio broadcasts created between 1938 and 1961 by WHO radio of Des Moines, Iowa. WHO is a 50,000-watt NBC affiliate radio station that began broadcasting in April 1924. The materials selected for this project include programs related to Iowa farming, children’s entertainment, sporting events, political speeches, special events such as the Iowa State Fair and the Iowa Centennial, and interviews with soldiers and reports from the front during World War II by local reporters Herb Plambeck and Jack Shelley. The WHO transcription discs present many important research themes with broad regional and national appeal, and would be valuable to scholars from a variety of disciplines, as well as students, K-12 educators, broadcasters and many others."
+hc_id: "26783383"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Wartburg College"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "347 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$47,340"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Revealing the Network of Innovation: Digitizing and Unearthing the History of Science and Technology Research at the University of Illinois
+title: "Revealing the Network of Innovation: Digitizing and Unearthing the History of Science and Technology Research at the University of Illinois"
+year: 2015
+end_range: 2009
+formats: "NULL"
+geographic_extant: "The collections primarily document the scientific research ecosystem at the University of Illinois, one of the nation's premier science and technical universities. However, the collections include correspondence and research exchanged with colleagues in France, Germany, Russia, and Poland, and thus shed light on broad international communication networks."
+institution: "University of Illinois at Urbana-Champaign"
+institution_type: "NULL"
+primary_contact: "Dr. Christopher Prom"
+size: "NULL"
+start_range: "1870"
+summary: "The University of Illinois Archives will embark on a two-year project to digitize and enhance access to archival material that captures the rich history of scientific and technological innovation at the University of Illinois at Urbana-Champaign. Work will focus on 1) digitizing correspondence that exposes scientific networks of communication and idea exchange, as well as historical research data, and 2) creating rich metadata and sharing it with University and national discovery platforms, such as Digital Public Library of America (DPLA) and ArchiveGrid, promoting collection, folder, and item-level access to the digitized materials. As an early promoter of \"industrial education,\"  the University of Illinois has a long tradition of innovation in science and technology. Unearthing scientific networks of communication and materials that chronicle research projects and ideas will not only improve their discoverability, but also contribute to the production of new knowledge about the process of scientific research and innovation."
+hc_id: "16705449"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Illinois at Urbana-Champaign"
+p2_name:  "Mr. William"
+p2_institution:  "University Archivist and Professor"
+p3_name:  "Mr."
+p3_institution:  "NULL"
+material_string: "<li>72.1 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$249,352"
+material_description:  "This project will digitize the scientific records and personal archives of scientists and engineers, enabling users to explore the development of technologies and innovations and the unique ecosystems within which they emerged. These materials reveal meaningful communication networks between colleagues at the University of Illinois as well as among international communities of scientists. Likewise, they shed light on the contextual or historical circumstances--intellectual, social, material--that influence research methods and outcomes, knowledge production, and technological development. \n\n\n\nMaterials to be digitized include the research data and correspondence of Joseph T. Tykociner, a Polish emigrÃ© electrical engineer who is credited with the first successful public demonstration of sound on film; Jakob Kunz and his research to further develop applications of the photoelectric cell; Donald Kerst and his particle accelerator research (especially the invention of the Betatron); Carl Woese and his discovery of Archaea, or the \"Third Domain of Life\" ; John Bardeen and his research on theoretical and solid state physics; Heinz von Foerster and his interdisciplinary research on Cybernetics; and William A. Noyes and his research on the nature of atomic weights. \n\n\n\nThe research archives of these particular individuals document a unique scientific ecosystem in which seemingly disparate ideas and research in electrical engineering, physics, chemistry, and microbiology inform and influence each other. The project will thus serve as an initial testbed for elucidating the networks of communication that characterize particular scientific ecosystems, highlighting electrical engineering, physics, chemistry, and microbiology domains of knowledge production and exchange; the University of Illinois Archives will eventually digitize additional science and technology collections that further unearth the characteristics of these networks. We believe digitizing these collections will facilitate the discovery of yet to-be-unearthed connections between people, ideas, and documentation."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Fresh Air With Terry Gross, Opening Access to 36 Year Collection of WHYY's Peabody Award Winning Weekday Magazine of Contemporary Arts & Culture
+title: "Fresh Air With Terry Gross, Opening Access to 36 Year Collection of WHYY's Peabody Award Winning Weekday Magazine of Contemporary Arts & Culture"
+year: 2013
+end_range: 2013
+formats: "NULL"
+geographic_extant: "The 8,000 oral histories and topics covered in the collection are international in scope--spanning all continents."
+institution: "WHYY"
+institution_type: "NULL"
+primary_contact: "Gianna Tripodi-Bhise"
+size: "8000 objects"
+start_range: "1977"
+summary: "Fresh Air celebrates the diversity of American arts and culture by engaging voices from a broad spectrum of art forms. Poets, novelists, playwrights, photographers, actors, filmmakers, musicians, composers, dancers, and choreographers are all regularly featured. Fresh Air also engages audiences by offering a wide variety of topics like domestic and international news, political issues, history and technology. Programs include: The U.S. Presidency with people like Jimmy Carter; The American Songbook with people like the Metropolitan Opera's Dawn Upshaw; Literature with authors like John Updike; Journalism with people like Katherine Graham; or Storytelling with illustrators like Maurice Sendak. Through multiple interviews with the same person spanning years, Fresh Air has provided an evolving perspective on many topics and personalities. Fresh Air's interviews with John Dean and others involved in Watergate helped listeners gain a new perspective as the national political scene changed, and see our current political events through the eyes of a Watergate insider. Fresh Air has also created multiple shows or series that deepen our understanding of the power and challenges of the free market economy or study the richness and history of race and ethnicity. For instance, following 9/11, Fresh Air spent several days deepening Americans' understanding of the complicated intersection of religion, politics, diplomacy and violence that contributed to that event."
+hc_id: "1041"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Independence Mall West"
+address2:  "150 North Sixth Street"
+city:  "Philadelphia"
+state:  "PA"
+zip: "19106"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

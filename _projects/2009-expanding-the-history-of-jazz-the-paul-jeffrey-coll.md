@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Expanding the History of Jazz: The Paul Jeffrey Collection
+title: "Expanding the History of Jazz: The Paul Jeffrey Collection"
+year: 2009
+end_range: 2005
+formats: "NULL"
+geographic_extant: "includes Jeffrey's work at Rutgers & Duke Univ (NJ, NC), his tours of the US and Europe, and his development of jazz festivals in NC & Italy"
+institution: "Duke University RBMSCL"
+institution_type: "NULL"
+primary_contact: "Jeremy Smith"
+size: "207 boxes, 262 linear feet"
+start_range: "1950"
+summary: "The Paul Jeffrey Collection documents his career as a jazz performer, band leader, arranger, and educator. It consists of annotated musical scores, miscellaneous parts, audio and video recordings in various formats, as well as assorted photographs and personal papers. The collection has been rehoused into 153 records cartons and 54 oversize boxes. The majority of the collection (176 boxes) consists of music scores, parts, and photocopies of scores and parts. Of these 176 boxes, only 61 have some form of order; in some cases the boxes match up with a rough list created by the donor. Of the 61 boxes, 17 are oversize; the remaining 37 oversize boxes while unorganized are largely scores with some form of identification. The other 78 boxes of music parts and scores (all records cartons) have little or no order and consist largely of random sheets and scattered parts. The remaining 31 boxes, primarily containing recorded media, are largely unordered. This includes ten boxes of reel to reel audio tape, seven boxes of computer discs and audio cassettes, a box of DAT and Hi8 video, four boxes of slides and photos, four boxes of LPs and 78s, and two boxes of publicity materials. A hard drive with musical scores and related files is also part of the collection."
+hc_id: "439"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Rare Book, Manuscript, and Special Collections Library"
+address2:  "Box 90767"
+city:  "Durham"
+state:  "NC"
+zip: "27708"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

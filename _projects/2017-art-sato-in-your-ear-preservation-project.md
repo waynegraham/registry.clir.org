@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Art Sato “In Your Ear” Preservation Project
+title: "Art Sato “In Your Ear” Preservation Project"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "The Freedom Archives"
+institution_type: "NULL"
+primary_contact: "Mr Claude Marks"
+size: "NULL"
+start_range: "NULL"
+summary: "The collection includes 200 hours of original, unique, aging, increasingly at-risk analog recordings of Art Sato’s interviews with innovative practitioners of jazz and Latin music conducted over 30 years for his weekly radio series “In Your Ear,” broadcast on KPFA-FM in Berkeley, CA. (1981–present). These extended, in-depth interviews document jazz and Latin music directions in the second half of the 20th century, with insights and analyses not found in other references. There are over 80 in-depth interviews done from 1981 to the present, including recordings with more than 20 musicians who are no longer alive, making this rare collection even more significant and valuable. They trace artist development, probing into influences, inspirations, challenges, and the historical, social, and political climate that shaped many as conscious agents of cultural and social change. These insightful, highly knowledgeable interviews of great artists demonstrate profound and rare trust bestowed upon Art Sato."
+hc_id: "25544729"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Freedom Archives"
+p2_name:  "Mr. Nathaniel Moore"
+p2_institution:  "Freedom Archives"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "103 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$25,000"
+material_description:  "These extended, in-depth interviews document jazz and Latin music directions in the second half of the 20th century, with insights and analyses not found in other references. Over 80 in-depth interviews (1981-2008) with great artists, such as Cassandra Wilson, Gato Barbieri, Don Cherry, Eddie Palmieri, Steve Turre, Geri Allen, Jacki Byrd, Vi Redd, Oliver Lake, and Ruben Blades trace artist development, probe into influences, inspirations, challenges, and the historical, social, and political climate that shaped many as conscious agents of cultural and social change. Included are recordings with more than 20 musicians who are no longer alive (e.g.: Dewey Redman, Max Roach, Julius Hemphill, Jackie McLean, Mal Waldron, Gerald Wilson, and Milton Cardona), make this rare collection even more significant and valuable. Art’s activism for preservation of oral musician histories stands in the highest rank of living jazz historians. These insightful, highly knowledgeable interviews with great artists demonstrate a profound and rare trust bestowed upon him. While there are books and articles with related information, we are not aware of a compilation of extended audio interviews of this kind, and certainly not with the depth and quality of the “In Your Ear” collection. The collection is wide-ranging, with a diversity of artists and exploration of their unique cultural contributions. These interviews were produced by and are owned by Art Sato. Rights are assigned to the Freedom Archives, which will be the repository for the originals. The Freedom Archives, by agreement with Art Sato, will act on his behalf regarding all matters related to preservation, copyright, and preservation of this collection. Archives Director Claude Marks is fully empowered to represent the Archives in all matters related to grants, ownership, copyright, and preservation. Any further reproduction will be arranged with the artists and their representatives."
 ---
-
-

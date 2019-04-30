@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Aerial Photography Collection of the Grants Mineral Belt, New Mexico, Thomas R. Mann & Associates
+title: "Aerial Photography Collection of the Grants Mineral Belt, New Mexico, Thomas R. Mann & Associates"
+year: 2015
+end_range: 1977
+formats: "NULL"
+geographic_extant: "The collection covers an area of approximately 5,900 square miles of five western New Mexico counties. This area includes portions of the Navajo Nation, Chaco Culture National Historical Park, historic Spanish land grants and various other federal, state, tribal and private lands."
+institution: "Regents of The University of New Mexico"
+institution_type: "NULL"
+primary_contact: "Mr. Paul Neville"
+size: "NULL"
+start_range: "1977"
+summary: "Over a two-year period the Earth Data Analysis Center (EDAC) at The University of New Mexico and the New Mexico Resource Geographic Information System (RGIS) will digitize, georeference and serve on-line an aerial photography collection donated to EDAC by Thomas R. Mann & Associates. The Grants Mineral Belt collection covers an economically and culturally important region in the State of New Mexico. This approximately 5,900 square-mile area was the site of the largest economic occurrences of uranium in the world and mining activity during the 1970s-80s and covers the Chaco Culture National Historical Park. This collection of aerial photography is only known to a small group of surveying professionals, and once the digitized, georeferenced photographs are available for free, they can be made known to a wider audience. Scholars and analysts can use this collection to address questions of ground water contamination, climate change, land use and change detection."
+hc_id: "17472881"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Earth Data Analysis Center, University of New Mexico"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>10 Kodak Aerocolor Negative film</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$86,842"
+material_description:  "The Grants Mineral Belt collection is a series of aerial photography on color negative film of original large-format (9- x 9-inch) photographs. This collection was donated to the Earth Data Analysis Center by the Thomas R Mann Company, after the business closed. This company was an important private engineering and surveying firm that provided aerial photography and photogrammetric services in the United States Southwest from 1977 until 2012. This collection was acquired by the Earth Data Analysis Center's Resource Geographic Information System for archiving and digitization to prevent the destruction of a snapshot in time of a significant economic and cultural area of New Mexico."
 ---
-
-

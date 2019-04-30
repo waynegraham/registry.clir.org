@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Providing Access to Hidden Collections at Whitman College
+title: "Providing Access to Hidden Collections at Whitman College"
+year: 2008
+end_range: 1970
+formats: "NULL"
+geographic_extant: "Mostly southeastern Washington State, but also including western Washington State, Oregon, Idaho, and China."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Michael Paulus"
+size: "242 linear feet"
+start_range: "1800"
+summary: "1. Berney-Rochat Family Collection, 1800-1970: papers of an early pioneer family; 2. Howard Brode Papers, 1890-1950: a Whitman College biology professor and museum curator; 3. Congregational Association of Oregon and Washington Records, 1857-1935; 4. Myron Eells Collection, 1850-1950: papers of a Northwest missionary, scholar, and collector; 5. Elliott Family Collection, 1820-1920: papers and business records of a prominent pioneer family; 6. D.C. Graham Papers, 1890-1950: a Chinese missionary, anthropologist, and educator; 7. W.J. Matthews Papers, 1862-1885: a military tailor; 8. Native American Photograph Collection, 1880-1920: representing various Northwest tribes; 9. Stephen B.L. Penrose Papers, 1890-1960: a Whitman College president; 10. Roberts Family Papers, 1850-1900: an early pioneer family; 11. Sager Family Papers, 1840-1920: a family connected with the Whitman mission and massacre; 12. Saint Paul's School Records, 1880-1970; 13. Henry and Eliza Spalding Collection, 1837-1885: papers of early Northwest missionaries; 14. A.J. Thibodo Papers, 1850-1900: a pioneer medical doctor; 15. Guy Turner Papers, 1898-1910: a Walla Walla civic leader and Spanish-American War veteran; 16. Walla Walla Valley Medical Society Records, 1882-1958; 17. Walla Walla Valley Photograph Collection, 1870-1970; 18. Marcus and Whitman Collection, 1834-1936: material by/about early Northwest missionaries; 19. Whitman Seminary and Academy Records, 1859-1912; 20. Whitman College Literary Society Records, 1882-1941."
+hc_id: "332"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Penrose Library"
+address2:  "345 Boyer Avenue"
+city:  "Walla Walla"
+state:  "WA"
+zip: "99362"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

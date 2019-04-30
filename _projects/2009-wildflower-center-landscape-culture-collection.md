@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Wildflower Center Landscape & Culture Collection
+title: "Wildflower Center Landscape & Culture Collection"
+year: 2009
+end_range: 2003
+formats: "NULL"
+geographic_extant: "The collection covers several regions of the US including the Northwest (Koehler), Midwest and Southwest (Wasowski), and Texas (Wildflower Center)."
+institution: "Lady Bird Johnson Wildflower Center at the University of Texas at Austin"
+institution_type: "NULL"
+primary_contact: "Damon Waitt"
+size: "26000 objects"
+start_range: "1956"
+summary: "The materials are all images in slide, transparency, print photograph, and negative format, split into the following collections. Wasowski Landscape Slides/Transparencies (1980s-2000s) - Andy Wasowski, a freelance writer and photographer, and Sally Wasowski, a landscape designer, have written nine books including Native Texas Plants and Native Texas Gardens. The Wasowskis contributed an extensive collection of over 11,000 landscape photos to the Wildflower Center. Wildflower Center Construction Slides (1993-1995) - When the new site for the Wildflower Center opened in 1995, it was a model of sustainable architecture as well as award-winning design. The Center’s architectural firm, Overland Partners of San Antonio, won praise for the sensitivity paid to the site as they designed the buildings to wrap around the elements of nature. Approximately 2,000 slides document the center's construction. Bessie M. Koehler Landscape Slides (1950s-1970s) - The Bessie M. Koehler collection came to us posthumously and comprises over 5,000 slides. Koehler photographed native plants and landscapes, focusing on the natural areas in the Northwestern U.S. Wildflower Center Cultural Slides/Photographs/Negatives (1982-2000s) - Over 8,000 slides, photographs, and negatives document research, fundraising, and public events since the inception of the original Wildflower Center (the National Wildflower Research Center) in 1982."
+hc_id: "538"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "4801 La Crosse Ave."
+address2:  "NULL"
+city:  "Austin"
+state:  "TX"
+zip: "78739"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Women's Military History Archive and Research Resource
+title: "Women's Military History Archive and Research Resource"
+year: 2013
+end_range: 2013
+formats: "NULL"
+geographic_extant: "The collection represents United States military \nactivity both in the US and abroad."
+institution: "National Museum of American History"
+institution_type: "NULL"
+primary_contact: "Margaret Vining"
+size: "100 linear feet"
+start_range: "1776"
+summary: "This project will support the archival processing and creating of EAD (Encoded Archival Description) finding aids for documenting a newly defined field of study, women's military history. The Division of Armed Forces History at the Smithsonian Institution has for 25+ years concentrated on collecting documents and biographical material as historical evidence of the roles of women in military service over all time. We have accumulated a singular collection of archival documentation; personal papers, exhibition scripts, photographs, scrapbooks, manuscripts, oral histories, biographies and autobiographies, and a wide range of ephemera. Some of the material is related to the division's outstanding accessioned women's uniform collection but the majority is without access points, much of it simply collected as reference material. Additionally, this project entails surveying collections in other Smithsonian units and in outside military history organizations for relevant unrecognized and undocumented material that informs the roles of women in military history."
+hc_id: "1127"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P.O. Box 37012, MRC 620"
+address2:  "NULL"
+city:  "Washington"
+state:  "DC"
+zip: "20013-7012"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Ark Legacy Project: Fostering Open Digital Access To Live Sound Recordings of Americana Musical Performances, 1968-1980
+title: "The Ark Legacy Project: Fostering Open Digital Access To Live Sound Recordings of Americana Musical Performances, 1968-1980"
+year: 2017
+end_range: 1980
+formats: "NULL"
+geographic_extant: "The recordings were made in Ann Arbor, Michigan at The Ark. The performers represented on the tapes are roughly ¼ local Michigan; ½ US touring musicians; and ¼ international musicians, particularly those from Canada and Ireland."
+institution: "The University of Michigan"
+institution_type: "NULL"
+primary_contact: "Dr. Paul Conway"
+size: "NULL"
+start_range: "1968"
+summary: "The University of Michigan will digitize, preserve, and make available for research and teaching the most at-risk half (1968-1980) of a unique collection of live performances at The Ark in Ann Arbor, one of the oldest and most respected Americana music venues in the United States. The 325 recorded weekly events (1,137 hours) form an extensive, nearly continuous 13 year sequence of performances. The two-year project, built on a successful pilot, will: (1) create preservation quality digital copies of fragile magnetic reel-to-reel tape recordings (plus standards-compliant technical and descriptive metadata); (2) deploy a streaming access system with robust copyright management capabilities; and (3) engage performers represented in the recordings to document the content and register permission to release their performances under Creative Commons licenses. This project constitutes a new management model for collections of recorded sound, where intellectual control challenges exist and the danger of loss is high."
+hc_id: "26125626"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "The University of Michigan"
+p2_name:  "Mr. Michael Shallcross"
+p2_institution:  "The University of Michigan"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>1137.5 Audio Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$225,873"
+material_description:  "The Ark in Ann Arbor is one of the oldest and most respected folk and Americana music venues in the United States. Founded in 1965, The Ark hosted legends (Ramblin’ Jack Elliott, Michael Cooney, Martin, Bogan & Armstrong, Norman and Nancy Blake), brilliant unknowns (Hedy West, Joe Hickerson, Jay Stielstra), and local musical innovators (Dick Siegel, Peter ‘Madcat’ Ruth, Barry O’Neill) alike, nurturing generations of music fans loyal not only to the musicians and the music they perform but also to The Ark itself. The Ark in Ann Arbor hosted at least 416 performance-events during the period from 1968 to 1980. Of this number, 325 (78%) of the performances most likely were captured on tape. Recorded on fresh ¼-inch magnetic tape by long-time program director David Siglin in monaural at a speed of 7.5 ips (inches per second) using a commercial grade TEAC reel-reel tape recorder patched directly to the central sound system mixing board. Each recording is between three and four hours in length and captures between two and three sets of music performed on a single evening. Each program is dated. The main performers are noted on either the tape reel or the box. A complete item-level inventory identifies 400 discrete performers and 117 bands at The Ark from 1968 to 1980. The distribution of names and bands conforms to the classic “Long Tail” distribution, where most performers appeared one or two times during the period, while a handful were frequent visitors."
 ---
-
-

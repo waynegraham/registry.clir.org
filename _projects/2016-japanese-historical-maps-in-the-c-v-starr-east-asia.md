@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Japanese Historical Maps in the C. V. Starr East Asian Library, University of California, Berkeley
+title: "Japanese Historical Maps in the C. V. Starr East Asian Library, University of California, Berkeley"
+year: 2016
+end_range: 1923
+formats: "NULL"
+geographic_extant: "Regions represented in the maps include the world; Asia; China, Taiwan, Korea, and Sakhalin; Japan; the provinces and prefectures of Japan; Edo and Tokyo, Kyoto, and Osaka; other cities and sites of cultural or historical interest in Japan."
+institution: "C. V. Starr East Asian Library, University of California, Berkeley"
+institution_type: "NULL"
+primary_contact: "Dr. Peter Zhou"
+size: "NULL"
+start_range: "1687"
+summary: "The project proposes to digitize approximately 1,500 woodblock, copperplate, and manuscript maps produced in Japan between the 1600s and 1923 and now held by the East Asian Library, and to add them to a website already developed by David Rumsey and Cartography Associates. The website, http://www.davidrumsey.com/japan/, which currently provides access to images of just over 800 maps from the same collection, allows researchers to access the maps without stressing the materials. It also allows researchers to enlarge details, save images to a file, add notes, and juxtapose or superimpose maps and satellite images for comparison. These functions, coupled with the size and variety of the entire map collection, will allow researchers to use the maps to trace political, cultural, administrative, and topographical change, as well as the development of Japanese cartography, from premodern times into the twentieth century."
+hc_id: "23080786"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "University of California, Berkeley"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>1500 Maps</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$170,880"
+material_description:  "The maps to be digitized were purchased by the East Asian Library from the Mitsui clan in 1949. Founders of one of the largest conglomerates in Japan, the clan amassed a private library that incorporated portions of the libraries of other respected collectors and intellectuals, including the Motoori lineage of scholars descended from Motoori Norinaga (1730-1801). Mitsui and Motoori ex libris seals appear on virtually all of the maps in the collection. It is the largest collection of Japanese historical maps held by a research library in North America. The earliest maps date from the late seventeenth century, the latest to the early twentieth century. Formats include atlases, hanging and hand scrolls, folding screens, and, predominantly, sheet maps. Media include woodblock, copperplate, and manuscript. Map types range from maps that document historical events (such as the 1853 arrival of Commodore Matthew Perry's \"black ships\") and urban disasters (such as fire, a perennial problem in premodern Japan), to route maps that note tips for the traveler, heavily annotated pilgrims' guides, and plans of imperial palaces providing information that, because highly confidential, was unpublishable before 1868. Because of the Mitsui clan's vast business interests, the collection also includes hundreds of maps of the \"three capitals,\" Edo (Tokyo), Kyoto, and Osaka. Comparison of these maps published over successive years can serve to document urban development and even political change, since the residences of high-ranking officials, as well as their annual revenues, were frequently noted on the maps. Comparison of maps of larger areas--of Japan, for instance, or of the globe--serve to document advances in cartographic standards, aesthetic preferences, and Japan's understanding of the world beyond its islands."
 ---
-
-

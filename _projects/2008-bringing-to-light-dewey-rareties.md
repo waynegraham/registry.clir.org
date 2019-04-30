@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Bringing to Light Dewey Rareties
+title: "Bringing to Light Dewey Rareties"
+year: 2008
+end_range: 2000
+formats: "NULL"
+geographic_extant: "The collection is global, but strongest in North America materials, since the major mission agencies of the 19th century operated from the U.S.A."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Deborah Van Broekhoven"
+size: "16000 linear feet"
+start_range: "1500"
+summary: "To provide better access to our rare publications, we propose converting 1613 linear feet of our rare book library from Dewey classification (with access only through a unique and actual card catalogue) to Library of Congress electronic format. We estimate that this will involve 25,000 to 30,000 books, some of which will be bound manuscripts in need of reclassification as a record group. When identified, those manuscripts will be placed, along with a new finding aid, into our manuscript, pamphlet, or broadside collection. The finding aid, like the reclassified books, will be available electronically, in this case through our website listing of original manuscript records (www.abhsarchives.org/collections). The American Baptist-Samuel Colgate Historical Library has 16,000 linear feet of manuscripts, broadsides, images, books, pamphlets, newspapers and periodicals, with 10% (1613 linear feet) needing conversion from Dewey to LC or archival classification. Begun in 1853, the American Baptist Historical Society has collected the range of church historical materials, with missionaries and pastors serving as collectors. All types of Baptists were included, with the collection enhanced in 1955 by merger with the library of Samuel B. Colgate. Rare holdings include 16th century Anabaptist writings in German, Dutch, and English and the largest collection anywhere of reports by regional associations of German, Danish, Swedish, American Indian and African American Baptists."
+hc_id: "366"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "ABHS"
+address2:  "3001 Mercer University Dr"
+city:  "Atlanta"
+state:  "GA"
+zip: "30341-4155"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

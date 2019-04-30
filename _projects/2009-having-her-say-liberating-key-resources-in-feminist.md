@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Having Her Say: Liberating Key Resources in Feminist Journalism
+title: "Having Her Say: Liberating Key Resources in Feminist Journalism"
+year: 2009
+end_range: 2008
+formats: "NULL"
+geographic_extant: "All five collections are national in scope. Ms. Magazine had significant readership around the world."
+institution: "Smith College"
+institution_type: "NULL"
+primary_contact: "Sherrill Redmon"
+size: "514 linear feet"
+start_range: "1945"
+summary: "The Records of MS. MAGAZINE (372 ft, circa 1970-95), the first commercial magazine with an unambiguously feminist perspective. Materials include office, editorial, publicity, promotion, circulation, and advertising files; article manuscripts; files on special projects and individual editors' correspondence and other professional papers. Records of WOMEN: A JOURNAL OF LIBERATION (5 ft, 1968-83). Produced by a Baltimore collective as a forum for opinions and expression vital to the growing women's liberation movement, the materials include correspondence, minutes, research materials, and reader responses. Papers of Letty Cottin Pogrebin (b. 1939), a founder of MS. MAGAZINE, freelance writer, and popular lecturer on non-sexist childrearing, family life, feminism and Judaism. Her papers (91 ft, 1968-2008) include correspondence; research, organization, and subject files; drafts, published writings, and speeches. Papers of Dolores Alexander (1931-2008) freelance writer, reporter, and first executive director of the National Organization for Women (NOW). The 25 feet of papers (1945-98) document her writing career, activism, and broader feminist and lesbian issues. Photographer Cary Herz (1947-2008) began documenting the 1970s women's movement in NY City for MS. MAGAZINE as well as other publications. Her papers (20 ft, 1971-2007) include photographic prints, slides, and contact sheets documenting events of political, social and economic significance in the U.S."
+hc_id: "551"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Sophia Smith Collection, Smith College"
+address2:  "NULL"
+city:  "Northampton"
+state:  "MA"
+zip: "1063"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

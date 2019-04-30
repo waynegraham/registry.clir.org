@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Field Library of the Institute for Development Anthropology
+title: "The Field Library of the Institute for Development Anthropology"
+year: 2009
+end_range: 2004
+formats: "NULL"
+geographic_extant: "The Caribbean (Martinique), Africa (Kenya, Tunisa, Malawi, Sudan, Zimbabwe), South America (Bolivia, Peru) the Middle East (Israel) & the Pacific Rim."
+institution: "Research Foundation of SUNY at Binghamton University"
+institution_type: "NULL"
+primary_contact: "Beth Turcy Kilmarx"
+size: "10000 objects"
+start_range: "1955"
+summary: "The Institute for Development Anthropology (IDA) was founded in 1976 by Professor Michael Horowitz of Binghamton University with colleagues Professor David Brokensha of Oxford University and Professor Thayer Scudder of the California Institute of Technology. This private non-profit research institute conducted extensive field work and policy studies on water sustainability, river basin development, and gender, sexuality and kinship studies throughout South America, the Caribbean, Africa, the Middle East, Asia, and the Pacific Rim. Field research funding was obtained from federal agencies and non-governmental organizations such as the US Agency for International Development, the World Bank, and the United Nations. This diverse collection of IDA project reports were produced in limited quanities and not available to the public. In many cases the field library contains the only surviving copy. Upon ceasing operations in 2004, the BU Libraries acquired the complete field library, which contains five major categories of unique archival items: 1) IDA project reports, 2) maps and field maps of project locations, 3) ephemera collected from projects including posters, photographs, tourist maps, tourist guides, auction catalogs, and local newsletters, 4) primary field notes and data from IDA projects and Professor Horowitz’s research on sexuality and kinship studies in the Caribbean during the 1950s, and 5) monographs."
+hc_id: "418"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P.O. Box 6000"
+address2:  "NULL"
+city:  "Binghamton"
+state:  "NY"
+zip: "13902-6000"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

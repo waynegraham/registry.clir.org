@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: An American Mirror: Early Photograph Collections at the Maine State Museum
+title: "An American Mirror: Early Photograph Collections at the Maine State Museum"
+year: 2013
+end_range: 1952
+formats: "NULL"
+geographic_extant: "The collection represents all of Maine, recorded by photographers from throughout the U.S., and has national and international significance."
+institution: "Maine State Museum"
+institution_type: "NULL"
+primary_contact: "Sheila McDonald"
+size: "21000 objects"
+start_range: "1858"
+summary: "The Maine State Museum (MSM) owns and has responsibility for the most important collection of Maine historical images in existence, assembled over 40 years by the Maine Historic Preservation Commission (MHPC). Its 15,000 stereoviews are the single most comprehensive record of how the state appeared from 1860 to 1900 and the largest existing national assemblage of its kind in that format related to a single state. With photo postcards, a natural extension of this kind of popular and community-based photography, 21,000 items are included in this proposal. The resulting on-line catalogue will also represent a ground-breaking collaboration between these two independent agencies. Begun as a modest preservation resource, this collection is now the most significant of its kind anywhere and demands full intellectual control: it is uncatalogued and accessible only through personal contact. Its importance is without equal for Maine, but it has great national significance through Maine’s leadership in such dominant American industries as lumbering, paper making, granite quarrying, ice harvesting, shipbuilding, textile manufacturing and shoe-making, which also influenced western expansion and international connections. The images are also essential in documenting the full range of cultural and social patterns of life and community. The collection’s coverage is so complete in time and space that its record of change is a template and measure of the development of America itself."
+hc_id: "1091"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "83 State House Station"
+address2:  "NULL"
+city:  "Augusta"
+state:  "ME"
+zip: "04333-0083"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "Maine Historic Preservation Commission"
+grant_amount:  "$145,600"
+material_description:  "NULL"
 ---
-
-

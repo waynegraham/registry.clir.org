@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Litchfield Historical Society's Revolutionary Era and Early Republic Holdings
+title: "Litchfield Historical Society's Revolutionary Era and Early Republic Holdings"
+year: 2008
+end_range: 1835
+formats: "NULL"
+geographic_extant: "Primarily the United States, as it was between 1776 and 1830, with a particular focus on Litchfield, Connecticut"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Linda Hocking"
+size: "100 linear feet, 360 objects"
+start_range: "1776"
+summary: "Litchfield was a political and cultural center of rural New England during the period in which U.S. governmental systems formed and solidified. Collections document the Revolutionary war; 19th C female education; early legal education; the development of American common law; politics, family life, religion and slavery in the early national period. Litchfield, CT is the geographic focus of the collection, but the scope is much wider. For example, students traveled from at least fifteen states and territories to attend school in Litchfield, many Litchfield residents entered into state and national politics, and Litchfield residents helped settle northern New England and the Midwest. Individuals represented include Tapping Reeve, founder of America’s 1st law school; Sarah Pierce, founder of the Litchfield Female Academy; the Beecher family including Lyman and his daughters Catharine and Harriet who both attended the female academy; Benjamin Tallmadge who served as Washington's spy master during the Revolutionary War; Colonel John Brace, Revolutionary War Paymaster; Senator Uriah Tracy; Litchfield Law School students George Catlin, Horace Mann, John C. Calhoun, Aaron Burr, and the Wolcott family including Connecticut governors Oliver Wolcott Sr. and Oliver Wolcott Jr. (who also served as the second secretary of the treasury); Elihu Harrison, a Litchfield merchant who did business in New York and around the world; and Law School graduate and congressman George C. Woodruff."
+hc_id: "274"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P.O. Box 385"
+address2:  "7 South Street"
+city:  "Litchfield"
+state:  "CT"
+zip: "6759"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$101,209"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitization and Rehousing of the Wyck Association Papers
+title: "Digitization and Rehousing of the Wyck Association Papers"
+year: 2015
+end_range: 1843
+formats: "NULL"
+geographic_extant: "Mid-Atlantic Region, United States of America"
+institution: "Wyck Association"
+institution_type: "NULL"
+primary_contact: "Ms. Eileen Rojas"
+size: "NULL"
+start_range: "1765"
+summary: "This one-year project will result in approximately 9,000 scans of leaves of correspondence and journal pages, contained within 13 boxes (310 folders) of the Wyck Papers. The primary focus will be on material dating from the late 18th century through the 1840s, a period when Wyck's residents played significant roles in the development of such Philadelphia institutions as the Franklin Institute and the Academy of Natural Sciences. This group of papers represents approximately 10% of the total collection and has been targeted because of its importance for humanities scholarship. Correspondence within the collection from influential Americans such as Charles Willson Peale, Bronson Alcott, John James Audubon, Thomas Say, William Bartram, and Thomas Nuttall remains largely unexplored by scholars. The collections of Hannah Marshall Haines (1765-1828), Reuben Haines III (1786-1831), and Jane Bowne Haines (1790-1843) will be digitized and rehoused. The digital database will be accessible to researchers online."
+hc_id: "17598222"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Wyck Association"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>13 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$95,081"
+material_description:  "The Wyck Association Papers are preserved offsite, on deposit with the American Philosophical Society (Philadelphia, PA), which has been servicing them for more than 30 years. The papers comprise 151.5 linear feet, with significant material from each of the nine generations of the Wistar-Haines family. (As the Wyck property sometimes passed down through the female side, the family name associated with the site changed over time.) Encompassing a range of time from 1663 to 1972, the Wyck Association Papers provide a glimpse of the personal and business lives of the family members and the changing society around them. They include diaries, letters, accounts, bills and receipts, deeds, albums, and photographs. \n\n\n\nDespite the stunning array of notable American figures represented within the Wyck Association Papers, they have remained surprisingly unknown. Correspondence within the collection from influential Americans such as Charles Willson Peale, Bronson Alcott, John James Audubon, Thomas Say, Caspar Wistar, William Bartram, and Thomas Nuttall remain largely unexplored by scholars. \n\n\n\nWith this digitization project, the Wyck Association is committed to a long-term process of defining the place of the Wistar-Haines family members in the matrix of its time, through their roles as observers and sometimes leaders of social and cultural change over a period of centuries. To begin this process, the Wyck Association has chosen to start with one of the most exciting chapters in the story, the post-Revolution years of the young republic, represented in the Wyck Association Papers by correspondence and other documents associated with Hannah Marshall Haines (1765-1828), Reuben Haines III (1786-1831), and Jane Bowne Haines (1790-1843). \n\n\n\nCollectively these materials enhance themes of great significance in understanding early 19th century society, including natural history, women's history, social reform movements, Transcendentalism, educational and prison reforms, domestic manufactures and new technology, and self-sufficiency and sustainability."
 ---
-
-

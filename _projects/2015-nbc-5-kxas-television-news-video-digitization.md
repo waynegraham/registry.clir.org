@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: NBC 5/KXAS Television News Video Digitization
+title: "NBC 5/KXAS Television News Video Digitization"
+year: 2015
+end_range: 1998
+formats: "NULL"
+geographic_extant: "The primary geographic focus is North Central Texas including Dallas, Tarrant, Denton and Collin counties. Coverage of political events in the state capitol, as well as surrounding communities are frequent. Also included is occasional national and international locations including Washington, D.C., Brazil, and Saudi Arabia."
+institution: "University of North Texas"
+institution_type: "NULL"
+primary_contact: "Ms. Morgan Gieringer"
+size: "NULL"
+start_range: "1986"
+summary: "This two-year project will digitize, describe, and make accessible 2,000 hours of historic broadcast footage from the NBC 5/KXAS television news collection held at the University of North Texas. NBC 5/KXAS (formerly WBAP), is the oldest news station in Texas and this collection includes audiovisual items and manuscript records from 1950-2012. During this project, 4,000 Betacam SP tapes will be digitized and approximately 40,000 news stories will be described and made freely available online through the University of North Texas Digital Library and Portal to Texas History. Through an partnership between the University and KXAS we are able to offer unrestricted and complete access to the collection once digitized. By providing access to such a large accumulation of visual materials, the NBC 5/KXAS will provide scholars a new method with which they can shape and expand historical scholarship on a variety of topics of national importance."
+hc_id: "17284094"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of North Texas"
+p2_name:  "Ms. Laura"
+p2_institution:  "Moving Image Preservation Librarian"
+p3_name:  "Ms."
+p3_institution:  "NULL"
+material_string: "<li>2000 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$248,697"
+material_description:  "NBC 5/KXAS (formerly WBAP), has covered regional, national, and international events for more than 60 years. The 4,000 BetacamSP tapes nominated for digitization in this project represent a significant portion of the videotape in this collection and include news stories that aired in approximately 1986-1998. This portion of the collection is complete,containing all daily news footage shot during this time period as well as creator-generated metadata. Footage contained on these tapes includes campaign footage of Ann Richards, Texas' first female governor, journalists embarking on relief missions to Somalia, military experiences of the first Gulf War, and the 1993 federal siege of the Branch Davidian Compound in Waco, Texas, among many other topics.The coverage of the Branch Davidian stand-off offers a good example of how this footage allows viewers to compare regional and national perspectives and view events as they grew from local to national concerns. The 1993 siege of the Branch Davidian Compound and the people involved\"”quickly escalated from a regional to national significance. However, the history of the Davidians and their lives in Waco extended to the 1950s. This collection includes not only daily coverage of the unfolding event, but also interviews with relatives and residents, and provides comparison to a satirical university student film and the current events, as well as archival 16mm film footage from the KXAS collection that outlines the early history of the Davidians."
 ---
-
-

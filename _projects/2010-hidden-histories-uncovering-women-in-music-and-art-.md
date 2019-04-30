@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Hidden Histories: Uncovering Women in Music and Art in the Twentieth Century
+title: "Hidden Histories: Uncovering Women in Music and Art in the Twentieth Century"
+year: 2010
+end_range: 2010
+formats: "NULL"
+geographic_extant: "Primarily United States with limited coverage of women artists from Canada, Mexico, Europe, the Caribbean, Central and South America, and Asia."
+institution: "Rutgers University Libraries"
+institution_type: "NULL"
+primary_contact: "Fernanda Perrone"
+size: "364 cubic feet"
+start_range: "1927"
+summary: "The collections address two different realms of women's artistic expression; which taken together will tell a broad story of the experience of female artists working in a variety of media and from a diverse range of backgrounds in 20th century America. The first group includes the collections of women jazz artists held by the Libraries' Institute of Jazz Studies (IJS): Ella Fitzgerald, known as America's First Lady of Song; Abbey Lincoln, a singular vocal stylist, composer, and civil rights activist; Annie Ross, vocalese pioneer recently named an NEA Jazz Master; Victoria Spivey, blues singer whose career extended from 1920s recordings with Louis Armstrong to a 1960s association with Bob Dylan; Wilma Dobie, pioneering promoter, journalist, and jazz activist. The second focuses on the archives of women visual artists and organizations held by the Special Collections and University Archives (SC/UA):Lucy Lippard Women's Art Registry: documentation of many women artists in the 1970s; Heresies, inc. Records: one of the key collectives in the feminist art movement; National Association of Women Artists: oldest professional organization of women artists; Elsa Honig Fine Papers: covers the publication of the Woman's Art Journal; Women's Caucus for Art: an advocacy organization for women artists. Materials include music manuscripts; personal papers; exhibition announcements; photographs; exhibit catalogs; business records; press releases; and audio and video performances."
+hc_id: "637"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Special Collections and University Archives"
+address2:  "169 College Avenue"
+city:  "New Brunswick"
+state:  "NJ"
+zip: "8901"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

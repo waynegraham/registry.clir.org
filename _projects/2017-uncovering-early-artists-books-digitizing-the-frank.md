@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Uncovering Early Artists’ Books: Digitizing The Franklin Furnace Artists’ Books Vertical Files
+title: "Uncovering Early Artists’ Books: Digitizing The Franklin Furnace Artists’ Books Vertical Files"
+year: 2017
+end_range: 1993
+formats: "NULL"
+geographic_extant: "This collection represents a diverse geographic sample that is international in scope. Artists from North America and Europe are represented as are artists from South America, Australia, Japan, Russia, Eastern Europe, and the Middle East."
+institution: "Franklin Furnace"
+institution_type: "NULL"
+primary_contact: "Ms. Martha Wilson"
+size: "NULL"
+start_range: "1976"
+summary: "This two-year project will digitize and make available unique compilations of analog documents uncovering “behind the scenes” information describing early artists’ books. The collection, named the Franklin Furnace Artists’ Books Vertical Files is held by the Museum of Modern Art in New York (MoMA) and was created by Franklin Furnace (FF). The project will produce item level cataloging records of: 1. Artist files that contain one-of-a kind documents handwritten by the artists and other period materials that reveal the artist’s motivations and milieu; 2. Exhibition files of one-person and group shows; 3. Objects previously cataloged as artists’ books. The materials will be shared via the Franklin Furnace website, MoMA’s Dadabase, and Artstor. Creation of this online resource will foster innovative research for academics and others working with the same or similar titles, thus providing long-term benefits to studies of artists’ books and visual culture in the humanities nationally and internationally."
+hc_id: "25745453"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Franklin Furnace Archive"
+p2_name:  "Michael Katchen"
+p2_institution:  "Franklin Furnace"
+p3_name:  "Ms. Jenny Korns"
+p3_institution:  "Franklin Furnace Archive"
+material_string: "<li>9 objects</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$212,690"
+material_description:  "The FF Vertical Files are an unprecedented compilation of primary research materials containing handwritten documents, objects, promotional literature, press releases, resumes, reviews, correspondence, invitations, catalogs, 35mm slides, and ephemera that describe more than 3700 artists’ books in the FF Artist Book Collection at MoMA. The subject matter is eclectic and covers a wide range of topics including feminism, race, censorship, and visual language and culture. The vertical files and artists’ book collection were created by Franklin Furnace and sold to MoMA in 1993. Artist Files: These contain a variety of materials and notably include unique biographic and bibliographic information forms created by FF and completed by the individual artist/author for each title. Notable artists who contributed to the vertical files include: Barbara Kruger, Laurie Anderson, Richard Prince, Ed Ruscha, and Claes Oldenburg. Exhibition files: FF produced and installed many seminal group and one-person exhibitions of artists’ books. Materials include the influential four-part exhibition and lecture series “The Page as Alternative Space” which traces the history of the artists’ book from 1909 to 1980. Curators for that series included Charles Henri Ford, Barbara Moore, Jon Hendricks, and Ingrid Sischy. Objects: Previously cataloged as artists’ books by FF, they currently exist outside the definition of an artists’ book at MoMA and as such are not searchable. Digitizing and describing these will provide an important historical perspective on what may or may not be an artists’ book; and will heighten the awareness of artworks that might otherwise have gone unnoticed."
 ---
-
-

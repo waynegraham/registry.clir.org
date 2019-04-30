@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Coming in from the Cold: Digitizing Hidden and At Risk Northern, Polar, and Indigenous Collections from and about Circumpolar Regions in Alaska and Canada
+title: "Coming in from the Cold: Digitizing Hidden and At Risk Northern, Polar, and Indigenous Collections from and about \u0010Circumpolar Regions in Alaska and Canada"
+year: 2017
+end_range: 1970
+formats: "NULL"
+geographic_extant: "There is an emphasis on the North American Arctic and sub-Arctic regions including the Arctic Ocean. The scope of the Nascopie’s travel include Quebec, Newfoundland, the Labrador coast, Hudson Bay, as far west as Ellesmere Island and as far north as Greenland, Western Europe, the Russian Arctic and Norway."
+institution: "Alaska Library Network"
+institution_type: "NULL"
+primary_contact: "Mr. Stephen Rollins"
+size: "NULL"
+start_range: "1700"
+summary: "This 36-month project led by the Alaska Library Network will enhance accessibility to and discoverability of important northern and Arctic primary source materials not well known to the public. Participating institutions include University of Alaska, University of Alberta Libraries, Manitoba Archives, Yukon Archives, Northwest Territories Archives, Massachusetts Historical Society, Providence Public Library, American Museum of Natural History, and Presbyterian Historical Society. The “hidden collections” these institutions hold are often from remote and inaccessible locations for which widescale digitization would provide far greater access to many more people on a topic of crucial importance. A long-term goal of this Coming in from the Cold initiative is the virtual integration and combination of these collections online, which will provide unique circumpolar scholarship opportunities as well as broaden understanding of the cultures of the local indigenous communities documented within these wide-ranging historical and cultural materials."
+hc_id: "26176363"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Alaska Library Network"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>33.25 Mixed Archival Collections</li>"
+collaborating_institution:  "University of Alaska Anchorage, Consortium Library; University of Alberta Libraries-Edmonton; Hudson's Bay Company Archives, Archives of Manitoba; Yukon Archives-Whitehorse; Northwest Territories Archives-Yellowknife; Massachusetts Historical Society; Providence Public Library; American Museum of Natural History; Presbyterian Historical Society"
+grant_amount:  "$500,000"
+material_description:  "Since we have several partners with related collections by the types of primary sources, we will highlight some of them below as examples in order for brevity: University of Alberta: Selected works for digitization include collections of letters, photo albums, ephemera and graphic material related to the Arctic regions, northern peoples, Klondike Gold Rush, RCMP & Hudson's Bay from the Bruce Peel Special Collections, as well as grey literature from the Circumpolar Pamphlet Collection. Massachusetts Historical Society: The various materials selected for this project are both unique and complementary to other partner items. These archival records include journals and correspondence from U.S. officials located in the Imperial Russian capital of St. Petersburg mostly in the early 19th century, including when John Quincy Adams was the first U.S. Ambassador to Russia. These files record U.S. negotiations with the tsar when Alaska was a Russian possession, and reveal how American whaling and sea otter trade interests sought increasing access to Alaska waters. There is also a set of photographs from William Healey Dall, a noted Smithsonian naturalist who was an authority on Alaska in the late 19th century. Providence Public Library: The selected logbooks in the Nicholson Whaling Collection document voyages undertaken by participants in the American offshore whaling trade to areas of the Arctic. Hudson’s Bay Company: Records selected for scanning relate to the Hudson’s Bay Company (HBC) Arctic supply ship S.S./R.M.S Nascopie and include information on crew, posts visited, passengers, related events and war time service."
 ---
-
-

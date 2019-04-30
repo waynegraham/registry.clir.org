@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Beyond The Well of Loneliness: Creating a Digital LGBTQ Collection from the Radclyffe Hall and Una Vincenzo, Lady Troubridge Papers at the Harry Ransom Center
+title: "Beyond The Well of Loneliness: Creating a Digital LGBTQ Collection from the Radclyffe Hall and Una Vincenzo, Lady Troubridge Papers at the Harry Ransom Center"
+year: 2017
+end_range: 1806
+formats: "NULL"
+geographic_extant: "The papers document the movements of Hall and Troubridge during their lives between a succession of homes in England (London and Sussex), France (Paris), and Italy (Florence) as well as other travel."
+institution: "The Harry Ransom Center at The University of Texas at Austin"
+institution_type: "NULL"
+primary_contact: "Ms. Elizabeth Gushee"
+size: "NULL"
+start_range: "1806"
+summary: "The Center proposes a twenty-month project to digitize its holdings of the papers of British literary figures and partners Radclyffe Hall (1880-1943) and Una Vincenzo, Lady Troubridge (1887-1963). Drafts of Hall’s controversial 1928 novel The Well of Loneliness – considered a groundbreaking work in lesbian literature – are accompanied by Hall’s notebooks, manuscripts, correspondence, contracts, photographs, and scrapbooks, plus 131 diaries kept by Troubridge from 1930 to 1951 and other materials. The Center plans to digitize 38,400 images and make them available as an online digital archive on multiple platforms, including DPLA; enable FancyBox viewing of the images from within the finding aid; and utilize IIIF, Mirador viewer, and Canvas to allow sharing, side-by-side comparison of literary drafts, annotations, and foster teaching with online resources. The project will provide worldwide access for scholars, educators, students, and interested communities to a highly significant LGBTQ resource remarkable for its content and comprehensiveness."
+hc_id: "26211718"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Harry Ransom Center at The University of Texas at Austin"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>24.62 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$163,967"
+material_description:  "The Radclyffe Hall and Una Vincenzo, Lady Troubridge Papers were acquired between 1960 and 1999, with the bulk purchased from Troubridge’s godson. Hall’s papers account for about 60% of the archive and include handwritten notebooks and typescript drafts for ten novels and thirty short fiction and prose works, correspondence, business papers, photographs, and scrapbooks. The papers include Hall’s notebooks and drafts of The Well of Loneliness, materials related to its British obscenity trial, and more than 650 letters Hall wrote between 1934 and 1942 to Evguenia Souline, a Russian émigrée with whom Hall had an extended affair. The Troubridge papers, dominated by 131 diaries dated 1930 to 1951, also include correspondence (with nearly 70 letters from Troubridge to Souline), drafts of her biography of Hall, the literary translations for which she was best known, and photo and clipping albums. Diary entries following Hall’s death in 1943 are written in the form of letters to Hall. The Hall-Troubridge Papers are an important resource for scholars of twentieth century literature and culture. The materials related to the censorship of The Well of Loneliness demonstrate how it made lesbianism visible to a broad public despite the official ban in England. The papers support the study of Hall as a writer, Troubridge as a sculptor and translator, Hall and Troubridge’s partnership, and their interactions in various literary circles. The writings, correspondence, and diaries offer insight into subjects including gender identity, lesbianism, and sexuality; spiritualism and religion; and socio-political movements spanning the two world wars."
 ---
-
-

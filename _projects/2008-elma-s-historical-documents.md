@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Elma's Historical Documents
+title: "Elma's Historical Documents"
+year: 2008
+end_range: 1970
+formats: "NULL"
+geographic_extant: "The geographic scope of the project will include the Town of Elma, and the villages of Lancaster, Marilla and Wales."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Marlene Baumgartner"
+size: "50 boxes, 10000 objects"
+start_range: "1800"
+summary: "The collection under the care of the Elma Historical includes maps, journals, surveys, letters, ledgers, and other historic documents dating back to 1800 relating to the building of our Town. These records encompass all of Elma and surrounding towns of Lancaster, Marilla, the Town of Aurora and Wales. The documents can be broken down into topics, ie schools, political and community organizations. Many family documents include deeds, court records, pictures and scrapbooks relating to people in Elma. These items are valuable to the visitor wishing to explore their personal family history and geneology. Records include documents relating to the Ebenezers, when they were domiciled in Elma, and items of interest from the Seneca Nation and the Buffalo Creek Reservation. Topics include extensive records on the four covered bridges that were in Elma until 1921. These records include surveys, maps, letters and journals relative to the bridges. We have an records of the cemetaries in Elma including information on those cemetaries that are not already on line. Examples are family cemetaries that are located on private properties. The media,including newspapers from early Elma, film and audio records and equipment are permanent records of the lives and stories of local people, businesses, churches, sawmills and farms. This information is paramount in providing our residents, visitors and those interested in our local history with the tools and information they are seeking."
+hc_id: "285"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "127 Hessland Ct"
+address2:  "NULL"
+city:  "Elma"
+state:  "NY"
+zip: "14059"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging 230 Years of Research and Programs at the American Academy of Arts and Sciences
+title: "Cataloging 230 Years of Research and Programs at the American Academy of Arts and Sciences"
+year: 2009
+end_range: 2009
+formats: "NULL"
+geographic_extant: "Though the Academy has been based in the Boston area since 1780, the scope of its publications, membership, research projects and programs is global."
+institution: "American Academy of Arts and Sciences"
+institution_type: "NULL"
+primary_contact: "Leslie Berlowitz"
+size: "503 boxes, 170 objects"
+start_range: "1582"
+summary: "Cataloging 230 Years of Research and Programs at the American Academy of Arts and Sciences: This project will inaugurate the first major processing effort for the Academy’s newly established archives, starting with the records documenting its research and programs from its founding during the Revolutionary War to the present. Academy members were, and are, among the leaders and scholars whose work shaped policy and helped direct the course of science, humanities, and the arts in America. Their concerns for the welfare of American intellectual life have steered the Academy’s programs since 1780. Key topics documented in the archives include the natural and physical sciences; science’s value to society; medicine and public health; education; social issues such as race, poverty, immigration, religion and fundamentalism; language; scholarly publishing; and arms control, foreign affairs, and global security, among others. These topics will guide the organization and presentation of the collections to researchers. In addition, the project will reveal shifts in American intellectual history. The Academy’s cataloging project will ensure that its complete research and program records, once processed, cataloged, and described on its website, will be available to scholars for the first time. Guided by modern research needs, descriptions and sub-groupings of the collections will enable scholars to see our records in historical context by function and by subject themes."
+hc_id: "406"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "136 Irving Street"
+address2:  "NULL"
+city:  "Cambridge"
+state:  "MA"
+zip: "2138"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

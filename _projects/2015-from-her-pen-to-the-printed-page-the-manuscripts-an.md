@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: From Her Pen to the Printed Page: The Manuscripts and Working Papers of Elizabeth Barrett Browning
+title: "From Her Pen to the Printed Page: The Manuscripts and Working Papers of Elizabeth Barrett Browning"
+year: 2015
+end_range: 1861
+formats: "NULL"
+geographic_extant: "The materials represented cover primarily the United Kingdom (England), Italy and the United States."
+institution: "Baylor University"
+institution_type: "NULL"
+primary_contact: "Mr. Darryl Stuhr"
+size: "NULL"
+start_range: "1806"
+summary: "A partnership between Baylor University, Wellesley College and the University of Texas at Austin, the project will digitize more than 500 original manuscripts written by Victorian poetess Elizabeth Barrett Browning. Previously available only to scholars on an in-person basis, the collection will provide unprecedented access to documents that reveal important insights into EBB's creative process. The manuscripts, written in her own hand, are her early drafts of poetical works such as Calls on the Heart, The Lady's 'Yes' and The Poet's Record. The collection will also include proof copies of her works; these early printed versions of her published works often include Browning's handwritten notes as evidence of her input into the editing process. The resulting collection will feature high-resolution images, complete metadata, transcriptions and worldwide access via the Baylor University Libraries Digital Collections (http://digitalcollections.baylor.edu). The proposed collection will represent the single largest repository of EBB manuscripts available online."
+hc_id: "17512296"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Baylor University"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>553 Manuscripts</li>"
+collaborating_institution:  "Wellesley College; University of Texas – Austin"
+grant_amount:  "$126,830"
+material_description:  "The materials in this collection represent the early working papers, initial drafts and authorial feedback of Elizabeth Barrett Browning, one of the Victorian era's most revered and well-known poets. Drawn from the collections of Baylor University's Armstrong Browning Library; the special collections of Wellesley College; and holdings of the University of Texas at Austin; and other, smaller partners, the manuscripts provide unparalleled insight into Browning's creative process, keen eye for detail and persistence in presenting her materials in their purest form. The digital collection will feature high resolution images of the manuscripts as well as plain text transcriptions of each work for keyword search functionality, quick reading and easier discovery by online search engines."
 ---
-
-

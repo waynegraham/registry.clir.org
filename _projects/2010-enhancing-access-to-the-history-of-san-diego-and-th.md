@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Enhancing Access to the History of San Diego and the Border Region
+title: "Enhancing Access to the History of San Diego and the Border Region"
+year: 2010
+end_range: 1999
+formats: "NULL"
+geographic_extant: "City and County of San Diego, Mexico's Baja California, Southern California, California in general and select materials from other U.S. regions."
+institution: "San Diego Historical Society"
+institution_type: "NULL"
+primary_contact: "Jane Kenealy"
+size: "272 linear feet"
+start_range: "1815"
+summary: "San Diego alone among California’s three largest cities has an historical organization specifically dedicated to documenting its history. Founded in 1928, SDHC is the primary repository for historical materials of all kinds relating to the San Diego region. Among the institution's greatest treasures are its archival collections, which are complemented by related holdings including 2.5 million photographs and major collections of maps, ephemera, oral histories, and other materials that support scholarly research. SDHC has 284 archival collections. Support is requested to create finding aids for 133 collections for which only very preliminary finding aids (83), or no finding aids of any kind (50), exist. In addition, processing will be required for those among the 133 collections which are inadequately arranged. Only 10 finding aids of any kind are currently available via the SDHC website. Therefore, for all practical purposes SDHC's archival holdings are largely invisible to scholars. The 133 collections document topics such as Indians, filibustering expeditions into Mexico, commercial activities on both sides of the border, the temperance movement, and women's history. Collectively, they constitute a comprehensive portrait of the history and evolution of American's ninth largest city and the surrounding region, including Baja California."
+hc_id: "638"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1649 El Prado, Suite 3"
+address2:  "NULL"
+city:  "San Diego"
+state:  "CA"
+zip: "92101"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$162,100"
+material_description:  "NULL"
 ---
-
-

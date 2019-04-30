@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging Maps of New Jersey and the Mid-Atlantic Region
+title: "Cataloging Maps of New Jersey and the Mid-Atlantic Region"
+year: 2008
+end_range: 1994
+formats: "NULL"
+geographic_extant: "The maps depict all or part of New Jersey, including Mid-Atlantic regional maps that include all or significant parts of the state."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Ronald Becker"
+size: "3850 objects"
+start_range: "1630"
+summary: "The 3,600 printed and 250 manuscript maps in the project pertain to the Mid-Atlantic region and primarily depict New Jersey and its constituent parts. The maps date from the 1630s to 1994, but especially from the 1770s onward. The maps include topographic, geological, boundary, zoning, insurance, real estate, land ownership, promotional, advertising, recreational, transportation, and historical depictions, as well as a number of aviation guides and charts of rivers, bays, and coastlines. The maps were made by or for commercial map publishers, governments, businesses, nonprofit groups, and individuals. The media employed are paper, cloth, and cloth-backed paper. Some maps are in one color; many exhibit several colors. The maps range in size from under one-foot square to several feet in each dimension."
+hc_id: "23"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "169 College Avenue"
+address2:  "NULL"
+city:  "New Brunswick"
+state:  "NJ"
+zip: "08901-1163"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

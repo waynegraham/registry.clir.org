@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Entrenched Ephemera: A Multilingual Collection of First World War Postcards, Posters, Photos, Pamphlets, and Scrapbooks from the Blavatnik Archive and McGill University Library and Archives
+title: "Entrenched Ephemera: A Multilingual Collection of First World War Postcards, Posters, Photos, Pamphlets, and Scrapbooks from the Blavatnik Archive and McGill University Library and Archives"
+year: 2017
+end_range: 1914
+formats: "NULL"
+geographic_extant: "The material was produced in nations on both sides of the hostilities. Most are German, but others come from France, United Kingdom, Belgium, Holland, Russia, the United States, and Canada. The postcard images present publisher host countries, as well as Austria-Hungary, Ottoman Empire, Serbia, Poland, Lithuania Italy, Greece, and Bulgaria."
+institution: "Blavatnik Archive Foundation"
+institution_type: "NULL"
+primary_contact: "Ms. Julia Reines Chervinsky"
+size: "NULL"
+start_range: "1914"
+summary: "The Blavatnik Archive Foundation and the McGill University Library and Archives (as a unit of The Royal Institution for the Advancement of Learning/McGill University) propose a 24-month collaborative project to digitize, describe, and make freely available online 22,839 pieces of World War I ephemera. These multilingual postcards, posters, photos, pamphlets, and scrapbooks provide personal glimpses into life on the battlefield and the home front in Europe and North America. The postcards in particular will provide fresh insights into a continent at war, straight from the pen of those who lived it. In consultation with end users, we will develop rich metadata and harness the strength of crowdsourcing for the transcription and translation of the postcards. The material will be made significantly more accessible than if just digitized, allowing researchers from multiple disciplines and genealogists to mine this content deeply and trace communication networks and family members spread throughout the conflict."
+hc_id: "25792435"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Blavatnik Archive Foundation"
+p2_name:  "Ms. Jenn Riley"
+p2_institution:  "McGill University Library and Archives"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>20238 postcards</li>"
+collaborating_institution:  "The Royal Institution for the Advancement of Learning/McGill University"
+grant_amount:  "$205,989"
+material_description:  "The material selected for digitization includes: -20,000 postcards containing correspondence from the larger Blavatnik Archive World War I postcard collection. Predominantly published in German and French, but includes English, Russian, and Belgian cards written and mailed during the war. These are supplemented by 238 mostly unused postcards from the McGill Library collection. The cards portray many aspects of the war: military actions; weaponry; military life; leaders; women; and war damage. Recent purchase. -400 photographs with separate captions produced by Underwood & Underwood, a New York-based photo news agency. Images from France, Holland, Belgium, Germany, Poland, and Russia show soldiers in training and action, battles and related scenes of military life and war. This has been in the McGill Library for many years. -1,480 World War I pamphlets, published 1914-1920, that cover all aspects of the war and its aftermath, including: propaganda; recruitment; alleged atrocities; submarine warfare; and the Paris Peace Conference. Published by governments and non-governmental groups in the United Kingdom, the United States, and Canada, and collected by Montrealers who donated to the McGill Library. -Headline History of the Great War – 15 196-page scrapbooks, created and donated to McGill by noted Canadian military author Robert Fetherstonhaugh (1892-1949), containing newspaper headline clippings and images. Mostly Montreal English-language press. -706 war posters, predominantly German, plus British, French, American, and Belgian. Striking texts and images promote military recruitment, labor in war industries, purchasing bonds, and military concerts. Many appear to have been collected by McGill during the war. Excellent condition."
 ---
-
-

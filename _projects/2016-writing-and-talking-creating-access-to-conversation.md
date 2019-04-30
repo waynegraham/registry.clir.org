@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Writing and Talking: Creating Access to Conversations with 20th Century Writers in the collection of WNYC's "New York & Company"
+title: "Writing and Talking: Creating Access to Conversations with 20th Century Writers in the collection of WNYC's \"New York & Company\""
+year: 2016
+end_range: 2001
+formats: "NULL"
+geographic_extant: "All interviews for New York & Company took place at the WNYC studios, located a 1 Centre St, New York, NY 10007. However, the interviewees in the recordings represent voices, stories, and perspectives from every corner of the world."
+institution: "New York Public Radio"
+institution_type: "NULL"
+primary_contact: "Mr. Andy Lanset"
+size: "NULL"
+start_range: "1985"
+summary: "We propose to digitize 1,700 tapes (1/4\" reel, audio cassette and F-1 Beta) of \"New York & Company,\" now known as \"The Leonard Lopate Show,\" WNYC's Peabody Award winning arts, culture, and public affairs radio program hosted by Leonard Lopate. The tapes, recorded between 1985 - 2001, feature conversations with many of the most notable and historically significant writers of the past 30 years: authors, playwrights and poets, journalists, critics, and historians, who have each made indelible marks on the arts and public humanities. Recordings of the program since 2002 have been digitized and are largely available to the public. By digitizing these earlier recordings, we aim to create a complete, publicly available resource of primary source material to be used by scholars, historians, artists, journalists, and the general public to discover new insights about familiar writers, spark curiosity, and create greater understanding of our written culture and our world."
+hc_id: "22238342"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "New York Public Radio"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>50 Audio Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$250,000"
+material_description:  "For 30 years, Leonard Lopate has conducted in-depth interviews with writers, actors, presidents, economists, scientists, dancers, historians, filmmakers and more. His program has won a George Foster Peabody Award and three Associated Press Awards. We seek to digitize 2,350 hours of conversations with some of the most influential playwrights, authors, and historians of the 20th century, making these previously inaccessible materials widely available for scholarly use. Interviews are 20-60 minutes. Playwrights range from Edward Albee to Ntozake Shange to Horton Foote, who is perhaps most well known for writing the screenplay for the film \"To Kill A Mockingbird.\" Foote was the recipient of the Pulitzer Prize for Drama in 1995 and received numerous Emmys for this work in television. Foote appeared numerous times on the show during the late 1990s to discuss his life, works, and career in film, television, and theatre. Historians include Arthur Schlesinger, Howard Zinn, Ian Buruma and Rosalyn Baxandall. An interview with Robert Caro takes place in 1990, after he won the The National Book Critics Circle Award for Best Nonfiction Book of the Year for volume two of his five-volume biography of Lyndon Johnson. In 1994, Lopate interviewed one of the most prominent intellectuals alive today, Henry Louis Gates, Jr., about his memoir, \"Colored People,\" race relations in America, and life as an African American in the 1950s. Authors include Oscar Hijuelos, Fay Weldon, Susan Cheever, Studs Terkel, Chaim Potok, Amos Oz, Barbara Kingsolver, and others. In 1999, Lopate interviewed Salmon Rushdie about his novel, \"The Ground Beneath Her Feet,\" one year prior to Rushdie moving to the U.S. after facing a fatwa. Nobel Prize winner Doris Lessing visited Lopate in 1994 to discuss the first volume of her autobiography, \"Under My Skin: Volume I,\" her career, and her early life in Zimbabwe."
 ---
-
-

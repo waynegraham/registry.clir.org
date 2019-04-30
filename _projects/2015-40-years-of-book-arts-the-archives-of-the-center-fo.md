@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: 40 Years of Book Arts: The Archives of the Center for Book Arts
+title: "40 Years of Book Arts: The Archives of the Center for Book Arts"
+year: 2015
+end_range: 0
+formats: "NULL"
+geographic_extant: "The Archive focuses on the Center and New York over the last 40 years, however materials come from all parts of the United States. Approximately three-quarters of the prints and broadsides were created at the Center, while the remainder was created throughout the world but primarily United States."
+institution: "The Center for Book Arts"
+institution_type: "NULL"
+primary_contact: "Mr. Alexander Campos"
+size: "NULL"
+start_range: "1965"
+summary: "The Center for Book Arts is seeking funds to catalog and digitize two distinct parts of our permanent collections: Institutional Archives and Prints Collection in our Fine Arts Collection, with the intention of opening them to researchers, scholars, artists, and students. The Center is dedicated to advancing contemporary and traditional book arts practices. We seek to facilitate communication between the book arts community and the larger spheres of contemporary visual and literary arts. The Center's Archive contains the record of its forty-year history of exhibitions, publications, courses, and ephemera. While being a discrete component within the Fine Arts Collection, the Prints collection includes relief prints such as woodcuts, letterpress broadsides, etchings, and other oversize flat paper items, most of which were produced at the Center. Together, the Center's Archive and this Prints Collection, chronicle an under-studied part of New York's artistic and literary scene from the 1970s to the present."
+hc_id: "17595771"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Center for Book Arts"
+p2_name:  "Mr. Paul"
+p2_institution:  "Development Manager"
+p3_name:  "Mr."
+p3_institution:  "NULL"
+material_string: "<li>70 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$50,000"
+material_description:  "The Archives Collection of the Center for Book Arts includes records, publications, and ephemera that document the history of our programmatic and administrative operations including exhibitions, classes, and events. The Center was the first institution in the United States dedicated to book arts, and its activities, especially in exhibitions, helped define this emerging field. The exhibitions archives demonstrate the wide net cast by the Center in organizing exhibitions in its forty year history. The Archive includes documents and photographs relating to exhibitions, educational activities, as well as water-shed events such as arts conferences held in 1977 and 1990 at the Center and 1984 at Columbia. The Center's course catalogues document early non-industry training in book arts. The Center's ephemera demonstrate the ways book artists engaged in dialogue with in the local arts and literary community. Topics in the archives include book arts, (letterpress printing, relief printing, bookbinding, paper marbling, and calligraphy), but also extend to social issues.\n\n\n\nThe majority of the Archive is flat paper or bound, including papers, records, publications such as exhibition and class catalogues, ephemera, and photographs, and artist member data, including artwork slides. For digitization, we expect to focus upon exhibitions, public programs, publications and promotion. (We will review the extent to which the Center will digitize artist member slides and supporting documentation.)\n\n\n\nThe Prints Collection within the Center's Fine Arts Collection consists of approximately 1000 uncatalogued flat paper art works, mostly using relief processes. Approximately three-quarters were created at the Center, including 250 letterpress broadsides printed since 2000 as part of our poetry readings, with poet-alumni including Charles Bernstein, and Grace Paley. In addition, relief prints created by past Artist Iin Residence, exhibiting artists, and instructors. Topics in this collection include personal and introspective forms, exhibitions on politics, race, misogyny, and homophobia and other topics."
 ---
-
-

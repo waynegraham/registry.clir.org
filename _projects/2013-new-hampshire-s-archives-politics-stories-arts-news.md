@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: New Hampshire's Archives: Politics, Stories, Arts & News - Preserving NH's Pulse
+title: "New Hampshire's Archives: Politics, Stories, Arts & News - Preserving NH's Pulse"
+year: 2013
+end_range: 2013
+formats: "NULL"
+geographic_extant: "Statewide with national relevance."
+institution: "New Hampshire Public Radio"
+institution_type: "NULL"
+primary_contact: "Rebecca Kates"
+size: "50000 objects"
+start_range: "1981"
+summary: "NHPR's archives represent a historical snapshot of NH with national relevance, captured on a variety of media, from reel to reel tape to digital formats, from the past 30 years. Some examples include interviews with presidential candidates, musical guests, national celebrities such as Christa McAuliffe, Bishop Gene Robinson, authors including Ken Burns, and poets including Donald Hall and Charles Simic. NHPR is the only statewide media outlet in New Hampshire, and has over 30 years of material that documents news, stories, events, arts and culture that have a statewide and often national importance. Much of today's news and events can be better understood within a historical context, yet much of this information is inaccessible though it exists. Once the collection is made available, other organizations throughout the state and indeed, the country, will be able to learn from the material and incorporate it into their missions for their constituents."
+hc_id: "1176"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "2 Pillsbury Street"
+address2:  "6th Floor"
+city:  "Concord"
+state:  "NH"
+zip: "3301"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

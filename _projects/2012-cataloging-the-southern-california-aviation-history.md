@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging the Southern California Aviation History Collection
+title: "Cataloging the Southern California Aviation History Collection"
+year: 2012
+end_range: 2012
+formats: "NULL"
+geographic_extant: "The publications in our collection focus on aviation in the U.S., with the understanding of the global nature of aviation."
+institution: "Planes of Fame Air Museum"
+institution_type: "NULL"
+primary_contact: "Karen Hinton"
+size: "55000 objects"
+start_range: "1920"
+summary: "Our Southern California Aviation History Collection is diverse and voluminous, collected over 80 years, both by the museum and other aviation historians. The Museum, based in Southern California--the region itself focal point for the 20th-century aviation industry--began collecting books, photographs, technical manuals, ephemera and personal papers related to aviation from the Museum's founding in 1957 as part of its mission to preserve the history of aviation. Today the Museum holds a vast collection of over 50,000 items (books, magazines, event programs and posters, newsletters, aircraft logs) in its library as well as over 5,000 technical manuals. In addition, the Museum houses twenty large boxes of photographs/slides and almost 800 aviation films in 16mm and VHS format. Because our collection is currently stored in multiple locations and less than half has been inventoried, we do not truly know how many unique and rare books and other archival materials we have. Completion of this project would, therefore, open an untapped resource to scholars, researchers and aircraft restorers. The majority of our collection deals with aviation in the United States."
+hc_id: "852"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "7000 Merrill Ave #17"
+address2:  "NULL"
+city:  "Chino"
+state:  "CA"
+zip: "91710"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

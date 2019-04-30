@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Increasing Access to Africana Collections: The American Committee on Africa and The Africa Fund Records
+title: "Increasing Access to Africana Collections: The American Committee on Africa and The Africa Fund Records"
+year: 2011
+end_range: 2001
+formats: "NULL"
+geographic_extant: "This project documents anti-colonial and liberation movements across Africa, as well as support for those causes within the United States."
+institution: "Amistad Research Center"
+institution_type: "NULL"
+primary_contact: "Christopher Harter"
+size: "520 linear feet"
+start_range: "1966"
+summary: "In this project, the Amistad Research Center processed and cataloged two organizational collections devoted to the decolonization of Africa. The American Committee on Africa (1953-2001) and The Africa Fund (1966-2001) worked to educate the American public and American policymakers on the legitimacy of African liberation movements and to provide assistance to liberation movements and the victims of colonial oppression in Africa. These collections consist of 520 linear feet of the publications and records of the American Committee on Africa addendum (1968-2001) and The Africa Fund (1966-2001). The processing of these records will expand access to materials that document human rights and political activities within many African countries, United States relations with Africa, as well as divestment campaigns and anti-apartheid and pro-African liberation movements in the United States and throughout Africa. These collections provide a comprehensive picture of two important, related liberal reform organizations, with insight into the sociology of left-liberal political groups of American and African activists."
+hc_id: "839"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Tilton Hall - Tulane University"
+address2:  "6823 St. Charles Ave."
+city:  "New Orleans"
+state:  "LA"
+zip: "70118"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$238,200"
+material_description:  "NULL"
 ---
-
-

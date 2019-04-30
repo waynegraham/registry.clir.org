@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Expanding Access to Native American Film & Video of the Western Hemisphere
+title: "Expanding Access to Native American Film & Video of the Western Hemisphere"
+year: 2010
+end_range: 2010
+formats: "NULL"
+geographic_extant: "Materials represent Native mediamakers from throughout the Western Hemisphere, from the Arctic Circle to the tip of Chile, including Alaska and Hawaii"
+institution: "National Museum of the American Indian"
+institution_type: "NULL"
+primary_contact: "Elizabeth Weatherford"
+size: "2000 objects"
+start_range: "1970"
+summary: "The National Museum of the American Indian's Film and Video Center [F&VC] contemporary Media Collection is one of the world's most important and comprehensive study collections of films and videos by and about Native Americans. It is truly unique in both its content and scope. Works include significant productions made since the mid-1970s, when Native media-makers first began creating films and videos in the U.S. The Collection also includes social documentaries and works for broadcast by non-Native independent filmmakers dating from the 1970s to the present day. Many works in the Collection -- particularly those produced by Native Americans during the past 10 years--are works of creative expression that reflect the diversity of Native viewpoints and the many interests of Native communities throughout the Americas. They include narrative and documentary features, short subjects, comedies, animations, and youth productions, both fiction and non-fiction. A significant number have been produced in Spanish, Portuguese or French and in indigenous languages such as Hata Kui, Yup'ik, Cree, Tzotzil and Quechua (many now have English or Spanish subtitles). The Collection also features a significant number of unique video and audio recordings made by the F&VC since 1984. These include interviews with indigenous filmmakers and documentation of discussions with filmmakers during NMAI screening programs and media symposia."
+hc_id: "643"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1 Bowling Green"
+address2:  "NULL"
+city:  "New York"
+state:  "NY"
+zip: "10004"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

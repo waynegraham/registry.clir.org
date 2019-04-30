@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Colonial Williamsburg Architectural Research Slide Collection, Phase 1 Digitization
+title: "Colonial Williamsburg Architectural Research Slide Collection, Phase 1 Digitization"
+year: 2016
+end_range: 1959
+formats: "NULL"
+geographic_extant: "The heart of the collection is the Chesapeake region, though it includes hundreds of early buildings from the east coast of the United States. A second phase of the project would catalog images of buildings outside North America, the balance of the collection."
+institution: "Colonial Williamsburg Foundation"
+institution_type: "NULL"
+primary_contact: "Dr. Jeffrey Klee"
+size: "NULL"
+start_range: "1959"
+summary: "The Architectural Research Department of the Colonial Williamsburg Foundation will digitize 50,000 slides and 200 4\"x5\" transparencies of buildings, sites, and objects taken by its members over a 45 year period between 1959 and 2004. Descriptive metadata for each image will be provided. The core of the collection features buildings located in the Chesapeake region dating from the seventeenth through the mid-nineteenth century. The images include decorative details and structural features, as well as more general views of dwellings, slave quarters, agricultural structures, churches, commercial and public buildings. In Phase I, the collection's American buildings will be digitized. The scope is broad ranging from New England southward. These images will be placed online at SAHARA, the digital image archive developed by the Society of Architectural Historians in collaboration with Artstor."
+hc_id: "22039682"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Colonial Williamsburg Foundation"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>50200 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$249,372"
+material_description:  "From 1959 through 2004, the Architecture and later the Architectural Research Departments of the Colonial Williamsburg Foundation created a working slide collection of buildings, sites, and features for research projects that were conducted to inform the restoration and reconstruction of buildings in the museum's Historic Area. Building upon a tradition begun in the late 1920s by the first generation of restoration architects, architectural historians conducted extensive fieldwork in Tidewater Virginia, Maryland, and the Carolinas, recording in drawings, black-and-white photographs, and by the late 1950s, color slides, thousands of sites from the colonial and early national periods. These scholars also extended their research to other regions in North America, the Caribbean, Great Britain, and Europe as specific projects warranted. For example, in the 1980s research on court buildings and markets led to the investigation of surviving early public buildings in Virginia and other east coast states, as well as a survey of shire halls, town halls, and market houses in England. Besides general views of individual buildings, this material included detailed images of framing systems, brick construction, courtroom fittings and other architectural details. More than 5,000 slides resulted from this one research project. A large number of the buildings that have been recorded since 1959 have disappeared due to neglect or development. These images of kitchens, dairies, smokehouses, barns, and slave quarters are often the only documentation of buildings that have now been destroyed, making this collection all the more valuable due to the increasing rarity of these building types. All the images in this collection were taken by a half dozen members of the Colonial Williamsburg research departments and are the property of the Foundation. With accompanying metadata, these images will be extremely valuable to scholars and others in a searchable digital database."
 ---
-
-

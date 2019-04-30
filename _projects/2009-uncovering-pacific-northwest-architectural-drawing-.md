@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Uncovering Pacific Northwest Architectural Drawing Collections
+title: "Uncovering Pacific Northwest Architectural Drawing Collections"
+year: 2009
+end_range: 2000
+formats: "NULL"
+geographic_extant: "Pacific Northwest, Alaska; includes projects from outside the region--other states and countries such as Brazil and India."
+institution: "UW Libraries"
+institution_type: "NULL"
+primary_contact: "Nicolette Bromberg"
+size: "400000 objects"
+start_range: "1889"
+summary: "The project will focus on a series of approximately 100 collections of architectural drawings (about 400,000 drawings) from architects, landscape architects and architectural firms in the Pacific Northwest from 1889 to 2000 that document a wide range of the built environment such as residences, industrial and public buildings, churches, hospitals, schools, and vernacular buildings including gas stations, and motels. The majority of the materials are working drawings on drafting linen or tracing paper, but also included are design sketches and rendered presentation drawings. The quality of the work ranges from artistic renderings, that have been exhibited in museums, to site plans, elevations, design drawings and simple idea sketches. This archive of architectural drawings is the largest and most comprehensive in the Pacific Northwest and continues to grow in both size and importance to researchers. The collections document the contribution of Northwest architects to American architecture. Some of the architects represented include John Graham, who designed the Seattle Space Needle and the first successful shopping mall in the U.S.; Elizabeth Ayer, the first woman architect registered in Washington state; Minoru Yamasaki, the designer of the World Trade Center; Paul Kirk, a founder of Northwest Modernism, and modern architect, Roland Terry, noted for his innovation in interior design."
+hc_id: "514"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Special Collections"
+address2:  "482 Allen Library"
+city:  "Seattle"
+state:  "WA"
+zip: "98195"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Rescuing Mid-Century Modern: Exposing Hidden Architectural Collections
+title: "Rescuing Mid-Century Modern: Exposing Hidden Architectural Collections"
+year: 2009
+end_range: 1994
+formats: "NULL"
+geographic_extant: "The projects are primarily in California, but also located throughout the 50 states, Canada, Virgin Islands, Australia, Lebanon, England and Korea."
+institution: "Environmental Design Archives"
+institution_type: "NULL"
+primary_contact: "Waverly Lowell"
+size: "276 linear feet, 34450 objects"
+start_range: "1914"
+summary: "Four important California architects created the materials in this proposal. Although the strength of their records lies with a range of typologies documenting mid-century modernism, they also document the precedents and influence of that period in later designs. These designers were widely recognized during their time but now are less well-known because their records have been unavailable. Collections contain drawings, photographs, & manuscripts. The bulk dates are 1940-1975. Warren Callister’s first house (1942) received national attention and believing that architecture could affect social dynamics, his design for the retirement community Rossmore won him national recognition. Ernest Kump shot into national prominence for his radically modern Fresno City Hall (1941) selected by NY MOMA as one of the most significant American structures built between 1932 and 1944. An internationally recognized expert in school architecture, Kump designed many public schools and community colleges in California (1940s-60s). A prolific inventor who held 59 international and U.S. patents, in 1970 he created Tekkto Systems to explore the potential of space age technology for mass production of low-cost housing. Donald Olsen’s unique international style modernist designs stand out in Northern California. Two of his homes received landmark status in 2009. Hans Ostwald managed an extensive residential practice winning an Honor Award from the AIA for his 1953 Wienand house in San Francisco."
+hc_id: "561"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Environmental Design Archives"
+address2:  "University of California"
+city:  "Berkeley"
+state:  "CA"
+zip: "97420-1820"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

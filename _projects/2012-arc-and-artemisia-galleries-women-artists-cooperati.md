@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: ARC and Artemisia Galleries: Women Artists' Cooperatives in Chicago
+title: "ARC and Artemisia Galleries: Women Artists' Cooperatives in Chicago"
+year: 2012
+end_range: 2007
+formats: "NULL"
+geographic_extant: "Many of the founding members were graduates of the School of the Art Institute of Chicago and from the Midwest. As the galleries increased in prominence they featured artists from across the country."
+institution: "Ryerson & Burnham Libraries"
+institution_type: "NULL"
+primary_contact: "Jennifer Oatess"
+size: "105 boxes, 125 cubic feet"
+start_range: "1973"
+summary: "Artemisia and ARC Galleries were the first women artists' cooperatives in the Midwest, opening in Chicago in September 1973. At the time women artists were marginalized in the art world and established both galleries to counter the prevailing male domination of the art world - the women needed to create their own exhibition space, control the programming, establish mentoring relationships, and have a space where they could freely and openly discuss feminist art, theory and other issues. They also reached out to artists across the country inviting them to exhibit and to speak, including Judy Chicago, Ruth Iskin, Cindy Nemser, Arlene Raven, and Miriam Schapiro. The galleries presented important feminist art exhibitions: ARC's “A Day in the Life, 24 Hours in the Life of a Creative Woman” and Artemisia's “Both Sides Now: an International Exhibition Integrating Feminism and Leftist Politics” both curated by Lucy Lippard. The collections contain exhibition catalogs, installation photographs, and artists' portfolios that were submitted for review, press coverage, and business records. ARC Gallery continues in business and has made a commitment to continue to deposit its papers at the Art Institute. Artemisia Gallery closed in 2003."
+hc_id: "940"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "111 South Michigan Avenue"
+address2:  "NULL"
+city:  "Chicago"
+state:  "IL"
+zip: "60603"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

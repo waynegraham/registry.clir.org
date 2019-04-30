@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing the Case Western Reserve University Hidden Astronomical Photographic Plate Collection
+title: "Digitizing the Case Western Reserve University Hidden Astronomical Photographic Plate Collection"
+year: 2016
+end_range: 1994
+formats: "NULL"
+geographic_extant: "The plates contain astronomical images taken with a telescope originally located in East Cleveland, Ohio. In the 1950's the telescope was moved to Geauga County's Montville Township in Ohio. It was moved again in 1978 to Kitt Peak National Observatory."
+institution: "Pisgah Astronomical Research Institute"
+institution_type: "NULL"
+primary_contact: "Dr. Michael Castelaz"
+size: "NULL"
+start_range: "1941"
+summary: "The purpose of this project is to digitize 17,000 direct and spectral astronomical survey plates taken from 1941-1990 as part of sky surveys by astronomers using the Case Western Reserve University's Burrell Schmidt telescope. The telescope used for the photography was initially located near Cleveland, OH, and was part of early efforts in establishing astrophysics of planets, stars, nebulae, and galaxies. The collection now resides at the Astronomical Photographic Data Archive (APDA) on the campus of the Pisgah Astronomical Research Institute (PARI) in Western North Carolina."
+hc_id: "21293047"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Pisgah Astronomical Research Institute"
+p2_name:  "Mr. Thurburn Barker"
+p2_institution:  "Pisgah Astronomical Research Institute"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>17000 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$249,965"
+material_description:  "The astronomical photographs that are to be digitized were taken using the Case Western Reserve University's Warner and Swasey Observatory Burrell Schmidt telescope. The Burrell Schmidt telescope was built in 1939 and began operation in 1941. In 1978 the Burrell Schmidt telescope was moved to Kitt Peak National Observatory near Tucson, AZ. As digital cameras eventually replaced photographic emulsions as the standard for capturing telescopic images, funding for supporting photographic plate archives at universities and institutions dwindled. Awareness by some astronomers who knew about the neglect of many astronomical plate archives led to the formation of working groups in the International Astronomical Union (IAU) and American Astronomical Society (AAS) whose purpose is to educate professional astronomers about the value of historical plates and the need for plate preservation, digitization, and accessibility (online and/or physical access). Dr. Osborn of Central Michigan University became very active in these working groups. He was aware that the CWRU plate archive cabinets had been \"shrink-wrapped\" and moved to a basement for storage to free up space for other purposes. Access to the plates was now more difficult and their environmental conditions were now not controlled. Dr. Osborn urged CWRU to find a better home for their plate archive. Dr. Osborn knew Dr. Castelaz, the Science Director at PARI. Together, along with Don Cline, President of PARI, a commitment was made to set aside space at PARI to be used as a plate archive for at-risk archives. The result of this commitment was that PARI acquired a donation of 17,000 direct and spectral astronomical photographic plates from Case Western Reserve University in October, 2006. The Case Western Reserve University collection at PARI became a bright star at the International Workshop for Plate Preservation held at PARI in November, 2007. APDA was born."
 ---
-
-

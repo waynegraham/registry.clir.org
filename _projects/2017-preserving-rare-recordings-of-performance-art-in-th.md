@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Preserving Rare Recordings of Performance Art in the Franklin Furnace Video Collection
+title: "Preserving Rare Recordings of Performance Art in the Franklin Furnace Video Collection"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Franklin Furnace Archive, Inc."
+institution_type: "NULL"
+primary_contact: "Ms. Martha Wilson"
+size: "NULL"
+start_range: "NULL"
+summary: "As part of an ongoing multi-year preservation and access initiative to process the Franklin Furnace video collection in its entirety, Franklin Furnace (FF) requests funding to digitize its “at-risk” VHS tapes. The tapes to be processed are the only records of unique performance art works presented by the organization from the 1990’s forward. To date, a total of 77 viewing hours have been digitized. Rescued FF footage can be viewed by the general public on Vimeo, by the academic community on Artstor, and by on-site researchers in the offices of FF. The proposed project will utilize an existing workflow in which each tape is viewed and described by FF staff, then shipped to an outside vendor for cleaning, repair, and digitization. Upon return, the digitized files will be viewed for accuracy before being entered into an on-site central repository, backed up, and disseminated online."
+hc_id: "26686211"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Franklin Furnace Archive, Inc."
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "114 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$25,000.00"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: AxleGrease / Public Access Collection (APAC); Squealer / Public Access Collection (SPAC)
+title: "AxleGrease / Public Access Collection (APAC); Squealer / Public Access Collection (SPAC)"
+year: 2017
+end_range: 1985
+formats: "NULL"
+geographic_extant: "While this collection was created for Western New York's public, and Public Broadcasting systems and channels; the collection includes a wide range of internationally renowned artists and media artworks from across the United States."
+institution: "Squeaky Wheel Film and Media Art Center"
+institution_type: "NULL"
+primary_contact: "Ms. Maiko Tanaka"
+size: "NULL"
+start_range: "1985"
+summary: "Squeaky Wheel Film and Media Art Center Public Access Collection project's mission is to preserve, catalog, digitize and archive and make public Squeaky Wheel's AxleGrease and Squealer Public Access Collections (APAC & SPAC)."
+hc_id: "26013330"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Squeaky Wheel Film and Media Art Center"
+p2_name:  "Ms. Anna Scime"
+p2_institution:  "Squeaky Wheel Film and Media Art Center"
+p3_name:  "Mr. Mark Longolucco"
+p3_institution:  "Squeaky Wheel Film and Media Art Center"
+material_string: "<li>40 Audiovisual Recordings</li>"
+collaborating_institution:  "Hallwalls Contemporary Art Center; Burchfield Penney Art Center; State University of New York at Buffalo"
+grant_amount:  "$150,000"
+material_description:  "In 1987 Squeaky Wheel began producing a public access cable program, affectionately named for the idiom that Squeaky Wheel conjures – AxleGrease, a weekly installment of curated selections of experimental video art and documentary film from a wide array of local and national artists. At its core, the show was an experiment in and commentary on broadcast programming forms, and functions. Through the democratization of video technologies, Buffalo’s early independent media makers formed fluid collectives and coalitions to produce a wide range of public access cable television programming. Newly accessible and affordable video facilities and portable equipment, gave public access the potential to truly democratize media access at every level, as well as create a dialogue with other media broadcasting platforms. The Squealer is Squeaky Wheel’s media arts and culture journal first published when the organization was founded in 1985. The journal was seeded deeply in Squeaky Wheel’s effort to create a discourse within its community about the nascent field of media art. The Squealer functioned as part newsletter, part arts journal, and part artwork. The Squealer connected the theory, practice, and culture of seeing to the production of media, community activism, place making, and access. The magazine featured artists who produced work specifically for its pages and for AxleGrease. From the beginning, with its onomatopoeic moniker (extended in 1986 to the The Squeeeeeealer) operated to sound the alarm that the discourse of visual culture needed to be heard and analyzed as a multi-disciplinary course of study."
 ---
-
-

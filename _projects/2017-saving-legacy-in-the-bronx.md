@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Saving Legacy in the Bronx
+title: "Saving Legacy in the Bronx"
+year: 2017
+end_range: 2008
+formats: "NULL"
+geographic_extant: "The Hall of Fame for Great Americans has always been located in the Bronx, New York City, and the collection pertains to business carried out there."
+institution: "Research Foundation/CUNY on behalf of Bronx Community College"
+institution_type: "NULL"
+primary_contact: "Ms. Cynthia Tobar"
+size: "NULL"
+start_range: "1894"
+summary: "Bronx Community College (BCC) Archives seek funding for an arrangement and description project that will document the visual history of the Hall of Fame for Great Americans for BCC and for the wider New York City metropolitan area. The project will include identifying textual and visual materials for inclusion in a collection documenting the Hall of Fame; processing these materials; creating a collection-level record; and publishing a finding aid for the collection. The goal of this project is to document the Hall’s history and illustrate the decisive battles it survived—including funding struggles and ethnic conflicts—to remain a vital part of the Bronx and New York City."
+hc_id: "26308053"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Bronx Community College"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>40 Artifacts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$186,162"
+material_description:  "The Hall of Fame for Great Americans collection consists of 110 linear feet of photographs, documents, recordings, and artifacts related to the selection, election, induction and media coverage of individuals represented in the Hall of Fame located at Bronx Community College (BCC), formerly the site of a campus of New York University (NYU) from 1894-1973. Documents consist chiefly of office papers and correspondence to/from officers of the Hall of the Fame, but detailed provenance information has been lost as the collection did not receive professional archival attention until very recently. Photographs and recordings were carried out by NYU or BCC personnel to document ceremonies unveiling sculpture honoring inductees to the Hall and other events. The 102 inductees to the Hall, as well as dozens of nominees, are referred to in documents and photographs. Also documented are possible plans to move the Hall of Fame posited in the 1970s but never carried out that are related to city-wide budgetary problems of the time and also efforts from the 1980s to the present day by BCC to maintain the physical aspect of the Hall and find new educational uses for it."
 ---
-
-

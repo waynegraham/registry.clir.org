@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing Western Botanists and Beyond: Completing the Online Archives and Botanical Specimens of John and Sara Plummer Lemmon, Civil War Veteran, Women's Rights Activist, and noted Pioneer Botanists
+title: "Digitizing Western Botanists and Beyond: Completing the Online Archives and Botanical Specimens of John and Sara Plummer Lemmon, Civil War Veteran, Women's Rights Activist, and noted Pioneer Botanists"
+year: 2016
+end_range: 1927
+formats: "NULL"
+geographic_extant: "The papers are predominantly from California; however their correspondents were located throughout the United States and Europe. Sara's early letters document her life in New England and Santa Barbara. John's papers chronicle his war experiences in Georgia, South Carolina, and Tennessee. Diaries reflect travel to Arizona, Mexico, and New Orleans."
+institution: "University and Jepson Herbaria"
+institution_type: "NULL"
+primary_contact: "Dr. Bruce Baldwin"
+size: "NULL"
+start_range: "1855"
+summary: "The University and Jepson Herbaria propose a 1.5-year project to make freely available online the papers of the husband and wife botanical team and contemporaries of John Muir, John Gill Lemmon and Sara Plummer Lemmon. Their archives include correspondence, diaries, photographs, published and unpublished writing, and botanical specimens. Digitized archives material will be linked to existing finding aids in ArchivesSpace, and where available, existing transcriptions will be added to the metadata for each digital object to improve access. Digitized specimens will be made available via our existing specimen database, CollectionSpace, and links between the specimens and pertinent archives material will be created. Providing free access to this material online will benefit scholars in a variety of fields including botany, environmental science, history of science, American history, the Civil War, and women's history."
+hc_id: "22185742"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of California, Berkeley"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>12 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$161,103"
+material_description:  "John Gill Lemmon was a pioneer in western American botany who fought in the Civil War and was incarcerated in Andersonville Prison. He became interested in plants after moving to California to recuperate and write about his war experience. He discovered more than 140 plant species new to science, worked with John Muir, distributed his specimens to herbaria worldwide, and corresponded with leading scientists including Harvard's Asa Gray who named and published the new species. Lemmon married Sara Plummer who had started the first Library and Natural History Society in Santa Barbara, California. The two moved to Oakland, California, started their own herbarium (likely the earliest in the East Bay), and made extensive botanical collecting trips throughout the West, including a notable trip to Tucson after which Mt. Lemmon was named in Sara's honor. John was hired as the California Board of Forestry Botanist and Sara worked as his botanical illustrator; they traveled to the New Orleans Worlds Fair with a Forestry Exhibit. They published multiple works on trees for various audiences. Both were active in civic life and early conservation groups such as the Sierra Club and were contemporaries of John Muir, leaving a considerably larger botanical legacy than Muir. John served as Oakland City Councilman and Sara was active in the Red Cross and women's rights, leading to correspondence with Clara Barton and Lucy Stone. The Lemmon Papers consist of correspondence, writings, diaries, photographs, and personal papers. The Plummer Family Papers, part of the St. John Collection, contain correspondence between Sara and her family. Also included are letters from John before he and Sara married and letters from Sara and John back to her family. As husband and wife the Lemmon's combined lives, shared correspondence, and resulting archives cover many aspects of American life before the 20th century."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitization of the National Civil Rights Museum's Dr. Martin Luther King, Jr. Assassination Evidence Collection in Collaboration with Rhodes College
+title: "Digitization of the National Civil Rights Museum's Dr. Martin Luther King, Jr. Assassination Evidence Collection in Collaboration with Rhodes College"
+year: 2017
+end_range: 1975
+formats: "NULL"
+geographic_extant: "Memphis, various American states, London, England, Portugal"
+institution: "National Civil Rights Museum"
+institution_type: "NULL"
+primary_contact: "Dr. Noelle Trent"
+size: "NULL"
+start_range: "1967"
+summary: "The National Civil Rights Museum (“NCRM”) will partner with Rhodes College to plan and implement the digitization and creation of a digital collections management system of its Dr. Martin Luther King, Jr. Assassination Evidence Collection (“Evidence Collection”). From June 1, 2018-December 31, 2019, approximately 4,000 items, including documents, photographs and three dimensional artifacts will be digitized. The collection will be ingested into Rhodes College’s Crossroads to Freedom Digital Archive and made discoverable through Digital Library of Tennessee, Digital Public Library of America and Civil Rights Digital Library. Though some of this collection has been put online by the Shelby County Register of Deeds, it is not accordance with archival standards, without associated metadata or in a repository system. This project will result in true digital access to the Collection by the public and by scholars, allowing for greater understanding of one of the most historically significant events in American history."
+hc_id: "26893446"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "National Civil Rights Museum"
+p2_name:  "Ms. Raka Nandi"
+p2_institution:  "National Civil Rights Museum"
+p3_name:  "Dr. Suzanne Bonefas"
+p3_institution:  "Rhodes College"
+material_string: "<li>36990 Mixed Archival Collections</li>"
+collaborating_institution:  "Rhodes College"
+grant_amount:  "$204,562"
+material_description:  "The Evidence Collection provides a unique glimpse into the assassination of Dr. King, and has numerous items and documents that illuminate this tragic moment in American history. The collection is comprised of items collected in discovery by the Federal Bureau of Investigation, the Shelby County District Attorney and the Shelby County Clerk, which include various clippings from newspapers and other print publications. The collection contains criminal court documents in the case against James Earl Ray; both documents from the prosecution as well as the defense. Further, the collection has evidence provided by local authorities as well as reports by the FBI. The reports of the FBI provide a detailed account of both King and Ray’s movements up to that fateful day. In addition, there are numerous artifacts in the collection, including Ray’s clothes, personal items, and passports."
 ---
-
-

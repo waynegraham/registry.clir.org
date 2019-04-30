@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Hidden Collections: Gifts to the Library, 1980-1989
+title: "Hidden Collections: Gifts to the Library, 1980-1989"
+year: 2008
+end_range: 1990
+formats: "NULL"
+geographic_extant: "The geographical scope is Central and Eastern Europe."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Maureen Hart Hennessey"
+size: "1100 objects"
+start_range: "1400"
+summary: "The Clark has identified four discreet collections that were gifts to the library in its backlog of uncataloged materials that it would like to address with a CLIR grant: the Whitney S. Stoddard and S. Lane Faison gifts of Kleine Kunstf_hrer, German-language guides to Central European monuments published from 1934- present (ca. 700 titles); the George Heard Hamilton gift of materials covering modern European art (ca. 200 titles); the Wilhelmine Corinth Klopfer gift of materials related to the career of her father, Lovis Corinth, the German impressionist painter (ca. 100 titles); and a group of review copies of exhibition catalogues of contemporary art given to the library by numerous Eastern European museums and galleries, primarily Slovenian, during the 1980s, when the Clark housed the editorial offices of the Bibliography of the History of Art (ca. 100 titles)."
+hc_id: "312"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "225 South Street"
+address2:  "NULL"
+city:  "Williamstown"
+state:  "MA"
+zip: "01267-2878"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

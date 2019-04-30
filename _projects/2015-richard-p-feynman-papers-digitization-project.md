@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Richard P. Feynman Papers Digitization Project
+title: "Richard P. Feynman Papers Digitization Project"
+year: 2015
+end_range: 1988
+formats: "NULL"
+geographic_extant: "The scope of Feynman's correspondence is worldwide, extending throughout the global physics community. His working manuscripts were created mainly in the United States, principally in California after 1951. A small amount of material was created during his year as visiting professor in Brazil."
+institution: "California Institute of Technology"
+institution_type: "NULL"
+primary_contact: "Ms. Kristin Antelman"
+size: "NULL"
+start_range: "1933"
+summary: "The Caltech Archives acquired the personal papers of Richard Feynman in the period between 1968 and 1988. In 2015, on the 50th anniversary of Feynman's receipt of the Nobel Prize in physics and of the publication of The Feynman Lectures on Physics, the Archives proposes to digitize Feynman's papers in order to promote and preserve his legacy to the fullest extent possible using the best of current technology. This proposal would enable the \"hidden\" work of this eminent physicist and educator to be used by a wide range of scholars and the general public for study and research."
+hc_id: "17200341"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "California Institute of Technology"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>39 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$246,595"
+material_description:  "The Richard P. Feynman collection in the Archives of the California Institute of Technology (Caltech) contains the personal and scientific papers of the most renowned American physicist of the later 20th century. Feynman began to donate his papers to the Caltech Archives in 1968. The donation was completed following his death by his widow, Gweneth Feynman. Feynman held the Richard Chace Tolman professorship of theoretical physics at Caltech from 1951 until his death in 1988. \n\n\n\nFeynman was born in Queens, New York City, on May 11, 1918. In 1939 he received his BS degree in physics from MIT and in 1942, his PhD from Princeton University under John A. Wheeler. After three years working on the Manhattan Project, Feynman was recruited by Hans Bethe\"”Nobel Prize in physics, 1967\"”to Cornell, where he spent six years. Feynman was best known for his contributions to quantum mechanics, the development of quantum electrodynamics (QED), superfluid helium and particle physics. For his discoveries in QED Feynman won the Nobel Prize in physics, together with Julian Schwinger and S. I. Tomonaga, in 1965. As part of this work he invented what came to be known as \"Feynman diagrams,\"  visual representations of space-time particle interactions. \n\n\n\nThe Feynman papers at Caltech contain correspondence with the greatest names in late 20th-century physics: Hans Bethe, Niels Bohr, Enrico Fermi, Werner Heisenberg, J. Robert Oppenheimer, Hideki Yukawa. Original texts and notes for many lectures, including the original handwritten notes for the celebrated Feynman Lectures on Physics, are preserved. A vast amount of working notes and calculations show the intensity of Feynman's work on a wide array of problems of interest to him, much of which was never published. Feynman's participation in the space shuttle Challenger investigation in 1986 is also documented. Two boxes of audiovisual materials are included in the collection."
 ---
-
-

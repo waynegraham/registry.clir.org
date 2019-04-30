@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Women in Science: Behind the scenes
+title: "Women in Science: Behind the scenes"
+year: 2014
+end_range: 1995
+formats: "NULL"
+geographic_extant: "National & international research sites"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "James Hanken"
+size: "5033 objects"
+start_range: "1908"
+summary: "The purpose of this project would be to make discoverable the papers, correspondence, manuscripts, drawings, notes, films and other research-related materials for successful women scientists with uncatalogued archives held by the Ernst Mayr Library of the Museum of Comparative Zoology: Tilly Edinger, Ruth Turner, Elizabeth Bangs Bryant & Myvanwy Dick. The audience will be scholars and students in the history of science, marine biology, arachnology and paleontology, particularly those with an interest in women scientists. These collection are well-suited to a grant because they are currently hidden to researchers."
+hc_id: "11586218"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "<li>5000 Audio (Including Speech And Music), Audiovisual, Dataset (Paper Based Or Electronic), Ephemera, Image, Manuscript, Text (Including Electronic Texts)</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

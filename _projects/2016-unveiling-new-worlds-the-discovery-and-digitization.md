@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Unveiling New Worlds: The Discovery and Digitization of Maps in Books at the John Carter Brown Library
+title: "Unveiling New Worlds: The Discovery and Digitization of Maps in Books at the John Carter Brown Library"
+year: 2016
+end_range: 1493
+formats: "NULL"
+geographic_extant: "Despite the JCBL's focus on the Americas, the maps to be digitized during this project span the globe: from the Sea of Japan to the Arctic (the \"Northern or Icy Ocean\") and from large-scale maps of Europe to charts of the Western Hemisphere, including cosmographic maps (see sample illustrations)."
+institution: "The John Carter Brown Library at Brown University"
+institution_type: "NULL"
+primary_contact: "Dr. Neil Safier"
+size: "NULL"
+start_range: "1493"
+summary: "With an eye toward revealing undiscovered cartographic treasures for new scholarly audiences, this 2-year project undertaken by the John Carter Brown Library will digitize all maps within cataloged books from the Library's peerless collection of materials related to the history of the Americas from the time of European discovery (1492) through the end of the colonial period (circa 1825). Averaging six per title in approximately 2,500 titles (4,000 volumes), these maps will be scanned, described, and then uploaded into the Library's digitized image management system (Luna). Scholars from around the world use the Library's holdings to support and inform their scholarship, including the roughly 1,500 loose maps already digitized and freely available. This project will enable high-resolution access to an untapped cartographic resource that spans the globe and will provide an innovative entry point for researchers seeking out new historical worlds to analyze and explore."
+hc_id: "22370087"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "The John Carter Brown Library at Brown University"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>3902 Books</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$248,900"
+material_description:  "The collecting focus of the John Carter Brown Library (JCBL) is the history and culture of the early Americas (roughly 1492 to 1825), and this project will showcase and provide an innovative point-of-entry to approximately 2,500 titles held by the Library that contain historical maps of many shapes, sizes, and genres. The JCBL not only has extensive holdings in the literature of European exploration and travel in the Western Hemisphere -- from the first Latin edition of the Columbus letter of 1493 through nearly all of the contemporary narratives of French, Spanish, Portuguese, English, and Dutch discovery, exploration, and settlement -- but also holds hundreds of books and manuscripts written in or containing information on the many languages that are indigenous to the Americas, making it one of the most important repositories of its kind in the world. Maps that accompany these European and indigenous texts provide crucial information regarding the peopling of this hemisphere during a fundamental period in its history, not to mention information documenting cartographical practices during their early development across the globe. The sometimes mundane, sometimes partial maps that accompany texts -- understood for many years as merely illustrative of the texts themselves -- are now recognized as revelatory of much more significant processes, their presence having been occluded due to an emphasis on the more attractive, often colored views that were produced in atlases and sheet maps. Folded into the pages of printed books, these humble repositories of geographical content form the corpus to be revealed and digitized by this project. Although these maps were originally produced as part of a larger published work, most have not been scanned through recent mass digitization projects either because the map is missing from the original, or because foldouts were skipped (presumably deliberately) during the scanning process."
 ---
-
-

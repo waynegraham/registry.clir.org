@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Vermont Project (1944-1976): An Experiment in Building Race Relations
+title: "The Vermont Project (1944-1976): An Experiment in Building Race Relations"
+year: 2017
+end_range: 1943
+formats: "NULL"
+geographic_extant: "The geographic regions represented in this collection are limited to the Harlem community in New York City and various areas throughout the state of Vermont."
+institution: "Abyssinian Baptist Church"
+institution_type: "NULL"
+primary_contact: "Mr. John Reddick"
+size: "NULL"
+start_range: "1943"
+summary: "The Vermont Project Collection documents a little known initiative that started as a collaboration between two pastors, the Reverends Adam Clayton Powell, Jr. of New York City’s Abyssinian Baptist Church and Reverend Ritchie Low of the Congregational Church of Vermont. It was an experiment in race relations in which black children from the Abyssinian Baptist Church, other Harlem churches, and the general Harlem community were the two-week summer guests in Vermont homes. Many of the youngsters had not traveled beyond their Harlem community and many of the Vermonters had never seen a black person. The purpose of the program was to ascertain how the two races could learn from one another. The 1944-1976 collection includes detailed project reports, along with the extensive preparatory planning; newspaper and magazine articles; photographs; a film documenting the project; and scrapbooks. In the 1940s, the Project was the subject of both national and international reports."
+hc_id: "25704801"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Abyssinian Baptist Church, Archives & History Ministry"
+p2_name:  "Ms. Emilyn Brown"
+p2_institution:  "Abyssinian Baptist Church, Archives & History Ministry"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>87 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$50,000"
+material_description:  "The little known Vermont Project: An Experiment in Race Relations was the result of a collaboration between Reverend Adam Clayton Powell, Jr., pastor of the Abyssinian Baptist Church of Harlem and New York City Councilman, and the Reverend Ritchie Low, pastor of the Congregational Church of Johnson, Vermont and their respective congregations and communities. The experiment involved the two-week stay of Black children as guests of White Vermont families. By the Project’s third year, Vermonters were also making once-a-year weekend visits to families in Harlem. The Project, which started in 1944 and lasted until the 1960’s, was widely publicized at the time it occurred. The project’s coordinator, Laura B. Thomas, was also Abyssinian’s Social Worker. Ms. Thomas meticulously documented all aspects of the program from its inception to its realization. In addition, she maintained correspondence, records, newspaper articles, photos and scrapbooks of the Project over the years. The records maintained by Ms. Thomas reflect the thinking of the people and the communities involved as well as the national mindset. Digitizing this collection would not only preserve this body of work, but would also allow researchers to view national thinking during that particular period of American history."
 ---
-
-

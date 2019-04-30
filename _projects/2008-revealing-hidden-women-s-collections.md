@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Revealing Hidden Women's Collections
+title: "Revealing Hidden Women's Collections"
+year: 2008
+end_range: 1990
+formats: "NULL"
+geographic_extant: "It documents trends across the U.S. and research initiatives in Alaska. The project is primarily focused on Kentucky, Lexington, and Eastern Kentucky."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Deirdre Scaggs"
+size: "407 cubic feet"
+start_range: "1850"
+summary: "The collections included in this project address women’s involvement in education, medicine, anthropology, public policy, and daily life. Other women’s collections focus on the documentation of daily life and culture, the Civil War, social services, naturalism, arts, science, and midwifery. The oral histories provide first-hand accounts of African American college students, coal mining women, midwives, and many other experiences. The material spans the years 1850-1990 with a primary geographic emphasis on Kentucky but often extending well beyond the commonwealth. The diversity of the research materials includes: oral histories, photographs, diaries, correspondence, research papers, and records, and the time period covered provides unique and in-depth research opportunities. The influence of the women represented in these collections is rich and thoroughly documented. The medical initiatives started by women in Kentucky not only impacted rural Kentucky but influenced development elsewhere. The collections document national trends that influenced Kentucky women but they also provide evidence of women leading movements. Kentucky women have played key roles in women's suffrage, science, education, and the arts. These materials provide a comprehensive survey of the important positions of Kentucky women."
+hc_id: "124"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "UK Libraries"
+address2:  "Special Collections & Digital Programs"
+city:  "Lexington"
+state:  "KY"
+zip: "40506-0039"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

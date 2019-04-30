@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: From Inventory to Direct Web Retrieval: Revealing the American Museum of Natural History's Archival Collections
+title: "From Inventory to Direct Web Retrieval: Revealing the American Museum of Natural History's Archival Collections"
+year: 2009
+end_range: 2005
+formats: "NULL"
+geographic_extant: "The geographic scope is the planet Earth."
+institution: "American Museum of Natural History Research Library"
+institution_type: "NULL"
+primary_contact: "Barbara Mathé"
+size: "3337 boxes, 1788 linear feet"
+start_range: "1864"
+summary: "The archival collections of the American Museum of Natural History contain rich resources about the history of the institution, founded in 1869, and its fields of scientific research: anthropology, astronomy, earth sciences, paleontology and zoology. The cross-disciplinary focus of the AMNH archives, suports research about important historical and contemporary issues. Included among these topics are global warming and climate change, species loss and habitat transformation, cultural transitions, and the revision and sometimes denial of evolutionary biology. The collections include the professional papers of numerous distinguished individuals associated with the Museum, notably; scientists Franz Boas, Henry Fairfield Osborn, and Margaret Mead; naturalists Theodore Roosevelt and John Burroughs; and the extraordinary artists Carl Akeley and Charles Knight. Every continent is referenced in the AMNH archival collections. Richard Owen, first director of London’s Natural History Museum influenced AMNH founder Albert Bickmore’s plans for the Museum. Paleontologist R. C. Andrews discovered dinosaur eggs in Mongolia. Morris Skinner collected a comprehensive fossil horse collection in North America. J. T. Nichols studied fishes in the Congo Basin. Harry Shapiro studied the descendents of the Bounty mutineers on Pitcairn Island. The archives also document Junius Bird’s archeological discoveries in Peru and Lincoln Ellsworth’s expedition to Antarctica."
+hc_id: "525"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Research Library"
+address2:  "American Museum of Natural History"
+city:  "New York"
+state:  "NY"
+zip: "10024"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

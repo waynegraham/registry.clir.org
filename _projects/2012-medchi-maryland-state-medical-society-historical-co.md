@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: MedChi (Maryland State Medical Society) historical collections
+title: "MedChi (Maryland State Medical Society) historical collections"
+year: 2012
+end_range: 2000
+formats: "NULL"
+geographic_extant: "The state of Maryland"
+institution: "University of Baltimore"
+institution_type: "NULL"
+primary_contact: "Sandra Rowland"
+size: "100 boxes, 100 linear feet, 400 objects"
+start_range: "1780"
+summary: "The archival documents contain institutional records dating back to the late 1700s. It provides an overview of the social, cultural and professional growth of an American medical society and a window onto the state of medicine and public health over the centuries. Also included are records from the Baltimore General Dispensary and many of the county medical societies. The records document the formation and development of the Maryland Medical Society, one of the oldest medical societies in the country. The archives contain historical information on physicians' role in the public health campaigns, professional licensing and review for medical practitioners, the evolution of medical education, and the dissemination of medical knowledge. The portrait collection includes 150 prominent physicians from such well known artists as Rembrandt Peale, Julius Stewart and Charles Byrd King. The artifact collections includes medical instruments from the 19th and 20th Centuries."
+hc_id: "1015"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1211 Cathedral St."
+address2:  "NULL"
+city:  "Baltimore"
+state:  "MD"
+zip: "21201"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

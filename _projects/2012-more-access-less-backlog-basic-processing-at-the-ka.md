@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: More Access, Less Backlog: Basic Processing at the Kansas State Historical Society
+title: "More Access, Less Backlog: Basic Processing at the Kansas State Historical Society"
+year: 2012
+end_range: 2012
+formats: "NULL"
+geographic_extant: "The collections covers the entire state of Kansas and locations along the Atchison, Topeka & Santa Fe Railway line and trails outside of Kansas ."
+institution: "Kansas State Historical society"
+institution_type: "NULL"
+primary_contact: "Nancy Sherbert"
+size: "295 cubic feet"
+start_range: "1854"
+summary: "The Kansas State Historical Society began collecting still photographs in 1877. The still photograph collection is one the largest in the state with over 500,000 photographs and negatives. It is used extensively by researchers and images have appeared in documentaries, articles, books, websites, exhibits, lectures, etc. The still photograph collection documents the Native peoples on the Plains, territorial \"Bleeding Kansas\", the Civil War, settlement, Depression/Dust Bowl, and the recent past. Topics range from agriculture, industries, religion, politics, slavery, activists, education, recreation, storms & disasters, buildings, aeronautics, organizations, military, transportation, portraits of Kansans, etc. The collection contains photos of prominent people including Alfred M. Landon, Nancy Landon Kassebaum Baker, Carry Nation, John Brown, Dwight Eisenhower, James Butler Hickok, and Arthur Capper. Examples of photographs that will be described for the first time by this project include, photographs of Atchison, Topeka & Santa Fe Railway (corporation files); Mamie Williams, an African-American educator; Kansas Folklife Collection; highway construction by Kansas Department of Transportation; towns and cities throughout the state; and the Menninger Foundation (psychiatric institution). Several photographers' collection from various parts of Kansas containing portraits of prominent people, local businesses, organizations,and activities would be included in this project."
+hc_id: "896"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "6425 SW 6th Ave"
+address2:  "NULL"
+city:  "Topeka"
+state:  "KS"
+zip: "66615"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

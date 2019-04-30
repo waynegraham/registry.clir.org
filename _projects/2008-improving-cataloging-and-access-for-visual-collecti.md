@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Improving Cataloging and Access for Visual Collections
+title: "Improving Cataloging and Access for Visual Collections"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "The images are primarily from the United States and Europe with smaller amounts from South America, Africa, Asia, and Mexico/Canada."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Clare Sheridan"
+size: "11000 objects"
+start_range: "1550"
+summary: "The American Textile History Museum (ATHM) holds the most significant textile history collection in North America, including library collections of books, periodicals, manuscripts, and 47,000 images. This proposal focuses on a portion of those images, including paintings, prints, photographs, and paper-based ephemera. The collection is concentrated primarily on the American experience but also includes materials from antecedent and parallel textile traditions. Paintings include oils and watercolors such as an 1848 view of the Middlesex Woolen Mill in Lowell, MA. The print collection consists of a variety of formats, such as a 16th-century German etching of bleaching cloth, as well as oversized photomechanical prints of mills. Photographs record images of mills, workers, and textile production from daguerreotypes to modern processes. Broadsides include timetables and regulations (“Do Not Drink the Canal Water!”), while strike posters record working life from another perspective. Textile labels, handbills, and trade cards are part of branding and advertising campaigns. Colorful labels often show a view of the mill where the cloth was made or an iconic image that conveyed a fabric’s qualities. The library’s audience includes scholars and non-scholars in industrial, technological, labor, women’s, and local history; environmental specialists, architects, engineers, renovators; weavers, artists, designers; genealogists; publishers, novelists, filmmakers, and exhibit designers."
+hc_id: "13"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Osborne Library"
+address2:  "491 Dutton St."
+city:  "Lowell"
+state:  "MA"
+zip: "01854-4221"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Leaders in Paleontology: Creating a Resource for Historical and Basic Research from the Hidden Archives of the Paleontological Research Institution
+title: "Leaders in Paleontology: Creating a Resource for Historical and Basic Research from the Hidden Archives of the Paleontological Research Institution"
+year: 2013
+end_range: 1970
+formats: "NULL"
+geographic_extant: "Heavily concentrated on eastern North America, but also including Antarctica, the Caribbean, Venezuela, Greenland, Australia, Pakistan, and Europe."
+institution: "Paleontological Research Institution"
+institution_type: "NULL"
+primary_contact: "Paula Mikkelsen"
+size: "300 cubic feet"
+start_range: "1880"
+summary: "Professionals represented in PRI's archives are each remarkable for individual achievement and academic contribution. Awaiting discovery are the files of ca. 36 prominent scientists, notably including women, early Latin American researchers, and collectors of specimens in PRI's extensive research collection since its founding in 1932. Materials include (1) field notes, maps, and collection catalogs of many 20th-century fossil collectors, funded by sources such as oil companies and NSF; (2) photographs of fieldwork, specimens , conferences, etc., in a variety of formats (prints, negatives, slides, films); (3) correspondence, journals, original drawings, newspaper clippings, and manuscripts; (4) small to large artifacts (e.g., flags, magnifiers, slide rules, typewriter, printing press); and (5) early records of PRI's \"Bulletins of American Paleontology\" (est. 1895), the oldest continuous paleontological serial in the Western Hemisphere. Collections-associated materials are prioritized, due to their support of collections-based research. Second in importance are 3 professionals chosen for their compelling roles as individuals, researchers, and teachers: Gilbert Harris (1864-1952) and Katherine Palmer (1895-1982), PRI notables and important American invertebrate paleontologists studying the Cenozoic Atlantic Coastal Plain, and Curt Teichert (1905-1996), a German-American researcher of ammonites and Paleozoic stratigraphy, and editor of the \"Treatise on Invertebrate Paleontology."
+hc_id: "1048"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1259 Trumansburg Road"
+address2:  "NULL"
+city:  "Ithaca"
+state:  "NY"
+zip: "14850"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

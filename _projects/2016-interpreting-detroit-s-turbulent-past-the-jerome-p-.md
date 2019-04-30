@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Interpreting Detroit's Turbulent Past: The Jerome P. Cavanagh Digitization Project
+title: "Interpreting Detroit's Turbulent Past: The Jerome P. Cavanagh Digitization Project"
+year: 2016
+end_range: 1979
+formats: "NULL"
+geographic_extant: "The Jerome P. Cavanagh Papers primarily cover events in the city of Detroit, Michigan during his eight-year term as mayor. There is some documentation of activities in the surrounding Wayne County and Southeast Michigan area, as well as statewide and national coverage through Cavanagh's political campaigns and appointments."
+institution: "Wayne State University"
+institution_type: "NULL"
+primary_contact: "Ms. Deborah Rice"
+size: "NULL"
+start_range: "1930"
+summary: "The Jerome P. Cavanagh Digitization Project will digitize and disseminate 335.75 linear feet of predominantly manuscript and photographic materials, and 36 audio recordings, representing the bulk of the collection held at the Walter P. Reuther Library, Wayne State University. The Reuther Library, with the University Library's Digital Publishing Team, will conduct the project in three phases during 2017-2019: (1) project material digitization (2) substantial metadata creation (3) online collection release and promotion. With a publicly accessible finding aid, the papers have experienced heavy use, despite limitations of physicality. With the upcoming fiftieth anniversary of Detroit's 1967 Civil Unrest, increased interest in the myriad issues leading to the decline of the nation's then-sixth-largest city is expected. Expanding access to papers documenting the spectacular rise and fall of a quintessentially American city enlarges the story of a fundamentally transformed American social, cultural, and economic landscape from the midcentury to the present."
+hc_id: "21702396"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Wayne State University Walter P. Reuther Library"
+p2_name:  "Ms. Alexandra Orchard"
+p2_institution:  "Wayne State University Walter P. Reuther Library"
+p3_name:  "Mr. Joshua Neds-Fox"
+p3_institution:  "Wayne State University Library System"
+material_string: "<li>331 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$249,884"
+material_description:  "In 1961, Jerome P. Cavanagh won an upset victory over incumbent Louis C. Miriani, becoming Mayor of Detroit, Michigan, and at age 33, one of the country's youngest big-city mayors. Cavanagh was nationally recognized as an outstanding urban leader, and his eight years in office coincided with the most critical period in Detroit's recent history: the 1967 Civil Unrest. Over 335 linear feet of materials in the Jerome P. Cavanagh Papers, donated to the Reuther Library by the mayor and his wife following his term in office, serve as the keystone for understanding Detroit's trajectory from a pivotal time in its history to its current transformation, referred to by the New York Times as \"post-post-apocalyptic.\" The majority of materials are Cavanagh's official mayoral records and those of his assistants, detailing the state of Detroit for most of a decade: a large, urban city in upheaval and uncertainty, seen through the lens of the existing government power structure and its decision-making processes. One subseries focuses exclusively on the 1967 Civil Unrest, providing crucial records illuminating the five-day crisis. Additional series detail the aftermath--effects on the immediate geographic region and on the nation's psyche. Records including correspondence, commission and committee materials, reports, and notebooks show Cavanagh's work to rebuild the city and redefine urban problems as a national problem. Materials throughout document the administration's management of issues facing Detroit before the unrest, and continuing long after: civil rights, community renewal, transportation, labor, Lyndon B. Johnson's Model Cities Program (Detroit was the first Demonstration City), and urban renewal. Photographs depict national figures including Martin Luther King, Jr. and Robert and John F. Kennedy, and scenes of urban transformation. Audio recordings capture important events, like a July 1967 press conference discussing federal troop usage featuring Cavanagh, Michigan Governor Romney, and a federal representative."
 ---
-
-

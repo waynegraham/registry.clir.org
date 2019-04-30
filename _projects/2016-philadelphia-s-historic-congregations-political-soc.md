@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Philadelphia's Historic Congregations - Political, Social and Cultural Developments in Philadelphia's early congregations
+title: "Philadelphia's Historic Congregations - Political, Social and Cultural Developments in Philadelphia's early congregations"
+year: 2016
+end_range: 1708
+formats: "NULL"
+geographic_extant: "Philadelphia"
+institution: "Christ Church Preservation Trust"
+institution_type: "NULL"
+primary_contact: "Ms. Carol Smith"
+size: "NULL"
+start_range: "1708"
+summary: "Philadelphia, settled by William Penn in 1681 as a center for religious freedom, provided refuge for newcomers of many faiths. Records of these religious organizations provide a glimpse of who lived in the Philadelphia area prior to the days of official records keeping through baptisms, circumcisions, marriages, burials and pew rents. Minutes and correspondence reflect the tensions that existed as the city and new nation evolved. Philadelphia served as the epicenter for political thought and action from the 1770s into the early years of the 19th century as delegates to the Continental Congress, Constitutional Convention and ultimately members of the US government. That influence continued into the 19th century as new immigrants arrived and new churches formed. Currently access to these records is difficult as few congregations have archival programs. Creating a digital database of these records with scans readily available opens up these records to world-wide audiences."
+hc_id: "22226490"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Christ Church"
+p2_name:  "Mr. Allan Hasbrouck"
+p2_institution:  "Christ Church Preservation Trust"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>40000 Manuscripts</li>"
+collaborating_institution:  "St. George's Methodist Church; Gloria Dei; Episcopal Dioceses Archives; Presbyterian Historical Society; St. Peter's Episcopal Church; Mikveh Israel"
+grant_amount:  "$380,997"
+material_description:  "The materials nominated for digitization comprise 40,000 records from Philadelphia's oldest congregations, ranging in date from 1677 to 1865. Collectively, the materials include: church membership files as well as baptism, circumcision, marriage, bar/bat mitzvahs, and burial records. Additionally, the collections represent organizational information such as governing body records: meeting minutes, charters, land grants, accounts and correspondence as well as sermons. All materials continue to reside with the institutions who created them with a few notable exceptions - the Presbyterian Historical Society now maintains the 1st, 2nd and 3rd Presbyterian Church records and the St. Paul's records (no longer an active congregation) are presently housed at the Episcopal Diocesan archives. Project relevance has been categorized into three areas: Prominent ministers who were at the same time prominent civic leaders: Jacob Duche (Christ Church), William White (Christ Church), George Duffield (Third Presbyterian) - all served as Chaplains for the Continental Congress; Frances Alison (First Presbyterian) most prominent Presbyterian minister of the time and charter member of the American Philosophical Society; Gilbert Tennet (First pastor of the Second Presbyterian Church); Gershom Mendes Seizas (Mikveh Israel) First native born Jewish minister in the United States; and Francis Asbury (First Methodist Church Bishop). Prominent people include Benjamin Franklin; Francis Hopkinson; Benjamin Rush; Robert Morris; William Smith; John Ross; Absalom Jones; Richard Allen; Rebecca Gratz who created the Philadelphia Orphan Asylum; Nathan and Benjamin Levy who were merchants; and Moses Aaron Dropsie, cultural leader. Prominent events include: the Revolutionary War; early Philadelphia colonial history; the founding of America; religious freedom; immigration and assimilation of early settlers; the formation of new religions including Episcopal, African Episcopal and African Methodist; the Civil War; public health epidemics such as yellow fever and small pox; and the early creation of social services."
 ---
-
-

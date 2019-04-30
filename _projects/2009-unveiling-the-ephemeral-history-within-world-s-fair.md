@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Unveiling the 'Ephemeral' History within World's Fair Collections
+title: "Unveiling the 'Ephemeral' History within World's Fair Collections"
+year: 2009
+end_range: 2005
+formats: "NULL"
+geographic_extant: "Worldwide: all cities where fairs were held as well as countries that exhibited at fairs from 1851 to the present"
+institution: "Henry Madden Library"
+institution_type: "NULL"
+primary_contact: "Tammy Lau"
+size: "20000 objects"
+start_range: "1851"
+summary: "The collective breadth and depth of the combined world's fair collections at the Wolfsonian-Florida International University, California State University, Fresno and the Hagley Museum and Library is far greater than the sum of its parts. In aggregate, the three collections encompass 212 world's fairs all over the globe between 1851 and 2005 and include approximately 20,000 items. Each institution adds its particular strengths to the project, for example original art and design drawings and multi-faceted ephemera from the Wolfsonian, an extensive collection of photographs and postcards from CSU, Fresno and valuable trade catalogs, trade cards and posters from the Hagley. Wolfsonian Library: 1853 pieces of ephemera, 2 archival collections, 2400 postcards, 118 posters, 21 paintings, 301 drawings, 10 panels as well as 600 photo postcards and 750 photographs (already digitized but needing metadata). Total = 6055 items. California State University, Fresno (CSUF): 2057 pamphlets, 200 maps and plans, 135 pieces of sheet music (117 already digitized but no metadata), 60 posters (24 digitized but no metadata), 18 films, 4255 photographs (1997 digitized with metadata records in ContentDM; 2258 digitized but needing metadata) and 3232 postcards. Total = 9957 items. Hagley Library: 2550 pieces of ephemera (trade catalogs, trade cards, pamphlets and brochures), 600 posters, 1600 MARC records to be converted to MODS records. Total = 4750 items."
+hc_id: "427"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "5200 N. Barton Avenue ML34"
+address2:  "NULL"
+city:  "Fresno"
+state:  "CA"
+zip: "93740"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Song, Speech, and Dance: Special Collections from the Recorded Sound Archives at Yale and Stanford Universities
+title: "Song, Speech, and Dance: Special Collections from the Recorded Sound Archives at Yale and Stanford Universities"
+year: 2009
+end_range: 1995
+formats: "NULL"
+geographic_extant: "The collections are truly international in scope, with emphasis on European and American classical music and jazz, and American authors."
+institution: "Yale University"
+institution_type: "NULL"
+primary_contact: "Kendall Crilly"
+size: "1100 linear feet"
+start_range: "1880"
+summary: "This project processed more than 1,100 linear feet of audio and paper archival collections in the Historical Sound Recordings (HSR) collection at Yale University and the Archive of Recorded Sound (ARS) at Stanford University. At Yale, the collections include the Stanley Dance collection of taped interviews with major jazz figures (196 ft.), the complete business archives of Overtone Records and the Spoken Arts Record Company (40 ft.), and general collections of autograph letters, photographs, and recording company logbooks (66 ft.). The general collections are especially rich in materials relating to early singers, including Enrico Caruso, Adelina Patti, and Geraldine Farrar. In addition, there are collections of test pressings of recordings by Vladimir Horowitz (8 ft.) and audiotapes of historical events, guest speakers, and concerts on the Yale campus (205 ft.) The collections at Stanford include recordings from the Ambassador Auditorium Performing Arts Series (651 ft.), called by some, “The Carnegie Hall of the West.” The series hosted 20 seasons of musicians of international prominence from 1975-1995, including concerts by Luciano Pavarotti, Arthur Rubinstein, the Vienna Philharmonic, Frank Sinatra, and many others. Other Stanford collections include performances by internationally renowned Metropolitan Opera singer Lawrence Tibbett (2.5 ft.), and test pressings and instantaneous recordings of virtuoso violinists Yehudi Menuhin (1 ft.) and Jascha Heifetz (10.5 ft.)"
+hc_id: "574"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P.O. Box 208240"
+address2:  "130 Wall Street"
+city:  "New Haven"
+state:  "CT"
+zip: "06510-8240"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "Stanford University Recorded Sound Archives"
+grant_amount:  "$457,776"
+material_description:  "NULL"
 ---
-
-

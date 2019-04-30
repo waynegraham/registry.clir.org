@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: West Virginia Statehood Papers Project
+title: "West Virginia Statehood Papers Project"
+year: 2008
+end_range: 1900
+formats: "NULL"
+geographic_extant: "The collections in this project primarily pertain to Virginia, West Virginia, Ohio, and the Mid-Atlantic states though other states are also included."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "John Cuthbert"
+size: "85 boxes, 36 linear feet"
+start_range: "1830"
+summary: "The West Virginia and Regional History Collection preserves the papers of the three individuals who, along with Abraham Lincoln, are responsible for the creation of West Virginia as the nation’s thirty-fifth state. Francis H. Pierpont (1814-1899) was elected governor of the Restored (Union) Government of Virginia which was established within weeks of Virginia’s secession at the outset of the Civil War. Gov. Pierpont served in exile in Wheeling, and later in Alexandria, until Lee’s surrender whereupon he assumed power in Richmond. Elected to the U.S. Senate to represent the Pierpont Government, Senator Waitman T. Willey (1811-1900) introduced the bill that led to the creation of West Virginia on June 20, 1863. Arthur I. Boreman (1823-1896) served as West Virginia’s first governor and played a key role in establishing the state and grappling with the difficulties of reconstructing a state which was divided more than any other by the events of the Civil War. \nTogether, these collections tell a highly significant tale in our nation’s history which relates to Abraham Lincoln, the Civil War, the debate over slavery, the constitutionality of secession at both the national and state levels, and Reconstruction among others. These materials are unique to this repository. They are unknown to many who would have an interest in them as a significant cache of largely unexplored primary documents dating from a time in American history which has perhaps been scrutinized more than any other."
+hc_id: "77"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Box 6069"
+address2:  "West Virginia University Libraries"
+city:  "Morgantown"
+state:  "WV"
+zip: "26506"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

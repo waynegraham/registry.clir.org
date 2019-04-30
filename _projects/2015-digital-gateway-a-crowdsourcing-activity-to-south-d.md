@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digital Gateway: A Crowdsourcing Activity to South Dakota Native American History
+title: "Digital Gateway: A Crowdsourcing Activity to South Dakota Native American History"
+year: 2015
+end_range: 1919
+formats: "NULL"
+geographic_extant: "The collections that are included in this proposal encompass activities that took place in South Dakota. The Mary C. Collins collection covers the Standing Rock Reservation and the John R. Brennan collection covers the Pine Ridge Reservation and Rapid City, South Dakota. The Native American photograph collection includes images statewide."
+institution: "South Dakota Department of Education"
+institution_type: "NULL"
+primary_contact: "Ms. Chelle Somsen"
+size: "NULL"
+start_range: "1860"
+summary: "The South Dakota State Archives proposes to digitize three significant collections that address Native Americans in South Dakota. These collections will be digitized in two years and made available online through the South Dakota Digital Archives. The project includes the development of a crowdsourcing website to assist in transcribing handwritten documents and improve discoverability. The Mary C. Collins Family Papers document missionary work among the Sioux Indians from 1875 to 1910. The collection of John R. Brennan, Pine Ridge Agency Superintendent from 1900 until 1917, documents relations with Native Americans at the agency. These collections consist of correspondence, diaries, photographs, and Native American ledger art. The Native American photograph collection features individuals, camps, and reservations from the 1860s to the 1900s. The project will promote understanding of Native American tribes on the plains of Dakota Territory during the pivotal point of pioneer settlement and the development of the reservation system."
+hc_id: "17455129"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "South Dakota State Archives"
+p2_name:  "Ms. Jennifer"
+p2_institution:  "Digital Technician"
+p3_name:  "Ms. Ms. Cherri"
+p3_institution:  "Scanning Technician"
+material_string: "<li>21 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$102,000"
+material_description:  "The Mary C. Collins Family Papers are a unique collection of family materials that document the Congregationalist missionary activities to the Sioux Indians in central and northern South Dakota from 1875 to 1910. The four and a half cubic feet in this collection consist of personal papers, correspondence, diaries, photographs, Collins family papers, publications and Native American ledger art. Collins was a missionary at the Oahe Mission near Fort Sully in the central part of Dakota Territory before moving to the Standing Rock Reservation. Collins learned the Lakota language, was skilled as a teacher, preacher and with medicine. The papers detail her work with Reverend T.L. Riggs at Oahe Chapel as well as her activities on Standing Rock with Sitting Bull's band.\n\n\n\nJohn R. Brennan arrived in South Dakota in 1875 and was one of the founders of Rapid City. In 1900 he became Superintendent of the Pine Ridge Agency and acted in that position until 1917. His papers include vital statistics, allotment and census statistics for the Pine Ridge Reservation, and proceedings of councils pertaining to the opening of the Pine Ridge Reservation. The collection also includes incoming and outgoing correspondence with individuals such as James McLaughlin, Inspector with the Department of the Interior; Cato Sells, Commissioner of Indian Affairs; and Ralph A. Ross and F.E. McIntyre, Indian agents. There are also three photograph albums of 940 images of the Pine Ridge Reservation between 1900 and 1917, and two notebooks containing Brennan's notes and thoughts while on the reservation between 1901 and 1906. \n\n\n\nThe Native American photograph collection contains fourteen boxes of images of individuals including Red Cloud and Sitting Bull. An additional thirteen boxes contain images of camps, delegations, reservations throughout the state, winter counts, and dancing. The photographs date from the 1860s to the 1900s."
 ---
-
-

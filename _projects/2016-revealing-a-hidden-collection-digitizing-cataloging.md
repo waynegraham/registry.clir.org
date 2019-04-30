@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Revealing a Hidden Collection: Digitizing, cataloging, and making discoverable essential collection artifacts
+title: "Revealing a Hidden Collection: Digitizing, cataloging, and making discoverable essential collection artifacts"
+year: 2016
+end_range: 1492
+formats: "NULL"
+geographic_extant: "United States, Asia, and Europe"
+institution: "Isabella Stewart Gardner Museum"
+institution_type: "NULL"
+primary_contact: "Dr. Christina Nielsen"
+size: "NULL"
+start_range: "1492"
+summary: "The Isabella Stewart Gardner Museum respectfully requests a $250,000 grant to support a project to catalog, digitally photograph, and make discoverable online approximately 6,000 \"Hidden Collections\" artifacts exhibited by Isabella Stewart Gardner in fifteen glass-topped cases placed throughout the museum. These artifacts have not been adequately catalogued or digitally documented and, due to the nature of their installation and preservation requirements, are inaccessible to museum visitors. Gardner arranged the artifacts in the cases thematically and in direct relationship to the installations of fine and decorative art within the galleries. Making the Hidden Collections accessible allows the Gardner to illuminate and understand her curatorial intentions for these materials for the first time in its history while also supporting the museum's long-range digital strategy, which prioritizes digitization and access initiatives for the fine art and archival collections, the creation of a new website, and development of digital tools for visitors and scholars."
+hc_id: "21863968"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Isabella Stewart Gardner Museum"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>6000 Artifacts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$232,683"
+material_description:  "The Isabella Stewart Gardner Museum's \"Hidden Collections\" include approximately 6,000 items--correspondence, photographs, and memorabilia (e.g., letters from Beethoven and Marie Antoinette, a cast of the poet Whittier's hand, and a lock of Nathaniel Hawthorne's hair)--pertinent to Gardner's life and to the history of her museum. Exhibited in fifteen thematic cases located throughout the museum, these items are vital to her curatorial scheme, effectively materializing the cultural history of her museum and her circle of American, European and Asian artists, writers, poets and musicians. Themes and content areas include music and musicians, the First World War, Japanese art, naturalism, literature, politics, and American and European history. Individuals represented range widely from historical figures to luminaries and personal friends from Gardner's contemporary network. Those represented include Franz Liszt, Anna Pavlova, Dame Nellie Melba, Pederewski, Brahms, Strauss, Dame Ethyl Smyth, Amherst Webber, Matthew Stewart Prichard, A. Piatt Andrew, Thomas Whittemore, John Hayes Hammond, Okakura Kazuko, Sarah Orne Jewett, George Santayana, Ralph Waldo Emerson, Bernard Berenson, T. S. Eliot, Julia Ward Howe, John Jay Chapman, Francis Marion Crawford, Henry James, Henry Wadsworth Longfellow, Napoleon Bonaparte Monroe, John Adams, William Howard Taft, Theodore Roosevelt, Benjamin Franklin, Aaron Burr, Daniel Webster, Charles Dickens, Henrik Ibsen, John Ruskin, Alfred Tennyson, Robert Browning, Robert Burns, Lord Byron, John Keats, Percy Bysshe Shelley, Sarah Bernhardt, Paul Bourget, Ellen Terry, Voltaire, Rousseau, George Sand, Victor Hugo, Whistler, Sargent, Bunker, Ferdinand and Isabella of Spain, and Marie Antoinette and Francois I of France."
 ---
-
-

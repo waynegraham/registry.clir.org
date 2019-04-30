@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Preserving the First-Person Oral History Recordings of the Oregon Shakespeare Festival
+title: "Preserving the First-Person Oral History Recordings of the Oregon Shakespeare Festival"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Oregon Shakespeare Festival"
+institution_type: "NULL"
+primary_contact: "Ms. Maria DeWeerdt"
+size: "NULL"
+start_range: "NULL"
+summary: "The Oregon Shakespeare Festival (OSF) produces 800 repertory performances of 11 plays for 400,000 ticketholders annually. OSF’s Archives is one of the country’s only organization-based theatrical archives and is a full-fledged research center with a wide audiovisual collection readily available for education, research and public programming. Under a Recordings at Risk grant, OSF proposes a 12-month project to digitize 388 recordings of first-person oral histories, interviews, meetings and lectures documenting the history of OSF from its founding in 1935 to present. Facilitating, recording and collecting personal testimony has created a broad yet cohesive collection of oral histories and interviews by founders, artists and innovators, which are documented in an extensive but rapidly deteriorating audiovisual collection. OSF’s Archives’ recordings hold essential insights into the history of theatre in America, America’s appetite for theatre, Shakespeare in performance and the impact the Shakespearean festival tradition has nationally and in individual American communities."
+hc_id: "26926361"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Oregon Shakespeare Festival"
+p2_name:  "Ms. Cynthia Rider"
+p2_institution:  "Oregon Shakespeare Festival"
+p3_name:  "Ms. Deborah Small"
+p3_institution:  "Oregon Shakespeare Festival"
+material_string: "1 items<li>253 Audio Cassette</li><li>5 Digital Audio Tape (Dat)</li><li>58 Audio Cassette</li><li>20 Open Reel Audio Tape</li><li>1 U Matic</li><li>27 Vhs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$50,000"
+material_description:  "NULL"
 ---
-
-

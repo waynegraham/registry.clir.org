@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Don Swaim Book Beat Interviews, 1973-1993
+title: "Don Swaim Book Beat Interviews, 1973-1993"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Ohio University"
+institution_type: "NULL"
+primary_contact: "Ms. Sara Harrington"
+size: "NULL"
+start_range: "NULL"
+summary: "Ohio University Libraries proposes a 6-month project to effect the digital reformatting of 344 cassette tapes containing 702 author interviews conducted by radio personality Don Swaim. Swaim used these recordings to cut his nationally-syndicated Book Beat program, which aired throughout the 1980s and early 1990s. The Libraries have already undertaken the digitization and full transcription of the edited broadcasts and seek to do the same for the source material. Following digitization, access copies will be ingested into already-prepared metadata records in the Libraries’ CONTENTdm instance and masters will be backed up in MetaArchive. Swaim has transferred his copyrights to the Libraries and previously supported a project to provide low-quality streaming copies of the interviews through the extremely popular domain wiredforbooks.org. Together with planned transcription, this multi-faceted access plan emphasizing accessibility, interoperability, enhanced indexing, and digital preservation will ensure the greatest possible continuing impact for this invaluable assemblage of voices."
+hc_id: "26931992"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Ohio University"
+p2_name:  "Ms. Miriam Nelson"
+p2_institution:  "Ohio University"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "344 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$11,233"
+material_description:  "NULL"
 ---
-
-

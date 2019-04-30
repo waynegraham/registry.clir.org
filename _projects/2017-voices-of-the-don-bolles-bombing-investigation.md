@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Voices of the Don Bolles Bombing Investigation
+title: "Voices of the Don Bolles Bombing Investigation"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Arizona State Library, Archives and Public Records"
+institution_type: "NULL"
+primary_contact: "Ms. Laura Keller"
+size: "NULL"
+start_range: "NULL"
+summary: "In 1976, Don Bolles, an investigative journalist for The Arizona Republic, died after a bomb exploded beneath his car in central Phoenix. Many, including Bolles himself, believe that organized criminals were behind the hit. Bolles’s murder has become an infamous mark in Arizona history—a watershed moment which spurred the law officers, politicians and the courts into reform. On a national scale, its notoriety called attention to the dangers of Investigative Journalism and solidified its importance. Forty years later, the bombing is still shrouded in mystery and controversy. The Arizona State Archives is requesting funding to digitize a small portion of tapes from the Bolles Collection that we believe contain valuable information such as police interviews and wiretaps of the case’s most important figures. Their digitization will expand access and provide new information about the criminal activity that spanned many levels of Arizona society during the late twentieth century."
+hc_id: "26028006"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Arizona State Archives"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "129 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$24,850.00"
+material_description:  "We are submitting 129 standard cassette tapes to be digitized. The content on these tapes was created between 1968 and 1991, with several undated tapes. They are the result of the Phoenix Police Department’s investigation into Bolles’s murder and were transferred to the State Archives by the State Attorney General’s Office, having been used in the State’s prosecution cases against the three defendants charged with carrying out the bombing. We do not know the provenance of many of the tapes due to the lack of contextual information we received with the records, including the tapes that predate the Bolles murder. We have over 100 linear feet of paper-based records in the Bolles collection that have not been processed. We believe we will find more information on provenance for the audiovisual materials once that occurs. A finding aid for the Bolles Collection is available publicly through our online digital catalog. We currently do not provide access to the tapes, however, due to the instability of the carrier media. We hold all rights to the collection. Our transfer agreement with the Arizona Attorney General’s Office states that only serious historians, researchers and legal practioners may access the Bolles collection, quantified through a written research request and approved by the Archives Director. This practice shall be applied to the digitized audio as well. It should be noted that no researcher who has submitted a request has been turned away. Approved researchers are provided access to the digitized audio once after the Electronic Records Archivist reviews and redacts any private information."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Edward R. Roybal Papers, 1919-2003
+title: "The Edward R. Roybal Papers, 1919-2003"
+year: 2010
+end_range: 2003
+formats: "NULL"
+geographic_extant: "Greater Los Angeles: politics and social history. California and national: Latino political organizations. National: legislation and policy."
+institution: "UCLA Chicano Studies Research Center"
+institution_type: "NULL"
+primary_contact: "Chon Noriega"
+size: "732 linear feet"
+start_range: "1919"
+summary: "The Edward R. Roybal Papers, 1919-2003, document the life of a Latino public figure who became the first Latino elected to the Los Angeles City Council and the U.S. Congress from California since the 19th century. This collection contains extensive materials that reflect his role in shaping local, state, and national policy, and would support new research into each of these areas with emphases in bilingual education, housing reform, aging, health care, immigration, and veterans services. Roybal was instrumental in establishing one statewide and two national organizations aimed at increasing Latino political participation. This collection is also significant because of the extensive photographic materials it contains spanning over six decades. To date, the available photographic record of the Latino community is uneven. The collection includes extensive correspondence between Roybal and national and California political figures, but also with his constituents, including five linear feet related to the Vietnam War. The collection also documents the regional and national significance of Los Angeles politics and the development of Latino civic participation since the late 1940s. While the Roybal collection has been referenced in two recent books, the depth of materials used thus far has been limited insofar as the collection is unprocessed. This collection is ideal for scholars in history, American and ethnic studies, political science, urban planning, and community health."
+hc_id: "656"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Chicano Studies Research Center"
+address2:  "193 Haines Hall Box 951544"
+city:  "Los Angeles"
+state:  "CA"
+zip: "90095-1544"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

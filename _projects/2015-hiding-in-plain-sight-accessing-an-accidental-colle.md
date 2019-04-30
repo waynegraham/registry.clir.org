@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Hiding in Plain Sight: Accessing an "Accidental Collection" of Films by Women Writers, Directors & Producers.
+title: "Hiding in Plain Sight: Accessing an 'Accidental Collection' of Films by Women Writers, Directors & Producers."
+year: 2015
+end_range: 2006
+formats: "NULL"
+geographic_extant: "The films in the collection represent the entire US, including Puerto Rico. They also depict topics of concern to members of various diaspora, and may be partly shot in other countries by filmmakers who may have resided (or still reside) in the US but are not US citizens."
+institution: "Laboratory for Icon & Idiom, Inc."
+institution_type: "NULL"
+primary_contact: "Ms. Sandra Schulberg"
+size: "NULL"
+start_range: "1970"
+summary: "Recent research at the University of Southern California documents the fact that women, although woefully under-represented in the mainstream film industry, are a strong presence among American independent filmmakers. Women film auteurs have been \"hiding in plain sight\"  since the dawn of cinema, but scholarship is hobbled by the lack of a comprehensive catalogue of films by women, lack of sufficient funds for preservation, and limited access to the work. In 2014, the Laboratory for Icon & Idiom gained custody of an \"accidental collection\"  of film negatives at DuArt Film & Video that includes hundreds of titles written, directed and/or produced by women. Working with the Women's Film Preservation Fund, Women Make Movies, and women graduates of NYU's & UCLA's film archive programs, LII has indexed and is proposing to scan up to 50 of these titles, including those by LGBT, African American, Asian American, Native America and Latina women."
+hc_id: "16941142"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Laboratory for Icon & Idiom, Inc."
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>262242 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$250,000"
+material_description:  "Hiding in Plain Sight: Accessing an Accidental Collection of Films by Women Writers, Directors & Producers is an initiative of the Laboratory for Icon & Idiom that focuses on documenting, preserving and making accessible films by women film artists, animators, narrative filmmakers and documentarians whose work has reflected or depicted American culture and society during the second half of the 20th and early 21st centuries, but whose films are unheralded or little seen and/or are in need of digitization because no high-quality 2k digital masters exist and they are in danger of being lost from view in our digital age.\n\n\n\nIn 2014, we gained custody of an \"accidental collection\"  of 35mm and 16mm film negatives stored at DuArt Film & Video that includes hundreds of titles written, shot, edited, directed and/or produced by women. Working with the Women's Film Preservation Fund, Women Make Movies, and women graduates of NYU's and UCLA's moving image archive and preservation programs, LII has indexed and is proposing to scan up to 50 films. The collection includes films by LGBT, African American, Asian American, Native American & Latina women. The dates range from approximately 1970 through 2004. Examples include Sanctus by Barbara Hammer, Anemone Me by Suzan-Lori Parks, Janie's Jane by Gerri Ashur, Bev Grant, Marilyn Mulford & Stephanie Palewski, Illusions by Julie Dash, Until She Talks by Mary Lampson, The Return of Sarah's Daughter by Marcia Jamel, Up on the Roof by Jacqueline Turnure, Never Forget by Leslie Harris, The Secret Agent by Jacki Ochs, No Sense of Crime by Julie Jacobs, Boynton Beach Club by Susan Seidelman, Will by Jessie Maple, and Sisters in Residence by Maia Wechsler. Several of these were made with all-female crews."
 ---
-
-

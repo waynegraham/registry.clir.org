@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing Japanese American Internment in Idaho during World War II
+title: "Digitizing Japanese American Internment in Idaho during World War II"
+year: 2016
+end_range: 2015
+formats: "NULL"
+geographic_extant: "The geographical scope of the project is international, as it pertains to World War II internees who did not have U.S. citizenship. The Kooskia Internment Camp's prisoners were forcibly removed from Panama, Peru, Mexico, Japan, Germany, and Italy, as well as from over half of the states in the U.S.A."
+institution: "University of Idaho"
+institution_type: "NULL"
+primary_contact: "Dr. Stacey Camp"
+size: "NULL"
+start_range: "1940"
+summary: "This project involves digitizing a total of 16,073 documents and 783 photographs associated with Idaho's Kooskia Internment Camp, a World War II internment camp that imprisoned a predominantly first generation Japanese male population. The Kooskia Internment Camp held 265 prisoners between May 1943 and May 1945, and was unique in that it was one of the few Immigration and Naturalization Services (INS) internment camps during World War II. INS camps were designated to incarcerate individuals deemed \"enemy aliens\" who posed a threat to the United States during the war. Materials to be digitized include a diary written by one of the prisoners, \"memory maps\" drawn by camp employees, internee FBI files, artifact catalog records, maps, and documentation from excavations at the Kooskia Internment Camp, photographs, censored and uncensored letters written by prisoners, correspondence written by prison guards and officials, and internee artwork."
+hc_id: "21138966"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Idaho"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>660 correspondence between camps/prison officials ; work orders for supplies; misc. correspondence associated with Kooskia Internment Camp</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$175,975"
+material_description:  "This project brings together a diverse but interrelated set of materials together in one comprehensive digital repository so that the public and interested scholars can access the data in its entirety. There are two broad types of data sets in the Kooskia Internment Camp collection. The first is all associated archival and photographic data associated with the Kooskia Internment. This data was amassed by Dr. Priscilla Wegars, who began researching the Kooskia Internment Camp in the 1980s. This data includes photocopied correspondence and work orders obtained from the National Archives, photographs taken by Dr. Wegars of internee-made artwork and textiles, maps drawn by former prison officials, original photographs taken of the camp, FBI files on each prisoner, and a photocopy of a diary written by a Kooskia prisoner during his time in internment. Most of these resources are secondary sources, but it is important that they are amassed in one place for current and future stakeholders, researchers, and descendant communities to access and study. The second set of data associated with the Kooskia Internment Camp consists of archaeological data. The Kooskia Internment Camp was excavated by Dr. Stacey Camp in 2010 and 2013. This data includes catalog forms describing each artifact discovered during excavations, excavation unit binders detailing the process of excavation and architectural features discovered during it (including maps and field notes), and select artifacts to be included in finding aids as part of the publicity and outreach component of this grant. The catalog forms will be entered into a database that is currently being developed by the Northwest Knowledge Network with the assistance of a 2015-2016 Idaho Humanities Council grant. A proof of concept version of it can be found here: https://kicap-dev.nkn.uidaho.edu/artifact-catalog"
 ---
-
-

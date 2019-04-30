@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Hidden in Plain Sight
+title: "Hidden in Plain Sight"
+year: 2014
+end_range: 1923
+formats: "NULL"
+geographic_extant: "Material published in the U.S. and Europe"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Kara McClurken"
+size: "12000 objects"
+start_range: "1800"
+summary: "Our project will create metadata to record significant unique characteristics of titles in the circulating collections of the U.Va. Library, focusing on 19th century titles. Many titles in our 19th century circulating collections have evidentiary or artifactual value due to characteristics such as marginalia, inserts, unique bindings, etc. Although these books are in the catalog, the unique, distinguishing features of the books are undocumented and therefore undiscoverable, hidden in plain sight in our stacks. We will provide enhanced metadata for these titles, and create a protocol for the discovery and sorting process which we will share so that institutions can cooperate on preservation, retention and weeding projects."
+hc_id: "12990300"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Office of Sponsored Programs"
+address2:  "1001 North Emmet Street"
+city:  "Charlottesville"
+state:  "VA"
+zip: "22904-4195"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$221,379.00"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Catskill Regional Folklife and History Archive
+title: "The Catskill Regional Folklife and History Archive"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "The Catskill Center"
+institution_type: "NULL"
+primary_contact: "Mr. Jonathan Mogelever"
+size: "NULL"
+start_range: "NULL"
+summary: "The Catskill Regional Folklife and History Archive consists of audio and visual media, including 240 cassette tapes containing oral history interviews with Catskill natives. The tapes have been stored in filing cabinets for decades, and we hope to digitally archive and make this content available online."
+hc_id: "26922004"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "The Catskill Center"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "240 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$26,600.00"
+material_description:  "NULL"
 ---
-
-

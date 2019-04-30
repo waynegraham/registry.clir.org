@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Hidden American Collections of Tibetan Materials
+title: "Hidden American Collections of Tibetan Materials"
+year: 2008
+end_range: 1959
+formats: "NULL"
+geographic_extant: "Collection materials originate in Tibet, India, China and Mongolia."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Jeffrey Wallman"
+size: "1868 linear feet, 3000 objects"
+start_range: "1200"
+summary: "The extensive Tibetan literature in American collections was collected over the past century and a half by explorers, missionaries, diplomats, and scholars. Because Tibetan literature was largely copied and published in woodblock prints and loose-leaf collections, many of the texts are incomplete. Pages of a single manuscript volume may be found in several libraries, for example at Yale and in Newark Museum. By cataloging these collections, TBRC hopes to recompile these collections using the facilities of the web. The Works at the Library of Congress, comprising more than 3,000 volumes came to into the collections from the consul William Woodville Rockhill, Berthold Laufer, Joseph Rock, Matthew Kapstein, and Tshering Thar during the period 1899-1996. In addition, there are miscellaneous purchases and gifts. The content of these Works are little known because of their relative obscurity inside the Library of Congress. The subjects covered include philosophy, medicine, art, psychology, alchemy, astrology, poetics, and history and include rare and important examples that should ideally be incorporated into the larger digital library TBRC is developing."
+hc_id: "4"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "150 West 17th Street"
+address2:  "NULL"
+city:  "New York"
+state:  "NY"
+zip: "10010"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

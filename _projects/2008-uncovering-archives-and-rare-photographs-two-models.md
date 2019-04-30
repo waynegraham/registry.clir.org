@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Uncovering Archives and Rare Photographs: Two Models for Creating Accession-level Finding Aids Using Archivists' Toolkit
+title: "Uncovering Archives and Rare Photographs: Two Models for Creating Accession-level Finding Aids Using Archivists' Toolkit"
+year: 2008
+end_range: 2002
+formats: "NULL"
+geographic_extant: "Materials in the collections relate to Europe, the United States, the Middle East, the Far East, and Latin America."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Susan M. Allen"
+size: "330 linear feet, 28635 objects"
+start_range: "1843"
+summary: "The GRI has processed and described hidden collections in two broad categories. In the first category are seven archives that document the intersection of art and language in the 20th century in Europe and the United States. In the second category are 34 collections and albums of rare 19th- and early 20th-century photographs organized into three subject areas: Asia and Orientalism, Cities and Sites, and Expositions and World Fairs. Of great research value to scholars across disciplines, from art history to literature to cultural studies, the art and language archives document experiments with concrete and sound poetry, spoken word, performance art, conceptual art, and criticism based on the premise that making art and talking about art are related enterprises. The archives include the papers of Arthur Petronio, David Antin, and the conceptual art collective Art & Language New York; letters received by collector, critic and curator Jasia Reichardt; papers relating to the Lettrist movement; and the records of Oracle Press and High Performance magazine. Of scholarly interest to historians, architects, anthropologists and archaeologists, as well as art historians, the collections of rare photography document landscapes, people, architecture, material culture, expositions and world fairs in numerous locations with an emphasis on western perspectives of the Middle and Far East. The collections include slides, stereographs, cartes-de-visite, postcards, and thousands of photographic prints."
+hc_id: "94"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1200 Getty Center Dr."
+address2:  "Suite 1100"
+city:  "Los Angeles"
+state:  "CA"
+zip: "90049-1688"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$274,889"
+material_description:  "NULL"
 ---
-
-

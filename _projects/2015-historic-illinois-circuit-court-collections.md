@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Historic Illinois Circuit Court Collections
+title: "Historic Illinois Circuit Court Collections"
+year: 2015
+end_range: 2015
+formats: "NULL"
+geographic_extant: "The geographic range covers the entire state of Illinois."
+institution: "Illinois Supreme Court Historic Preservation Commission"
+institution_type: "NULL"
+primary_contact: "Mr. John Lupton"
+size: "NULL"
+start_range: "1791"
+summary: "The Illinois Supreme Court Historic Preservation Commission and Circuit Court Clerks plan to digitize historically significant documents in each county courthouse that are not accessible online. With an estimated of 65,000 items, the program emphasizes the creation of online resources that facilitate public use of records in the courthouses. This project will allow greater access to buried and hidden court cases. After completing the project, these documents will be valuable to scholars and students doing research on Illinois legal history. As a priority the project begins with identifying important cases and scanning the documents. Primary sources must be preserved for future research and to understand the nature of society from the 18th to 21st century. The Historic Illinois Circuit Court Collections (CCC) broadens the scope of our digital resources and fulfills our public service mission to preserve artifacts of the Illinois judiciary for future generations."
+hc_id: "17516684"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Illinois Supreme Court Historic Preservation Commission"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>65000 Mixed Archival Collections</li>"
+collaborating_institution:  "Illinois State Archives; Friends of the Illinois Supreme Court Historic Preservation Commission; Illinois State Library"
+grant_amount:  "$307,972"
+material_description:  "The State of Illinois has 102 counties, each with a clerk of the circuit court, who houses case files dating from the creation of its respective county. Each county courthouse contains hundreds of thousands, if not millions, of court records. The Illinois Supreme Court Historic Preservation Commission (the Commission) will identify important, famous, representative, and interesting cases from each county. Staff will digitize those case files and will work with each circuit court clerk to transfer those documents to the Illinois State Archives for safe keeping. With Illinois's rich and diverse history featuring prominent lawyers, such as Stephen Douglas, Abraham Lincoln, Clarence Darrow, and Barack Obama, there will be a wealth of information to obtain for research."
 ---
-
-

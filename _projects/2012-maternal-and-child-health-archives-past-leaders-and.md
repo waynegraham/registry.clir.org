@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Maternal and Child Health Archives: Past Leaders and Program Legacies
+title: "Maternal and Child Health Archives: Past Leaders and Program Legacies"
+year: 2012
+end_range: 2012
+formats: "NULL"
+geographic_extant: "The project is national in scope. Materials include federal and state documents about public health programs for mothers, children and families."
+institution: "Georgetown University MCH Library"
+institution_type: "NULL"
+primary_contact: "John Richards"
+size: "235 boxes"
+start_range: "1912"
+summary: "The materials for this project include personal archives of leaders in the field of maternal and child health (MCH) and reports from states on children's health and are housed within the MCH Library at Georgetown University but are kept off-site in 235 boxes (1.2 cubic feet each). These materials chronicle over half a century of work conducted by federal and state health officials, researchers, and policy makers to improve health status and services for children and families across the Nation. The MCH Library is the university-based repository of the U.S. Maternal and Child Health Bureau; however funding levels have precluded anything but a rudimentary examination of the archival materials. The active MCH Library collection consists of over 25,000 items; the cataloging project would augment this by 25 percent, opening the doors to materials that are currently hidden. Content Details and Significance follow: 1. Archives from 5 leaders in the field contain unpublished articles, research, and monographs on programs related to child nutrition, adolescent health, school health, infant mortality, newborn screening and genetic disorders. 2. The Library stores reports prepared by state public health agencies on maternal and child health indicators and the delivery of health services to children and families at the state and community level that pre-date electronic collection of the data."
+hc_id: "1001"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "2115 Wisconsin Avenue, NW"
+address2:  "Suite 601"
+city:  "Washington"
+state:  "DC"
+zip: "20007"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

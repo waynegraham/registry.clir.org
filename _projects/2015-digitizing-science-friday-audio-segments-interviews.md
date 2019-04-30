@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing Science Friday Audio Segments: Interviews with Host Ira Flatow and Scientists, Innovators, Inventors, Technologists, and Engineers -- 25 Years of Multidisciplinary Science Dialogue
+title: "Digitizing Science Friday Audio Segments: Interviews with Host Ira Flatow and Scientists, Innovators, Inventors, Technologists, and Engineers -- 25 Years of Multidisciplinary Science Dialogue"
+year: 2015
+end_range: 2016
+formats: "NULL"
+geographic_extant: "Science Friday audio segments were primarily recorded in New York City with guests live in the studio, or calling in from locations worldwide. Most guests are from the US with some hailing from international locations. Approximately 5% of the broadcasts were recorded at remote broadcast locations across the US."
+institution: "Science Friday Initiative"
+institution_type: "NULL"
+primary_contact: "Mr. Charles Bergquist"
+size: "NULL"
+start_range: "1991"
+summary: "Each week for nearly 25 years, award-winning public radio host Ira Flatow has interviewed scientists, mathematicians, inventors, health professionals, artists, Nobel laureates, and politicians on the latest scientific innovations and breakthroughs. Guests have included Carl Sagan, Jane Goodall, Neil DeGrasse Tyson, Sylvia Earle, Oliver Sacks, Richard Leakey, and many other historic science figures and communicators. Science Friday's topics run the gamut of science and include overarching themes of environment, nature, health, neuroscience, psychology, space, mathematics, earth science, biology, physics, chemistry, engineering, and energy. Science Friday also regularly produces segments on science-themed art, history, culture, biographies, politics, ethics, and education. The show provides a unique history of changes over time -- such as the rise of the information age with the invention and widespread use of the World Wide Web; the shifting conversations and perspectives on climate change; and the unfolding advances of the biotechnology industry."
+hc_id: "16774382"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>2037 Audio Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$249,526"
+material_description:  "The public radio program Science Friday originally aired in 1991 as part of the daily talk show, Talk of the Nation, for a once-a-week focus on science news coverage. When Talk of the Nation was discontinued in 2013, Science Friday continued as an independently produced program operated by a 501c3 nonprofit organization, Science Friday Initiative. Currently, we have over 2 million weekly listeners, 250,000 monthly website visitors, and 1 million social media followers. \n\n\n\nEach week for nearly 25 years, award-winning public radio host Ira Flatow has interviewed scientists, mathematicians, inventors, health professionals, artists, Nobel laureates, and politicians on the latest scientific innovations and breakthroughs. Guests have included Carl Sagan, Jane Goodall, Neil DeGrasse Tyson, Sylvia Earle, Oliver Sacks, Richard Leakey, and many other historic science figures and communicators. Science Friday's topics run the gamut of science and include overarching themes of environment, nature, health, neuroscience, psychology, space, mathematics, biology, physics, chemistry, engineering, and energy. We also regularly produce segments on science-themed art, history, culture, biographies, politics, ethics, and education.\n\n\n\nScience Friday is the only media program that has documented the past 25 years of scientific innovations across every scientific discipline through interviews with experts. Science Friday's producers and host have worked to build public awareness and accessibility of science and technology. The show provides a unique history of changes over time -- such as the rise of the information age with the invention and widespread use of the World Wide Web; the shifting conversations and perspectives on climate change; and the unfolding advances of the biotechnology industry. Many of these interviews can be considered primary sources of the history of science and technology as the guests we secure are leaders conducting research and innovating at the forefront of their respective fields."
 ---
-
-

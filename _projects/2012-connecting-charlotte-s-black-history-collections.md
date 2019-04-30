@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Connecting Charlotte's Black History Collections
+title: "Connecting Charlotte's Black History Collections"
+year: 2012
+end_range: 2003
+formats: "NULL"
+geographic_extant: "The collections represent the Black experiences in North Carolina, documenting the social and political life of this ethnic group."
+institution: "Johnson C. Smith University"
+institution_type: "NULL"
+primary_contact: "Monika Rhue"
+size: "200 boxes, 475 linear feet"
+start_range: "1920"
+summary: "Connecting Charlotte's Black History Collections cover materials from 1920s to 2003. The materials in the proposed collections represent the history of African Americans in North Carolina, with a concentration of Charlotte's Black history. The collections contain photographs, oral histories, biographies, scrapbooks, and letters that are rare and hidden to the research community. The topics range from studies of health disparities among African Americans through the Charlotte REACH 2010 project, materials on North Carolina's first African American Congresswoman, Eva Clayton, to never seen before images of Charlotte historic black neighborhoods, and social life of black families in Charlotte from the Peeler collection dating back to the early 1900s. The invaluable, un-cataloged heirlooms stored at the Second Ward Alumni House that represents Charlotte's once thriving prominent black community Brooklyn, and artifacts on eight black neighborhoods in Charlotte, in which seven were destroyed through the urban renewal redevelopment project. The Eva Clayton collection and the Charlotte REACH 2010 collection are 50% processed. The Peeler photograph collection and the collection at the Second Award Alumni House are not processed. The combined collection represents estimate of 200 boxes to be processed and cataloged."
+hc_id: "973"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "100 Beatties Ford Rd."
+address2:  "NULL"
+city:  "Charlotte"
+state:  "NC"
+zip: "28216"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

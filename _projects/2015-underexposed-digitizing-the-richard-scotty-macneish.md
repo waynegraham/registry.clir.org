@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Underexposed: Digitizing the Richard "Scotty" MacNeish Photographic Archive
+title: "Underexposed: Digitizing the Richard \"Scotty\" MacNeish Photographic Archive"
+year: 2015
+end_range: 2001
+formats: "NULL"
+geographic_extant: "North America, Central America, South America, China: Tehuacan Valley of Mexico; Ayachuco, Peru; Orogrande area of New Mexico, Belize, and Jiangxi Province, China."
+institution: "Robert S. Peabody Museum of Archaeology"
+institution_type: "NULL"
+primary_contact: "Ms. Bonnie Sousa"
+size: "NULL"
+start_range: "1960"
+summary: "Richard \"Scotty\"  MacNeish was a preeminent archaeologist known for his search for the origin of agriculture and civilization in the Americas and beyond, a prolific researcher and author, and pioneer of interdisciplinary research. MacNeish was a controversial and larger-than-life figure in the history of American archaeology, often pushing the limits regarding the first colonization of the Americas and the origins of agriculture. The Robert S. Peabody Museum of Archaeology will engage the Northeast Document Conservation Center to digitize the image collection from the MacNeish archive estimated at 10,000 images. Images from projects in Mexico, Peru, Belize, the United States, and China will provide a comprehensive account of his work at archaeological sites. The Museum will make the images and metadata available on its PastPerfect Online website, and on Digital Commonwealth, which supports cultural heritage institutions in Massachusetts. The Digital Commonwealth is a ServiceHub for the Digital Public Library of America."
+hc_id: "17216836"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Robert S. Peabody Museum of Archaeology"
+p2_name:  "Dr. Ryan"
+p2_institution:  "Director"
+p3_name:  "Dr."
+p3_institution:  "NULL"
+material_string: "<li>10000 Photographs</li>"
+collaborating_institution:  "Andover Foundation for Archaeological Research"
+grant_amount:  "$99,900"
+material_description:  "The Richard S. \"Scotty\"  MacNeish Archive comprises 60 years of research and publication by one of the most notable American archaeologists of the twentieth century. MacNeish's contributions were acknowledged with membership in the National Academy of Sciences, the American Anthropological Associations A.V. Kidder Medal, and numerous other distinctions. Digitization efforts will focus on image collections from archaeological field work conducted while MacNeish was a research associate and then Director of the Robert S. Peabody Foundation for Archaeology and as Director of the Andover Foundation for Archaeological Research (AFAR). Images from his most important fieldwork will be digitized, representing archaeological sites such as Coxcatlan Cave in the Tehuacan Valley of Mexico and the Ayacucho region of Peru. Photographs document archaeological site level work by MacNeish and his collaborators, including images of excavations, stratification, artifacts, and crew members working in the field, as well as scenery. A brief finding aid will be created for the image collection."
 ---
-
-

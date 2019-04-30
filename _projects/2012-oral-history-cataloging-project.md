@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Oral History Cataloging Project
+title: "Oral History Cataloging Project"
+year: 2012
+end_range: 2012
+formats: "NULL"
+geographic_extant: "The interviews of this project were recorded in 20 countries across Europe."
+institution: "United States Holocaust Memorial Museum"
+institution_type: "NULL"
+primary_contact: "Neal Guthrie"
+size: "1450 objects"
+start_range: "1996"
+summary: "The United States Holocaust Memorial Museum’s Oral History Collection holds more than 12,500 interviews comprising almost 24,000 hours of testimony with Holocaust survivors and victims of Nazi persecution as well as witnesses, collaborators, perpetrators, liberators, rescuers, and members of prosecution. Approximately 25 percent of the interviews were produced by the USHMM. In addition to its self-produced testimonies, the USHMM serves as a repository for more than 9,700 interviews conducted by 130 institutions, organizations, and groups, as well as 441 individual testimonies conducted by friends or family members of survivors. Contributing organizations have entrusted the USHMM to preserve these interviews for future generations and to make them accessible. Every year, the USHMM takes in several hundred testimonies from outside sources. The focus of this grant are the 1,450 interviews with non-Jewish bystanders, collaborators, and perpetrators recorded by the Museum since 1996. This collection offers an additional dimension to traditional Holocaust survivor testimony and is an invaluable primary resource for Holocaust education and combating Holocaust denial and anti-Semitism today."
+hc_id: "948"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "100 Raoul Wallenberg Place, SW"
+address2:  "NULL"
+city:  "Washington"
+state:  "DC"
+zip: "20024-2126"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$103,300.00"
+material_description:  "NULL"
 ---
-
-

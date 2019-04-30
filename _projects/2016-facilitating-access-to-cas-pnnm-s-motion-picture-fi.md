@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Facilitating Access to CAS/PNNM's Motion Picture Film Collection for Ecological Research
+title: "Facilitating Access to CAS/PNNM's Motion Picture Film Collection for Ecological Research"
+year: 2016
+end_range: 1988
+formats: "NULL"
+geographic_extant: "CAS/PNNM's films document historic environments across North America (65%), with a strong emphasis on the Midwest (39%), but also include Florida, the Great Smoky Mountains, and the American Southwest. The collection also includes footage from other ecologically sensitive areas worldwide, including the Galapagos, Ireland, and Africa."
+institution: "Chicago Academy of Sciences / Peggy Notebaert Nature Museum"
+institution_type: "NULL"
+primary_contact: "Ms. Dawn Roberts"
+size: "NULL"
+start_range: "1925"
+summary: "The Chicago Academy of Sciences / Peggy Notebaert Nature Museum's (CAS/PNNM) motion picture films document biodiversity from 1925 to 1988, providing a unique mechanism to study ecological change over time. Almost all of the films are original recordings taken during Academy field expeditions across the United States, featuring Midwestern environments and other ecologically important areas such as the Great Smoky Mountains, the American Southwest, Louisiana, and Florida. CAS/PNNM's film collection also documents sensitive ecosystems around the world, created by Academy staff and local naturalists while studying abroad. Because motion picture film becomes increasingly more fragile over time, digitization of these films is necessary to ensure that access to the information recorded is safely preserved and accessible for scholarly review. CAS/PNNM will contract the Chicago Film Archives to digitize 1,323 films from its collections over a two year period and make the resulting digital media available through Internet Archive and Arctos."
+hc_id: "21852133"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Chicago Academy of Sciences / Peggy Notebaert Nature Museum"
+p2_name:  "Ms. Erica Krimmel"
+p2_institution:  "Chicago Academy Of Sciences / Peggy Notebaert Nature Museum"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>1323 motion films</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$243,371"
+material_description:  "CAS/PNNM's motion picture film collection documents biodiversity from 1925 to 1988, providing a unique mechanism by which to study ecological change over time. The collection contains 1,319 original films found nowhere else. Many of the films record Academy field expeditions across the United States, predominantly featuring Midwestern environments, but also the Great Smoky Mountains, the American Southwest, Louisiana, and Florida. These expeditions often included faunal surveys, which helped influence scientific research and environmental protections, including the formation of Great Smoky Mountains National Park. At the time these films were created, the animal behaviors and scenery captured on film would have enchanted the audience back home; today this material is a valuable record of past ecosystems, many of which have been heavily impacted by human activity in the interim years. The Academy strived to educate its visitors about nature both in their backyard and on the other side of the world, and to this extent, the CAS/PNNM film collection captures environments on every continent except Antarctica. Academy staff and Trustees who created these films include William Beecher, Alfred Bailey, Thurston and Earl Wright, Leon Urbain, Clarence and Helen Frederick, and the Howe family. In addition to internal productions, the collection has films that were donated to the Academy by naturalists including Benjamin Gault, Clarence Randall, and Sidney Downey. Gault (1859-1942) was a Chicago ornithologist and avid conservationist whose specimens and archive materials are also deposited in CAS/PNNM collections. Randall (1891-1967), another birder from the Chicago area, documented many bird species found in the Midwest. Downey (1905-1983) led safaris and filmed the desert ecosystems of Africa. Finally, the collection includes a handful of educational commercial films featuring Academy staff or done in partnership with the Academy. Four of these have not been found digitally available, so are included in this proposal."
 ---
-
-

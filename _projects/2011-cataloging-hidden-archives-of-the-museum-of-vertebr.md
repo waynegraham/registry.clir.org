@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging Hidden Archives of the Museum of Vertebrate Zoology: Increasing Integration and Accessibility for Interdisciplinary Research
+title: "Cataloging Hidden Archives of the Museum of Vertebrate Zoology: Increasing Integration and Accessibility for Interdisciplinary Research"
+year: 2011
+end_range: 2010
+formats: "NULL"
+geographic_extant: "Primarily western North America, from Alaska to Mexico; also Central and South America, the South Pacific, and all continents except Antarctica."
+institution: "Museum of Vertebrate Zoology"
+institution_type: "NULL"
+primary_contact: "Michelle Koo"
+size: "202 linear feet, 32515 objects"
+start_range: "1870"
+summary: "The MVZ archives provide the historical, ecological, legal, and sociological context for the vertebrate specimens that comprise our unique collections. They document the expeditions, research, and views of prominent western pioneers, evolutionary biologists, and conservationists (e.g., Annie Alexander, Charles L. Camp, Joseph S. Dixon, Joseph Grinnell, Alden Miller, Robert Stebbins, and many others) from the late 19th century to present. Joseph S. Dixon, for example, was a well-known conservationist who organized the first wildlife surveys in U.S. national parks, and led the Park Service to protect endangered species and fragile habitat. The MVZ archives include detailed fieldnotes and annotated maps from over 300 scientists and students, thousands of pages of correspondence (much of historical importance), original artwork used in seminal publications, and photographic documentation of field sites, specimens, and animal observations in various formats (prints, negatives, 35mm slides, lantern slides, glass photo plates, digital). These archives are used extensively by scientists, historians, teachers, government agencies, and public policymakers, and have formed the basis for projects on history of science, American history, evolutionary biology, and women in science. They provide the foundation for efforts to resurvey vertebrates throughout North America to document and understand change either directly or indirectly through human activity and/or climate."
+hc_id: "816"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "3101 Valley Life Sciences Bldg"
+address2:  "#3160"
+city:  "Berkeley"
+state:  "CA"
+zip: "94720-3160"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$481,800"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Salve Regina Public Lectures Project
+title: "Salve Regina Public Lectures Project"
+year: 2015
+end_range: 2017
+formats: "NULL"
+geographic_extant: "In accordance with its mission, the Pell Center presents lectures focusing on the connections and diplomacy between the United States and rest of the world. The Atwood lectures cover American history and culture and have touched on medieval Europe, the Middle East, south Asia, the Soviet Union, and Africa."
+institution: "Salve Regina University"
+institution_type: "NULL"
+primary_contact: "Ms. Olga Verbeek"
+size: "NULL"
+start_range: "1982"
+summary: "McKillop Library will preserve and make available the public lectures and lecture series of Salve Regina University by digitizing, creating metadata and transcripts, and providing online access through the institute's repository, Digital Commons @Salve Regina. The collection includes the Atwood Lecture Series, the Pell Center for International Relations and Public Policy Lectures, and lectures sponsored by various academic departments. For the named lecture series other materials such as photographs and monographs documenting the history of the series will be included."
+hc_id: "17516576"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Salve Regina University"
+p2_name:  "Ms. Genna"
+p2_institution:  "Archivist and Special Collections Librarian"
+p3_name:  "Ms."
+p3_institution:  "NULL"
+material_string: "<li>51 Audio Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$92,709"
+material_description:  "Public lectures at Salve Regina originate throughout several academic departments and units, the two most prominent being the lectures provided by the Pell Center for International Relations and Public Policy and the Atwood Lecture in the Humanities series. \n\n\n\nThe Pell Center for International Relations and Public Policy was established by an act of Congress in 1996 to honor the life and work of Senator Claiborne Pell, encouraging international dialogue and developing citizenship at the local, national, and international levels. The center hosts 5-8 lectures per year in support of this mission.\n\n\n\nFounded by alumna Marjorie Atwood in 1982, the Atwood Lectures seek to bring prominent speakers and scholars to Salve Regina to present not only to the university, but the wider community. These lectures have always been free and supported predominantly by the Oliver S. and Jennie R. Donaldson Charitable Trust. One of Atwood's goals in founding this lecture series was to offer opportunities to experience thought-provoking presentations on current, critical issues."
 ---
-
-

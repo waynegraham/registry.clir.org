@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: SWIRL: Southern Women Innovators, Reformers, and Leaders
+title: "SWIRL: Southern Women Innovators, Reformers, and Leaders"
+year: 2010
+end_range: 1990
+formats: "NULL"
+geographic_extant: "Kentucky and eastward through the Appalachian Region. It includes both rural and urban environments and reflects a southern view of national trends."
+institution: "University of Kentucky Libraries"
+institution_type: "NULL"
+primary_contact: "Deirdre Scaggs"
+size: "171 cubic feet, 228 objects"
+start_range: "1900"
+summary: "These collections reveal new information regarding the rich history of southern women leaders in health care, reform, and public policy in the 20th century. The materials--textual, oral, and visual--document and help explain the impact of Kentucky women on the advancement of southern life and culture. This project will make 171 cubic feet of archival materials and 228 oral history interviews available for research. The collections include the papers of: community activist, Hariett Drury Van Meter; political activist and newspaper editor, Anna Dudley McGinn Lilly; civic activist, Martha Jane Whiteside; women's rights activist, Diane Naser; humanitarian, Linda Neville; the records from the Ruth Beemans Graduate School of Midwifery; education reformer, Cora Wilson Stewart; the first woman elected to the Kentucky legislature, Mary Elliott Flanery; civil rights activist, Anne Braden; records from the Colored Orphan Industrial Home for the relief and benefit of orphans and aged women; and the records of the Lexington Gay and Lesbian Community. The oral histories supplement the archival collections and give voice to women from the American College of Nurse Midwives, women coalminers, women fighting for maternity care, the vote, and racial equity. Enhanced access to these collections will substantially impact the study of women and progressive movements in the upper south."
+hc_id: "663"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "UK Libraries"
+address2:  "Special Collections & Digital Programs"
+city:  "Lexington"
+state:  "KY"
+zip: "40506-0039"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

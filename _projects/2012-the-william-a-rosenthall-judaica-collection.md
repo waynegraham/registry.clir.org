@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The William A. Rosenthall Judaica Collection
+title: "The William A. Rosenthall Judaica Collection"
+year: 2012
+end_range: 2005
+formats: "NULL"
+geographic_extant: "Europe, North America, South America, West Indies, North Africa, South Africa, Middle East, Asia (Russia, Uzbekistan, Turkey, India), Australia."
+institution: "Special Collections"
+institution_type: "NULL"
+primary_contact: "Dale Rosengarten"
+size: "194 linear feet"
+start_range: "1500"
+summary: "The William A. Rosenthall Judaica Collection is an extraordinary compilation of printed material and artwork that traces the portrayal of Jews by scholars, artists, laypersons, and even antisemites from the 16th to the 21st centuries. The collection includes rare books, fine art, postcards, illustrated journals, greeting cards, pamphlets, broadsides, ephemera, newspapers, cartoons, caricatures, etchings, lithographs, chromolithographs, watercolors, medallions, stamps, textiles, and miscellaneous formats. Materials are in English, German, French, Spanish, Portuguese, Hebrew, Yiddish, and other languages. The majority of the collection consists of imagery—visual material accessible to all, no matter what language one speaks. The Rosenthall Collection documents the lives, history, religious ceremonies, dress, and customs of the Jewish people. Synagogues are a particular focus, including variant images, different printings, alternate views of interiors and exteriors, maps, and panoramas of sanctuaries from around the globe. Many imprints depict European synagogues that were destroyed between 1938 and 1945. These iconographic materials, as well as illustrations and photographs of Jewish ghettos, costumes, cemeteries, folk and religious life, are grouped by subject and location and stored in approximately 90 portfolios. The collection also contains Jewish caricatures, postage stamps, New Year cards, portraits of individuals, and clippings from Jewish journals and publications."
+hc_id: "952"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Addlestone Library, Special Collections"
+address2:  "College of Charleston"
+city:  "Charleston"
+state:  "SC"
+zip: "29424"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$192,300"
+material_description:  "NULL"
 ---
-
-

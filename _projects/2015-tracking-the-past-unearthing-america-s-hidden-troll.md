@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Tracking the Past: Unearthing America's Hidden Trolley Legacy through Digitized Images and Text
+title: "Tracking the Past: Unearthing America's Hidden Trolley Legacy through Digitized Images and Text"
+year: 2015
+end_range: 1946
+formats: "NULL"
+geographic_extant: "The geographic scope of these collections is Maine, New England, and (for the Wason Collection), U.S. cities and towns, South America, Central America, and Cuba."
+institution: "New England Electric Railway Historical Society"
+institution_type: "NULL"
+primary_contact: "Ms. Amber Tatnall"
+size: "NULL"
+start_range: "1863"
+summary: "This two-year-long project will digitize 4000 photographs, 3000 negatives, and 100 tourist booklets documenting the history of electric railways in the United States. The collections belong to the New England Electric Railway Historical Society (NEERHS). The project will be hosted at York County Community College (YCCC), with guidance and involvement from the University of New England's (UNE) Department of History and Philosophy. The major activity will be the digitization of images and text, and uploading the already-created metadata to the Digital Public Library of America through Digital Maine, a regional service hub for the Digital Public Library of America, and the Maine Memory Network. This project will bring to light a wealth of hidden and unique primary source material valuable to teachers and scholars interested in exploring the interconnections between what was once one of the largest industries in the U.S. and its impact on U.S. history and culture."
+hc_id: "16995152"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "York County Community College"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>7100 Mixed Archival Collections</li>"
+collaborating_institution:  "New England Electric Railway Historical Society; York County Community College; University of New England"
+grant_amount:  "$73,600"
+material_description:  "<b>O.R. Cummings Maine Electric Railways Collection</b>\n\n\n\nThis photograph collection supported the research of O.R. Cummings, an historian of street railways who authored more than 60 books. Cummings gifted the collection to NEERHS in 2009. The photographs, dating from 1895 to 1949, capture images from every street railway that ever operated in the state of Maine. The collection chronicles a pivotal era in Maine's history, documenting the development of the street railways that spurred the growth of Maine cities and suburbs in the early 20th century. The photographs are a sociological treasure trove of images, not just of trolley cars, but of street scenes in cities and towns across Maine, including buildings, parks, shops, factories, recreational destinations, automobiles, people, and the changing fashions in dress.\n\n\n\n<b>The Wason Collection</b>\n\n\n\nThis collection contains 3000 original negatives of railway cars built by the Wason Manufacturing Company in Springfield, Massachusetts between 1906 and 1938. These photos were taken by the company to document car orders from railways around the world, showing various views of each car type built for each order and have descriptive information (date, car type, company) for each. These items are unique originals, entrusted to a local historian by the company when the plant closed, and then donated to NEERHS.\n\n\n\n<b>The New England Tourism Collection</b>\n\n\n\nThis collection, donated to NEERHS by O.R. Cummings, consists of 100 tourism booklets advertising trolley, steamboat, and train excursions in New England. Many of the booklets are regional, but some are souvenir booklets for individual trolley resorts. All are illustrated with black-and-white photographs and maps, and include local information, business directories, and advertisements. These documents contain a wealth of primary source material in the subject areas of local history, transportation, geography, and leisure activities."
 ---
-
-

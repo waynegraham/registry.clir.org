@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Early Asian American Print Culture
+title: "Early Asian American Print Culture"
+year: 2016
+end_range: 2012
+formats: "NULL"
+geographic_extant: "Headquartered in the nation's publishing capital, the AAWW is well situated to represent Early Asian American Print Culture through our archived collections. By digitizing our hidden archives, many people around the country can enjoy our events as well as our work without even having to leave their homes."
+institution: "Asian American Writers' Workshop"
+institution_type: "NULL"
+primary_contact: "Mr. Ken Chen"
+size: "NULL"
+start_range: "1992"
+summary: "The Asian American Writers' Workshop (AAWW) seeks funding for Early Asian American Print Culture (EAAPC), an initiative to catalog, digitize, and present the Asian American cultural production between the early 1990s and 2000s. AAWW's library and archive tell the hidden history of zine and spoken word culture and the rise of multiculturalism. EEAPC will preserve: 1) Asian American ephemera (photographs, leaflets, community fliers, posters); 2) early Asian zine culture, particularly Mimi Thi Nguyen's work; 3) AAWW's publications, many of them inaccessible or out of print (our member magazine, journal, and nine anthologies published with Temple University Press); 4) AV recordings dating back to 2000. We will offer efficient free access by publishing the archive in our online magazine and as course materials with Association of Asian American Studies. EAAPC will give scholars, students, and the public access to the culture of Asian American literature as it was being founded."
+hc_id: "22310073"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "AAWW"
+p2_name:  "Mr. Rob Rusli"
+p2_institution:  "Asian American Writers' Workshop"
+p3_name:  "Ms. Britt Gudas"
+p3_institution:  "AAWW"
+material_string: "<li>15 Ephemera</li>"
+collaborating_institution:  "Hunter College Asian American Studies Program; Vassar University, American Studies Department"
+grant_amount:  "$175,000"
+material_description:  "APAJ: The AAWW has been a vital cultural institution in Asian American literature since 1991, and the literary journal serves as a crucial historic record of both the workshop and of Asian American culture. The APAJ published prose, poetry, nonfiction, and artwork by then emerging writers of color. Many renowned writers, such as R. Zamora Linmark, Alexandra Kleeman, and Jennifer Hayashida, first published their work in the APAJ. Curated Anthologies: Our curated anthologies were published between 1998 and 2002. The AAWW collaborated with Temple University Press to curate and distribute writings by such authors as Jessica Hagedorn, Chang-Rae Lee, and Alexander Chee. The anthologies give a snapshot of Asian American literature at its emergence. explanAsian/Ten Magazine: Our member magazines remain a crucial aspect of the AAWW's publication activities. The magazine first debuted under the title explanAsian in 1993, and featured critical essays, reviews, and interviews with AAPI authors like Jhumpa Lahiri and Ruth Ozeki. Audio/visual recordings of events: The AAWW is one of the most active literary organizations in the country. Every year, we present 50 events featuring about 200 authors and artists. We've featured Junot Diaz, Roxanne Gay, and Salman Rushdie. Our archived recordings of interviews and conversations on minidisk go back to 2002, encompassing never before heard audio of discussion with the Asian American literature greats, like Maxine Hong Kingston, Jessica Hagedorn, and David Mura. Related ephemera: We also plan to digitize archived material created alongside these publications and events, like posters, fliers, and Mimi Thi Nguyin's zines. We will conduct an open call for writers to submit zines, which offer emerging writers and artists of color an alternative space to publish their work."
 ---
-
-

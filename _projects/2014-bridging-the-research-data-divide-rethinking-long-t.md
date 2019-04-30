@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Bridging the Research Data Divide: Rethinking long-term value and access for historical and contemporary maternal, infant and child research
+title: "Bridging the Research Data Divide: Rethinking long-term value and access for historical and contemporary maternal, infant and child research"
+year: 2014
+end_range: 2014
+formats: "NULL"
+geographic_extant: "Collections were created primarily in the United States and Canada. However, data for the Becker study was collected in the Republic of Fiji."
+institution: "President and Fellows of Harvard College on behalf of the Harvard Medical School"
+institution_type: "NULL"
+primary_contact: "Ms. Kathryn Hammond Baker"
+size: "NULL"
+start_range: "1930"
+summary: "The collaborating libraries will create rich metadata for discovery, access, citation, and long-term preservation of maternal, infant, child, and youth health (MCH) research data. Work will focus on 1) historical paper and electronic research data for longitudinal studies, 1930-2010 (CLM), and 2) contemporary electronic research data for Canadian cohort and clinical trials from the Maternal, Infant, Child, Youth Research Network (UAL). This project will bring temporal depth in laying the groundwork for value-added long-term access to and preservation of the collections, while protecting the privacy of historical and current research participants and communities of study."
+hc_id: "12990379"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Center for the History of Medicine, Francis A. Countway Library"
+p2_name:  "Ms. Sharon Farnel"
+p2_institution:  "University of Alberta Libraries, University of Alberta"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>135 Audio (Including Speech And Music), Dataset (Paper Based Or Electronic), Image, Manuscript, Specimen (Botanical, Geological, Medical, Etc.), Text (Including Electronic Texts)</li>"
+collaborating_institution:  "University of Alberta Libraries, 116 St. and 85 Ave., Edmonton, Alberta T6G 2R3 Canada"
+grant_amount:  "$367,602"
+material_description:  "NULL"
 ---
-
-

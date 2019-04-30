@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: North Dakota Pioneers 1880-2015: Documenting a Century of Immigration, Culture, and Heritage in Word, Image, and Sound
+title: "North Dakota Pioneers 1880-2015: Documenting a Century of Immigration, Culture, and Heritage in Word, Image, and Sound"
+year: 2015
+end_range: 2015
+formats: "NULL"
+geographic_extant: "North Dakota is the primary geographic range of the collections. Other regions and countries may be included in some collections (Schock Collection, Olson Collection, Program Masters Tape and Field Tape Libraries) as they relate to the culture, history, and heritage of North Dakota."
+institution: "Prairie Public Broadcasting, Inc. (representing Digital Horizons)"
+institution_type: "NULL"
+primary_contact: "Ms. Kim Stenehjem"
+size: "NULL"
+start_range: "1880"
+summary: "Four Digital Horizons partner institutions (State Historical Society of North Dakota, North Dakota State Library, North Dakota State University, and Prairie Public Broadcasting) will digitize and create metadata for over 35,000 oral histories, photographs, recordings, books, and manuscripts on the diverse heritage and experiences of the people of North Dakota. The collections span the range of pioneer and immigrant experiences, from histories of its towns, counties, and churches to the experiences of its newest arrivals in the Bakken oil fields. These first-person accounts of the lived experiences of life on the prairie are enriched by photographs, documentaries, and historical records that portray the unexpected depth of the region's history and culture. Through this two-year project, these archival and media collections will be made freely-accessible to scholars, teachers, and students. Brought together with the existing collections in Digital Horizons, this rich resource will support traditional and digital scholarship across many disciplines."
+hc_id: "16653443"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Prairie Public Broadcasting"
+p2_name:  "Ms. Rachel"
+p2_institution:  "Head of Technical Services"
+p3_name:  "Ms. Ms. Trista"
+p3_institution:  "Head, NDSU Archives"
+material_string: "<li>17537 Photographs</li>"
+collaborating_institution:  "Prairie Public Broadcasting, Inc.; North Dakota State University; North Dakota State Library; State Historical Society of North Dakota"
+grant_amount:  "$184,072"
+material_description:  "The hidden collections come from four Digital Horizons partners: the Historical Society of North Dakota (NDHistSoc), the North Dakota State Library (NDStatLib), North Dakota State University (NDSU), and Prairie Public Broadcasting (PPB). \n\n\n\n[NDHistSoc] ND Oral History Collections\n\nThese collections represent North Dakota immigrant and new resident experiences, from ethnic files collected by the WPA to contemporary oral histories of missile site personnel and people in the Bakken oilfield communities. The largest collection of oral histories documents the lives of those who lived North Dakota's history. Related documents include photographs, family histories, letters, ledgers, biographical sketches, histories of ethnic settlements, and correspondence.\n\n \n\n[NDStatLib] ND County and Town Histories\n\nThe collection of 450 county and town histories cover the history of all 53 North Dakota counties and date from 1880-1977.\n\n\n\n[NDSU] Cal Olson Photograph and Martin Schock Letter Collections\n\nThe images taken by Cal Olson, a Pulitzer Prize winning photojournalist with the Fargo Forum newspaper during the late 20th century, cover the 1957 Fargo tornado, the Vietnam War, aerials of Fargo/Moorhead, military bases, North Dakota Indians, agriculture, and politics, including the 1964 Republican National Convention.\n\n\n\nThe letters sent to Johannes and Christiana (Ehni) Schock by relatives living in Poland and Germany following World War II (1946-1952) narrate their resettlement experiences from Romania into Germany and Nazi-occupied Poland. The letters provide insight into the emigre experience and the support North Dakota immigrants provided to their relatives in Europe.\n\n\n\n[PPB] Local Production Masters Tape and Field Tape Libraries\n\nThese collections include the original productions on the history, culture, and heritage of the prairie region (North Dakota, Minnesota, and Manitoba) and interviews with historians, social scientists, politicians, and first hand accounts and oral histories of people from the prairie region. Only a small portion of the interviews were incorporated into the TV productions."
 ---
-
-

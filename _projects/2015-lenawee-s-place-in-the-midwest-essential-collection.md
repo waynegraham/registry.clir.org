@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Lenawee's Place in the Midwest: Essential Collections of Lenawee Archival Repositories (1870 - 1950)
+title: "Lenawee's Place in the Midwest: Essential Collections of Lenawee Archival Repositories (1870 - 1950)"
+year: 2015
+end_range: 1950
+formats: "NULL"
+geographic_extant: "Scope includes Southeastern Lower Michigan, primarily Lenawee County, but documents include descriptions of Chicago, Detroit, Cleveland, Traverse City and more."
+institution: "Lenawee District Library"
+institution_type: "NULL"
+primary_contact: "Mr. Trevor Van Valkenburg"
+size: "NULL"
+start_range: "1870"
+summary: "The Lenawee District Library in partnership with the Lenawee County Historical Society, the Hudson Museum, and the W. G. Thompson House Museum will digitize collections of Lenawee County historical individuals and corporations to assist researchers and scholars in researching the history of the Midwest. Collections include major industrial corporations, literary figures, and individuals that worked in the major cities of the Midwest."
+hc_id: "17562966"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Lenawee District Library"
+p2_name:  "Mr. Raymond"
+p2_institution:  "Curator"
+p3_name:  "Mr."
+p3_institution:  "NULL"
+material_string: "<li>25 Mixed Archival Collections</li>"
+collaborating_institution:  "William G. Thompson House Museum; Hudson Museum; Lenawee County Historical Museum"
+grant_amount:  "63200"
+material_description:  "The collections selected by the partnering organizations represent major figures or industries within Lenawee County that held important places or roles within the history of Midwest United States. \n\n\n\nThe Lenawee County Historical Museum holds collections which help to showcase and document the history of the Lakeshore and Michigan Southern Railroad. Adrian served as a major hub and rail car center. The Museum also holds records for the Page and Lamb Fence Companies, woven wire fence companies that were the forerunner of modern chain link fence. \n\n\n\nThe Hudson Museum holds records related to Will Carleton, poet laureate of the State of Michigan. Carleton who would go on to prominence in New York City, was considered the people's poet and wrote about farm and rural life in the State of Michigan. \n\n\n\nThe Thompson Museum holds collections of Emma Brown, a young lady at the age of 20 who moved to Chicago in the 1890's to work as a secretary in the growing business city. The prolific collection of letters between Brown and her brothers showcase common life and concerns in the 1890's through 1910. In addition, the Museum holds the records of the Thompson Savings Bank, a local bank that invested in both agriculture and industry. The documents include the personal letters of three of the bank presidents and shows life in Hudson MI and beyond."
 ---
-
-

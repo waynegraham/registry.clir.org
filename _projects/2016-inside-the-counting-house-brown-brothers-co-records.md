@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Inside the Counting House: Brown Brothers & Co. records at The New York Public Library
+title: "Inside the Counting House: Brown Brothers & Co. records at The New York Public Library"
+year: 2016
+end_range: 1889
+formats: "NULL"
+geographic_extant: "While most of the financial activities represented throughout these records center on New York and Liverpool, they also represent dealings with outposts, investors, and affiliated partnerships in Baltimore, Philadelphia, Havana, New Orleans, the Southern, Western and Northeastern United States, as well as the Atlantic Ocean."
+institution: "The New York Public Library"
+institution_type: "NULL"
+primary_contact: "Mr. Thomas Lannon"
+size: "NULL"
+start_range: "1825"
+summary: "The New York Public Library seeks $84,640 to digitize 176 bound, oversized volumes (approximately 150,000 pages) from the archives of the New York-based Brown Brothers & Co. and Liverpool- based Brown, Shipley & Co., two companies run by brothers from one of the nineteenth century's most powerful Anglo-American merchant families. These volumes, primarily handwritten accounting ledgers and journals (1825-1889), document the inner workings of a major merchant firm during the formative period of American history and global capitalism. This record of accounting work provides aggregate detail to broader narratives of the histories of merchant capitalism, cotton and textiles manufacturing, slavery, economic colonialism, transportation and communication technological advances, the Civil War, gold trade, and monetary exchange. This project will bring this mass of detail, as images, into the digital age, and provide the foundational raw materials for a deeper, more thorough computational and scholarly examination of these important histories."
+hc_id: "23081168"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "The New York Public Library"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>176 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$84,640"
+material_description:  "The New York Public Library (NYPL) proposes the digitization of 176 bound, oversized volumes (45 linear feet shelved) from the archives of the New York-based Brown Brothers & Co. and the Liverpool-based Brown, Shipley & Co., two separate entities run by brothers from one of the nineteenth century's most powerful Anglo-American merchant capitalist families. The collection was donated to NYPL in 1936 by Brown Brothers Harriman & Co. six years after the merger of Brown Brothers & Co. with Harriman Brothers & Co. These records document the inner workings of these highly intertwined companies across a wide array of business endeavors from 1825 to 1889. Their interests continuously evolved: from the dry goods trade and provision of mercantile credit into purchase, transport, and sale of cotton from the Antebellum American South to Manchester's textile mills (via Liverpool); into finance of the plantation economy's bubble and subsequent rescue after it burst in 1837; into capitalization of Novelty Iron Works, which built steam engines powering Civil War battle ships and Atlantic packet ships; into amassing a controlling interest in the Pacific Mail Steamship Company; into investment in the earliest Transatlantic cable; and ultimately into shaping foundational modern investment banking practices. Most records cover the years when James Brown was a partner and include journals (1828-1853) providing a chronological account of the firm's transactions, and ledgers (1825-1880) which are broken down into individual accounts. There are also journals for Brown, Shipley & Co. (1837-1880) and ledgers for special transactions, e.g. local agencies, collateral, gold, and private accounts. Many of the volumes are indexed (particularly the ledgers), and the following have indexes of personal names: private accounts, statements, letters, travelers' credits, and stocks. Other records include letter books, consignments, custom house entries, records of sales, and accounts of the New Orleans and Havana offices."
 ---
-
-

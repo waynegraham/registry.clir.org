@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: “Television Writes on the Wind”: KAIT TV 8 16mm Color Newsfilm Collection (1973-1980) from Northeast Arkansas and Southeast Missouri
+title: "“Television Writes on the Wind”: KAIT TV 8 16mm Color Newsfilm Collection (1973-1980) from Northeast Arkansas and Southeast Missouri"
+year: 2017
+end_range: 1980
+formats: "NULL"
+geographic_extant: "KAIT-TV 8’s regional coverage in the 1970s radiated out ninety miles from Jonesboro, AR and included Clay, Craighead, Greene, Independence, Izard, Jackson, Lawrence, Mississippi, Poinsett, Randolph, and Sharp Counties in Arkansas; and Butler, Dunklin, Oregon, Pemiscot, and Ripley counties in Missouri; and western Tennessee."
+institution: "Arkansas State University - Jonesboro"
+institution_type: "NULL"
+primary_contact: "Dr. Natasha Margulis"
+size: "NULL"
+start_range: "1973"
+summary: "The Dean B. Ellis Library at Arkansas State University proposes to digitize the collection of KAIT TV 8 16mm color newsfilm with sound. This two-year project will digitize 176 reels to create high-quality digital surrogates of this analog newsfilm collection which was made by KAIT between 1973 and 1980. The project will result in item level metadata, finding aids, and digital access copies of these records which will be posted on our publicly accessible and searchable portal hosted by Preservica. This moving image collection is the only one of its kind for Northeast Arkansas and Southeast Missouri. Although the content of these reels seems to focus on localism, it will substantially enrich the scholarly narratives of the end of small agriculture, the Civil Rights movement, the worldwide energy crisis, the marginalization of rural America, and the activity of local politicians' involvement in national politics on behalf of fellow Arkansans."
+hc_id: "25251486"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Archives & Special Collections, Dean B. Ellis Library, Arkansas State University"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>176 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$87,334"
+material_description:  "Produced by the news department of KAIT-TV 8, this collection consists of 206 reels of color 16mm newsfilm with sound which were rescued from a dumpster by the station manager, Ronnie Weston, and given to the Arkansas State Museum in 1989. The Museum transferred the reels in their original, shown-only-once (if at all) condition to Archives & Special Collections in 1998. Since then, the Archives has been in physical possession of these materials and stored them in a climate-controlled storage area. Based on our experience with the Pilot Project, we know that each reel contains 21-45 individual stories. These stories remind Americans in this time of “fake news,” that they once relied heavily upon local news reports for the news. Whether the topic is the end of small agriculture, the Civil Rights movement, the worldwide energy crisis, or the marginalization of rural America, these stories show how the national narrative played out in the Mississippi Delta region. Some of the most prominent themes in this collection cover: the 1976 U.S. Bicentennial Celebrations; the beginnings of the H.U.D. affordable housing crisis; the need for government assistance to handle local disaster areas; the influence of local politicians in national politics (Bill Clinton, Dale Bumpers, Bill Alexander, Jim Guy Tucker, J. William Fulbright) who were interviewed by news reporters who were also young and dynamic, such as Steve Cohen who ran news rooms from New York to Los Angeles and founded the stations for COURT TV."
 ---
-
-

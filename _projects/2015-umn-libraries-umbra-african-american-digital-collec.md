@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: UMN Libraries/Umbra African American Digital Collection (UMN AADC): Digitizing African American Archival Materials Across University of Minnesota Collections (Social Welfare History, YMCA Archives, Children's Literature Research Collections, Performing Arts, Literary, Tretter GLBT, University Archives, James Ford Bell Library, and more).
+title: "UMN Libraries/Umbra African American Digital Collection (UMN AADC): Digitizing African American Archival Materials Across University of Minnesota Collections (Social Welfare History, YMCA Archives, Children's Literature Research Collections, Performing Arts, Literary, Tretter GLBT, University Archives, James Ford Bell Library, and more)."
+year: 2015
+end_range: 0
+formats: "NULL"
+geographic_extant: "The geographic scope includes the US, with particular strength in the Upper Midwest. Many collections (including the James Ford Bell, YMCA, SWHA, Children's Literature, Immigration History Research Collection, and Givens Collection) are national and international in scope, representing materials from the Somali diaspora, the Caribbean, and Southern and Western Africa."
+institution: "Regents of the University of Minnesota"
+institution_type: "NULL"
+primary_contact: "Dr. Cecily Marcus"
+size: "NULL"
+start_range: "1541"
+summary: "This two-year project amasses an African American digital collection from every collecting/research area at UMN Archives and Special Collections (ASC). In every collection included in this request, we have already identified materials at the folder/box/collection level that document African American history and culture. Once digitized, 500,000 objects from more than 70 collections across all 12 UMN collecting units will be accessible through local and national discovery platforms. Further, by working across collecting units, we will pilot a methodology for cross-institutional digitization efforts that surface African American materials. This work also supports Umbra: Search African American History (Umbrasearch.org), created by UMN Libraries' Givens Collection of African American Literature. Umbra is a freely available search tool that brings together digitized materials from US libraries and archives. Umbra recognizes that documentation of Black life is often found in the shadows\"”or the umbra\"”of many collections, not just those identified as \"African American.\""
+hc_id: "18603184"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "University of Minnesota"
+p2_name:  "Mr. Jason Roy"
+p2_institution:  "University of Minnesota"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>170 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$224,450"
+material_description:  "The Umbra AADC gives voice to some of the many silences of American history, creating counter- and new narratives that support scholarship across numerous disciplines and fields. For each collection included here (drawn from all UMN’s collecting areas) we have already identified significant sections (folder-to-collection level) in each that document different aspects of African American history and culture from local, national, and international perspectives. Core issues that emerge include race and community; cultural diversity and education; and art, literature, and the powers of representation. Questions of race and community are one central theme, from the formation of historically Black YMCA centers and the role of Settlement Houses in African American neighborhoods; to the role and experiences of African American soldiers in World War I; to ways that GLBT communities address race; to how African American student groups shape the priorities of a university. (These issues are documented in collections from the YMCA Archives, Social Welfare History Archives, the Tretter GLBT Studies Collection, and University Archives.) Tensions around diversity and education are evident in the papers of Rachel DuBois, who, starting in the 1930s, worked on intercultural education, and in the 1950s worked to help lessen racial tensions in the South through education (Immigration History Archives). We find echoes of this work in the papers of a Minneapolis Public School teacher who was active in the desegregation of Minneapolis schools (Givens Collection). Multiple collections from University Archives go beyond political movements of the 1960s and record the creation of a new discipline—the formation of African American Studies. And computer training programs aimed at the African American community are documented in collections about supercomputing (Charles Babbage Institute). Art, literature, and questions of self-representation dominate the manuscripts, correspondence, and sketches of numerous African American writers and illustrators (Children’s Literature Research Collections)."
 ---
-
-

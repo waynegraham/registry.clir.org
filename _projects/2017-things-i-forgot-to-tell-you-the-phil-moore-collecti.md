@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Things I Forgot to Tell You: The Phil Moore Collection, 1918-1987
+title: "Things I Forgot to Tell You: The Phil Moore Collection, 1918-1987"
+year: 2017
+end_range: 1918
+formats: "NULL"
+geographic_extant: "United States, particularly Portland, Oregon; Seattle, Washington; New York, New York; and Los Angeles and Oakland, California."
+institution: "Indiana University Black Film Center/Archive"
+institution_type: "NULL"
+primary_contact: "Dr. Ronda Sewald"
+size: "NULL"
+start_range: "1918"
+summary: "From January 2018-December 2019, the Indiana University Black Film Center/Archive will digitize the music manuscripts, lyric sheets, project files, unpublished autobiography, recordings, and photographs of composer, Hollywood arranger, and singing star talent coach Phil Moore and provide open online access to Moore’s works. Moore was the first African American musician salaried by a major Hollywood studio and is recognized as a major influence on the careers of Lena Horne, Dorothy Dandridge, Marilyn Monroe, and others. In addition to documenting Moore’s life and the creative processes involved with arranging and shaping musical acts from 1938 through 1987, the collection documents the role of music as an entry point into mainstream Hollywood film for Black artists, the early jazz scenes in Seattle and Los Angeles, and African American life and culture in 1920s Portland. It has interdisciplinary appeal to scholars in African American studies, history, American studies, musicology, film, and media studies."
+hc_id: "26893240"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Indiana University, Black Film Center/Archive"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>8 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$158,036"
+material_description:  "The Phil Moore Collection consists of 71 boxes of music manuscripts; 8 boxes of Moore’s lyric sheets, unpublished autobiography, correspondence, and business records; 1239 photographic prints and negatives, and 528 audio recordings (486 of which are already digitized). Moore became the first Black musician salaried by a major Hollywood studio when MGM hired him as a rehearsal pianist in 1942. He arranged and composed for films (often uncredited) like Cabin in the Sky and gained a reputation as a talent coach for stars like Lena Horne, Dorothy Dandridge, and Marilyn Monroe. He also created music for television programs including Rooty-Toot-Toot and the 1977 Miss Black America Pageant. His original compositions include virtuosic orchestral works like Fantasy for Girl and Orchestra. The collection documents highlights such as these, Moore’s early upbringing in a white middle-class neighborhood in pre-Depression Portland, and his teenaged years playing the 1930s jazz scenes in Seattle and Los Angeles. In 1993, Phil Moore’s widow donated his collection to the Black Filmmakers Hall of Fame for use in its future museum. These plans never manifested and the archives, including Moore’s collection, were warehoused until their re-donation to Indiana University in 2014. Staff completed arranging and rehousing in 2016 and the EAD finding aid in March 2017. Moore’s role as a Black musical pioneer within several American media industries and the comprehensiveness of his materials, make this collection a rich resource for interdisciplinary research in African American studies, history, American studies, musicology, and cinema and media studies."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Hidden Jewish Ethnomusicology from the East: The Archives of Johanna Spector
+title: "Hidden Jewish Ethnomusicology from the East: The Archives of Johanna Spector"
+year: 2011
+end_range: 2008
+formats: "NULL"
+geographic_extant: "The collection documents ethnic music of India, the Middle East and Central Asia. It includes materials produced in the US and Europe as well."
+institution: "The Jewish Theological Seminary"
+institution_type: "NULL"
+primary_contact: "Naomi Steinberger"
+size: "120 linear feet"
+start_range: "1943"
+summary: "Johanna Spector (1915-2008) was a world-renowned ethnomusicologist, who authored several books and made a vast number of contributions to encyclopedias and professional journals. This archive of papers, photographs, films and slides are the product of her research on Jewish culture in communities in Yemen, India, Egypt and Azerbaijan. Transcripts of notations, draft of lectures, research notes, photographs and footage taken during her travels, papers relating to her films, and rough cuts of her four documentaries shed light on the hidden treasures of these nearly extinct communities. Notably, the archive also tells the unknown personal story of Johanna Spector, a Holocaust survivor who grew up in Latvia, through diaries, correspondence and her personal account of deportation from Ghetto, through camps, through liberation. With the cataloging of this archive, scholars will have access to rich materials, among the highlights of which are an unfinished paper on Biblical cantillation in Cochin, India (1968-69); research notes, photos, artifacts, correspondence, and reminiscences from India; research on the music and culture of Yemen (1953) and Azerbijan; an unpublished paper on “Similarities in Armenian and Jewish Music” (1997); unpublished lecture notes from a series organized by Margaret Mead at the American Museum of Natural History on the people of Cochin, Shanwar Telis, Yemen and the Samaritans (1995)."
+hc_id: "720"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "3080 Broadway"
+address2:  "NULL"
+city:  "New York"
+state:  "NY"
+zip: "10024"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

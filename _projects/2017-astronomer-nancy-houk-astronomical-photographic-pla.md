@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Astronomer Nancy Houk Astronomical Photographic Plate Collection
+title: "Astronomer Nancy Houk Astronomical Photographic Plate Collection"
+year: 2017
+end_range: 1999
+formats: "NULL"
+geographic_extant: "The astronomical photographs that are to be digitized were taken with the 0.61-m Curtis-Schmidt telescope located at the Cerro Tololo Inter-American Observatory near La Serena, Chile. Dr. Houk was a professor at the University of Michigan, where she analyzed the stellar spectra images."
+institution: "Pisgah Astronomical Research Institute"
+institution_type: "NULL"
+primary_contact: "Dr. Michael Castelaz"
+size: "NULL"
+start_range: "1967"
+summary: "Astronomical photographic plates covering the entire night sky were taken by astronomer Nancy Houk over 30 years beginning in 1967. In this pioneering research, she used a prism on the front of the telescope and imaged spectra of stars, rather than direct images. Dr. Houk used the spectra to produce the fundamental diagram relating temperatures and luminosities of stars that forms the basis of modern astrophysics. Dr. Houk retired in 2001 and she graciously donated half (2,396 plates) of her plate collection which surveyed the entire southern hemisphere night sky to the Astronomical Photographic Data Archive in 2004. The other half resides in Japan. During this 24 month project we will digitize the plates at 2400 dpi resolution and make the digital images of the plates available online. Making the plates available online opens the opportunity for research into the career and work of Dr. Houk."
+hc_id: "26893277"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Pisgah Astronomical Research Institute"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>2396 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$234,567"
+material_description:  "The photographic plates in the Houk Collection contain astronomical images taken by one of astronomy’s pioneering scientists. Dr. Houk led the effort to establish a comprehensive database of stellar temperatures and luminosities. We cannot express the relevance better than in Dr. Houk’s Memoir in the University of Michigan Faculty History Project: “Dr. Houk conceived and carried out the monumental task of classifying some two hundred thousand stars from the Henry Draper Catalogue. These classifications were made on the modern two-dimensional system, which provides a measure of both the surface temperature of a star and its intrinsic luminosity. This work enjoyed international acclaim and received more than two million dollars in funding from the National Science Foundation for more than three decades. Well over one hundred graduate and undergraduate students received an introduction to research as part of Dr. Houk's team, and several have gone on to professional careers in astronomy.” Dr. Houk’s photographic observations of stars were made using the University of Michigan telescope located at Cerro Tololo Interamerican Observatory (CTIO). CTIO was established in 1960. Today CTIO is a campus of astronomical telescopes located at 30.169 S and 70.804 W, about 80 km east of La Serena, Chile at an altitude of 2200 meters. CTIO is part of the National Optical Astronomy Observatory (NOAO) along with Kitt Peak National Observatory (KPNO) in Tucson, Arizona. The telescope that Dr. Houk used was moved from Portage Lake Observatory in Michigan to CTIO in 1966. Dr. Houk began her observations in 1967."
 ---
-
-

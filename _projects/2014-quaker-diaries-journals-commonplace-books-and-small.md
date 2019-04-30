@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Quaker diaries, journals, commonplace books and small manuscript collections
+title: "Quaker diaries, journals, commonplace books and small manuscript collections"
+year: 2014
+end_range: 1957
+formats: "NULL"
+geographic_extant: "International"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Theresa Snyder"
+size: "166 linear feet"
+start_range: "1750"
+summary: "The Haverford College Libraries request support of $59,328 to catalog and describe 166 linear feet of diaries, journals, commonplace books, other manuscript volumes and collections. As a social group, the Quakers had expansive influence in important civil rights issues and beyond. As such, the topics covered by these materials include: slavery and anti-slavery: war and pacifism; gardening and agriculture; mental health issues; Native Americans; science; literature; mysticism; relief and reconstruction; prison reform; travel; colonialism and nationhood; and the American experience over time. The project expose significant scholarly resources that will directly impact teaching, research and the discovery of new knowledge."
+hc_id: "12990434"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Magill Library"
+address2:  "370 Lancaster Avenue"
+city:  "Haverford"
+state:  "PA"
+zip: "19041"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$59,328"
+material_description:  "NULL"
 ---
-
-

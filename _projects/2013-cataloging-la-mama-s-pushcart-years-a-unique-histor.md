@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging La MaMa’s Pushcart Years: A Unique History of the Off-Off Broadway Theatre Movement
+title: "Cataloging La MaMa’s Pushcart Years: A Unique History of the Off-Off Broadway Theatre Movement"
+year: 2013
+end_range: 2013
+formats: "NULL"
+geographic_extant: "The bulk of the collection contains materials from artists and productions in New York, as well as more than 70 countries."
+institution: "La MaMa"
+institution_type: "NULL"
+primary_contact: "Aimee Davis"
+size: "0 boxes, 377 cubic feet, 0 linear feet, 0 objects"
+start_range: "1962"
+summary: "The La MaMa Archive is a valuable educational and historic resource that chronicles the evolution of La MaMa from a basement theatre to a world-renowned arts organization. The La MaMa Archive chronicles an important American legacy--the artists, companies, and historic productions that found a home at La MaMa and have had a lasting influence on the performing arts landscape in this country. Of particular importance are the early years of the organization--headed by Ellen Stewart--and its unique vision for an alternative performance venue open to experimentation. Ellen Stewart's mentor, a Lower East Side fabric vendor, once told her that everyone needed to have a “pushcart,” something that defines their purpose in life. Ellen always said that when she established La MaMa, she found her pushcart. Her devotion to this institution and to the artists who have performed here over our 52-year history is reflected in this singular collection, which contains upwards of 10,000 unique items including photographs, posters, maps and plans, films, costumes, press clippings, original scripts with playwright's notes, costumes, masks, musical instruments from around the world, musical scores, as well as institutional correspondence covering the early years (1962-1985) of La MaMa's 52-year history. To date, 150,000 artists from more than 70 nations and over 3,500 productions have been presented at La MaMa."
+hc_id: "1143"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "74a E. 4th St."
+address2:  "NULL"
+city:  "New York"
+state:  "NY"
+zip: "10003"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$135,100"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Fondren Library Small Manuscript Collections Project
+title: "Fondren Library Small Manuscript Collections Project"
+year: 2008
+end_range: 2006
+formats: "NULL"
+geographic_extant: "United States and particularly Texas."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Lee Pecht"
+size: "1152 linear feet"
+start_range: "1785"
+summary: "This group of mostly small manuscript collections (5 lin. ft. or smaller) covers the range of subjects specialties at the Fondren Library: U.S. Civil War; Texas immigration, entrepreneurship, philanthropy, politics, urban planning, arts and architecture; student life and higher education. Dates broadly include 19th-20th century. The project includes 171 collections, 99 of which are unprocessed with no preliminary finding aid, and 72 of which do have preliminary finding aids but which are not currently accessible by scholars. Highlights from this group of small manuscript collections include Albert Campbell's U.S. Civil War diary; Charles D. Stuart travel journal, 1832; Reinermann family German immigration papers, 1841-1917; Dressel and Speiss families German immigration papers, 1785-1914; Michael Berryhill public transportation research, 1980s-1990s; Friedland research on murder of William M. Rice. Examples of the larger collections include Rice Prof. Keith Hamm's state legislature research materials, a fascinating look at U.S. politics during the late 20th century; literary papers of novelist and playwright David Westheimer (author of My Sweet Charlie, a novel about racial tensions in the 1960s); South Main Center Association's urban planning records; records of Arthur Jones, architect of many Houston civic and education landmarks; Eisenlohr letters of student life, 1915-21; academic records of pioneering computer scientist at Rice, Dr. Ken Kennedy, 1960s-2000's."
+hc_id: "325"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Woodson Research Center MS215"
+address2:  "P.O. Box 1892"
+city:  "Houston"
+state:  "TX"
+zip: "77251-1892"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

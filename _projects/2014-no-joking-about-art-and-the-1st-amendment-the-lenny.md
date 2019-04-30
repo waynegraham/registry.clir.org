@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: No joking about art and the 1st Amendment: The Lenny Bruce collection at Brandeis University
+title: "No joking about art and the 1st Amendment: The Lenny Bruce collection at Brandeis University"
+year: 2014
+end_range: 1966
+formats: "NULL"
+geographic_extant: "New York and California"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Sarah Shoemaker"
+size: "10 linear feet"
+start_range: "1940"
+summary: "Brandeis University, an institution founded on principles of social justice and named in honor of a Supreme Court Justice who championed every American's right to free speech, will process the personal papers of internationally renowned Jewish comedian, social critic, and 1st Amendment activist Lenny Bruce. In Brandeis's Archives & Special Collections, these materials will join the papers of many other influential figures and historymakers as well as materials that highlight social justice efforts both at Brandeis and in America. Lenny Bruce had an undeniable impact on the intersection of art and freedom in America, and the processing and promotion of his papers we propose here will allow that impact to continue and thrive."
+hc_id: "11246873"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

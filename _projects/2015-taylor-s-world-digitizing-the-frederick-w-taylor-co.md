@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Taylor's World: Digitizing the Frederick W. Taylor Collection
+title: "Taylor's World: Digitizing the Frederick W. Taylor Collection"
+year: 2015
+end_range: 1915
+formats: "NULL"
+geographic_extant: "The bulk of the Frederick W. Taylor focuses on the United States, but there is also documentation of plans to implement scientific management in other countries. These other countries include: Austria, Belgium, England, Finland, France, Germany, Hungary, Italy, Russia, Sweden, and Switzerland. Most of our researchers are from overseas."
+institution: "Stevens Institute of Technology"
+institution_type: "NULL"
+primary_contact: "Ms. Leah Loscutoff"
+size: "NULL"
+start_range: "1856"
+summary: "The Frederick W. Taylor collection documents the U.S. Progressive Era, which flourished between the 1890s and 1920s. The Progressives supported scientific methods to solve problems, and established an Efficiency Movement in every sector which could identify old ways that needed modernizing. Frederick W. Taylor accomplished many things in his short life (1884-1915), but he is best known as being the father of Scientific management, also called Taylorism. Scientific management was a theory of management that analyzed and synthesized workflows. Its main objective was improving economic efficiency, especially labor productivity. This collection documents the history of scientific management, technology, innovation, and engineering. Taylor's impact was felt globally, from Henry Ford's assembly line, to Lenin's Soviet Russia. His theories on management changed how workers worked, and this impact is still felt today. Digitizing this collection will allow interested researchers across the globe to make important new scholarly connections."
+hc_id: "17224236"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Stevens Institute of Technology"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>53 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$62,000"
+material_description:  "The materials nominated for digitization are the correspondence, photographs and graphics from the Frederick W. Taylor collection. The bulk of the collection is his letters of correspondence with others, which includes individuals such as Upton Sinclair, Frank and Lillian Gilbreth, and Henry L. Gantt. The correspondence in the Taylor collection provides scholars important historical evidence of how scientific management transpired, and also documents candid insight into the thoughts of some of the great thinkers during the U.S. Progressive Era. In addition there is visual and graphic materials that document the installation of scientific management in factories in the U.S., and historical evidence of implementing scientific management overseas. \n\n In 1933, Stevens held a Fiftieth Anniversary Celebration of the graduation of Frederick Winslow Taylor, which close to 700 people participated in. This celebration was attended by the likes of Dr. Lillian Gilbreth, and Ida M. Tarbell. At that time his family presented personal mementos, books, documents and graphic material to Stevens in his memory. It was an important occasion to which many close friends and associates came to honor him. At that time a room in the library was set aside for the Taylor Collection. Upon the death of Dr. Taylor's widow in 1949, his sons, Dr. Kempton P.A. Taylor and Mr. Robert P.A. Taylor, presented the remaining Taylor papers and his private library to Stevens. It was their wish that this valuable collection of original material should be available for research. Stevens Institute of Technology is the only institution that holds his papers, so any researcher interested in Taylor would need to come here. In 2015 we are hosting a conference at Stevens to commemorate Taylor's life. We have interested scholars worldwide that are interested in attending, spurring more interest in the Taylor collection."
 ---
-
-

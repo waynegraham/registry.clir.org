@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing at risk Walker Art Center Sound and Moving Image Collection recordings
+title: "Digitizing at risk Walker Art Center Sound and Moving Image Collection recordings"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Walker Art Center"
+institution_type: "NULL"
+primary_contact: "Ms. Jill Vuchetich"
+size: "NULL"
+start_range: "NULL"
+summary: "The Walker Art Center proposes to digitize 138 recordings of artistic presentations from 1953 to 2006. This collection includes performances, interviews, and dialogues with internationally recognized artists in a variety of fields including painting, sculpture, dance, literature, film, music, theater, design, and architecture. The formats to be digitized and preserved include ½” open reel video tapes, ¾” umatic videotapes, Digital Audio Tapes (DAT), and Soundscriber transcription discs. The proposed recordings will impact scholarship in the artistic disciplines noted above, and will prove to be assets for research on urban planning, community engagement, and the AIDS epidemic. This project is part of a larger goal to digitize the full Walker Archives, which has been identified as a priority in the institution’s strategic planning process for Fiscal Years 2018-2021. The Walker will make digitized archival resources available online as part of the redesigned walkerart.org."
+hc_id: "26860393"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Walker Art Center"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "5 items<li>9 Digital Audio Tape (Dat)</li><li>118 U Matic</li><li>6 Shellac/Lacquer/Vinyl Disc</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$17,649"
+material_description:  "NULL"
 ---
-
-

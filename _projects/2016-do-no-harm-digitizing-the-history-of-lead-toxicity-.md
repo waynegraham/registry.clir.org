@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Do No Harm: Digitizing the History of Lead Toxicity and Exposure through the Drs. Robert A. Kehoe and Wilhelm Hueper Papers
+title: "Do No Harm: Digitizing the History of Lead Toxicity and Exposure through the Drs. Robert A. Kehoe and Wilhelm Hueper Papers"
+year: 2016
+end_range: 1981
+formats: "NULL"
+geographic_extant: "United States"
+institution: "University of Cincinnati"
+institution_type: "NULL"
+primary_contact: "Ms. Leslie Schick"
+size: "NULL"
+start_range: "1920"
+summary: "This 36-month project, hosted at the University of Cincinnati Libraries in collaboration with the National Library of Medicine, will provide images with metadata for over 170,000 pages of manuscripts, research data, diaries, and other primary source materials from the Robert A Kehoe and Wilhelm Hueper collections. This project will help to enhance the research interests for scholars in areas as diverse as occupational medicine, environmental health, government policies, environmental law, and social history through the personal diaries of individuals who were exposed to lead. The intersection of these collections will demonstrate the historical trajectory and impact of environmental health in this country over seven decades and correlates with recent public health issues such as the water crisis in Flint, Michigan. By making these controversial papers publicly accessible and easily navigable, this project will demonstrate the library's role in bringing historical records to light with a modern-day application and relevancy."
+hc_id: "21635874"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Univesity of Cincinnati"
+p2_name:  "Dr. David Stradling"
+p2_institution:  "McMicken College of Arts and Sciences, University of Cincinnati"
+p3_name:  "Mr. Xuemao Wang"
+p3_institution:  "University of Cincinnati"
+material_string: "<li>170672 Mixed Archival Collections</li>"
+collaborating_institution:  "National Library of Medicine History of Medicine Division"
+grant_amount:  "$500,000"
+material_description:  "This collection includes over 110 boxes consisting of research conducted by Robert A. Kehoe in conjunction with the Kettering Laboratory. The majority of the Kehoe collection was submitted to an earlier incarnation of the Henry R. Winkler Center after Dr. Kehoe's retirement from the Department of Environmental Health at the University of Cincinnati. Extensive subject areas will include lead paint in toys;lead toxicity and exposure; tetra-ethyl lead; occupational and environmental medicine; environmental policy and law; the 1948 Donora, Pennsylvania smog incident; and the relationship between an academic research institution and industry leaders. Major organizations that are prominently featured throughout the collection include the University of Cincinnati, Shell Chemical Corporation, Standard Oil, General Motors, DuPont, and ALCOA (Aluminum Company of America). The Hueper collection, although smaller in comparison to the Kehoe papers, is nonetheless essential and relevant in the understanding of environmental policy and research. Dr. Hueper's findings were in total opposition to Kehoe's as Hueper argued that many human cancers are associated with environmental factors. The W.C. Hueper papers were originally gifted to the National Library of Medicine by Dr. Hueper in 1977. Extensive subject areas will include: occupational pulmonary cancer, environmental pulmonary cancer, occupational carcinogens, chemically-induced neoplasms, occupational diseases, and pathology. Major organizations that are prominently featured throughout the collection include the Oil, Chemical & Atomic Workers International Union, DuPont, and the Haskell Laboratory of Industrial Technology."
 ---
-
-

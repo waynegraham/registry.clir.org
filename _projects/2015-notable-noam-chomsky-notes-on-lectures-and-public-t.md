@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Notable Noam Chomsky: Notes on Lectures and Public Talks
+title: "Notable Noam Chomsky: Notes on Lectures and Public Talks"
+year: 2015
+end_range: 2013
+formats: "NULL"
+geographic_extant: "The scope of the project is global. Chomsky spoke on linguistic and political topics throughout the US and around the world. Though most of Chomsky's class notes are centered at MIT in Cambridge, Massachusetts, they also reflect workshops and seminars he taught globally."
+institution: "Massachusetts Institute of Technology"
+institution_type: "NULL"
+primary_contact: "Mr. Thomas Rosko"
+size: "NULL"
+start_range: "1950"
+summary: "Noam Chomsky is considered the founder of modern theoretical linguistics. An influential academic, he is Professor Emeritus at the Massachusetts Institute of Technology (MIT). Chomsky donated his papers to the MIT Institute Archives & Special Collections, which wishes to digitize his lecture and talks notes. During the two-year project, his handwritten and typed notes will be scanned for preservation and access. The latter, along with metadata, will be made available through a web-based content delivery system. This material will give scholars insight into thought processes of one of the world's most renowned intellectuals. Lecture notes cover his scientific inquiry into linguistics and also significantly reflect engagement in political issues over time. His political notes nicely complement interviews and Chomsky information others have shared on social media sites. A significant number of research inquiries we have received to date have been about his lectures and talks."
+hc_id: "17402504"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Massachusetts Institute of Technology"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>16 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$239,912"
+material_description:  "The materials to be digitized fall into two categories - class notes and notes on talks. The class notes relate to the linguistics, philosophy, and political courses Chomsky taught at MIT, as well as to other seminars and workshops he taught outside of MIT. These are comprised of lecture notes, syllabi, and other course materials. The notes on talks deal with speeches Chomsky gave, and include transcripts, notes, and background information. The topics of these talks range from US foreign policy, the media, and terrorism to linguistics, psychology, and human rights. These materials were donated, along with the rest of Chomsky's archives , to the MIT Institute Archives and Special Collections between 2012 and 2015."
 ---
-
-

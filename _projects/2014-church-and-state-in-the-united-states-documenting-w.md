@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Church and State in the United States: Documenting War, Immigration Reform, and Civil Rights from 1859 to 1980
+title: "Church and State in the United States: Documenting War, Immigration Reform, and Civil Rights from 1859 to 1980"
+year: 2014
+end_range: 1980
+formats: "NULL"
+geographic_extant: "Continental United States"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Christine Angel"
+size: "136 linear feet"
+start_range: "1859"
+summary: "St. John's University will partner with The Center for Migration Studies of New York (CMS-NY) and St. Paul's College to significantly enhance access to over 50,000 items documenting US turmoil during the Civil War and the Vietnam/Cold War. While these collections provide primary evidence documenting the isolationist and immigration trends through US social history, they remain unprocessed and therefore hidden to many scholars. For 36 months, this project will increase awareness of these collections through the arrangement and description of personal papers and ephemera that address each collection in its entirety. The final deliverable will consist of the creation of finding aids at the folder-level that can be shared online upon request."
+hc_id: "11627377"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "Center for Migration Studies of New York; St. Paul's College, Washington, DC"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

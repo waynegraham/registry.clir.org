@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cultural Intermix: A Protocol for Describing and Accessing Mail Art Collections
+title: "Cultural Intermix: A Protocol for Describing and Accessing Mail Art Collections"
+year: 2008
+end_range: 2004
+formats: "NULL"
+geographic_extant: "The Oberlin College Mail Art collection includes works by mail artists from over 60 countries worldwide."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Pamela Snyder"
+size: "65 linear feet, 25000 objects"
+start_range: "1975"
+summary: "The Oberlin College Mail Art collection consists of the Harley-Terra Candella and Reid Wood (State of Being) Mail Art archives, which together comprise over 25,000 works by 1,800 artists. The collection contains a wide range of objects and media, including original stamp sheets, drawings, adorned envelopes, posters, cards and postcards, videos, letters, and artists’ books, providing a rich survey of the artistic, political and intellectual history of Mail Art. Like Dada and Fluxus, the Mail Art movement challenges both accepted standards of art and the allegedly rational actions of modern society. An international community melding creative expression across the arts, mail artists subvert traditional gallery and art ownership systems through the creation and dissemination of art through the postal system. At times ironic, absurd, political, or whimsical, Mail Art is an important but understudied movement that flourished in analog form in particular from the 1950s through the 1990s. Oberlin’s holdings are significant for their scope; number and diversity of artist-created stamps (artistamps); and geographic breadth. The collection is not currently accessible to scholars, because it has not been inventoried and processed."
+hc_id: "377"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Office of Sponsored Programs"
+address2:  "70 N. Professor Street"
+city:  "Oberlin"
+state:  "OH"
+zip: "44074"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

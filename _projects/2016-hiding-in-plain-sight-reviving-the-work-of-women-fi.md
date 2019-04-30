@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Hiding in Plain Sight: Reviving the Work of Women Film Auteurs in the Digital Age
+title: "Hiding in Plain Sight: Reviving the Work of Women Film Auteurs in the Digital Age"
+year: 2016
+end_range: 2006
+formats: "NULL"
+geographic_extant: "The films to be scanned represent the concerns of filmmakers living in various parts of the United States, and the vast majority were shot in the U.S. A few depict international topics that concerned American citizens, such as our involvement in Vietnam, or America's Cold War struggle with Russia."
+institution: "Laboratory for Icon & Idiom, Inc."
+institution_type: "NULL"
+primary_contact: "Ms. Ina Archer"
+size: "NULL"
+start_range: "1945"
+summary: "USC's Comprehensive Annenberg Report on Diversity documents the under-representation of women directors in the Hollywood film industry, yet they are a strong presence among American independent filmmakers. Women film auteurs have been \"hiding in plain sight\" since the dawn of cinema, but scholarship & access lag behind, hindered by insufficient funds for collection, preservation & documentation. When Laboratory for Icon & Idiom, Inc. (LII)/IndieCollect took custody of 4000+ motion pictures at the DuArt laboratory, it discovered numerous films by women, identified with help from the Women's Film Preservation Fund, Women Make Movies, and Film-Makers' Cooperative. Under its digitization & access initiative, LII will create high-resolution scans of 147 films by women directors, including 70 from Film-Makers' Cooperative. After scanning, LII will return the Film-Makers' Coop titles to its vault, deposit the others at collaborating archives, and produce excellent records and information about the newly-accessible digital versions of these historic films."
+hc_id: "22185402"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "Ms. Kirsten Larvick"
+p2_institution:  "NULL"
+p3_name:  "Ms. M.M. Serra"
+p3_institution:  "New American Cinema Group/Film-Makers' Cooperative"
+material_string: "<li>433 Audiovisual Recordings</li>"
+collaborating_institution:  "The New American Cinema Group, Inc. (NACG) d/b/a Film-Makers' Cooperative (FMC)"
+grant_amount:  "$373,250"
+material_description:  "Hiding in Plain Sight: Reviving the Work of Women Film Auteurs in the Digital Age is an initiative of the Laboratory for Icon & Idiom, Inc. (LII d/b/a IndieCollect) in collaboration with New American Cinema Group, Inc. (NACG d/b/a Film-Makers' Cooperative/FMC), that focuses on documenting, preserving and making accessible 147 films of artistic, cultural and/or historical significance by women film artists, narrative filmmakers and documentarians--extraordinarily diverse works, made starting in 1945--that are in need of digitization because state-of-the-art digital masters do not exist. Examples include experimental art films by Marie Menken, Storm De Hirsch, Doris Chase, and Barbara Hammer; early 16mm work by video activist DeeDee Halleck; the films of African American filmmakers Jessie Maple, Yvonne Welbon, Zeinabu Davis, and Suzan-Lori Parks; social issues treated by Mirra Bank, Joyce Chopra, Liane Brandon, Judith Helfand, Barbara Margolis, Julia Reichert; and features by Nancy Kelly, Randa Haines, and Mary Lampson. Several of these were made with all-female crews. The nominated films include “Will,” which documents a Harlem that no longer exists, made by the first African American woman to become an IATSE union member; “Growing Up Female,”  considered one of the first feminist films; and “Union Maids,” consisting of first-person accounts by veterans of the struggle to form industrial unions during the Depression. Seventy (70) Film-Makers' Coop titles are to be scanned, with the remaining 77 films selected from the IndieCollect vault or held by the filmmakers. Of the total, 28 were preserved on film by the Women's Film Preservation Fund, but no high-quality digital master was created at the time. The women filmmakers nominated for inclusion represent a sparkling array of talents (including several Academy Award nominees), whose work deserves to be digitized for the first time or migrated to meet the latest digital standards."
 ---
-
-

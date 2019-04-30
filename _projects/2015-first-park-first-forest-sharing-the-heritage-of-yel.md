@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: First Park, First Forest: Sharing the Heritage of Yellowstone National Park and Shoshone National Forest with the World
+title: "First Park, First Forest: Sharing the Heritage of Yellowstone National Park and Shoshone National Forest with the World"
+year: 2015
+end_range: 2015
+formats: "NULL"
+geographic_extant: "The geographic area described by these materials includes Yellowstone National Park in Northwest Wyoming, Southwest Montana, and Northeast Idaho, and Shoshone National Forest, directly east of Yellowstone. Yellowstone is the world's first National Park and comprises 2.25 million acres. Shoshone Forest is the first National Forest, comprising 2.5 million acres."
+institution: "Buffalo Bill Memorial Association"
+institution_type: "NULL"
+primary_contact: "Ms. Mary Robinson"
+size: "NULL"
+start_range: "1830"
+summary: "The Buffalo Bill Center of the West's McCracken Research Library (MRL), in collaboration with Yellowstone National Park's Heritage & Research Center (HRC), will digitize and make freely available a vast collection of material from their respective repositories. The collections include maps, atlases, scientific papers, pamphlets, souvenirs, photographs, journals, and other rich ephemera from both Yellowstone National Park and the Shoshone National Forest. Established in 1891, Shoshone National Forest was the nation's first; it directly abuts Yellowstone, the world's first national park. This iconic region, and the perception people have of it, has served to fire imaginations all over the world. The three-year project will create open access to collections which will serve not only scholars and researchers in biology, geology, popular culture, and environmental and American history, but members of the general public, who remain enchanted by one of the last intact ecosystems in the lower forty-eight states."
+hc_id: "17440805"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Buffalo Bill Memorial Association"
+p2_name:  "Ms. Samantha"
+p2_institution:  "Archivist, McCracken Research Library"
+p3_name:  "Ms. Ms. Anne"
+p3_institution:  "Archivist, Heritage & Research Center"
+material_string: "<li>7100 Architectural Drawings</li>"
+collaborating_institution:  "Heritage & Research Center, Yellowstone National Park"
+grant_amount:  "$465,688.00"
+material_description:  "McCracken Research Library (MRL) - Buffalo Bill Center of the West (Center)\n\n\n\nMRL Shoshone National Forest Collection (MS 436)\n\nThis collection consists of the earliest documents pertaining to the Shoshone National Forest and its predecessors. Many of these records are the original hand-drawn maps and written accounts, field notes, and reports which, taken as a whole, reflect the evolution of environmentalism, conservation, and forestry. There are also thousands of photographic images taken by rangers and visitors that supplement the textual accounts.\n\n\n\nMRL Yellowstone National Park Collection (MS 21)\n\nThe Yellowstone National Park collection in MRL contains materials demonstrating the public perception of Yellowstone over the past century. Originally established to protect natural wonders, Yellowstone became a critical wildlife sanctuary. Materials include brochures, advertising, and maps detailing trails and roads throughout the park. There are thousands of photographs that detail conditions throughout the history of the park.\n\n\n\nMRL Western Scenes and Woodcuts Collection (MS 51)\n\nThis collection consists of early illustrations of the western United States, including Yellowstone National Park, for a primarily European and eastern audience.\n\n\n\nMRL Ranger Harry Miller Photo Album (MS 434)\n\nPhotographs and documents related to Harry Miller's tenure as a forest ranger in the Shoshone National Forest.\n\n\n\nHeritage & Research Center (HRC) - Yellowstone National Park (YNP)\n\n\n\nHRC Maps and Drawings (YELL 145676)\n\nThis collection contains maps, architectural drawings, and engineering drawings documenting events, functions, and activities of Yellowstone National Park. Among these are the first Yellowstone surveys of the 1870s, military-era records documenting Fort Yellowstone, and maps, drawings, and reports that detail the first concessionaires, hotels, facilities, utilities, stage coach lines, roads, rail lines, trails, resource management, and maintenance activities. Fire progression maps, reports, and atlases document the 1988 fire."
 ---
-
-

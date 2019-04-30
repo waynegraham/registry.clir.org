@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Renaissance Society Exhibition Image Collection
+title: "The Renaissance Society Exhibition Image Collection"
+year: 2009
+end_range: 2009
+formats: "NULL"
+geographic_extant: "The collection is both local and international; each exhibition is mounted at The Society, but includes work by artists from all over the world."
+institution: "The Renaissance Society"
+institution_type: "NULL"
+primary_contact: "Karen Reimer"
+size: "5250 objects"
+start_range: "1915"
+summary: "For nearly 100 years, The Renaissance Society has dedicated itself to the growth and understanding of contemporary art. Through exhibitions, publications, and education programs, it promotes the work of artists and movements that question and redefine the aesthetic boundaries of the visual arts. It is one of the nation's oldest and most internationally-recognized institutions in this arena. As a non-collecting institution, the museum is by definition what it does. As a result,each article of exhibition documentation--photographs, correspondence, press, and budgets--constitutes the museum's collection, and is invaluable primary source material for anyone interested in a history of the region's introduction, response, and contribution to 20th century art. Roughly 5,000 high resolution digital images from this collection currently exist in the museum's archive, including installation images and individual works from each show dating back to 1915. These images represent groundbreaking exhibitions by Matisse, Leger, Mies van der Rohe,and Magritte, many of which were the first presentation to American audiences. Early landmark group shows like \"War Art\" (1942) are also included, along with the museum's more current, prescient activity with artists like Robert Smithson, Louise Bourgeois, Thomas Struth, Luc Tuymans, Felix Gonzalez-Torres, and Kara Walker. Recent additions include rare documentation of site-specific work by international artists like Francis Alys and Katharina Grosse."
+hc_id: "499"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "5811 S. Ellis Avenue"
+address2:  "NULL"
+city:  "Chicago"
+state:  "IL"
+zip: "60637"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

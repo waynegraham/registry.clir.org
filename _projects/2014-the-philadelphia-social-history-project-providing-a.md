@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Philadelphia Social History Project: Providing Access to Critical Datasets and Data Analyses
+title: "The Philadelphia Social History Project: Providing Access to Critical Datasets and Data Analyses"
+year: 2014
+end_range: 1985
+formats: "NULL"
+geographic_extant: "Philadelphia, Pa."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Regan Kladstrup"
+size: "312 linear feet"
+start_range: "1969"
+summary: "This project will restore access to the work of the Philadelphia Social History Project (PSHP) by processing the PSHP records (including dataset documentation and codebooks, publications and maps) and the papers of the Project's founder, Theodore Hershberg. Data dictionaries and computer processing instructions hidden within the archive are critical to deciphering much of PSHP's output about social conditions in 19th-century Philadelphia. PSHP data held at other institutions remains, literally, unintelligible without access to these documents. At the completion of this project, finding aids enhanced with geospatial coordinates and with a network of links will allow scholars to connect and reuse PSHP data held at Penn and other institutions."
+hc_id: "10670609"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

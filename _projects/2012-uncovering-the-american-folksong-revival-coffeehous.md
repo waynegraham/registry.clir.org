@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Uncovering the American Folksong Revival: Coffeehouse Culture and The Caffé Lena Collection
+title: "Uncovering the American Folksong Revival: Coffeehouse Culture and The Caffé Lena Collection"
+year: 2012
+end_range: 2011
+formats: "NULL"
+geographic_extant: "The materials represent American music and transformational social movements in New York State and throughout the country."
+institution: "Saratoga Springs History Museum"
+institution_type: "NULL"
+primary_contact: "Jocelyn Arem"
+size: "40 boxes, 20 linear feet"
+start_range: "1960"
+summary: "The aim of this project is to arrange, describe and catalog four significant hidden collections that together contain a documentary record of the 20th century American folksong revival movement. Caffé Lena is America’s oldest continuously running folk music coffeehouse and a national treasure. The complete Caffé Lena archives comprises 700 hours of field recordings and audio recordings of performances, 150 audiotaped interviews with major folk, country, blues and theater figures, four boxes of Caffé Lena nonprofit paperwork, six boxes of founder Lena Spencer’s original papers and her personal collection of 20 Performer Files, the Lively Lucys Coffeehouse Collection with two boxes revealing an important student-run coffeehouse created with Lena Spencer, and 6,000 photographs taken at Caffé Lena between 1960 and 1968 from the Joe Alper Photo Collection LLC in both negative and print formats. Documented subjects in New York State of national importance include Civil Rights pioneers; New York architectural history; prominent folk and jazz festivals; urban expansion; and the careers of influential performers Bob Dylan, Pete Seeger, Dr. Bernice Johnson Reagon, and Emmylou Harris. Also included are the personal papers and letters of Lena Spencer relating to the Industrial Workers of the World, the inaugural visit of Robert Kennedy Jr. to Massachusetts, postwar Italian American cultural history, and the New Left era."
+hc_id: "1024"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "P.O. Box 1963"
+address2:  "NULL"
+city:  "Durham"
+state:  "NC"
+zip: "27702"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$86,900"
+material_description:  "NULL"
 ---
-
-

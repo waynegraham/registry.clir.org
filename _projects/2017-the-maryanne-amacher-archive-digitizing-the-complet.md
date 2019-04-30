@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Maryanne Amacher Archive: Digitizing the complete audio and video collection of seminal sound artist and experimental composer
+title: "The Maryanne Amacher Archive: Digitizing the complete audio and video collection of seminal sound artist and experimental composer"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Blank Forms"
+institution_type: "NULL"
+primary_contact: "Mr. Lawrence Kumpf"
+size: "NULL"
+start_range: "NULL"
+summary: "Blank Forms proposes to digitize the audio and video archive of pioneering sound artist and experimental composer Maryanne Amacher (1938–2009). Throughout her career, Amacher’s work proved incompatible with the disciplinary and institutional frameworks of her day. A large portion of her work was never commercially released, and access to her performances and installations was limited even in her time. Today, the scarcity of materials and recordings available to the public is unable to embody Amacher’s long, important history of production. Blank Forms will partner with NYU Fales Library & Special Collections to house the digital archive, and will present a number of programs that engage and expand upon the newly digitized materials. Our goal is to keep this seminal work in the minds of students, musicians, and artists, and to make a digital collection that, like Amacher’s work, is uniquely representative of the conceptual challenges of preserving time-based media."
+hc_id: "26672020"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Blank Forms"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "512 items<li>13 Vhs</li><li>87 Betamax</li><li>54 U Matic</li><li>2 Betacam</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$50,000"
+material_description:  "NULL"
 ---
-
-

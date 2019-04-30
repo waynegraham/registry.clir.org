@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Oversized and Underexposed: A Collaboration between La MaMa Experimental Theatre Club and Metropolitan New York Library Council to Digitize and Expand Access to a Hidden Record of New York City’s Off-Off-Broadway Movement
+title: "Oversized and Underexposed: A Collaboration between La MaMa Experimental Theatre Club and Metropolitan New York Library Council to Digitize and Expand Access to a Hidden Record of New York City’s Off-Off-Broadway Movement"
+year: 2017
+end_range: 2016
+formats: "NULL"
+geographic_extant: "The materials in these collections document theatrical productions that took place at La MaMa Experimental Theatre Club, in New York City, including work created by artists who came from across the US and around the globe such as Poland, France, Nigeria, the Philippines, Korea, Romania, and Japan."
+institution: "Metropolitan New York Library Council (METRO)"
+institution_type: "NULL"
+primary_contact: "Ms. Anne Karle-Zenith"
+size: "NULL"
+start_range: "1962"
+summary: "“Oversized and Underexposed” is a collaboration between the Metropolitan New York Library Council (METRO) and the Archives of La MaMa Experimental Theatre Club. It is designed to expand access to La MaMa’s unique collections of oversized posters and photographs and to pilot an affordable digitization service model for the New York Metropolitan region. This 18 month collaborative project has three principle goals. First, to digitize and expand access to a unique collection of materials documenting the history of New York City’s Off-Off-Broadway movement; Second, to pilot and launch METRO’s large format digitization services, which will offer access to an affordable set of tools and workflows for METRO’s community of more than 250 collecting organizations; Third, to offer a series of public programs and events exploring the history and graphic styles of La MaMa’s posters and photographs in the context of our current social and political climate."
+hc_id: "26893725"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Metropolitan New York Library Council (METRO)"
+p2_name:  "Dr. Rachel Mattson"
+p2_institution:  "La MaMa Archives"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>950 Photographs</li>"
+collaborating_institution:  "Metropolitan New York Library Council (METRO); La Mama Experimental Theatre Club Archives"
+grant_amount:  "$113,625"
+material_description:  "This project features two collections from the Archives of the La MaMa Experimental Theatre Club: The Jerry Vezzuso Photograph Collection, and the Oversized La MaMa Productions Poster Collection. Both contain unique documentation of the history of New York’s Off-Off-Broadway movement. The Vezzuso Photograph Collection consists of 950 oversized color prints of photographs by Jerry Vezzuso. Vezzuso spent the 1980s in residence at La MaMa, during which time he photographed over 180 productions – including work written, directed, or featuring performances by luminaries such as Harvey Fierstein, John Jesurun, Meredith Monk, Min Tanaka, Jackie Curtis, Mac Wellman, Max Roach, Julie Taymor, Spiderwoman Theatre, Elizabeth Swados, the Native American Theatre Ensemble, Tadeusz Kantor, and others. The collection stands as a record of the ideas, aesthetics, and worlds that converged onstage at La MaMa, and an index of the cultural and social concerns of artists working in the turbulent 1980s. The Oversized La MaMa Productions Poster Collection consists of 1,500 posters created to advertise La MaMa productions (1962-present). Materials in this collection range from hand-painted and collaged posters announcing La MaMa’s inaugural season (1961-62) to the digital print created for the theater’s 50th anniversary in 2011. Remarkably comprehensive, it documents the history of downtown theater, the changing aesthetic vernaculars of theatrical posters, and the transformation of print technologies over the past 55 years. These two hidden collections comprise a valuable historic resource documenting an important legacy—the artists, companies, productions, and ideas that found a home on La MaMa’s stages."
 ---
-
-

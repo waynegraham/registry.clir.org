@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: 150 Years of the Morrill Act: The Impact of Land Grant Institutions on Agricultural History and Rural Life in the U.S.
+title: "150 Years of the Morrill Act: The Impact of Land Grant Institutions on Agricultural History and Rural Life in the U.S."
+year: 2012
+end_range: 1970
+formats: "NULL"
+geographic_extant: "Regional, national, international: Indiana, Illinois, Michigan, Texas, and other states; Brazil and other countries."
+institution: "Purdue University"
+institution_type: "NULL"
+primary_contact: "Sammie Morris"
+size: "880 boxes"
+start_range: "1890"
+summary: "The J. C. Allen & Son photographic collection focuses on agriculture and horticulture around the state of Indiana as well as other states such as Illinois, Michigan, and Texas. The images document rural life showing individuals working on farms, livestock, barns, farm homes and buildings, state fairs, farm equipment, instruction in the field, 4-H activities, and crop growing. The images also depict Purdue University campus scenes and events, as well as athletic contests. The collection covers the time period from 1910s to 1970s. The Purdue University College of Agriculture archival records contain a wealth of historical information regarding the early beginnings of the College with an emphasis on Agricultural Extension work (and some work in conjunction with the University of Illinois) and Agricultural Experiment Station work, 4-H, short courses, papers of longtime Dean of College of Agriculture John H. Skinner, and the University's dairy farm. This collection also encompasses overall Purdue University historical materials, general land grant university documentation, U.S. Department of Agriculture papers and documents as well as correspondence with the Secretary of Agriculture, and Big Ten/Intercollegiate Conference correspondence and documents. The collection covers the time period from 1890s to the 1960s."
+hc_id: "920"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Purdue Libraries-SPEC"
+address2:  "504 W. State Street"
+city:  "West Lafayette"
+state:  "IN"
+zip: "47907"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

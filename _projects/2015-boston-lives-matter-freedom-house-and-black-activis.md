@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Boston Lives Matter: Freedom House and Black Activism, 1949-2004
+title: "Boston Lives Matter: Freedom House and Black Activism, 1949-2004"
+year: 2015
+end_range: 2004
+formats: "NULL"
+geographic_extant: "Freedom House provided services and programs in the Roxbury, Dorchester, and Mattapan neighborhoods of Boston, Massachusetts. The organization was heavily involved with urban renewal projects in the Washington Park area of Roxbury."
+institution: "Northeastern University Libraries"
+institution_type: "NULL"
+primary_contact: "Ms. Giordana Mecagni"
+size: "NULL"
+start_range: "1941"
+summary: "The Northeastern University Archives and Special Collections (UASC) requests to digitize, catalog, and make widely available over a period of two years the records of Boston-based social justice organization Freedom House. Once digitized, Freedom House records (1949-2004) will be individually identified and cataloged by graduate students overseen by a professional archivist. They will then be preserved in the Northeastern's Digital Repository Service, a publicly available Fedora-based repository, and harvested through Digital Commonwealth into the Digital Public Library of America. The collection includes bylaws, meeting minutes, flyers, annual reports, correspondence, memoranda, newspaper clippings, and newsletters. When completed, this freely available digital collection will provide an invaluable resource for studying how the African American community in Boston fought for civil rights and social justice."
+hc_id: "16947522"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Northeastern University"
+p2_name:  "Ms. Michelle"
+p2_institution:  "Assistant Archivist"
+p3_name:  "Ms."
+p3_institution:  "NULL"
+material_string: "<li>56 Mixed Archival Collections</li>"
+collaborating_institution:  "N/A"
+grant_amount:  "$250,000"
+material_description:  "Freedom House was founded by Muriel and Otto Snowden in 1949 to centralize the African-American community's involvement in the fight for neighborhood improvement, good schools, and harmony among racial, ethnic, and religious groups in Boston. Freedom House's long history of advocacy and coalition building provides a grassroots perspective on how Boston's African American community addressed its own needs and developed strategies to meet them over time. Freedom House stood, and continues to stand at the center of black Boston's political and social life. It was the headquarters of Boston's civil rights movement, served as a forum for discussing the depopulation of Boston's central city, provided a voice for the community during urban renewal, and as a gathering place for families seeking information during the painful desegregation of the Boston Public Schools. For her long record of civic action, Muriel Snowden was honored with a MacArthur grant in 1987. More recently Freedom House has been pioneering anti-poverty youth development and college completion strategies for Boston's low income and minority students. \n\n\n\nOtto Snowden donated the bulk of the Freedom House (1949-2004) collection to Northeastern University in 1990. The records proposed for digitization consist of 56 cubic feet of textual documents, videos, and poster-size material. The collection contains correspondence, minutes, and reports of the Board of Directors; grant proposals to local funding agencies; reports related to the desegregation of Boston Public Schools; correspondence with Judge Arthur Garrity, the federal court judge who found the Boston School Committee guilty of willful segregation; minutes of committees, such as the Citizens Urban Renewal Action Committee, the Police-Community Relations Committee, and the Coordinated Social Services Committee; pamphlets from the 1940s and 1950s about racism; reports from neighborhood block associations; and correspondence, reports, and newsletters related to fund raising and social events."
 ---
-
-

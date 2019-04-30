@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Tibetan Performing Arts Audio-Visual Collections at Trace Foundation’s Latse Library
+title: "Tibetan Performing Arts Audio-Visual Collections at Trace Foundation’s Latse Library"
+year: 2013
+end_range: 2012
+formats: "NULL"
+geographic_extant: "PRC (Tibet Autonomous Region, Qinghai, Sichuan, Gansu, and Yunnan); Bhutan; Ladakh; and Tibetan communities in India, Europe, and the Americas."
+institution: "Trace Foundation"
+institution_type: "NULL"
+primary_contact: "Paola Vanzo"
+size: "4000 objects"
+start_range: "1980"
+summary: "The AV collection at Latse Library--the most comprehensive, publicly accessible, and largest of its kind—encompasses recordings of music videos, cultural programs, events, drama, opera, and other theater. Music recordings range from folk and classical to religious and dance, as well as popular and contemporary, some belonging to uniquely Tibetan genres and some influenced by Western music. Our holdings are the result of nearly two decades of intensive acquisitions in Tibetan areas of China, other Himalayan kingdoms and regions, and from among the Tibetan diaspora in India and beyond. When Tibet came under direct Chinese governance in the 1950s, Tibetan society and culture began experiencing rapid change. The advent of tape recorders in the early 1980s and, more recently, of digital technology, have allowed professionals and amateurs alike to record and distribute recordings as never before. The past four decades have seen the revival of traditional genres, the evolution of older styles, and the generation of new uniquely Tibetan musical genres. Social issues, ethnic identity, respect for tradition, and the promotion of Tibetan language have become popular topics in song and performance. As such, performing arts recordings have become important documents in representing the various social and historical phenomena occurring across the Tibetan Plateau, and scholars and researchers are more frequently turning to AV materials as resources."
+hc_id: "1108"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "132 Perry Street"
+address2:  "2B"
+city:  "New York"
+state:  "NY"
+zip: "10014"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

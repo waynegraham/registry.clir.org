@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Documenting Technology Innovation: Perham Collection of Early Electronics
+title: "Documenting Technology Innovation: Perham Collection of Early Electronics"
+year: 2011
+end_range: 1960
+formats: "NULL"
+geographic_extant: "United States, with emphasis on California and the West Coast."
+institution: "History San Jose"
+institution_type: "NULL"
+primary_contact: "James Reed"
+size: "122 linear feet"
+start_range: "1890"
+summary: "The Perham Collection of Early Electronics preserved rare books and ephemera, trade manuals, personal papers and archives, 1200 photographs, and 2500 electronics devices from some of the earliest commercial ventures in electronics in the Western U.S. and a nascent Silicon Valley, from the 1890s to 1960. The Collection, received largely unprocessed from the Perham Foundation in 2003, augments existing History San Jose (HSJ) museum and archival collections that document the evolution of the region and the intersection of technology and society. This project will adapt HSJ's object-oriented online museum software (PastPerfect) to provide access to five manuscript collections within the Perham Collection, and relate these to objects, books, and photographs already in the system: 1)The Lee de Forest papers, which comprise the largest collection documenting this award-winning radio and motion-picture inventor, 2)Research notes and correspondence of Jane Morgan, author of \"Electronics in the West\", a treasure trove of information on early electronics pioneers on the West Coast, 3(Rare materials from Federal Telegraph Company (1909-1929), one of Silicon Valley's earliest successful start-ups 4)Engineer and inventor Harold Elliott’s papers, an early Federal manager, and 5)the Perham Historical Files, a collection of ephemera, notes, manuscripts, and other items pertaining to hundreds of people, companies, and technical developments."
+hc_id: "728"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "History San Jose"
+address2:  "1650 Senter Road"
+city:  "San Jose"
+state:  "CA"
+zip: "95112"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$86,600"
+material_description:  "NULL"
 ---
-
-

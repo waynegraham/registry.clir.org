@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging Hidden Collections: San Diego Museum of Man’s Archaeology, Archival and Photographic Collections
+title: "Cataloging Hidden Collections: San Diego Museum of Man’s Archaeology, Archival and Photographic Collections"
+year: 2013
+end_range: 1990
+formats: "NULL"
+geographic_extant: "Southern California, Nevada, Arizona (for archaeology collection,) Central and South America, Asia, Europe, and Africa (for photographic collection.)"
+institution: "San Diego Museum of Man"
+institution_type: "NULL"
+primary_contact: "Adrienne Hamilton"
+size: "10 boxes, 0 cubic feet, 0 linear feet, 32000 objects"
+start_range: "1900"
+summary: "The San Diego Museum of Man (SDMoM) will catalog: 1. More than 7,000 archaeology records from the Malcolm J. Rogers and the Emma Lou Davis Collections. Rogers (1890-1960) was a pioneering archaeologist, who served on SDMoM’s staff from 1929-1945 and again in the 1950s until his death. His work centered on the study of prehistoric cultures from Southern California, Baja California, and the Southwest. His archaeological maps, field notebooks, site records, and reports date from the 1920s-1960. Davis (1905-1988) was an archaeologist and SDMoM staff member who studied Paleoindian archaeology in the California Deserts. Her field notebooks and site records date from the 1960s-1970s. 2. 10 archival boxes containing slides, field notes, and personal papers dating from the 1980s-1990s from the Spencer MacCallum Archive. MacCallum (b.1931) was the first anthropologist to study and foster the Mata Ortiz art movement in Mexico. 3. 25,000 photographs from an uncataloged photographic collection including the H.K. Raymenton Collection: Raymenton (c.1900-1972) was an historian and President of SDMoM’s Board. His collection of 50 photo albums and over 3,000 prints and negatives document the countries he visited in the early 1900s as a cultural historian. These countries, including Samoa, Iraq, India, China, Thailand, and the Philippines, have large populations in San Diego. Cataloging these collections will provide significant research potential to traditional academics, local communities and Native Americans Scholars."
+hc_id: "1061"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1350 El Prado"
+address2:  "NULL"
+city:  "San Diego"
+state:  "CA"
+zip: "92101"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$240,500"
+material_description:  "NULL"
 ---
-
-

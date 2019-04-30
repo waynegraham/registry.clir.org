@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Potlatch Corporation Archives: Unveiling the Forest Industry of the Pacific Northwest
+title: "Potlatch Corporation Archives: Unveiling the Forest Industry of the Pacific Northwest"
+year: 2009
+end_range: 2008
+formats: "NULL"
+geographic_extant: "Idaho, Minnesota, Wisconsin, Arkansas, California, Washington, Montana, Indiana, Michigan, Maryland, New Jersey, American Samoa."
+institution: "University of Idaho"
+institution_type: "NULL"
+primary_contact: "Nathan Bender"
+size: "521 cubic feet"
+start_range: "1903"
+summary: "Potlatch Corporation is a private timber/forestry/ lumber/wood products and paper company with a strong sense of environmental and social history that in December 2008 gifted its archives to the University of Idaho Library Special Collections & Archives, making them freely available for research. The first part of the archives was received (464 cubic feet) from the Lewiston, Idaho branch operations, while the second part(57 c.f.)was received in summer 2009 from the Spokane, Washington company parent archive. Seven previous archival accessions were received from Potlatch Corporation (including Potlatch Forests, Inc. and Potlatch Lumber Company) from 1986-1995, totaling 137 c.f., which have been processed as collections, MG 52, MG 96, MG 135, MG 191, MG 192, MG 193, and MG 388. While significant, these collections are overshadowed by the sheer size of the incoming archival materials that total 521 c.f. As one of the major timber/forestry/paper companies in the nation and the world, Potlatch Corporation has roots dating to the late nineteenth century, and is an integral part of American forestry and lumber/paper history. The records document not only the business history, but also the environmental history of much of the forest lands of the northern Rocky Mountains, Minnesota, Wisconsin, and Arkansas. Social history is significant for the company town of Potlatch as documented in company ledger books and photographs."
+hc_id: "504"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "850 Rayburn St., Room 008"
+address2:  "P.O. Box 442351"
+city:  "Moscow"
+state:  "ID"
+zip: "83844-2351"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

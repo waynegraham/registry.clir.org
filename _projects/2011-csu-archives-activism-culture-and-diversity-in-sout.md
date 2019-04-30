@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: CSU Archives Activism, Culture and Diversity in Southern California Access and Preservation Project
+title: "CSU Archives Activism, Culture and Diversity in Southern California Access and Preservation Project"
+year: 2011
+end_range: 2005
+formats: "NULL"
+geographic_extant: "Southern California with a large national and Western United State scope."
+institution: "CSU Dominguez Hills"
+institution_type: "NULL"
+primary_contact: "Greg Williams"
+size: "1959 linear feet"
+start_range: "1900"
+summary: "Four campus archives of the California State University System (CSU Dominguez Hills, Cal State Polytechnic University Pomona, CSU Los Angeles and CSU Long Beach) will collaborate on a project to reveal 45 hidden collections. These collections are focused on 20th century topics such as Latino and African-American civil rights activism and politicians, disability rights, sacred music of the African Diaspora, the Communist Party U.S.A (Southern California Branch), literature, the history of wine and American composers. Though diverse in subject most of the collections focus on the American West. The four universities are located within 40 miles of each other in Los Angeles County and provide opportunities for collaboration for both archivists and their researchers. The collections to be cataloged will include the papers of Lawrence Balzer, prominent wine writer; the collection of Don Lee White, longtime organist, chorus leader and researcher into the music of African American churches; the papers of Mervyn Dymally, which highlights the career of the first African-American Lt. Governor of a state (CA) in the U.S., the McFarling Collection deals with Japanese-American relocation after World War II; the Dorothy Healey Papers which deal with labor activism and the Communist Party in the West, and the Roy Harris Collection with a focus on the career of the prominent composer of the Bicentennial Symphony."
+hc_id: "797"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "100 E Victoria"
+address2:  "University Library LIB 5039"
+city:  "Carson"
+state:  "CA"
+zip: "90747"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

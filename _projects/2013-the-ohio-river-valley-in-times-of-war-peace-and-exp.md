@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Ohio River Valley - In Times of War, Peace, and Expansion (1800-2000)
+title: "The Ohio River Valley - In Times of War, Peace, and Expansion (1800-2000)"
+year: 2013
+end_range: 2000
+formats: "NULL"
+geographic_extant: "The primary scope of this project is Kentucky and the Ohio River Valley, but scholarly significance is both national and international."
+institution: "The Filson Historical Society"
+institution_type: "NULL"
+primary_contact: "Melanie Negrin"
+size: "332 cubic feet"
+start_range: "1800"
+summary: "Scholars across the U.S. and around the world are beginning to document the important role the Ohio River Valley played in the development of the United States -- from its earliest Pioneer days and explorations of the Louisiana Territory by Lewis and Clark, to its eruption into Civil War under the leadership of President Abraham Lincoln, to its evolution into a business and industrial giant. The collections selected for this project include the papers of some of the Ohio Valley's oldest families, businesses come and gone, and reports that testify to the damage done to the natural landscape in pursuit of some greater economic outcome. Today, these letters, data, and documents provide clues as to how we can reverse some of the damage caused by past actions and find a healthier way forward. At the same time, they hold gems of information on family genealogy, art and architecture, and national organizations that continue to hold influence today -- Sierra Club, Red Cross. The manuscripts included within this project were each contributed by families that at one time lived in Kentucky (some may still reside there today). However, the subjects to be covered within the scope of the 24 collections have proven to have national and international interest. The documents cover two centuries of history in the Ohio Valley, from 1800-2000."
+hc_id: "1163"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1310 S. Third Street"
+address2:  "NULL"
+city:  "Louisville"
+state:  "KY"
+zip: "40208"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

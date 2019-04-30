@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Maryland Folklife Archives
+title: "Maryland Folklife Archives"
+year: 2010
+end_range: 2010
+formats: "NULL"
+geographic_extant: "The collections span the entirety of the state of Maryland, with additional materials from border regions of neighboring states (PA, DE, VA, WV, DC)."
+institution: "Maryland State Arts Council"
+institution_type: "NULL"
+primary_contact: "Clifford Murphy"
+size: "528 linear feet"
+start_range: "1819"
+summary: "The Maryland Folklife Archives are a decentralized collection of affiliated materials, principally ethnographic documentation of the cultural practices and lifeways of both long-established and newly arrived individuals and communities across Maryland and the surrounding region. The materials are located in thirteen partner institutions (Appendix A) throughout Maryland and in Washington, DC and were created over the last five decades (1960-present) by folklorists and fieldworkers associated with the Maryland Folklife Program (“Maryland Traditions”) in the Maryland State Arts Council (MSAC) and partner programs. The collection contains a significant amount of audio, visual, and paper documents. Topics are vast and varied, ranging over the occupational culture of Chesapeake Bay watermen, music of the Appalachian Migration to Maryland (1910-1960), African-American gospel music, Piedmont blues, equestrian traditions (including thoroughbred racing, ring jousting, foxhunting), Baltimore's street vendors, hunting and trapping traditions of the Eastern Shore and mountain Maryland, domestic material culture (quilting, hooked rugs, weaving, basket-weaving), vernacular architecture, the emergent traditions of immigrant communities, ethnic festivals, and culinary traditions. These materials were created to advance scholarship on Maryland's cultural and social history and to provide a lasting knowledge base of the region's cultural heritage for community members and the broader public."
+hc_id: "682"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Maryland State Arts Council"
+address2:  "175 West Ostend Street, Suite E"
+city:  "Baltimore"
+state:  "MD"
+zip: "21230"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: San Francisco Examiner Photograph Archive Project
+title: "San Francisco Examiner Photograph Archive Project"
+year: 2008
+end_range: 1990
+formats: "NULL"
+geographic_extant: "The collection covers events in California and the nation."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Charles Faulhaber"
+size: "3600000 objects"
+start_range: "1920"
+summary: "The San Francisco Examiner Archive is the photographic morgue of the Examiner, a newspaper that was at one point the flagship of the Hearst publishing empire. The archive dates from circa 1920 to the late 1990s, and is estimated to consist of 3.6 million negatives and 1 million photoprints. The San Francisco Examiner is a daily newspaper published continuously since 1865. From 1880 it was owned by mining magnate George Hearst, whose son William Randolph Hearst assumed management in 1887. From this single paper, W.R. Hearst proceeded to create one of the most enduring journalistic empires of all time. He leveraged his wealth to create a paper staffed with the most talented writers and photographers and produced some of the most influential journalism of the era. Under the stewardship of his son and grandson, the Examiner continued to thrive as a major daily, serving San Francisco and the Bay Area through the 1990s. The surviving collection amounts to a comprehensive documentary record of life in Northern California over 75 years of the 20th century. It includes images as diverse as: the 1934 longshoremen's strike, the opening of the Golden Gate Bridge, the home front and industry during World War II, North Beach in the era of beatniks, hearings and protests around \"Un-American Activities\", the Summer of Love, Johnny Cash's 1969 concert at San Quentin Prison, the Black Panther Party in Oakland, and the 1978 assassination of Mayor Moscone and Supervisor Milk."
+hc_id: "198"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "c/o Sponsored Projects Office"
+address2:  "University of California, Berkeley"
+city:  "Berkeley"
+state:  "CA"
+zip: "94704-5940"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

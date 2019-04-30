@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing the Corita Art Center's Photographic Collection
+title: "Digitizing the Corita Art Center's Photographic Collection"
+year: 2017
+end_range: 1968
+formats: "NULL"
+geographic_extant: "The collection primarily illustrates Kent’s years teaching at the Immaculate Heart College in Los Angeles, California. Other US cities appear in images of Kent’s lecture tours and art exhibitions. International sites across Europe, Hong Kong, and Japan are also seen in Kent’s trips abroad in 1958 and 1959."
+institution: "Corita Art Center"
+institution_type: "NULL"
+primary_contact: "Ms. Ray Smith"
+size: "NULL"
+start_range: "1955"
+summary: "The Corita Art Center (CAC) proposes a two-year project to digitize its photographic collection, which consists of approximately 18,000 35mm slides. Photographed primarily by Corita Kent, the CAC’s collection includes images of Kent’s years as an art professor with Immaculate Heart College, and documents many of Kent's exhibitions, source materials, and her travels in the United States and abroad. The CAC plans to: conduct an item-level inventory of the collection; digitize the collection; assign metadata; and upload the images to the CAC’s website for public display. This project will provide access into aspects of Kent’s life that have largely been inaccessible or unknown. The newly digitized collection will provide a wealth of new primary source material for scholars, curators, educators, and the general public and contains relevant content for those with an interest in arts education, women religious, Los Angeles history, and the life and legacy of artist Corita Kent."
+hc_id: "25671687"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Corita Art Center"
+p2_name:  "Ms. Keri Marken"
+p2_institution:  "Corita Art Center"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>18000 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$68,759"
+material_description:  "The bulk of the CAC’s photographic collection dates from the 1950s through the late 1960s. The majority of the 18,000 images document Kent’s years as an art professor at Immaculate Heart College in Los Angeles, California. Photographed primarily by Kent, the collection includes images of the college’s “Mary’s Day” celebrations, field trips to the Watts Towers and the home of Charles and Ray Eames, as well as the college’s lecture series, which welcomed notable individuals like Saul Bass, Buckminster Fuller, Konrad Wachsmann, and Josef von Sternberg. Images of Kent’s exhibitions, including her participation in the Vatican Pavilion at the 1964 New York World’s Fair, are also present, as are her travels across Europe, Hong Kong, and Japan. A portion of the collection also includes images of source material for Kent’s serigraphs, such as commercial signage, advertising campaigns, newspaper headlines, and product labels. The CAC acquired this collection in 1997, when the Immaculate Heart Community (IHC) established the organization. The Immaculate Heart Community is a 501(c) (3) organization founded in 1970 by former sisters of the Immaculate Heart of Mary (IHM). When Kent died in 1986, the IHC was a major beneficiary of her will, obtaining all of Kent’s unsold works and copyrights. Kent’s photographic collection, which had been part of the Immaculate Heart College archives, was acquired by the IHC after the college closed in 1981 and was transferred to the CAC upon its founding."
 ---
-
-

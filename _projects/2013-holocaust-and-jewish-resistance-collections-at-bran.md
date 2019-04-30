@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Holocaust and Jewish Resistance collections at Brandeis University
+title: "Holocaust and Jewish Resistance collections at Brandeis University"
+year: 2013
+end_range: 1950
+formats: "NULL"
+geographic_extant: "Materials in these collections were created in the United States and Europe."
+institution: "Brandeis University"
+institution_type: "NULL"
+primary_contact: "Sarah Shoemaker"
+size: "11 boxes"
+start_range: "1932"
+summary: "1. The Jewish Resistance Collection (c. 1932-1950s): Underground publications by German Communist and French Jewish resisters to the Nazis; international post-war reports documenting the persecution and extermination of Jews and the course of several Nuremberg trials; and Nazi paraphernalia. (4 boxes). 2. Theresienstadt Concentration Camp Documents (1942-1944): Hundreds of daily orders issued from Theresienstadt, which provide detailed information about the workings of the camp. (4 boxes). 3. Curt Rosenthal Correspondence (c. 1938-1947): Personal and family correspondence of Curt Rosenthal, a German Jew and émigré to the U.S., spanning the Holocaust and World War II. (1 box). 4. Halina Nelkin Collection: Holocaust ephemera and personal papers collected by a survivor. (1 box). 5. War Crimes Trial Photographs: A collection of Nuremberg Trial photographs (1945-1946). (1 box)."
+hc_id: "1151"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Brandeis University, MS 045"
+address2:  "415 South Street"
+city:  "Waltham"
+state:  "MA"
+zip: "2453"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

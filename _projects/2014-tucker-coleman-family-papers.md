@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Tucker-Coleman Family Papers
+title: "Tucker-Coleman Family Papers"
+year: 2014
+end_range: 1993
+formats: "NULL"
+geographic_extant: "Williamsburg, Virginia, United States"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Gerald Gaidmore"
+size: "102 cubic feet"
+start_range: "1664"
+summary: "The objective of this project is to process the hidden portion of the Tucker-Coleman family papers in Swem Library at the College of William & Mary and make them as discoverable as the family papers from the eighteenth and nineteenth centuries."
+hc_id: "11974250"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

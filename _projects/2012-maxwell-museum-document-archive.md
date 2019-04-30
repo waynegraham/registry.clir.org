@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Maxwell Museum Document Archive
+title: "Maxwell Museum Document Archive"
+year: 2012
+end_range: 2012
+formats: "NULL"
+geographic_extant: "The American Southwest is the primary focus, but the archive also includes documentation from across North America and around the globe."
+institution: "Maxwell Museum of Anthropology"
+institution_type: "NULL"
+primary_contact: "Dorothy Larson"
+size: "787 linear feet"
+start_range: "1920"
+summary: "The archive holds over 787 linear ft. of documentation on anthropological research (~700 ft. of archaeological and ~87 ft. of ethnological documentation). It also contains 40 flat file drawers with oversize archaeological maps and drawings. The archive's primary focus is the indigenous cultures of the American Southwest. The collection includes (but is not limited to) original field notes, forms, and maps, data from laboratory analyses, and synthetic documents that present research results. The documents cover investigations of a broad temporal span, ranging from the earliest verified occupation of the area (~13,000 years ago) through the modern era. Among the most significant collections are the papers of Florence Hawley Ellis and Frank Hibben, two pioneers in the field that left an indelible imprint on the archaeology of the American Southwest and beyond; Ellis has been called one of the most influential women in anthropology. The collections comprise most of their life's work and provide an invaluable window into the history of archaeology. The archive documents archaeological research at hundreds of sites, including some of the most important in the region, such as San Gabriel del Yunque, the first Spanish capital of New Mexico and Pottery Mound, a ~15th century site famous for its rare intact kiva murals; with depictions of rituals, supernatural entities, and ancient pueblo people, these murals provide a unique perspective on ancestral Pueblo society."
+hc_id: "907"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Maxwell Museum of Anthropology"
+address2:  "MSC01 1050"
+city:  "Albuquerque"
+state:  "NM"
+zip: "87131"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

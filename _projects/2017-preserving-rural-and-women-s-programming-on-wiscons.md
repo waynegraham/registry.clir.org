@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Preserving Rural and Women’s Programming on Wisconsin Public Radio (WHA), 1920-1950
+title: "Preserving Rural and Women’s Programming on Wisconsin Public Radio (WHA), 1920-1950"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "University of Wisconsin-Madison"
+institution_type: "NULL"
+primary_contact: "Mr. David Pavelich"
+size: "NULL"
+start_range: "NULL"
+summary: "The University of Wisconsin-Madison Archives will digitize 250 transcription discs, which date between 1920 and 1950. These discs document programming from WHA, or Wisconsin Public Radio. Wisconsin Public Radio first broadcast in 1917, making it the oldest public radio station and one of the oldest continuously broadcasting radio stations in the United States. Early broadcasts included educational content for farmers as well as home economics. The Farm Program evolved throughout the 1920s, and in 1929 the station began airing a separate Homemaker’s Program, aimed at Wisconsin women, particularly those in rural areas. Our current project focuses on content from the Farm Program and the Homemakers Program. We also plan to digitize 4-H programs and 100 discs of Wisconsin Yarns, a program that dramatized Wisconsin folklore. The UW-Madison Archives holds 7,000 transcription discs; this project will serve as a pilot study for future digitization."
+hc_id: "26708276"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Wisconsin-Madison Libraries"
+p2_name:  "Mr. Lee Konrad"
+p2_institution:  "University of Wisconsin-Madison Libraries"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "250 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$20,164"
+material_description:  "NULL"
 ---
-
-

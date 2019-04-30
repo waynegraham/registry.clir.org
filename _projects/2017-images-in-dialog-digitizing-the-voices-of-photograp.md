@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Images in Dialog: Digitizing the Voices of Photography Collection
+title: "Images in Dialog: Digitizing the Voices of Photography Collection"
+year: 2017
+end_range: 2016
+formats: "NULL"
+geographic_extant: "Photographers, curators, scholars from or who work in Africa, Europe (including France, Italy, Spain, United Kingdom), Japan, Mexico, Middle East (including Afghanistan, Iraq), South America, United States (all states)"
+institution: "Center for Creative Photography"
+institution_type: "NULL"
+primary_contact: "Ms. Leslie Squyres"
+size: "NULL"
+start_range: "1975"
+summary: "The Center for Creative Photography (CCP) at the University of Arizona (UA) proposes a two-year project to digitize 875 videotapes made in myriad formats from 1975-2015. The collection comprises recordings of interviews, lectures, symposia, workshops, and gallery walk-throughs with artists, photographers, curators, gallery directors, and educators in the field of photography, as well as a diverse group of thinkers from other disciplines. These recordings represent a unique record of a dynamic period in the history of photography marked by growth, innovation, and the medium’s increasing influence within a broader cultural context. Once digitized, summaries and metadata will be created about each video. Scholars, students, and members of the public will be able to access the collection via a website created for the project with points of entry for those interested in the photography world and those more broadly interested in general arts and culture topics, identity, politics, place, and science."
+hc_id: "26218361"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Center for Creative Photography,University of Arizona"
+p2_name:  "Ms. Denise Gosé"
+p2_institution:  "Center for Creative Photography, University of Arizona"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>875 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$241,828"
+material_description:  "CCP’s Voices of Photography collection includes 875 videotapes of interviews, lectures, workshops, and symposia recorded at CCP between 1975 and 2016. The collection features leading figures within the field of photography, as well as thinkers from across a range of disciplines. The Voices of Photography collection is relevant to scholars of photography, holds enormous value for researchers in other disciplines, and includes a wealth of content of interest to the general public. The Voices of Photography collection is a comprehensive record of the history of CCP, one of the foremost institutions dedicated to the preservation, study, and exhibition of photographs. It contains interviews with key figures at CCP, including its co-founders, photographer Ansel Adams and former UA president John P. Schaefer. The collection documents one of the most dynamic periods within the history of photography: marked by a surge of experimentation by photographic artists, the adoption of the medium by the art world at large, the emergence photography galleries and a collector’s market for photography, and the establishment of new academic photography programs. Highlights include tapes of lectures by photography educators, workshops on photographic techniques, and interviews with curators, gallerists, and collectors. Broadly, the collection demonstrates photography’s shaping role within spheres of contemporary life as diverse as politics, science, art and culture, land use, and the construction and expression of identity. Taped lectures and programs discuss photography in the context of events running the gamut from Japanese internment to space exploration to the water crisis in the American southwest."
 ---
-
-

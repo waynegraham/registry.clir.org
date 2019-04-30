@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: World Peace Foundation Subject Files
+title: "World Peace Foundation Subject Files"
+year: 2008
+end_range: 1940
+formats: "NULL"
+geographic_extant: "The collection is international in scope, covering activities in the United States, Europe, and Asia in particular."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Anne Sauer"
+size: "75 boxes"
+start_range: "1900"
+summary: "The World Peace Foundation Subject Files are a collection of pamphlets, broadsides, booklets and other ephemeral materials created by and relating to organized international peace movements."
+hc_id: "119"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Digital Collections and Archives"
+address2:  "Tisch Library Building"
+city:  "Medford"
+state:  "MA"
+zip: "2155"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Forgotten Modern: USC’s Hidden Mid-Century Architecture Collections
+title: "The Forgotten Modern: USC’s Hidden Mid-Century Architecture Collections"
+year: 2011
+end_range: 1990
+formats: "NULL"
+geographic_extant: "The majority of the materials document Southern California residential projects. About 10% relate to other U.S. regions or international projects."
+institution: "USC Libraries"
+institution_type: "NULL"
+primary_contact: "Claude Zachary"
+size: "1150 linear feet"
+start_range: "1940"
+summary: "USC's archives provide extensive information about architects whose contributions to mid-century design are just beginning to be more fully recognized. The collections document historically significant residential, commercial, and landscape projects by architects who crafted L.A.'s distinctive look at the height of its 1940-1990 building boom. Their work shaped international design, vernacular modernism, and characteristic features of the 20th-century U.S. built environment like suburbs. The largest archives in our project are those of Edward H. Fickett (1916-1999) and landscape architect Emmet L. Wemple (1921-1996). Totaling 550 and 215 linear feet respectively, they offer nearly complete overviews of the architects' work and feature thousands of rolled and flat floor plans, sections, and elevations. Their project files include contracts, correspondence with clients, general and engineering specifications, geotechnical investigations, invoices, cost estimates, and permits. The collections preserve a wide variety of slides, photographs, and presentation drawings--most of which are color--as well as finish samples, artwork, and three-dimensional models. Forgotten Modern also includes the archives of William Pereira--who designed San Francisco's Transamerica Pyramid and airports in Bangkok, Jakarta, Rio de Janeiro, and Washington, D.C.--and other mid-century Southern California architects, such as Tolbert Virgil Anthony, Samuel Lunden, Carl Maston, Cliff May, and Burnett C. Turner."
+hc_id: "712"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "3550 Trousdale Parkway"
+address2:  "DML 220"
+city:  "Los Angeles"
+state:  "CA"
+zip: "90089"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

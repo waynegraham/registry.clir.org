@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging the Lawrence Journal-World Photographic Collection
+title: "Cataloging the Lawrence Journal-World Photographic Collection"
+year: 2008
+end_range: 1975
+formats: "NULL"
+geographic_extant: "Lawrence and Douglas County, Kansas"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Sheryl Williams"
+size: "489 linear feet, 1275000 objects"
+start_range: "1953"
+summary: "The Lawrence Journal-World Photographic Collection, housed in Spencer Research Library, at the University of Kansas (KU), contains all the photographs (prints and negatives) taken by the local daily newspaper in Lawrence, Kansas from 1953-1994. The photographs are extremely important in support of the study of social history, and document town development, KU history, campus and community unrest in the 1960s and 1970s, civil rights, the women's movement, gay and lesbian activism, Haskell Indian Nations University and American Indian rights, environmental issues, agriculture and economic history. This project will focus on the photographs from 1953 (the earliest in existence) to 1975. These photographs provide a window into community development and values as Lawrence and the University experienced and reacted to the volatile counter culture of the 1960s. Lawrence made national news in this time period, with the burning of the KU student union in 1970, which followed the shooting deaths by police of two young men. The Kansas National Guard patrolled the streets to deter arson and sniper fire, while armed vigilantes spoke of restoring law and order. The richness of this Lawrence, Kansas experience has been studied by Rusty Monhollon in his book \"This is America? The Sixties in Lawrence, Kansas,\" and demonstrates that the unrest of the 1960s was not confined to urban areas, or elite universities. The Journal-World photographs will provide important documentation of this time."
+hc_id: "295"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "2385 Irving Hill Rd"
+address2:  "NULL"
+city:  "Lawrence"
+state:  "KS"
+zip: "66045-7568"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

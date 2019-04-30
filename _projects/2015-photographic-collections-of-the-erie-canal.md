@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Photographic Collections of the Erie Canal
+title: "Photographic Collections of the Erie Canal"
+year: 2015
+end_range: 1970
+formats: "NULL"
+geographic_extant: "The Canal Museum's portion highlights canal scenes in central and eastern New York State. The Society's Gayer Collection likewise documents places and activities throughout New York State with an additional emphasis on the Hudson River and New York harbor, and also encompassing New England, Pennsylvania and eastern Canada."
+institution: "Erie Canal Museum"
+institution_type: "NULL"
+primary_contact: "Dr. Daniel Ward"
+size: "NULL"
+start_range: "1890"
+summary: "The Erie Canal Museum in collaboration with the Canal Society of New York State will digitize images from their collections of historic photographic glass and film negatives. Corresponding metadata for each image will be provided. All will be placed online following the model established under a 2014 Hidden Collections project that was also a collaboration of these two groups. The effort will complete the digitization of these most inaccessible formats and create a unique and comprehensive visual archive on the history of New York State's Erie Canal. The Erie Canal Museum's holdings consist of approximately 200 glass negatives from several individual collections dating to the 1890s, largely 4\" by 5\". The Canal Society's contribution comes from its yet-to-be digitized 5,200 medium-format film negatives by Albert Gayer (1897-1976) of Schenectady, NY, a noted transportation historian and photographer."
+hc_id: "18603314"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Erie Canal Museum"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>5400 Photographs</li>"
+collaborating_institution:  "Canal Society of New York State"
+grant_amount:  "$59,100"
+material_description:  "The Erie Canal Museum's portion consists of about 200 glass negatives arranged within five distinct collections. Though none of the images have any historic labeling, nearly all show scenes that could likely be readily identified by the Museum's curatorial staff as to place and time period once positive images are available. Three of five have a definable provenance, being acquired by separate donations in the 1970s. One originated with a contractor for the early 20th-century rebuilding of the Erie Canal and shows such construction activity. Another collection documents the Oswego Canal, a lateral canal to the Erie. These seven images date from about 1895 and may represent a single journey along that system. The two other collections are classed in the Museum's catalog as \"found in collection\" with no record of where or how they were acquired. Nonetheless, they too appear to have maintained historic integrity. One consists of about 100 glass negatives documenting the 1908 construction of the Erie Canal's Oneida Creek Aqueduct and life in the adjoining community of Durhamville, NY in central New York. The other collection of about 20 glass negatives shows canal scenes near Rexford, NY at the eastern end of the state. Prominent in those images is the Erie's legendary 1841 Upper Mohawk Aqueduct with its adjoining 1823 predecessor alongside. The Society's Albert Gayer Collection of more than 7,000 negatives was acquired from his family soon after his 1976 death. While Gayer is well known for his interest and scholarship in the State's canal history, his interests went well beyond that topic. He actively sought historic materials relating to railroad history in the northeast United States. He was long associated with regional archeological associations, with a special dedication to Iroquois history. The negatives are an outstanding legacy to those interests."
 ---
-
-

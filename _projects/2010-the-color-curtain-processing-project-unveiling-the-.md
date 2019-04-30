@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The "Color Curtain" Processing Project: Unveiling the Archives of Chicago's Black Metropolis
+title: "The \"Color Curtain\" Processing Project: Unveiling the Archives of Chicago's Black Metropolis"
+year: 2010
+end_range: 2009
+formats: "NULL"
+geographic_extant: "generally the city of Chicago and more specifically the South and West sides of the city where large African American populations were concentrated."
+institution: "University of Chicago"
+institution_type: "NULL"
+primary_contact: "Adam Greene"
+size: "10000 linear feet"
+start_range: "1807"
+summary: "This collaboration identified 150 unprocessed and inaccessible collections to process and catalog. The collections have high scholarly research value along with low condition ratings. The collections were appraised and identified during the Black Metropolis Research Consortium's project to survey unprocessed and inaccessible archival collections that document African American history and culture and are housed at institutions in Chicago. The collections selected for this project address political, cultural, social, spiritual and economic aspects of African Americans lives throughout the history of Chicago. The collections document events from the founding of the city, to the great African American migration from the southern United States into Chicago and the Midwest and also the Chicago's public housing history from the early 1940s up to the election of a South Side Chicago politician to the presidency of the United States. The collections are especially strong in these areas: (1) the history and evolution of public housing and public programs in Chicago; (2) the history of civil rights, social justice issues and community activism in Chicago (3) the Black Arts Movement in Chicago and (4) the Chicago labor movement and union history. Some collections of note include the Chicago Housing Authority Records, the Illinois Labor History Society Records, the Woodlawn Organization Records and the Chicago Urban League Records."
+hc_id: "585"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "University of Chicago"
+address2:  "5720 S. Woodlawn Ave."
+city:  "Chicago"
+state:  "IL"
+zip: "60637"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$499,500"
+material_description:  "NULL"
 ---
-
-

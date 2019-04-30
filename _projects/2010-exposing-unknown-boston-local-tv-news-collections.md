@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Exposing Unknown Boston Local TV News Collections
+title: "Exposing Unknown Boston Local TV News Collections"
+year: 2010
+end_range: 2000
+formats: "NULL"
+geographic_extant: "Local news coverage of metropolitan Boston area, regional New England stories, national news stories originating in Boston or as presented locally."
+institution: "WGBH Educational Foundation"
+institution_type: "NULL"
+primary_contact: "Karen Cariani"
+size: "6691 objects"
+start_range: "1959"
+summary: "The Boston Local TV News project is a collaboration of 4 institutions and their local tv news collections - the Boston Public Library (BPL), Northeast Historic Film (NHF), WGBH, and Cambridge Community TV (CCTV)- to provide a catalog of 40 years of Boston news history. The materials to be catalogued are the collections of the BPL and NHF. These 2 collections include materials from the early 1960 to the 1980’s. Local news broadcasts spanning these years reflect the issues and concerns of many communities across the nation: politics both local and national, poverty, antiwar protests, affirmative action, women’s rights, anti-apartheid activity, environmental awakening, changes in health care, and new medical advances. Local sports coverage spotlights the thoughts and reactions of players, coaches and fans. The BPL holds an estimate of 2,230 cans of 16 mm film and about 300 videotapes on varying formats. These materials are from the commercial TV station WHDH, a CBS and ABC affiliate and UPN 38, an independent local Boston station. The NHF collection is from the station WCVB, an ABC affiliate. It holds an estimate of 4,000 cans of 16 mm. film and over 500 videotapes of major stories considered to be of long-term importance. From March 1972 through 1979, the station provided more local programming than any other commercial station in the US. Community affairs and news were given a priority and the result was wide ranging and in-depth coverage of Greater Boston and New England."
+hc_id: "683"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "One Guest St"
+address2:  "NULL"
+city:  "Boston"
+state:  "MA"
+zip: "2135"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "Boston Public Library, Cambridge Community Television, Northeast Historic Film"
+grant_amount:  "$311,000"
+material_description:  "NULL"
 ---
-
-

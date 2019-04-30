@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Socialites, Sisters, and Students: Cataloging Cabrini's Rich History
+title: "Socialites, Sisters, and Students: Cataloging Cabrini's Rich History"
+year: 2012
+end_range: 2012
+formats: "NULL"
+geographic_extant: "Materials come from the United States, Italy, Vatican, South and Central America."
+institution: "Cabrini College Library"
+institution_type: "NULL"
+primary_contact: "Roberta Jacquet"
+size: "70 cubic feet, 640 linear feet, 40 objects"
+start_range: "1850"
+summary: "The Cabrini College Special Collections contains four sets of distinct materials: 1. Records and photographs relating the history of Woodcrest estate are held in the College Archives. Established by the James W. Paul family in 1902 and the family estate of Dr. John T. Dorrance, inventor of the Campbell's Soup formula, Woodcrest mansion was designed by renowned architect Horace Trumbauer. The estate originally comprised 500 acres landscaped by Frederick Law Olmsted, designer of New York's Central Park. 2. The history of the College is reflected in its archival records, significant to the history of American higher education, American Roman Catholic history and higher education, as well as the history and culture of women from a variety of socio-economic levels and Catholic ethnic groups in America for the last fifty years. 3. The Religious Folk Art Collection is a collection of religious material objects in various formats including folk paintings, statues, crucifixes, paper ephemera, and votives . Its emphasis is on Christian ethnographic artifacts of the Americas. This collection was established in 2000 for both teaching and research under the auspices of The Rhodes Consultation for the Future of the Church-Related College as supported by the Lilly Endowment. 4. The Cabriniana collection contains a large collection of writing and ephemera from the life of Frances Xavier Cabrini, the first American saint, and contains documentation of her canonization."
+hc_id: "1012"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Cabrini College Library"
+address2:  "610 King of Prussia Rd"
+city:  "Radnor"
+state:  "PA"
+zip: "19087"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

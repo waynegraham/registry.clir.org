@@ -25,13 +25,15 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 collections:
-  - projects
+  projects:
+    output: true
+    permalink: /projects/:title
 
-paginate: 20
-paginate_path: "/projects/:num/"
-permalink: "/projects/:title/"
-date_format: "%b %-d, %Y"
-show_excerpts: true
+# paginate: 20
+# paginate_path: "/projects/:num/"
+# permalink: "/projects/:title/"
+# date_format: "%b %-d, %Y"
+# show_excerpts: true
 
 google_analytics: ''
 

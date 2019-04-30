@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: John Michael Kohler Arts Center: Digitized Art Environment Collections and Study Materials
+title: "John Michael Kohler Arts Center: Digitized Art Environment Collections and Study Materials"
+year: 2016
+end_range: 2016
+formats: "NULL"
+geographic_extant: "The collection's geographic scope spans two countries (U.S. and India) and 16 states with most frequent representation from Wisconsin, California, Illinois, and Louisiana. The collection predominately originates from the American Midwest and South."
+institution: "John Michael Kohler Arts Center"
+institution_type: "NULL"
+primary_contact: "Ms. Amy Horst"
+size: "NULL"
+start_range: "1840"
+summary: "John Michael Kohler Arts Center (Arts Center) will undertake a two-phase digitization project to enable online access to its entire collection of art environments (11,281 works by 34 artists) and two extensive study collections for artists Eugene Von Bruenchenhein (EVB) and Mary Nohl (MN). Museums, academics, and collectors worldwide have demonstrated interest in researching artists and their art environments; however, to date resources have been lacking to make the works and archives readily accessible for study. Space constraints and a full rotating exhibition schedule result in many works remaining in storage for long periods; study materials have yet to be digitized or fully catalogued. In response to mounting interest in art environments, their artists, and the two selected artist study collections in particular, this project will remove accessibility obstacles and set the stage for new art historical, material culture, and historical scholarship."
+hc_id: "21966469"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "John Michael Kohler Arts Center"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>56 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$249,935"
+material_description:  "Phase 1 will digitize photographs and 360-degree views of the entire collection of art environments, comprising 11,281 mixed media works by 34 artists including 2,183 works by Mary Nohl (1914-2001), 545 by Eugene Von Bruenchenhein (1910-1983), 285 by Eddie Owens Martin (1908-1986), 200 by Levi Fisher Ames (1843-1923), and 255 by Nek Chand (1924-2015). Phase 2 will digitize the entire MN and EVB study collections, mixed media archives with sketchbooks, scrapbooks, diaries, correspondence, school notes, art teaching aids, photographs, poetry, audio recordings, and film. The MN study collection, catalogued and with finding aids, will be added to our PastPerfect database in preparation for online access. Spanning early childhood until Mary's death in 2001, this collection includes correspondence, genealogical material, photographs, and personal papers of her brother, Max Eugene Nohl, inventor of deep water diving apparatus in the early 20th century, and the Parmenter and Nohl families with prominent lawyers and judges. The EVB study collection, stored in archival quality file cabinets and boxes, has yet to be cataloged due to limited resources. Preliminary review indicates the collection includes complete books of his poetry as well as journals (with sketches, watercolor paintings, and diagrams for inventions), letters, and reel-to-reel audio files that include EVB talking about his beliefs, radio broadcasts of regional and international music, and snippets of parties hosted by EVB and his wife Marie. Copies of letters are addressed not only to friends and family but also to public figures such as President John F. Kennedy. Our project will bring forward new aspects of EVB's work (e.g., he published only one poem during his lifetime in American Voices, 1936, yet he was a prolific writer). Digitizing this vast trove will greatly augment substantive documentation about this artist and about historical eras such as the Vietnam War."
 ---
-
-

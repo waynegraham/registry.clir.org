@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Educators, Researchers and Clinicians: providing access to health sciences collections to advance health worldwide.
+title: "Educators, Researchers and Clinicians: providing access to health sciences collections to advance health worldwide."
+year: 2014
+end_range: 2013
+formats: "NULL"
+geographic_extant: "It covers San Francisco Bay Area, California & other states; also countries in South Asia (India), Africa, East Asia (Japan), Europe"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Polina Ilieva"
+size: "530 linear feet"
+start_range: "1940"
+summary: "The UCSF mission is driven by the idea that when the best research, best education, best patient care converge, great breakthroughs are achieved. The goal of this project is to catalog and describe personal and professional papers of 10 educators, researchers and clinicians whose work significantly contributes to health progress. These collections showcase interdisciplinary approaches to global health espoused by these leaders, and document how scientific research is translated to patient care. Their work is connected through a strong commitment to public health and eradication of chronic and infectious diseases. The completion of this project will help researchers and practitioners learn from the past in addressing contemporary challenges."
+hc_id: "10764959"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

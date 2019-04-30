@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Digital Archives of Science of Mind History: Toward A Comprehensive Online Library of the New Thought Movement
+title: "The Digital Archives of Science of Mind History: Toward A Comprehensive Online Library of the New Thought Movement"
+year: 2016
+end_range: 1887
+formats: "NULL"
+geographic_extant: "Global"
+institution: "Science of Mind Archives and Library Foundation"
+institution_type: "NULL"
+primary_contact: "Ms. Kathy Mastroianni"
+size: "NULL"
+start_range: "1887"
+summary: "Science of Mind Archives and Library Foundation proposes a two-year project that will digitize magazines, photographs, audio tapes, and other key institutional documents generating 75,000 of pages, images, and recordings that will be available to the public through a web-based digital asset management interface. The digital assets span over 100 years of Religious Science/Science of Mind history. The Institute of Religious Science and School of Philosophy was founded by Ernest Holmes in Los Angeles in 1927 after The Science of Mind textbook (1926) was published. In 1954 the Institute was reestablished as the Church of Religious Science which is now organized under the global umbrella of the Centers for Spiritual Living. As one of oldest and largest global church organizations within the American New Thought movement, this collection reveals linkages across New Thought philosophies and will finally make these resources available to scholars, institutions, and individuals for research."
+hc_id: "22312609"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Science of Mind Archives & Library Foundation"
+p2_name:  "Dr. James Van Cleave"
+p2_institution:  "Science of Mind Archives & Library Foundation"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>190 Science of Mind Magazines</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$98,686"
+material_description:  "The materials nominated for digitization originated from the work of Dr. Ernest Holmes, founder of Science of Mind. His writing began in the early part of the 20th Century. His first major publication, The Science of Mind textbook, was in 1926. He soon started Science of Mind Magazine in October of 1927 which has remained in publication to date. A second monthly magazine, Creative Thought, was published between December 1954 and December 2014. Both magazines have important historical value as they include articles from a variety of New Thought contributors revealing a trajectory of New Thought ideas that intersect with American social and cultural issues, events, and phenomena. These publications, with the rest of the collection, offer a rare and comprehensive picture of New Thought. Dr. Holmes also created curricula for an entire educational program--now an accredited Masters program in Consciousness Studies. These curricula not only provides support for churches, practitioners, ministerial students and the general public, but also reveals the specific course of Science of Mind thought and practices over time. In addition, the collection includes rare audio recordings of classes by another leader in the Science of Mind movement, Dr. Raymond Charles Barker: a best-selling author, the first president of the International New Thought Alliance, and the leader of a large Religious Science congregation in Manhattan. The materials in the SOM Archives (including rare photographs throughout the history of the movement and valuable historical board meeting documents) have been collected from individuals, institutions, and churches for more than 90 years. This effort was formally propelled by Dr. Marilyn Leo and her husband Dr. Richard Leo in 1998. They finally established 501(c) (3) nonprofit organization in 2007. Over the years, people have spent thousands of volunteer hours to establish this collection with the goal to share it with the public."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Sam Howe Ledgers: Uncovering Crime in the West
+title: "Sam Howe Ledgers: Uncovering Crime in the West"
+year: 2015
+end_range: 1934
+formats: "NULL"
+geographic_extant: "The collection focuses largely on crimes committed in Denver and to a lesser degree other Colorado cities. However, many early Denver and Colorado residents emigrated from other parts of the county and are representative of criminal activities in other geographic regions."
+institution: "History Colorado (Colorado Historical Society)"
+institution_type: "NULL"
+primary_contact: "Ms. Leigh Jeremias"
+size: "NULL"
+start_range: "1863"
+summary: "History Colorado seeks to create public and scholarly access through cataloging and digitization of the Sam Howe Ledgers in our collection. In 1874, Sam Howe was appointed one of Denver's original thirteen policemen. These 71 ledgers, from 1863-1934, include indexes, scrapbooks, and murder case ledgers that document crime, criminology, and human behavior in Denver, Colorado. Howe served 47 years in law enforcement and meticulously clipped, indexed, and cross-referenced newspaper articles that reported on crime, criminals, and law enforcement in Denver. Due to their fragility, the collection has been closed to research with very few exceptions. With this one-year project starting in April 2016, we will scan, transcribe, and catalog all 71 ledgers and make them accessible online in their entirety. The ledgers provide a unique and detailed insight into the scholarship of race and ethnicity, socio-economic status, sex, age, and how they correlated with crime in Denver and the West."
+hc_id: "17115223"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "History Colorado"
+p2_name:  "Ms. Melissa"
+p2_institution:  "Director of Collections Management & Registration"
+p3_name:  "Ms."
+p3_institution:  "NULL"
+material_string: "<li>71 Scrapbooks, index ledgers</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$73,315"
+material_description:  "History Colorado's Sam Howe collection contains 44 article ledgers, 25 separate indexes, and two murder case ledgers. Some ledgers have internal indexes; others have separate indexes. The two murder case ledgers, similar in format to a rogues' gallery, are specific to murder cases and include photographs, descriptions of crimes, physical descriptions of criminals, case notes, and newspaper clippings. The collection contains over 100,000 newspaper clippings. The Denver Police Department donated 70 ledgers to History Colorado in 1939 and the 71st ledger in 1953. The collection, which details thousands accounts of violence and crime in early Colorado history, is unique; no other repository in the country houses a similar collection. \n\n\n\nOn January 14, 1873, Sam Howe, a Civil War veteran, became a Denver marshal. Just over a year later, Denver replaced its system of marshals with its first police department. Howe was appointed one of Denver's original thirteen policemen. He was later appointed a detective and served twice as Chief of Detectives. During his 47-year career, Howe maintained the crime ledgers by clipping Denver newspapers, including the Rocky Mountain News, The Denver Post, the Denver Times, the Denver Republican, and the Denver Tribune. Howe indexed and cross-referenced the ledgers, which he began in 1883. One murder case ledger was filled with crimes occurring as early as 1863. Howe retired from the Police Department in 1921 at the age of 81, and the department continued creating and cross-referencing the crime ledgers until 1934. The fame of Howe's ledgers spread throughout the country, with reporters and law enforcement officers traveling to Denver to consult the crime records amassed by the detective\"”solidifying Howe's reputation as one of America's first crime statisticians."
 ---
-
-

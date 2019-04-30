@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Documenting Civil Rights and Civic Activism: the Papers of Margaret Bush Wilson
+title: "Documenting Civil Rights and Civic Activism: the Papers of Margaret Bush Wilson"
+year: 2011
+end_range: 2009
+formats: "NULL"
+geographic_extant: "The collection provides insight into the recent history of the United States, with a particular focus on St. Louis, Missouri."
+institution: "Washington University in St. Louis"
+institution_type: "NULL"
+primary_contact: "Sonya Rooney"
+size: "856 linear feet"
+start_range: "1919"
+summary: "The Margaret Bush Wilson Papers document many significant events and movements of 20th-century America, offering a unique view of local and national history. A pioneer for African Americans and for women, Margaret Bush Wilson (1919-2009) led a distinguished career as a lawyer, public servant, and civil rights activist. As the second woman of color admitted to practice law in Missouri, she began her legal career as a United States attorney for the Rural Electrification Administration, served among counsel in the landmark Supreme Court case of Shelley v. Kraemer, and provided legal assistance to those involved in the demonstrations at Jefferson Bank & Trust. Wilson was the first African American woman to run for Congress in Missouri, and she later held several public service positions including assistant attorney general, assistant director of the Lawyers for Housing program, which aimed to increase low-income housing in St. Louis and six other cities, and acting director of the Model City Agency, an initiative created by President Johnson. However, it was her role as the first African American woman elected to chair the NAACP, a position she held for nine consecutive terms, that placed her in the national spotlight. The Papers documenting Wilson's life include her personal and professional correspondence, speeches, research notes, photographs, awards, and personal library, providing rare insight into historic events that altered the trajectory of a city and a nation."
+hc_id: "776"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1 Brookings Drive"
+address2:  "Campus Box 1061"
+city:  "St. Louis"
+state:  "MO"
+zip: "63130"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

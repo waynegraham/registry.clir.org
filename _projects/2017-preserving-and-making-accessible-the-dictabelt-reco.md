@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Preserving and Making Accessible the Dictabelt Recordings of Rod Serling
+title: "Preserving and Making Accessible the Dictabelt Recordings of Rod Serling"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Wisconsin Center for Film and Theater Research at the University of Wisconsin-Madison"
+institution_type: "NULL"
+primary_contact: "Prof. Jeff Smith"
+size: "NULL"
+start_range: "NULL"
+summary: "The Wisconsin Center for Film and Theater Research (WCFTR) proposes an eleven-month project to outsource the digitization of 1,152 dictabelts in the Rod Serling collection and fund a temporary position at the WCFTR to do quality control inspection, ingest the files into the LTO system, and enhance the existing catalog records for the dictabelts and online finding aid for the collection. An award winning writer and producer best known for his television series The Twilight Zone (1959-1964) and Night Gallery (1970-1973) Serling also wrote scripts for made for-TV-movies, theatrically released films, stage productions and short stories for publications. The dictabelts document Serling’s work in all of these areas as well as correspondence written and speeches given between 1965-1969. The digitized recordings will be available to the public for multidisciplinary research and study. Patrons will be able to listen to them on-site at the WCFTR."
+hc_id: "26673503"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "University of Wisconsin-Madison Wisconsin Center for Film and Theater Research"
+p2_name:  "Ms. Mary Huelsbeck"
+p2_institution:  "University of Wisconsin-Madison Wisconsin Center for Film and Theater Research"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "1152 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$28,240"
+material_description:  "NULL"
 ---
-
-

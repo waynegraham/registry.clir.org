@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Providing Access to the Archives of the American Geographical Society
+title: "Providing Access to the Archives of the American Geographical Society"
+year: 2011
+end_range: 1978
+formats: "NULL"
+geographic_extant: "The AGS Archives covers the development of academic geography in the US and covers the world, in letters, manuscripts, expedition reports, photos, etc"
+institution: "American Geographical Society Library"
+institution_type: "NULL"
+primary_contact: "Christopher Baruth"
+size: "540 cubic feet"
+start_range: "1851"
+summary: "In 1978, the library and map collection of the American Geographical Society (AGSL) was transferred from New York City to UW-Milwaukee. The archival collections dating back to the Society’s founding in 1851, however, remained in New York until February 1, 2011, when they arrived at the AGSL under the terms of a deposit agreement between the Society and the University. This archive, consisting of approximately 540 cubic feet of material, contains documents relating to all the great names in American exploration and the larger field of geography from the mid Nineteenth century through most of the Twentieth. This includes log books of early Arctic expeditions and other AGS-sponsored expedition records, the papers of Robert F. Peary (who also served as President of the Society), the American flag carried by Robert F. Byrd on his 1929 flight to the South Pole, and correspondence with such individuals as Field Marshal Sir Edmund Allenby, George Kennan (the earlier), Franklin D. Roosevelt (a councilor) and William H. Seward. Having the AGS archives re-united with the AGSL will be a great boon to researchers and students, for example much documentary evidence relating to the AGS Library’s photographic collection, now being scanned for online presentation with the aid of an NEH grant, resides in these archives. The archives is in considerable disorder, with large numbers of disintegrating documents kept in disintegrating folders, all without any current usable finding aids."
+hc_id: "763"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "PO Box 399"
+address2:  "NULL"
+city:  "Milwaukee"
+state:  "WI"
+zip: "53201-0399"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$259,900"
+material_description:  "NULL"
 ---
-
-

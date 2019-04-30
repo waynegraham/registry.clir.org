@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Lawrence Lipton’s L.A. in the Time of the Beats: Sounds of the 1950s and 1960s Counterculture
+title: "Lawrence Lipton’s L.A. in the Time of the Beats: Sounds of the 1950s and 1960s Counterculture"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "University of Southern California"
+institution_type: "NULL"
+primary_contact: "Dr. Susan Luftschein"
+size: "NULL"
+start_range: "NULL"
+summary: "Lawrence Lipton’s L.A. in the Time of the Beats will reveal many previously unheard interviews and musical performances from the Beat generation and later countercultural movements. For this pilot project, we will digitize 300 hours of original 7\" reel-to-reel audio recordings of writer Lawrence Lipton’s 1950s and 1960s interviews with monumental artists like James Baldwin, John Cage, and Langston Hughes; live readings by numerous Beat poets from the \"Venice West\" scene; and live jazz and poetry experiments with musicians like Dave Brubeck and Buddy Collette. Many of these recordings were made for Lipton’s landmark study of the Beats, The Holy Barbarians (1959), and his study of sexual mores, The Erotic Revolution (1965). We will digitize and catalog 300 hours of these recordings for free online public access via the USC Digital Library and Digital Public Library of America. We will preserve the archival BWF files in the USC Digital Repository."
+hc_id: "26933430"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "USC Libraries"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "300 recorded hours"
+collaborating_institution:  "NULL"
+grant_amount:  "$20,500"
+material_description:  "NULL"
 ---
-
-

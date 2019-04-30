@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: New England to the Near East: Missionary Collections of Amherst and Mount Holyoke Colleges
+title: "New England to the Near East: Missionary Collections of Amherst and Mount Holyoke Colleges"
+year: 2015
+end_range: 1985
+formats: "NULL"
+geographic_extant: "The project focuses on the Near East: Turkey, Armenia, Syria, Egypt, Lebanon, Palestine, Persia (Iran), and India. Materials documenting Ottoman Bulgaria and China are also included."
+institution: "Trustees of Amherst College"
+institution_type: "NULL"
+primary_contact: "Ms. Kelcy Shepherd"
+size: "NULL"
+start_range: "1791"
+summary: "This three-year project, a collaborative effort of Amherst and Mt. Holyoke Colleges, would support digitization, metadata creation, and unified access for interrelated collections of alumni who were missionaries in the Near East. Through this grant we will: align our digitization and metadata practices, creating new efficiencies and providing a foundation for future collaboration; digitize approximately 11,850 discrete items comprised of an estimated 46,000 digital images; create metadata for these items that enables chronological and geographic visualizations of the materials; provide public access to the collection and expose it for metadata harvesting; and engage a community of scholars and faculty to gather information about use of these materials in their research and teaching. The collections document the lives and cultures of a variety of ethnic groups in the Near East, and serve a range of scholars in politics, international relations, history, gender studies, religion, geography, and other disciplines."
+hc_id: "17157134"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Amherst College"
+p2_name:  "Mr. Mike"
+p2_institution:  "Head of Archives & Special Collections"
+p3_name:  "Mr. Ms. Sarah"
+p3_institution:  "Associate Director, Discovery and Access"
+material_string: "<li>51.65 Mixed Archival Collections</li>"
+collaborating_institution:  "Amherst College; Mount Holyoke College"
+grant_amount:  "$499,905"
+material_description:  "Amherst College was established in 1821 with the aim of \"educating for the gospel ministry young men in indigent circumstances, but of hopeful piety and promising talents.\"  By the end of the nineteenth century, hundreds of Amherst College missionaries had traveled as far as Burma, China, South Africa, and elsewhere, with a concentration of missionaries in Lebanon, Turkey, Syria, and other points in the Near East. Many of these missionaries emphasized education and health care rather than aggressive efforts to convert people to Christianity, one result being the establishment of the American University in Beirut.\n\nMary Lyon, in a 1835 pamphlet outlining her plans for the Mount Holyoke Female Seminary, stated that one of the goals of the school would be \"to cultivate the missionary spirit among its pupils.\" Soon after the Seminary opened in 1837 alumnae began serving as missionaries in the United States and many other countries, where they founded and staffed influential schools, set up orphanages and hospitals, and supported social reforms to improve the lives of girls and women. By the end of the nineteenth century nearly 250 Mount Holyoke graduates had served as missionaries.\n\nIn this project, we will focus on the documentary records created by men and women from these two institutions that capture their experiences and the lives and cultures of those they encountered. These records include diaries, personal correspondence, photographs, and other materials that contain eyewitness accounts of major historical events as well as the ordinary details of daily life. Some of the men from Amherst and the women from Mount Holyoke were related (cousins, brother and sister, husband and wife), and their records, which may have been created within the same circumstances or at the same time, have never before been accessible together in this way."
 ---
-
-

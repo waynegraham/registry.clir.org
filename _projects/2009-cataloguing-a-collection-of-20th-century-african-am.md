@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloguing a Collection of 20th Century African American History and Culture
+title: "Cataloguing a Collection of 20th Century African American History and Culture"
+year: 2009
+end_range: 1996
+formats: "NULL"
+geographic_extant: "The majority of the collection focuses on the Midwest, but it also has national and international items of historical, intellectual and cultural value."
+institution: "Charles H. Wright Museum of African American History"
+institution_type: "NULL"
+primary_contact: "Alexis Braun Marks"
+size: "106 cubic feet, 6000 objects"
+start_range: "1880"
+summary: "The Charles H. Wright Museum of African American History has, over the years collected manuscripts and objects that document the depiction of African Americans in popular culture as well as their role in political organizations that sought to eradicate racial stereotypes and teach racial pride. The largest of these acquisitions was the Hanif Wahab collection, whose origins date back to when Dr. Wahab began collecting African American artifacts and documents that span about 90 years. Initially stored in Wahab's home, some items were displayed on the second floor of the Dr. Martin Luther King, Jr. branch of the Cleveland Public Library beginning in 1987. By 1990, the collection evolved into the Tubman Museum. By 1994, the museum's holdings included approximately 6,000 items of historical significance to African Americans including photographs, military records, prints, magazines, letters, books, sheet music, political buttons and antique household items. Hanif Wahab, who had a degree in history from Wilberforce University, was director of the museum. The Wright Museum, which acquired the collection in 1998 when the Tubman closed, has inventoried the collection but the inventory is incomplete and not accessible to scholars because of missing location information. Because of the size and scope of the collection and the backlog of other collections, the Museum to date has not pursued a full cataloging and arrangement and description of the collection."
+hc_id: "429"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "315 E. Warren Avenue"
+address2:  "NULL"
+city:  "Detroit"
+state:  "MI"
+zip: "48201"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

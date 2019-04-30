@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: New York City Municipal Archives' WNYC Moving Image Collection (1947-1996) Digitization and Online Access Project
+title: "New York City Municipal Archives' WNYC Moving Image Collection (1947-1996) Digitization and Online Access Project"
+year: 2015
+end_range: 1996
+formats: "NULL"
+geographic_extant: "The collection covers the five boroughs of the City of New York, including substantial archival images of its iconic areas (Times Square, the City Hall/Municipal Building areas, the fashion and business districts.)"
+institution: "New York City Department of Records & Information Services"
+institution_type: "NULL"
+primary_contact: "Ms. Sylvia Kollar"
+size: "NULL"
+start_range: "1949"
+summary: "The NYC Department of Records & Information Services/Municipal Archives proposes to digitize approximately 100 hundred hours of moving images originally produced by WNYC-TV, the television station of the Municipal Broadcasting System, between 1949 and 1996. The footage will be selected from two series within the collection: 1) 16mm original reversal film (1949-1981); and 2) videotape (1982-1996). Its significance derives from the importance of New York City in national affairs, and from the additional dimension that moving images provide to documentation of a personality or an event. The value is enhanced by its uniqueness as most local news stations did not maintain their \"archival\"  footage. The overall workplan includes digitization of the footage via vendor contract and creation of metadata by a digital archivist. Public access will be achieved via the Department of Records' website."
+hc_id: "17636507"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Department of Records & Information Services"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>100 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$164,033"
+material_description:  "The footage that will be digitized is selected from two sub-series within the WNYC-TV collection: 1) 16mm original reversal film (1949-1981); and 2) videotape (1982-1996). Beginning in 1949, the WNYC Television Film Unit produced 16mm films for public information programming. Their production called City of Magic, was a 1950 color (kodachrome) celebration of New York City designed to attract business and investment by showcasing the full range of economic, cultural and industrial achievements and opportunities available in the City. B-roll and outtakes from this film as well as other documentaries such as Home for Baby (about adoption), The 200,000 (housing assistance programs), The Winning Goal (vaccinations and public school health initiatives), form the heart of this portion of the collection. \n\nAfter WNYC began broadcasting on television in 1962, the footage documents events of cultural, political, national and international significance, such as the presentation of awards to Marc Chagall and Alfred Hitchcock by Mayor John Lindsay; press conferences about the establishment of the Civilian Police Review Board; the City's response to the 1970s fiscal crisis; the 1977 .45 caliber killer (later known as Son of Sam) case; and one-of-a-kinds films such as Shirley Chisholm's 1972 announcement of her candidacy for president.\n\nThe 1980s and 90s-era videotape sub-series contains unique programs including \"Heart of the City,\"  a magazine-style show hosted by John F. Kennedy, Jr. with footage of Harlem, Banana Kelly in the South Bronx, and the Nuyorican Poet's CafÃ© on the Lower East Side. Other programs in the videotape series include \"New York Hotline,\"  a weekly public affairs show covering topics of the day such as AIDS, the Central Park jogger case, and the removal of homeless from Tompkins Square Park. Another program, \"Neighborhood Voices,\"  profiles neighborhoods such as the South Bronx, Chinatown, Chelsea, and \"Gay\"  Greenwich Village."
 ---
-
-

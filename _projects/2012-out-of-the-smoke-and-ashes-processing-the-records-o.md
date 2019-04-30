@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Out of the Smoke and Ashes: Processing the Records of Pennsylvania’s Coke and Coal Industry
+title: "Out of the Smoke and Ashes: Processing the Records of Pennsylvania’s Coke and Coal Industry"
+year: 2012
+end_range: 2000
+formats: "NULL"
+geographic_extant: "The primary geographic focus of the collections to be processed is the coal mining and coke producing regions of southwestern PA."
+institution: "Penn State Special Collections Library"
+institution_type: "NULL"
+primary_contact: "Timothy Pyatt"
+size: "375 linear feet, 3400 objects"
+start_range: "1850"
+summary: "The materials to be processed document primarily the Western PA coal and coke industry. They include the records of firms such as the Ricks Company, which manufactured and marketed a conveyor feeding system used in the processing of coal for coke production; records of H.C. Frick and Company, which document properties, buildings, machinery, workers, and operations involved in coal mining, coke production, and steel production covering the H.C. Frick Company and U.S. Steel Corporation subsidiaries within Fayette County, PA; ; and the Baltimore and Ohio Railroad Company, Buffalo Rochester and Pittsburgh Division Records, which documents the railroad division's general management history. The Coal and Coke Heritage Photograph Collection documents the social history of several Fayette county communities--Uniontown, Connellsville, Brownsville--and other company towns dominated by the Frick Company and U.S. Steel; the Coal and Coke Heritage Oral History Collection contains ca. 1,000 interviews with coke and coke workers and area residents in the greater Fayette County region documenting life working for the coal and coke industry as well as life in the region; the Harold W. Aurand Anthracite Oral History Collection, 107 interviews chronicling miners' work experiences and community life in the anthracite coal industry in and around Hazleton, PA; and 40 interviews by Alan Derickson on Black Lung Disease. A summary follows: Ricks Manufacturing Company. Ca. 750 plans and drawings, plus drawers of client files, large box of company ledgers. Early-mid-20th century. No inventory or description exists for this collection. H.C. Frick and Company Records. Ca. 30 linear feet; 500 photographs, 19th-mid 20th century. A partial hand-written list exists for the photographs. Coal and Coke Heritage Photograph Collection. Ca. 250 images. A partial hand-written list exists. Coal and Coke Heritage Oral History Collection, ca. 1,000 interviews, 1977-present. The only access exists through a typed list of interviewee names. Baltimore and Ohio Railroad Company, Buffalo, Rochester and Pittsburgh Division Records. 250 Ln. Ft., 1920s- early 1970s. Collection-level MARC record is the only access. Harold W. Aurand Anthracite Oral History Collection. 107 items, 1975-1988. Collection-level MARC record is the only access. Alan Derickson Research Interviews Concerning Black Lung Disease. 40 Items, 1990-1994. Collection-level MARC record is the only access. In addition to these collections there are number of small individual coke worker related collections (most coming from interviewees) at the CCHC. Access exists primarily through the memory of the part-time staff member."
+hc_id: "935"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Office of Sponsored Programs"
+address2:  "110 Technology Center Building"
+city:  "University Park"
+state:  "PA"
+zip: "16802"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

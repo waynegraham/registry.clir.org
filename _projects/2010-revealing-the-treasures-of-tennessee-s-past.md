@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Revealing the Treasures of Tennessee's Past
+title: "Revealing the Treasures of Tennessee's Past"
+year: 2010
+end_range: 2001
+formats: "NULL"
+geographic_extant: "The collection's geographic scope covers mainly Tennessee, but also includes areas within the region and nationally as found in the Cate Papers."
+institution: "Nashville Public Library"
+institution_type: "NULL"
+primary_contact: "Andrea Blackman"
+size: "3000 cubic feet"
+start_range: "1584"
+summary: "The Nathaniel Crippens Papers dates the modern civil rights movement and contains glimpses into the dismantling of segregation in Tennessee's education system. This hidden treasure contains the Nashville Education Improvement Project papers; personal papers and letters on early teaching experiences in Nashville; materials relating to Historically Black Colleges and Universities and Mr. Crippens' involvement with each; programs from fraternity events; teacher programs after integrating schools in Nashville; audio tapes of speeches with Civil Rights Movement participants; and material written on equitable education. Mr. Crippens was also an educator involved in the desegregation of local universities. Additionally, the Margaret Cate Papers are among the hidden collections in the division. In 1957, Ms. Cate was the principal of Hattie Cotton Elementary School. The previously all-white school was bombed because one African American first grader enrolled. The collections includes letters, clippings, photographs and correspondence. The Beverly Briley Collection is a compilation of papers of the first mayor of Metro Nashville at the onset of city/county government separation. Research value includes local government infrastructure. Hidden within the collection is transcripts, speeches, photographs and papers. The other hidden material include the Ann Wells Map Collection which is a collection of 146 (16th-19th Century) Tennessee maps; and the historic Nashville Banner biographical papers."
+hc_id: "623"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "615 Church Street"
+address2:  "NULL"
+city:  "Nashville"
+state:  "TN"
+zip: "37219-2314"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

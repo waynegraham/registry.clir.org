@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: International Whistleblowing Archive
+title: "International Whistleblowing Archive"
+year: 2015
+end_range: 2015
+formats: "NULL"
+geographic_extant: "The documents are world wide and are from countries who have had whistleblowers over the years."
+institution: "Association of Mental Health Specialities 501(c) (3)"
+institution_type: "NULL"
+primary_contact: "Dr. Don Soeken"
+size: "NULL"
+start_range: "1978"
+summary: "Our archiving plan involves contacting whistleblowers with the help of partnering organizations such as the Government Accountability Project and obtaining permission to archive their files. A lawyer will be retained to prepare contracts and review the donated documents. The Internet Archive service will convert the files to digital format for posting on our website by staff of the Internet Archive and volunteers. The information will then be available to people around the world, including many who lack the means to travel to a brick-and-mortar archive. We will also archive hundreds of articles and books collected by Don Soeken over a 35 year period."
+hc_id: "17657261"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>100 published articles, written briefs, out of print books, videos</li>"
+collaborating_institution:  "Internet Archive"
+grant_amount:  "$70,000"
+material_description:  "Together, the above projects advance the public interest in transparency and accountability by aiding whistleblowers in their fight against secrecy; preserving a more complete record for historians and journalists; educating legislators and voters; and holding government officials accountable for human rights abuses and violations of law."
 ---
-
-

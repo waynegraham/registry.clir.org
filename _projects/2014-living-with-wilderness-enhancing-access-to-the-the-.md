@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Living with Wilderness: Enhancing Access to the The Adirondack Museum Historic Photograph Collection
+title: "Living with Wilderness: Enhancing Access to the The Adirondack Museum Historic Photograph Collection"
+year: 2014
+end_range: 2000
+formats: "NULL"
+geographic_extant: "The Adirondack Park in upstate New York."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Deirdre Scaggs"
+size: "15000 objects"
+start_range: "1870"
+summary: "The Adirondack Museum (AM) proposes to catalog 15,000 rare images documenting the history of human interaction with the Adirondack environment, providing online access to scholars throughout the world. Making the images visible is a high priority given growing interest in our collective need to sustain economically viable communities while simultaneously preserving large areas of natural, undeveloped landscape. This project will be the first time the AM will proactively select images for targeted cataloging based on their relevance to researchers in a variety of academic disciplines including environmental history; forest history; geography; the history of outdoor recreation and tourism; art and architectural history; and gender studies."
+hc_id: "12990360"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "9097 State Route 30"
+address2:  "PO Box 99"
+city:  "Blue Mountain Lake"
+state:  "NY"
+zip: "12812-0099"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$157,685"
+material_description:  "NULL"
 ---
-
-

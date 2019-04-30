@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Auditor’s Records of Kentucky: Telling the Commonwealth’s History through Reports Made to the Auditor of Public Accounts
+title: "The Auditor’s Records of Kentucky: Telling the Commonwealth’s History through Reports Made to the Auditor of Public Accounts"
+year: 2017
+end_range: 1792
+formats: "NULL"
+geographic_extant: "Since government agencies and private companies throughout the state were required to report their activities to the Auditor of Public Accounts, this collection represents all 120 counties in Kentucky. In addition, various land-related records represent residents of Virginia and other adjacent states."
+institution: "Kentucky State Archives"
+institution_type: "NULL"
+primary_contact: "Ms. Jennifer Patterson"
+size: "NULL"
+start_range: "1792"
+summary: "The Kentucky State Archives proposes to digitize records from the Office of the Auditor of Public Accounts, also known as the Auditor’s Office. Over the course of 24 months, we will digitize 63 sets of bound volumes and loose documents, create appropriate metadata, and preserve and provide online public access to the digital surrogates using our digital preservation system Preservica. This collection documents the development of Kentucky government, infrastructure, and industry from 1792-1935, and will provide scholars and researchers with the opportunity to research topics such as river navigation, railroads, turnpikes, banks, corporations, distilled spirits, military papers, taxation, and land records. These records tell a comprehensive story of Kentucky’s history through reports made to the Auditor’s Office by state and local government agencies, institutions, and corporations."
+hc_id: "26893484"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "KY Dept for Libraries and Archives"
+p2_name:  "Mr. Trace Kirkwood"
+p2_institution:  "KY Dept for Libraries and Archives"
+p3_name:  "Ms. Kari May"
+p3_institution:  "KY Dept for Libraries and Archives"
+material_string: "<li>190 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$119,614"
+material_description:  "Materials from the Auditor’s Office collection present a detailed cross-section of functions of state and local government agencies, professional activities and geographical stations of residents, and the growth of private industry in the Commonwealth. Access to this collection will allow researchers to trace the development and expansion of transportation, business, land ownership, military funding, and buildings and institutions throughout Kentucky’s history: • Transportation (1831-1898): document funds allocated for development of Kentucky roads and railways, and subsequent taxes. Includes reports and correspondence of historic railroad companies and turnpikes detailing the value of railroads, turnpikes, and equipment. River navigation records include toll books, river lock ledgers, and correspondence. • Business (1839-1923): corporation journals and ledgers, reports on volumse and taxable values of distilled spirits, withdrawn inventory of distilled spirits, taxes on professional licenses, correspondence regarding insurance policy and licensure, and bank records. • Land Ownership (1792-1869): series of settlers’ taxation books, land sold for taxes, receipts for cash returned on land, and tax warrants. Contains “Negro lists” and “negro fund.” • Military (1843-1887): cashbooks, State Guard ledgers, militia lists, and other records. • Institutions (1841-1920): Institute for the Blind correspondence, account ledgers for charitable institutions across the Commonwealth, and penitentiary correspondence. • State Government (1816-1935): government spending including internal improvement books, journals, Capitol building bill, legislative appropriation/session ledgers, and Sinking Fund correspondence. • Local Government (1827-1929): warrants for expenditures of county officials, includes entries for sheriff, jailer, trustee of the jury fund; miscellaneous entries for \"conveyance of lunatics\" and \"conveyance of convicts.\""
 ---
-
-

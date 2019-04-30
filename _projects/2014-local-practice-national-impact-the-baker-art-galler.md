@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Local Practice, National Impact: The Baker Art Gallery Collection
+title: "Local Practice, National Impact: The Baker Art Gallery Collection"
+year: 2014
+end_range: 1955
+formats: "NULL"
+geographic_extant: "The collection includes politicians and cultural figures of national prominence. Much of the collection focuses on local and statewide communities."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Lisa Wood"
+size: "45 cubic feet, 46000 objects"
+start_range: "1886"
+summary: "This two-year project will process and catalog the Baker Art Gallery Collection at the Ohio Historical Society. The Baker Art Gallery was a Columbus-based studio whose portraits and domestic prints achieved national prominence in the late-nineteenth and early-twentieth centuries. This project will combine the description of hierarchical relationships typical of archival finding aids with the item-specific granularity found in library cataloging. The resulting finding aid and catalog records will be easily accessible to researchers via OHS's online collections catalog. The completed project will provide essential primary resources for a range of historical and cultural scholarship on the late-nineteenth and early-twentieth centuries."
+hc_id: "11663731"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "<li>46000 Image</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

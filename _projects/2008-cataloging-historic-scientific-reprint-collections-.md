@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging Historic Scientific Reprint Collections: Davenport, Demerec, and Watson Reprint Collections
+title: "Cataloging Historic Scientific Reprint Collections: Davenport, Demerec, and Watson Reprint Collections"
+year: 2008
+end_range: 1980
+formats: "NULL"
+geographic_extant: "These reprint collections are international in scope, with authors and publications primarily from the US, Europe, and Japan."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Ludmila Pollock"
+size: "240 linear feet, 72000 objects"
+start_range: "1868"
+summary: "The scientific reprints in these collections bring together a number of historic scientific and social disciplines which developed into modern day genetics and molecular biology and affected many aspects of society in the past and present. The collections, named after three directors of Cold Spring Harbor Laboratory who were the primary collectors of the reprints, contain contributions by scientists at a variety of international institutions. The reprints document key discoveries which have lead to interdisciplinary innovations and practical applications in agriculture, the health sciences, genomics, and other fields. They span the different ages of modern biological research beginning with the period of naturalist studies immediately following Darwin��s publication of Origin of Species in 1859 (approx. 4% of the reprints). The collections continue to span through the birth of plant genetics with the rediscovery of Mendel in 1900 and on through the development of classical genetics and the dark social history born from eugenic studies (approx. 82%). The next landmark age covered is the period following the discovery of the structure of DNA in 1953, which opened a new perspective on genetics and gave rise to the field of molecular biology (approx. 13%). In the 1970s, political and social activism closely engaged the biological sciences represented in these reprints through such topics as recombinant DNA and cancer studies (approx. 1%)."
+hc_id: "45"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1 Bungtown Rd."
+address2:  "Library/ Osterhout"
+city:  "Cold Spring Harbor"
+state:  "NY"
+zip: "11724"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

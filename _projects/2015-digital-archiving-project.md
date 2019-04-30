@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digital Archiving project
+title: "Digital Archiving project"
+year: 2015
+end_range: 1989
+formats: "NULL"
+geographic_extant: "The geographic regions represented is broadly the Lower Columbia Rebion. The Lower Columbia Region, for purposes of this project, is defined as Clatsop and Pacific counties. Astoria, located in Clatsop County, is the oldest permanent U.S. settlement west of the Rocky Mountains."
+institution: "Clatsop County Historical Society, INC"
+institution_type: "NULL"
+primary_contact: "Mr. Michael Reibold"
+size: "NULL"
+start_range: "1860"
+summary: "This project aims to digitize a portion of the holdings of the Clatsop County Historical Society in Astoria, Oregon. Currently, the museum has these photographic collections: the Frank Woodfield collection (ca. 1902 – 1944); the Daily Astorian negatives (1973 – 1989); the Wilson Studio collection (ca. 1911 – 1939); the Ralph Horton collection (ca. 1909 – 1964); and the Reuben Jensen collection (ca. 1920 – 1940). The museum has all the rights to these collections, and while most of them are available to the general public, very little has been digitized, and thus require a researcher to view them in person. This project would make these available to anyone online."
+hc_id: "17087175"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "CCHS"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>15000 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$77,399"
+material_description:  "These images portray scenes, people, places and historic events from the late 1800's through the 1960's. Events include Astoria's Centennial Celebration in 1906, Sesquicentennial in 1956, President John F. Kennedy's visit to the Astoria area in 1961, as well as a host of other historically significant visits including Rudyard Kipling and Clark Gable. Photos detailing the logging, fishing and canning industry from the early 1900's through the 1960's are also part of this project."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Field notes and related archival material from 100 years of expeditionary biology and anthropology at the Univ. of Colorado Museum of Natural History
+title: "Field notes and related archival material from 100 years of expeditionary biology and anthropology at the Univ. of Colorado Museum of Natural History"
+year: 2012
+end_range: 2000
+formats: "NULL"
+geographic_extant: "Expeditionary work mostly comes from the Southwest and Mountain West of the States. Some fieldwork and research also took place outside of the U.S."
+institution: "University of Colorado Museum of Natural History"
+institution_type: "NULL"
+primary_contact: "Mariko Kageyama"
+size: "20 boxes, 6 cubic feet, 381 linear feet"
+start_range: "1860"
+summary: "The University of Colorado Museum of Natural History (CU Museum) has hidden archival materials from over one hundred years of expeditionary biological and anthropological fieldwork captured as field notes, photos, maps, drawings and other material. The archives include treasures such as field notebooks by Colorado's first ornithologist, Denis Gale (1828-1905), representing detailed descriptions of bird nesting patterns, especially the time of nest formation in the late 19th century, along with bird behaviors. These notes have formed the basis for our understanding of avian biodiversity in the Rockies and exist because they were transcribed and re-typed as a single notebook by the CU Museum founder Junius Henderson (1865-1937) in the early 20th century. The main body of materials are from preeminent field biologists and anthropologist who worked at the CU Museum, including Edward Royal Warren (1860-1942; mammalogist), Earl Halstead Morris (1889-1956; southwestern archaeology and thought to be one of the inspirations for the character of Indiana Jones), Joe Ben Wheat (1916-1997; southwestern archaeology), Anna Osler Shepard (1903-1973; southwestern ceramics), and William Alfred Weber (b.1918; emeritus botanist and expert on Rocky Mountain flora). Our focus here is on field-related materials that provide the content and context for scholars across multiple disciplines, from the history of the West to global change biology documenting patterns and trends in species distributions."
+hc_id: "873"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Bruce Curtis (MCOL) Bldg."
+address2:  "265 UCB"
+city:  "Boulder"
+state:  "CO"
+zip: "80309-0265"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

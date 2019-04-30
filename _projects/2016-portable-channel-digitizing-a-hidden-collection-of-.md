@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Portable Channel: Digitizing a Hidden Collection of Alternative Community Television
+title: "Portable Channel: Digitizing a Hidden Collection of Alternative Community Television"
+year: 2016
+end_range: 1987
+formats: "NULL"
+geographic_extant: "The majority of the content is from Rochester, NY but there are tapes made throughout New York State and the Midwest."
+institution: "Visual Studies Workshop"
+institution_type: "NULL"
+primary_contact: "Ms. Jessica Johnston"
+size: "NULL"
+start_range: "1971"
+summary: "During an 18 month project, Visual Studies Workshop (VSW) will transfer a significant portion of the Portable Channel (PC) collection from videotape to digital and create associated metadata. The material was sold to VSW after the organization closed in 1987. The collection consists of 910 tapes, of which 719 fall under the purview of this project. Once digitized, the videos and associated metadata will be shared online on SUNY Brockport's Digital Commons (DC) and on the Digital Public Library of America (DPLA). The digitized video and metadata will also be accessible at VSW and will be distributed to selected academic libraries. The goal of this project is to provide access to currently inaccessible and decaying videotapes that chronicle an important video organization that produced some of the earliest community-made documentary television in the United States."
+hc_id: "22224376"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Visual Studies Workshop"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>719 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$148,278"
+material_description:  "Portable Channel (PC) was a Rochester, NY non-profit (1971-1987) founded by Bonnie Sherr Klein. PC supported community access to video equipment, provided training and produced programs with an emphasis on community activism and documentary work. The organization had a unique relationship with the public television station WXXI-TV, who gave PC a monthly slot that aired the PC program HOMEMADE TV. After PC closed in 1987 the collection and equipment pool were sold to Visual Studies Workshop. The PC collection consists of 910 videotapes in various formats; the majority of the material is ½-inch open reel with some ¾-inch and a few examples of 1 inch and quad. About half of the videotapes in the collection were produced for HOMEMADE TV that ran regularly from 1972 to 1975 with a total of 28 thirty-minute programs. The programs varied in format and content but were united by the goal of expanding television by involving people in the community in producing programs. There are between 5 and 20 tapes in the collection for each HOMEMADE TV episode, from rough footage to final edit. There were also a large number of documentary project tapes that never made it to broadcast as well as tapes documenting PC workshops and activities. Subjects of the programs include: explorations on senior living, women ministers, broadcast journalism, video art, San Francisco Mime Troupe, Vietnam War protests, religious conscientious objection, Attica riots, cable television, community centers, youth, family life, the women's movement, and more. The majority of the 719 tapes nominated for digitization were made prior to 1977, a time after which PC productions shifted from community engaged documentary towards commercial productions. Selected tapes from these later years will be digitized to show a more complete history of the organization."
 ---
-
-

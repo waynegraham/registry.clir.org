@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Silverman-Graham Lee Collection
+title: "Silverman-Graham Lee Collection"
+year: 2011
+end_range: 1950
+formats: "NULL"
+geographic_extant: "The geographic scope includes the whole of the United States. Both the US and Hamilton were dominant in the wood type industry."
+institution: "University of Texas"
+institution_type: "NULL"
+primary_contact: "James Moran"
+size: "116 boxes, 2200 cubic feet, 278 linear feet"
+start_range: "1880"
+summary: "Wood type refers to individual letters, figures, punctuation, ligatures and dingbats carved in relief on blocks of type-high (0.918”) wood with a flat smooth face, designed to print with ink on paper. Darius Wells, who in 1827 invented the process to mass produce wood type, first commercially showed wood type specimens in March 1828. The Hamilton Wood Type & Printing Museum, founded and operated by the Two Rivers Historical Society, in the Hamilton Manufacturing Company's original building, is a resource for printers, printmakers, historians and educators to access what has evolved into the largest collection of wood type in the world. The Museum's 1.5 million pieces of wood type represents a one-of-a-kind collection of printing technology that spans from the early 1800's to 1984, when the company ceased production of wood type after a 104-year status as the largest manufacturer of wood type in the United States. The overall collection represents virtually all wood type manufacturers in the history of the nation, as Hamilton bought out all other significant wood type firms between 1827 and 1909. The Silverman-Graham Lee Hidden Collection is comprised mostly of donated and purchased materials, primarily derived from wood type collector Irving Silverman, and the estate of Graham Lee. A smaller batch of materials originally manufactured by Hamilton but never sold is also included. There is potential for wood types dating from as far back as 1827 to be discovered."
+hc_id: "812"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1619 Jefferson Street"
+address2:  "NULL"
+city:  "Two Rivers"
+state:  "WI"
+zip: "54241"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

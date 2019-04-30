@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Grass Roots Activism and the American Wilderness: Pioneers in the Twentieth Century Adirondack Park Conservation Movement
+title: "Grass Roots Activism and the American Wilderness: Pioneers in the Twentieth Century Adirondack Park Conservation Movement"
+year: 2013
+end_range: 1996
+formats: "NULL"
+geographic_extant: "The primary focus is the Adirondack Park in northern New York State. There is some material on the Catskills in southeastern New York included."
+institution: "Union College"
+institution_type: "NULL"
+primary_contact: "Blair Raymond"
+size: "210 cubic feet"
+start_range: "1899"
+summary: "The Apperson and Schaefer papers reflect grass roots political activism to conserve the Adirondack Forest Preserve and to expand the Adirondack Park from 1899 to 1996 (Apperson 1899-1963 44 cu.ft, Schaefer 1930-1996 166 cu.ft). The collections include documentation of their efforts to stop development of private or public land in the forest preserve, advocate for the expansion of conservation practices and promote the use of the land for recreation. Their correspondence reflect their influence on national figures such as Robert Marshall, founder of the Wilderness Society; Howard Zahniser, author of the 1964 Wilderness Act; as well as Louis Marshall, who drafted the legislation which protected as “forever wild” the state lands in the Adirondacks; Robert Moses, a pioneer in urban and recreational park design; and Governors Al Smith and Franklin Delano Roosevelt. The collections, spanning 100 years, comprise photographs, lantern slides and video taken to engage and persuade people to protect the Adirondacks. They also include correspondence, pamphlets, maps, meeting minutes, financial records and newsletters, slide sets, photographs, and videotape of some 20 advocacy groups formed for specific projects."
+hc_id: "1125"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "807 Union Street"
+address2:  "NULL"
+city:  "Schenectady"
+state:  "NY"
+zip: "12309"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$164,600"
+material_description:  "NULL"
 ---
-
-

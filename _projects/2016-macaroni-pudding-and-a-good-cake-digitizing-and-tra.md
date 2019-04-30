@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Macaroni Pudding and a Good Cake: Digitizing and Transcribing the Manuscript Cookbook Collection 1650-1896
+title: "Macaroni Pudding and a Good Cake: Digitizing and Transcribing the Manuscript Cookbook Collection 1650-1896"
+year: 2016
+end_range: 1896
+formats: "NULL"
+geographic_extant: "United States, the United Kingdom, Mexico, France, and Germany."
+institution: "K-State"
+institution_type: "NULL"
+primary_contact: "Ms. Allison Ringness"
+size: "NULL"
+start_range: "1650"
+summary: "Kansas State University Libraries' Macaroni Pudding and a Good Cake is a two-year project that will enhance international scholarship pertaining to the history of food and medicine, women's culture, comparative literature and epidemiology. Nearly 8,000 pages of manuscript cookery books dating from 1650-1896 will be available in an institutional repository as well as a crowdsourced transcription interface. K-State Libraries plan to maximize project impact by engaging with targeted constituencies: K-State academic programs, professional organizations, scholarly communities and social media contacts. Outreach initiatives will be institutional, regional, national and international. Digitization will be used to promote the Libraries' Adopt-a-Manuscript conservation program, which will allow sponsors to fund stabilization treatments for the collection's most endangered materials."
+hc_id: "21664445"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Kansas State University Libraries"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>8000 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$105,404.00"
+material_description:  "Kansas State University Libraries' Morse Department of Special Collections retains one of the largest cookery collections of its kind in the United States. Of particular interest to scholars is its collection of over 100 manuscript cookbooks from the United States, the United Kingdom, Mexico, France, Germany, and Israel, which date from the 17th through the 20th centuries. These manuscript cookbooks are unique items, created for personal use by one or more individuals (usually women) for private use. As personally-created items, they are indicative of the social class of their creators and contain information about diet, health, and economics not usually found in printed cookbooks. The research potential for the manuscript cookbooks goes well beyond traditional food history studies. They are an indispensable wealth of multicultural studies that have only been available to researchers visiting Kansas State University. By developing a digital collection, these materials will be available globally for the first time since their creation."
 ---
-
-

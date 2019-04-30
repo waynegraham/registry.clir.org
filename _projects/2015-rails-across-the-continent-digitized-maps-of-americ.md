@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Rails Across the Continent: Digitized Maps of American Railroad Expansion
+title: "Rails Across the Continent: Digitized Maps of American Railroad Expansion"
+year: 2015
+end_range: 1945
+formats: "NULL"
+geographic_extant: "National"
+institution: "Board of Regents of the University of Nebraska for the University of Nebraska-Lincoln"
+institution_type: "NULL"
+primary_contact: "Ms. Katherine Walter"
+size: "NULL"
+start_range: "1836"
+summary: "Rails Across the Continent: Digitized Maps of American Railroad Expansion will digitize and describe an estimated 600 historical railroad maps in the collections of the University of Missouri-St. Louis' John W. Barringer III National Railroad Library and the University of Nebraska-Lincoln Archives & Special Collections. Digitization will be conducted by the UNL Center for Digital Research in the Humanities and the Barringer Library over a three year period. The maps selected will complement those in the Railroad Maps, 1828-1900, Collection at the Library of Congress. Goals are to make significant visual resources relating to railroad lands and routes available to scholars and the public."
+hc_id: "17657048"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Nebraska-Lincoln"
+p2_name:  "Mr. Nicholas (Nick)"
+p2_institution:  "Curator"
+p3_name:  "Mr."
+p3_institution:  "NULL"
+material_string: "<li>600 Maps</li>"
+collaborating_institution:  "University of Missouri St. Louis"
+grant_amount:  "$276,990.00"
+material_description:  "Histories of transportation, communication and settlement of the United States are closely connected to railroad lines and railroad companies. As railroads were built and tracks traversed the continent, maps of rail routes, rail lands and rail yards became crucially important for clocking progress, managing assets and both promoting and protecting properties. The Rails Across the Continent project will digitize an estimated 600 historical railroad maps in the collections of the University of Missouri-St. Louis' John W. Barringer III National Railroad Library and the University of Nebraska-Lincoln Archives & Special Collections. The project is estimated to take 3 years. The maps will complement the digitized railroad maps in the Library of Congress' American Memory project and will offer the public and scholars significant visual resources relating to railroad lands and routes."
 ---
-
-

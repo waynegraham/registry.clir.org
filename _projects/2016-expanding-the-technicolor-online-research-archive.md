@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Expanding the Technicolor Online Research Archive
+title: "Expanding the Technicolor Online Research Archive"
+year: 2016
+end_range: 2000
+formats: "NULL"
+geographic_extant: "The nominated Technicolor collections originated in the following geographic regions: California, China, Delaware, Florida, Italy, Maine, Massachusetts, New York and London, UK."
+institution: "George Eastman Museum"
+institution_type: "NULL"
+primary_contact: "Mr. Jared Case"
+size: "NULL"
+start_range: "1913"
+summary: "George Eastman House d/b/a George Eastman Museum, in collaboration with the Academy of Motion Picture Arts & Sciences' Margaret Herrick Library and the Smithsonian Institution's National Museum of American History, will expand its Technicolor Online Research Archive (TORA), begun in 2015 with a grant from the National Endowment for the Humanities (40,000 objects digitized). This project supports digitization and online access of an additional 260,379 Technicolor documents from the collections of the three institutions, dating from 1913 to 2000. This free, web-based resource will be available to researchers, academics, and historians to study, understand, and appreciate the tremendous influence that Technicolor had on filmmaking and popular culture during the 20th century."
+hc_id: "21856878"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "George Eastman Museum"
+p2_name:  "Ms. Nancy Kauffman"
+p2_institution:  "George Eastman Museum"
+p3_name:  "Mr. Ken Fox"
+p3_institution:  "George Eastman Museum"
+material_string: "<li>260379 Mixed Archival Collections</li>"
+collaborating_institution:  "Academy of Motion Picture Arts & Science's Margaret Herrick Library; Smithsonian Insitution's National Museum of American History"
+grant_amount:  "$494,789"
+material_description:  "The Technicolor Online Research Archive currently holds 40,000 digitized documents from the George Eastman Museum. This project will expand the archive to hold digital images of documents, photographs, and technology dating from 1913 to 2000, including the remaining 87% from the Technicolor collections at the Eastman Museum, and significant documents from the Margaret Herrick Library and the Smithsonian Institution. These unique collections encompass business, financial and technical documentation, photographs, and motion picture filming, processing and printing equipment used to accomplish the company's signature dye-transfer printing process. The George Eastman Museum cares for nine sub-collections, collectively grouped as the Technicolor Research Archive. These collections include Technicolor documentation, technology, and photographs donated by the Eastman Kodak Company; Technicolor; the family of Dr. John M. Andreas; Karl Thiede (Bill Gleason interviews); Frank J. Ricotta; Dr. Richard J. Goldberg; and purchases recently made by the museum. Linda Mehr, Director of The Margaret Herrick Library in Beverly Hills, and Shannon Perich, Associate Curator for the Smithsonian National Museum of American History in Washington, D.C., have each agreed to provide the Eastman Museum access to their significant Technicolor related collections for the purpose of digitization and online publication. These collections include Technicolor documentation and technology donated by Technicolor, the Estate of Tom Tarr, Clara Nielsen, Ronald Haver, and Daniel F. Comstock."
 ---
-
-

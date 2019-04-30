@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digital Archive of Huhugam Archaeology
+title: "Digital Archive of Huhugam Archaeology"
+year: 2016
+end_range: 2016
+formats: "NULL"
+geographic_extant: "\"Huhugam\" (or Hohokam) is a Native American (O'Odham) term archaeologists have long applied to the prehispanic culture and people of central and southern Arizona, and northern Mexico, especially along the Salt and Gila Rivers. The two largest Huhugam prehistoric settlements lie underneath the modern Phoenix and Tucson metropolitan areas."
+institution: "Arizona State University"
+institution_type: "NULL"
+primary_contact: "Dr. Francis McManamon"
+size: "NULL"
+start_range: "1886"
+summary: "The Digital Archive of Huhugam Archaeology (DAHA) is a research collection that will include digital copies of a large fraction of the major unpublished archaeological reports relating to the Huhugam (also known as Hohokam) of the American Southwest. Huhugam culture is notable for its enormous irrigation systems, large, sustainable towns, and market-based exchange of specialist-produced crafts. DAHA will be curated and made accessible through tDAR, an established disciplinary repository operated by Arizona State University. We will digitize and OCR the reports, upload them into tDAR, and document them with extensive metadata enhanced by applying Natural Language Processing tools. The result will be a corpus of approximately 1,600 reports (400,000 pages) all online, discoverable, and freely accessible through tDAR. We believe that this grant will enable transformative research that will advance our understanding of Huhugam society and illustrate an innovative path for future synthetic research on other archaeological areas and topics."
+hc_id: "22276550"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Arizona State University"
+p2_name:  "Dr. Keith Kintigh"
+p2_institution:  "Arizona State University"
+p3_name:  "Dr. Christine Szuter"
+p3_institution:  "Amerind Foundation, Inc."
+material_string: "<li>1600 Archaeological Reports</li>"
+collaborating_institution:  "Amerind Foundation, Inc."
+grant_amount:  "$219,117"
+material_description:  "The Huhugam culture is well known for its sophisticated social organization and sustainable adaptations to the desert. As sedentary, desert farmers, the Huhugam developed the largest and most complex prehistoric irrigation system in North America, with canals up to 30km in length. Early Huhugam agricultural settlements of surprising size and complexity date back to 1500 BC. By AD 300, the Huhugam had created large, canal-focused, sedentary communities, several of which were continuously inhabited for a millennium. The area now covered by metropolitan Phoenix sustained a Huhugam population of 30,000 to 60,000, one of the two largest prehispanic towns in what is now the United States. Archaeological excavations and site reports are one of the only ways of describing and exploring Huhugam history. The Digital Archive of Huhugam Archaeology will include digital copies of most major archaeological reports--deriving both from cultural resource management (CRM) and academic research projects--documenting substantial excavation, testing, and survey projects relating to the Huhugam culture. Most DAHA reports will be from CRM excavation projects conducted in urban areas and will include reports on large towns, smaller settlements, trails, canals, and resource extraction sites. Project personnel have received permission and letters of commitment to digitize reports and grey literature from 15 archaeology CRM firms that have worked on Huhugam sites. The Amerind Foundation Library and Archive holds 84 manuscripts and reports and 16 Amerind published books. The Arizona State University Library Archive holds the Frank Midvale Papers 1865-1972; Midvale was a pioneering archaeologist who worked in Arizona in the early 20th century. This scope will result in a comprehensive and coherent collection with tremendous potential for research and public programming."
 ---
-
-

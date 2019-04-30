@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Preserving “The Twentieth Century Reformation Hour” Radio Program by Carl McIntire.
+title: "Preserving “The Twentieth Century Reformation Hour” Radio Program by Carl McIntire."
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "The Library of Princeton Theological Seminary"
+institution_type: "NULL"
+primary_contact: "Mr. Greg Murray"
+size: "NULL"
+start_range: "NULL"
+summary: "The Library of Princeton Theological Seminary proposes a twelve-month project to outsource the digitization of 1,900 reel-to-reel tapes of the radio program The Twentieth Century Reformation Hour (1960 to 1980), hosted by Carl McIntire. McIntire was a pastor, founder of a Christian denomination and seminary, editor of the Christian Beacon newspaper, and founder and president of the American Council of Christian Churches. These are the only known tapes of the radio broadcasts of McIntire and his pioneering radio ministry, serving as an irreplaceable witness into the development of conservative talk radio and its use of popular broadcast media in the United States. The proposed project would complement Yale Divinity School’s work to digitize McIntire’s newspaper, Christian Beacon. The digitized files would be made available to researchers remotely and on-site, supporting future research into the conservative Christian influence on American life and politics in the mid-twentieth century."
+hc_id: "26818456"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Princeton Theological Seminary Library"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "1900 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$50,000"
+material_description:  "NULL"
 ---
-
-

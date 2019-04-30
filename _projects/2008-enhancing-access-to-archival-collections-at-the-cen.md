@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Enhancing Access to Archival Collections at the Center for Jewish History
+title: "Enhancing Access to Archival Collections at the Center for Jewish History"
+year: 2008
+end_range: 2000
+formats: "NULL"
+geographic_extant: "Taken together, the book, archival, and museum collections have a world-wide scope, with a majority relating to the U.S., Eastern Europe, and Germany."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Hadas Almagor"
+size: "25300 linear feet"
+start_range: "1700"
+summary: "The collections at the Center for Jewish History are held by its five research partners - American Jewish Historical Society, American Sephardi Federation, Leo Baeck Institute, Yeshiva University Museum, and YIVO Institute for Jewish Research - and total more than 25,300 linear feet of archival materials, 500,000 volumes, and thousands of pieces of artwork, textiles, and ritual objects. The partners join together at the Center to share resources and provide a unified point of access to researchers, comprising the largest collection of materials documenting modern Jewish history and culture outside of the state of Israel, more comprehensive than that in any other repository in the world. The archival collections consist of both personal papers and organizational records and include millions of photographs, memoirs, official decrees, personal letters, sound recordings, moving image materials and more, illuminating daily life, politics, social services, performing arts and the world’s most comprehensive documentation on pre-Holocaust Jewish life. Museum collections include posters, paintings, sculptures, archeological artifacts, historical textiles and ceremonial objects. Serving a broad range of patrons, with materials in many languages from around the world, Eastern European Jewry, Sephardic Jewry, German-speaking Jewry, and the American Jewish experience coexist to provide a dynamic synergy that is an invaluable boon to researchers."
+hc_id: "17"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "15 W. 16th Street"
+address2:  "NULL"
+city:  "New York"
+state:  "NY"
+zip: "10011"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

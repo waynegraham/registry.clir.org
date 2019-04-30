@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Accessing Moving Image Material Culture
+title: "Accessing Moving Image Material Culture"
+year: 2010
+end_range: 2010
+formats: "NULL"
+geographic_extant: "The collection focuses on the material culture marketed to a U.S. audience, although not necessarily produced here."
+institution: "Museum of the Moving Image"
+institution_type: "NULL"
+primary_contact: "Barbara Miller"
+size: "130000 objects"
+start_range: "1880"
+summary: "The Museum maintains the nation's largest and most comprehensive collection of artifacts relating to the art, history, and technology of the moving image--one of the most important collections of its kind in the world. Begun at the Museum's inception in 1981, today the collection numbers approximately 130,000 artifacts. The Museum's 45 artifact classes include: animation materials; books, literature, and periodicals; still photographs; motion picture cameras and projectors; television receivers; publicity materials; and costumes. Each artifact type will receive a detailed listing in the proposed finding aid. Photographs and periodicals comprise close to 30 percent of the Museum's holdings. Working from a base of 28,500 photographs, the Museum will create title-level catalog records for scene stills, portraits, behind-the-scenes photographs, theater site photographs, and equipment photographs. Title-level catalog records will also be created for the 500 periodical titles (approximately 6,000 issues) in the collection, including fan magazines, industry newsletters, and trade journals from 1911 to the present."
+hc_id: "622"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "36-01 35 Avenue"
+address2:  "NULL"
+city:  "Astoria"
+state:  "NY"
+zip: "11106"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

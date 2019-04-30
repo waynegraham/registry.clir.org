@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Linking the past and present of the United Nations operations through maps
+title: "Linking the past and present of the United Nations operations through maps"
+year: 2015
+end_range: 1999
+formats: "NULL"
+geographic_extant: "The geographical scope of the collection is the world, as the United Nations has been operating at the global scale from its initial establishment in 1945. The earliest of these maps dealt with the creation of new countries as they became independent, especially in the regions of Africa and Asia."
+institution: "United Nations (United Nations Cartographic Section and United Nations HammarskjÃ¶ld Library)"
+institution_type: "NULL"
+primary_contact: "Mr. Kyoung-Soo Eom"
+size: "NULL"
+start_range: "1946"
+summary: "The United Nations, founded in 1945 with 193 Member States is guided by the purposes and principles in its founding Charter, taking action on issues confronting humanity. The United Nations Secretariat has been providing the international community with information relating to its activities including maps of areas where they have been operating. The purpose of this project is to develop a comprehensive inventory, catalogue, digitize, and increase the accessibility of the maps produced by the United Nations since its establishment for the international community."
+hc_id: "17463393"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "United Nations"
+p2_name:  "Mr. Iain"
+p2_institution:  "Chief Librarian, UN Dag Hammasjkold Library"
+p3_name:  "Mr. Dr. Robert"
+p3_institution:  "Senior Digital Archivist"
+material_string: "<li>10000 Maps</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$226,000"
+material_description:  "Maps produced by the United Nations Cartographic Section are small scale profile maps, deployment maps, and thematic maps that have been used by the United Nations Principal Organs, such as the Security Council or General Assembly, through attachment to official United Nations documents. Based on requests, large scale maps related to international conflict resolutions carried out by the United Nations have also been manually produced through the years. As the maps are hand-drawn manuscripts produced between 1946 and 1999, distribution of these maps was limited due to limited information and communications technology. These hand drawn manuscripts have not been digitized, except in limited individual cases, when copies of specific maps have been requested by scholars or diplomats to carry out their research. Due to an organizational change in 2000, the functions dealing with map production and map collection were separated and hence, today, whilst the Cartographic Section provides the most current maps available on their website (www.un.org/gis), all other maps are provided by the United Nations Dag Hammarskjold Library (http://www.un.org/Depts/dhl/), but not necessarily online as the Library is still in the process of implementing a repository server for online dissemination. Upon completion of the proposed digitization and cataloguing, the collection of hand-drawn maps will be publicly disseminated online by the Library through the new server. \n\nSmall scale profile maps illustrate the geopolitical developments of the world, especially in the regions of Africa, Asia, Latin America, and the Caribbean, as many of the countries in these regions claimed self-determination and became independent during the 1950s and 1960s. Small scale deployment maps illustrate the conflict resolution efforts carried out by the United Nations and the Member States through their contribution of troops and police forces to these mission areas."
 ---
-
-

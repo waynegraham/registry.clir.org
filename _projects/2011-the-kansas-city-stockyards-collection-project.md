@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Kansas City Stockyards Collection Project
+title: "The Kansas City Stockyards Collection Project"
+year: 2011
+end_range: 1980
+formats: "NULL"
+geographic_extant: "The scope covers Kansas City, Missouri. Specifically, the West Bottoms which is an area bordering the Missouri river just west of Downtown."
+institution: "The Kansas City Public Library"
+institution_type: "NULL"
+primary_contact: "Claudia Baker"
+size: "45 boxes, 5000 objects"
+start_range: "1890"
+summary: "The Kansas City Public Library holds a unique collection which has the potential to enrich Kansas City's history specifically in the areas of agriculture and industry. In 2008, materials housed in the Livestock Exchange building in the West Bottoms of Kansas City were donated to the Library by William Haw (owner of the Livestock Exchange building). The majority of the material in this collection covers the early period of the Stockyards (1890-1940) which was the most prosperous and active time period for the Stockyards. Thus far, the Library staff have identified the following pieces in the collection: - architectural drawings and blueprints of the Kansas City Stockyards which include quarantine areas, viaducts, holding pens, sewer and drainage systems, slaughter houses, and administration buildings. Staff estimate there are approximately 4,000 of these pieces. - maps, photographs, railroad documents, construction and material costs, correspondence, payroll records, land appraisals, field notes for structures, land abstracts, and flood surveys. - drawings related to the American Royal livestock show which began in 1899. The American Royal, which was born out of the Kansas City Stockyards, continues to operate today."
+hc_id: "777"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "14 West 10th Street"
+address2:  "NULL"
+city:  "Kansas City"
+state:  "MO"
+zip: "64105"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

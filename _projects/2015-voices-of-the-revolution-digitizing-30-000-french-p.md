@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Voices of the Revolution: Digitizing 30,000 French Pamphlets from the Newberry Library
+title: "Voices of the Revolution: Digitizing 30,000 French Pamphlets from the Newberry Library"
+year: 2015
+end_range: 1810
+formats: "NULL"
+geographic_extant: "Most material was published and printed in Paris and the French provinces. Some non-French printers and publishers are also included."
+institution: "Newberry Library"
+institution_type: "NULL"
+primary_contact: "Ms. Jennifer Thom"
+size: "NULL"
+start_range: "1780"
+summary: "Through Voices of the Revolution, researchers will gain access to full-text searchable digital files (an estimated 510,000 pages of text) for 30,000 French Revolution pamphlets. These pamphlets represent an unparalleled corpus of material and support numerous fields of literary and historical study including legal, social, and cultural history, and the history of printing and publication. Voices of the Revolution is a model, cost-effective, rare materials digitization project that combines off-site digitization for a majority of pamphlets with in-house digitization for items too fragile to be removed from the Newberry. Metadata will be derived from existing MARC records for the pamphlets. In order to reach as many potential users as possible, digital files and associated metadata will be available through multiple portals: Internet Archive, WorldCat, local online catalogs, Digital Public Library of America, and HathiTrust. Downloadable data sets of all files and metadata will also be provided for digital humanities scholarship."
+hc_id: "18602771"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Newberry Library"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>30000 pamphlets</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$219,999.00"
+material_description:  "Published between 1780 and 1810, the 30,000 pamphlets of Voices of the Revolution represent an unparalleled corpus of material charting the political, social, and religious history of the French Revolution. For the project, two Newberry collections, the French Revolution Collection and the Louis XVI Trial and Execution Collection, will be digitized in their entirety. The pamphlets are of particular interest to scholars of the French Revolution, but their value is not limited to specialists of French or European history. Both ephemeral and enduring, the pamphlets enrich the study of the impact of the French Revolution in the United States and elsewhere, advancing the understanding of \"revolution\" and attitudes about \"radicals,\" \"conservatives,\" and the \"bourgeoisie,\" and shed light on debates about the meaning of citizenship. The massive French Revolution Collection contains pamphlets that represent the opinions of all factions that opposed and defended the monarchy during the turbulent period from 1789 to 1799 and chronicle the events--both dramatic and quotidian--of the First Republic. It contains anonymously authored pamphlets as well as those with known authors, including many written under pseudonyms. The Louis XVI Trial and Execution Collection consists of pamphlets that chronicle the events leading up to and following the abolition of the French monarchy in late 1792. The pamphlets contain evidence for and against the king, moral and political reflections on judging and executing a monarch, and public opinion on both sides of the issue. Included are opinions of Convention deputies (Marat, Saint-Just, Robespierre, Condorcet, Desmoulins); copies of incriminating documents seized from a safe at the Tuileries Palace in 1792; the formal accusation of the king, his defense by De Seze, the roll call of votes on sentencing; and pro and contra opinions by various writers, including American Thomas Paine and Englishman William Pitt."
 ---
-
-

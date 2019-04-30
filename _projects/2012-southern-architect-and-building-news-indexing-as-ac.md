@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Southern Architect and Building News: Indexing as Access to an Early Architectural Journal
+title: "Southern Architect and Building News: Indexing as Access to an Early Architectural Journal"
+year: 2012
+end_range: 1931
+formats: "NULL"
+geographic_extant: "Focus is on Southern United States, with coverage of significant projects throughout the United States."
+institution: "University of Texas Libraries"
+institution_type: "NULL"
+primary_contact: "Carolyn Palaima"
+size: "225 objects"
+start_range: "1892"
+summary: "Southern Architect and Building News was the first professional architecture magazine published in southern United States; it ran from 1889 to 1932. As the official organ of the Southern Chapter of the American Institute of Architects, it \"promoted the work of Southern architects and likewise kept [them] informed of work their peers were undertaking\" (Mark, R., & R. C. Vaughan, 2004. The South. Westport: Greenwood Press, p. 20). Although when first published its focus was on the architectural profession, it now serves as a scholarly resource that encompasses a broad cultural and historical range. This publication is rich in local and regional architectural history not found in any other publication of its time. The articles, photography, renderings and advertising in this journal are of great value to scholars in architectural history, historic preservation, interior design, American and Southern history, business, advertising, and material culture. Over 500 issues were published but only 298 are currently available according to holdings information gathered in anticipation of this project; there is no known full run in existence. UT Libraries has the largest set of holdings for this rare journal: 225 issues, of which 96 are unique. Intellectual access to its contents remains untapped as it has yet to be indexed. Scanning was reviewed as an alternative, however full text searching could not be achieved with OCR due to older fonts and the high visual content."
+hc_id: "904"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "University of Texas Libraries"
+address2:  "1 University Station S5400"
+city:  "Austin"
+state:  "TX"
+zip: "78712"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

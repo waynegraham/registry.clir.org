@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Panama-California Exposition Centennial Archive
+title: "Panama-California Exposition Centennial Archive"
+year: 2012
+end_range: 1918
+formats: "NULL"
+geographic_extant: "The Panama-California Exposition took place in the City & County of San Diego. Material is widely dispersed among institutions and individuals."
+institution: "The Committee of One Hundred"
+institution_type: "NULL"
+primary_contact: "Michael Kelly"
+size: "8000 objects"
+start_range: "1909"
+summary: "The Committee of One Hundred will create a master electronic finding aid for the Panama-California Exposition Centennial Archive (Archive). This finding aid will include access to historical documents and images that are widely distributed over multiple institutions and individual holdings. The purpose of the Archive is to provide access to material on the making and the execution of the 1915-1916 Panama-California Exposition held in Balboa Park, San Diego, California, and to make available the finding aid and digital surrogates of the historical material itself online before the Exposition's 2015 Centennial. The City of San Diego, the San Diego Public Library, the San Diego History Center (formerly San Diego Historical Society), the San Diego Museum of Man, The Committee of One Hundred, the Friends of Balboa Park, the Spreckels Organ Society, the San Diego Museum of Art, the Irvine Museum of Art, and San Diego State University Special Collections Library have each agreed in principle to contribute material to the Archive. We anticipate discovering unknown material in the hands of individuals. Researchers currently need to visit in person several libraries and pore through boxes of material to uncover the same material scholars before them have found. Primary source material that is not cited in the literature and not included in collection descriptions is practically inaccessible."
+hc_id: "993"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "4354 Randolph Street"
+address2:  "NULL"
+city:  "San Diego"
+state:  "CA"
+zip: "92103"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

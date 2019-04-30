@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Mississippi State University Extension Digitization Project
+title: "The Mississippi State University Extension Digitization Project"
+year: 2017
+end_range: 1920
+formats: "NULL"
+geographic_extant: "The Extension collections span the following counties in the state of Mississippi: Alcorn, Attala, Bolivar, Choctaw, Coahoma, Copiah, Covington, George, Hancock, Hinds, Jefferson, Jefferson Davis, Jones, Lafayette, Marshall, Newton, Oktibbeha, Pike, Prentiss, Stone, and Tate."
+institution: "Mississippi State University"
+institution_type: "NULL"
+primary_contact: "Mr. Neil Guilbeau"
+size: "NULL"
+start_range: "1920"
+summary: "Special Collections at Mississippi State University Libraries is seeking to process and digitize all materials relating to the Mississippi State University Extension formerly known as the \"Mississippi Cooperative Extension Service\" or MCES. (It will hereby be referred to as the \"Extension\" in this application) This project involving Mississippi's agricultural materials is expected to last 24 months and will encompass 1100 published Extension Bulletins, more than 2000 photographs, and 159 manuscript collections ranging from 1920 to 1980. Additional genres of materials include directors' files, newspaper clippings, correspondence, reports, record books, secretary books, meeting minutes, programs, scrapbooks, ledgers, and 4-H memorabilia. This project will promote the research and advancement of agriculture throughout Mississippi by placing prior technology, challenges, and history of the Extension online."
+hc_id: "25807567"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Mississippi State University"
+p2_name:  "Mr. Stephen Cunetto"
+p2_institution:  "Mississippi State University"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>510 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$184,850"
+material_description:  "The Mississippi State University Extension collections contain materials that focus on agriculture in the state of Mississippi. These materials document the efforts of the Extension since its inception in the early twentieth century to reach out and educate Mississippi residents through county agents and programs on agricultural and domestic issues with a variety of programs including 4-H Clubs and Home Demonstration Clubs. These collections were donated to the archives by the Extension offices as well as individuals throughout the state who participated in 4-H clubs as young people, and consists of published Extension Bulletins, photographs, and manuscript collections ranging from 1920 to 1980. Additional genres of materials include directors' files, newspaper clippings, correspondence, reports, record books, secretary books, meeting minutes, programs, scrapbooks, ledgers, and 4-H memorabilia from competitions at state and national levels. Directors' records include Vance Watson, Ronald A. Brown, M.S. Shaw, Clay Lyle, L.I. Jones, E.H. White, L.A. Olson, and R.S. Wilson. Photographs include agricultural themes, 4-H clubs, and meetings of delegates for the National 4-H Club Congress at various locations throughout the U.S."
 ---
-
-

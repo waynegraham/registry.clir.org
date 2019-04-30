@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloging the Middle East Institute Library Collection
+title: "Cataloging the Middle East Institute Library Collection"
+year: 2013
+end_range: 2012
+formats: "NULL"
+geographic_extant: "The geographic scope covers the core areas within which the Islamic civilization arose and developed, and which is as the modern Middle East."
+institution: "Middle East Institute"
+institution_type: "NULL"
+primary_contact: "Kevin Cowl"
+size: "41563 objects"
+start_range: "1702"
+summary: "The collection consists primarily of printed books and maps in the seven major languages of the region: Arabic, Turkish, Hebrew, Persian, French, Spanish and English. The scope of the collection encompasses major scholarly publications related to Islam, the Middle East, North Africa, Iran, and many other relevant subjects. In total, the library holds approximately 19,000 titles. The collection primarily houses works on history, literature, language, and folklore, with a secondary emphasis on the humanities and social sciences. The collection focuses on core areas within which the Islamic civilization arose and developed, and which are generally viewed as forming the modern Middle East. The collection covers a vast time span, ranging from the birth of regional civilizations such as Mesopotamia and ancient Egypt, covering the beginning of Classical Arabic Literature around the nineteenth century, and continuing to the present day. The intent is to provide materials that cover the history of each of the various regions and cultures involved in the area for the entire period. The collection is meant to serve as a primary resource for scholars of the region, providing extensive research materials to serve the needs of researchers, patrons, and MEI staff. As the library hosts the largest collection of Middle Eastern materials in the United States, the collection serves as an important hub for Middle East scholarship and knowledge."
+hc_id: "1168"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1761 N St. NW"
+address2:  "NULL"
+city:  "Washington"
+state:  "DC"
+zip: "20036"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

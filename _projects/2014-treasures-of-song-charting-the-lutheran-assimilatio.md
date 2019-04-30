@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Treasures of Song: Charting the Lutheran Assimilation in America, 1750-2000 - A comprehensive index of the American Lutheran Hymnal Collection
+title: "Treasures of Song: Charting the Lutheran Assimilation in America, 1750-2000 - A comprehensive index of the American Lutheran Hymnal Collection"
+year: 2014
+end_range: 2000
+formats: "NULL"
+geographic_extant: "The United States of America, primarily the Midwest and the Northeast."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Barry Bobb"
+size: "600 objects"
+start_range: "1750"
+summary: "The Center for Church Music, in collaboration with Concordia University Chicago (CUC), seeks support for the cataloging of 620 American hymnals published between 1750 and 2000. Together, these document the way in which Northern European Lutherans became assimilated into American life. The core of this collection was donated by Carl Schalk. It is housed at the Center for Church Music at CUC, located in the Rare Book and Manuscript Room of the Klinck Memorial Library. This project will alert scholars and hymnologists worldwide to the existence and contents of this collection by developing, for each volume, a WorldCat MARC record for the university database and separate linked database with full information about its provenance and content."
+hc_id: "11816811"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

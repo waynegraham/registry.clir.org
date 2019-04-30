@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: American Literary Families: A Preservation and Access Project
+title: "American Literary Families: A Preservation and Access Project"
+year: 2009
+end_range: 1986
+formats: "NULL"
+geographic_extant: "There is wide geographical coverage, though the concentration is on cities and states in the east coast and mid-west portions of the United States."
+institution: "Vassar College"
+institution_type: "NULL"
+primary_contact: "Ronald Patkus"
+size: "40 cubic feet"
+start_range: "1878"
+summary: "The materials are composed of manuscript collections relating to three important twentieth century literary families: the Benet family, the Fitzgerald family, and the MacLeish family. The Benet family papers include documents on William Rose Benet (editor and writer) Stephen Vincent Benet (poet, short story writer, and novelist), Laura Benet (editor, poet, biographer), and others; the Frances Scott Fitzgerald Lanahan Smith papers include documents relating to her (writer and journalist) and her parents, F. Scott Fitzgerald (novelist) and Zelda Fitzgerald (novelist); and the MacLeish family papers include documents, especially correspondence, relating to Martha Hillard (professor and scholar), her husband Andrew MacLeish, and her children, including her son Archibald MacLeish (Pulitzer Prize-winning poet) and her daughter Ishbel MacLeish. Laura Benet, Frances Scott Fitzgerald Lanahan Smith, Martha Hillard and Ishbel MacLeish each attended Vassar, and these collections shed light on their lives and the lives of their literary families. The time period covered ranges from the late nineteenth century into the late twentieth century, though the bulk of the materials date from the first half of the twentieth century. As for geographic scope, the focus is on the east coast of the United States, especially New York, Pennsylvania, and Massachusetts, but a certain amount of material deals with other cities and places, such as Washington, D.C., Alabama, California, and Illinois."
+hc_id: "517"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "124 Raymond Avenue"
+address2:  "NULL"
+city:  "Poughkeepsie"
+state:  "NY"
+zip: "12604"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

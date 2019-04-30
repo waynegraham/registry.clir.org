@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitization, cataloging and access to the collection of Historical Speeches and Writings of Luis A. FerrÃ© Aguayo
+title: "Digitization, cataloging and access to the collection of Historical Speeches and Writings of Luis A. FerrÃ© Aguayo"
+year: 2015
+end_range: 1972
+formats: "NULL"
+geographic_extant: "Puerto Rico, its capital San Juan, other municipalities of the island between 1929 and 2002, the Caribbean and the United States."
+institution: "The Luis A. Ferré Foundation, Inc."
+institution_type: "NULL"
+primary_contact: "Ms. Sofia Canepa"
+size: "NULL"
+start_range: "1969"
+summary: "The project encompasses the digitization, cataloging and access to the collection of speeches and writings by Luis Alberto Ferré Aguayo (1904-2003), a prominent Puerto Rican man who was an engineer, industrialist, governor of Puerto Rico, musician, philanthropist, benefactor of the arts and founder of the Museo de Arte de Ponce. The objects are in custody of The Luis A. Ferré Historical Archive, located on the second floor of the Museum. The Historical Archive represents the largest collection of documents related to his life, work and legacy. At the present time, access to these valuable documents is only through physical intervention, which represents a high risk of deterioration for the objects of the collection. The project will enable the Historical Archive to strengthen its role as an important asset for research and investigation of Puerto Rican history in the 20th Century."
+hc_id: "16933747"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Museo de Arte de Ponce"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>20000 Manuscripts</li>"
+collaborating_institution:  "Graduate School of Science and Technology, University of Puerto Rico; The Pedro Rosselló Archive; The Center for Puerto Rico; The Rafael Hernandez Colón Library and Archive"
+grant_amount:  "$203,880"
+material_description:  "The Luis A. Ferré Historical Archive, in Ponce, Puerto Rico, has custody of the collection of manuscripts and documents related to the life, work and legacy of Luis A. Ferré Aguayo. It documents the trajectory of a person who, throughout his life, expressed enthusiasm and passion for knowledge in various fields, entitling him the epitome of \"Renaissance man\". The objects in the collection were prepared by Mr. Ferré between 1929 and 2002. It gathers information on his roles as engineer, industrialist, businessman, governor of Puerto Rico, legislator, president of the Senate, musician, philanthropist, benefactor of the arts and founder of the Museo de Arte de Ponce. The speeches were written on paper in his own handwriting. Each document consists of several pages and some of these have several drafts (handwritten, typed, or both). These documents were at his principal residence and offices. After his death in 2003, The Luis A. Ferré Foundation was entitled with their custody. However, in November 2010, The Luis A. Ferré Historical Archive was inaugurated with the purpose of housing the collection. The project will impact researchers, academics, students, educators, journalists, media, teachers, archivists, librarians, archives in Puerto Rico and the United States. As a result, the Archive will strengthen its role as an accessible and educational resource and as an agent of social integration."
 ---
-
-

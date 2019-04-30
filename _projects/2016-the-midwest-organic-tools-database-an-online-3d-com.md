@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Midwest Organic Tools Database: An Online 3D Comparative Collection of a Hidden Archaeological Resource
+title: "The Midwest Organic Tools Database: An Online 3D Comparative Collection of a Hidden Archaeological Resource"
+year: 2016
+end_range: 1650
+formats: "NULL"
+geographic_extant: "Materials relate to the prehistoric Fort Ancient culture, which occupied the Middle Ohio River Valley (portions of Indiana, Ohio, Kentucky, West Virginia). Materials are similar to those created by earlier and later cultures in the same region and to many other Native American cultures throughout the eastern United States."
+institution: "Dayton Society of Natural History"
+institution_type: "NULL"
+primary_contact: "Mr. William Kennedy"
+size: "NULL"
+start_range: "1000"
+summary: "This 36-month project will be undertaken by the Dayton Society of Natural History in collaboration with the Applied Anthropology Laboratories of the Department of Anthropology at Ball State University. The project will create an online database of organic tools excavated from the prehistoric SunWatch site (a National Historic Landmark) and related sites. Objects will be 3D scanned and photographed to create a digital comparative collection of a class of ubiquitous artifacts that have been ignored within most American archaeology. There is a lack of access to organic tool collections because few are large, typologically diverse, or well-provenienced. Digitization is essential for capturing the form of these fragile and inherently three-dimensional objects and sharing content with geographically dispersed scholars, including native scholars. Similar tools were used by historic and pre-contact Native American groups throughout the Eastern Woodlands and represent common patterns of subsistence and economy of broad scholarly interest."
+hc_id: "21419604"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Dayton Society of Natural History"
+p2_name:  "Dr. Kevin Nolan"
+p2_institution:  "Ball State University"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>2448 Artifacts</li>"
+collaborating_institution:  "Applied Anthropology Laboratories, Department of Anthropology, Ball State University"
+grant_amount:  "$280,089"
+material_description:  "The materials are prehistoric tools made of bone, antler, teeth, mussel shell, and turtle shell. Most were recovered from lengthy excavations (1971-1988) by DSNH at SunWatch Indian Village/Archaeological Park in Dayton, Ohio. SunWatch (formerly the \"Incinerator Site\") is a National Historic Landmark well-known throughout the country. SunWatch was an agricultural village occupied by the Fort Ancient culture between approximately A.D. 1150-1450. It is the best-known site of this culture due to its comprehensive excavation (60% of village). Materials from the BSU collection were recovered from more limited excavations at similar sites in the past five decades. The Fort Ancient culture was less socially complex than some contemporaries, but had a comparable subsistence base and economy to many cultures throughout the Eastern Woodlands, including Mississippian and Iroquoian peoples. Tools are similar to those used by contemporary cultures and by earlier Woodland cultures, including Adena and Hopewell peoples. The collection has several distinguishing properties, including: large size, diversity of tool types, preservation, good provenience data, and half of the collection is unbroken. In addition, most were recovered from non-mortuary contexts such as trash pits and midden, which is an important ethical and legal consideration. Organic tools are frequently recovered from excavations throughout the country, but have been ignored by archaeologists. In addition to missed research opportunities, it is troubling that many of the activities represented (e.g. agriculture, textile production) are those historically associated with females and that female activities too frequently are unrecognized and understudied in American archaeology. The project will impact scholarly studies of prehistoric groups throughout the Eastern Woodlands, including cultures earlier and later in time. Relationships between descendant populations and Fort Ancient people are uncertain among archaeologists, but the Shawnee and other Native American groups self-identify as likely candidates and are intended users of the project's results."
 ---
-
-

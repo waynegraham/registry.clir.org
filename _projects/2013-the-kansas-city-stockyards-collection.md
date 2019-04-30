@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Kansas City Stockyards Collection
+title: "The Kansas City Stockyards Collection"
+year: 2013
+end_range: 1940
+formats: "NULL"
+geographic_extant: "Geographic scope covers the historic “West Bottoms,” Kansas City's original business and industrial area, bordered by the Kansas and Missouri rivers."
+institution: "Kansas City Public Library"
+institution_type: "NULL"
+primary_contact: "Claudia Baker"
+size: "400 cubic feet, 5000 objects"
+start_range: "1890"
+summary: "The Kansas City Public Library holds a significant collection for an 1874 enterprise that defined Kansas City to the nation. Established by Boston business interests (Adams, Forbes), the Kansas City Stockyards and a network of railroads played a pivotal role in making this Midwestern “cowtown” a national agribusiness hub. Untold millions of animals on the hoof passed through this location on their way to other markets, second only to Chicago. The archives of the KC Stockyards, only recently acquired, entirely unprocessed, and virtually unknown to scholars, cover the period 1890-1940, when the operation reached its zenith. In 2008 the owner of the historic Livestock Exchange Building (1911) in Kansas City, Missouri, donated a mass of warehoused documents to the Library. Staff of the Missouri Valley Special Collections identified critical pieces in the collection: (1) an estimated 5,000 architectural drawings and blueprints of the stockyards complex, including quarantine areas, holding pens, sewer and drainage systems, slaughter houses, and administration buildings – essentially a city within a city; (2) hundreds of historical documents, including business correspondence, payroll records for a largely immigrant work force, railroad documents, area maps, flood surveys, land abstracts, and field notes for structures; and (3) dozens of vintage photographs apparently meant to document the relationship to the stockyards to the nearby Missouri River."
+hc_id: "1162"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "14 West 10th St."
+address2:  "NULL"
+city:  "Kansas City"
+state:  "MO"
+zip: "64105"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$101,000"
+material_description:  "NULL"
 ---
-
-

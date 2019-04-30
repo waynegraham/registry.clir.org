@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: MPR Dayreels: The First Decade
+title: "MPR Dayreels: The First Decade"
+year: 2016
+end_range: 1982
+formats: "NULL"
+geographic_extant: "These recordings were created because the subject matter had some impact on or relationship to the state of Minnesota and the surrounding area. That said, the people interviewed and topics covered often transcend the bounds of the state, e.g. coverage of the Republican party or an interview with Buckminster Fuller."
+institution: "Minnesota Public Radio"
+institution_type: "NULL"
+primary_contact: "Mr. Kyle Wesloh"
+size: "NULL"
+start_range: "1972"
+summary: "Minnesota Public Radio (MPR) is the most extensive regional public radio network in the country. Since its inception in 1967 MPR has created and broadcast original news programming, including a collection of upper Midwest reporting that spans many topics and locations--from the state capitol to Cambodia, from cultural figures to cultural changes. The first 30 years of these news stories (around 78,000 in number) were recorded on quarter-inch magnetic reel-to-reel audiotape, with each day's stories spliced onto a single reel--a \"dayreel.\" This project proposes the digitization, enhanced description, and publication of the first decade of MPR dayreels: 23,172 audio recordings from 1972-1982. Currently there is no public record that these stories even exist; poor story-level metadata has prohibited metadata publication, and analog playback is the only way to know a story's true contents. This project would reveal these stories for the first time since they were broadcast."
+hc_id: "21916446"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Minnesota Public Radio"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>3862 Audio Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$189,797"
+material_description:  "The dayreel stories were created by employees of Minnesota Public Radio--reporters, producers, and hosts--for Minnesota Public Radio. Each dayreel contains the news of the day, as determined by local, regional, state, national, or international events. For example, in a given day in the 1972-1982 period, MPR reporters covered legislative hearings, waste and water management discussions, criminal justice, education spending, desegregation, health issues and policies, international and local conflicts, and social and political changes. During this period, the newsroom tripled in size; geographic and topical coverage was always impressive, but the scope grew even more so during this time. When the archive asked Gary Eichten, founding reporter at MPR and on-air host from 1967 until his retirement in 2012, what he thought would be the most valuable part of the MPR Archive to digitize he chose the Dayreel collection--everything is in there, and discovery of one story or topic opens up the door to deeper exploration of short and long-form source recordings in the MPR Archive and elsewhere. Eichten suggested that researchers might be interested in the deep trove of dayreel stories about Minnesota's electoral history, the evolution of the Republican and Democratic parties in Minnesota, and issues of race in Minnesota as evidenced by education achievement, police relations, and poverty."
 ---
-
-

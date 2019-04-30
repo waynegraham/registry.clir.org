@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: "Hearts and Minds": Outtakes and Papers from a Groundbreaking 1970s Documentary Film
+title: "Hearts and Minds: Outtakes and Papers from a Groundbreaking 1970s Documentary Film"
+year: 2015
+end_range: 2002
+formats: "NULL"
+geographic_extant: "Interviews were conducted and audio footage recorded in various places in Vietnam (specific locations to be determined during the course of the project), in Paris, France, and in various places across the United States, including New England, the Mid-Western region and the West, including at various National Parks."
+institution: "University of Massachusetts Boston"
+institution_type: "NULL"
+primary_contact: "Ms. Joanne Riley"
+size: "NULL"
+start_range: "1970"
+summary: "In \" 'Hearts and Minds': Outtakes and Papers from a Groundbreaking 1970s Documentary Film\"  we propose to make available unique, inaccessible audio footage and documents related to the 1974 Academy Award-winning documentary \"Hearts and Minds\" directed by Peter Davis and produced by Davis and Bert Schneider. Central to the film's profound effect on attitudes towards the Vietnam War were interviews Davis conducted with dozens of people from many professions, backgrounds and opinions, but only 1% of those recorded interviews are currently accessible, through the original film and a recent special edition re-issue. The documents in two related manuscript collections will be digitized as well, adding annotated interview transcripts, correspondence, legal documents and more to a rich set of materials publicly accessible to all seeking to understand this watershed moment in American history as well as the art, craft and science of creating, producing, and distributing a documentary film."
+hc_id: "16324871"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Massachusetts Boston, Joseph P. Healey Library"
+p2_name:  "Mr. Andrew"
+p2_institution:  "Digital Archives and Outreach Librarian"
+p3_name:  "Mr. TBA"
+p3_institution:  "Digital Curation Technical Specialist"
+material_string: "<li>158 Audio Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$165,928"
+material_description:  "For his documentary \"Hearts and Minds\", Peter Davis and his team conducted formal interviews in the early 1970s with more than 40 individuals. These formal interviews range in duration from 20 minutes to 12 hours and average between 1 to 2 hours. There are approximately 21 hours of valuable \"man on the street\"  interviews with individuals in the U.S. and Vietnam that have never been available to the public. The interviews conducted in the making of the film illuminate contemporary understandings of the social protest and anti-war movements of the 1960s and 1970s, as well as contemporary understandings of U.S. military history. The interviewees, those individuals associated with our proposed digitization project, range from U.S. political and military figures and journalists, such as U.S. General William Westmoreland, U.S. Secretary of Defense Clark Clifford, and broadcast journalist David Brinkley; to U.S. veterans of the war in Vietnam, such as prisoner of war Lieutenant George Coker, and wounded Marine and contemporary peace activist Robert \"Bobby\"  Muller; to Vietnamese leaders and citizens, such as military officer and former president of South Vietnam General Nguyễn Khánh, Buddhist leader Thich Lieu Minh, and coffin maker Mui Duc Giang. A number of organizations are discussed in the interviews, from branches of the U.S. military, to the U.S. State Department and Office of the President, to governmental bodies in Vietnam and France. Also of note are political and support organizations that address issues of war or that support U.S. veterans transitioning back into civilian life. Additionally, the 5 linear feet of documents and photographs from the collections of Peter Davis and Bert Schneider offer important contextual information about the making of the documentary and the political climate of the early 1970s as they illuminate the thoughts, feelings, processes, and goals of the film's creators."
 ---
-
-

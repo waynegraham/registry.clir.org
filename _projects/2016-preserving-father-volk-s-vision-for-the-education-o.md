@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Preserving Father Volk's Vision for the Education of Women in Western Kentucky: Digitizing the History of Mount Saint Joseph Academy and Junior College
+title: "Preserving Father Volk's Vision for the Education of Women in Western Kentucky: Digitizing the History of Mount Saint Joseph Academy and Junior College"
+year: 2016
+end_range: 1983
+formats: "NULL"
+geographic_extant: "Mount Saint Joseph Academy and Junior College were located in Maple Mount, Kentucky. Most of the materials in the collections are associated with western Kentucky. The exception is Father Paul Joseph Volk's correspondence and writings from his time as a missionary in Panama, South America."
+institution: "Ursuline Sisters of Mount Saint Joseph"
+institution_type: "NULL"
+primary_contact: "Ms. Heidi Taylor-Caudill"
+size: "NULL"
+start_range: "1844"
+summary: "The Mount Saint Joseph Archives proposes a twenty-four-month project to digitize eleven collections of materials related to the Mount Saint Joseph Academy and Junior College, two Catholic institutions that provided education to underserved women and girls in rural western Kentucky during the late-nineteenth and twentieth centuries. Materials in these collections include the papers of Mount Saint Joseph Academy's founders, the student newspaper, records of two national Catholic student organizations, early student work, records of reading materials made available to students, information catalogs, and photographs of teachers, students, activities, events, and the schools. The Archives plans to digitize eleven collections and make them available to the public on the Internet Archive and the Catholic Research Resources Alliance (CRRA) Catholic Portal. The project will allow scholars, educators, students, and the general public access to previously hidden collections that speak to both Catholic education and female education in rural America."
+hc_id: "22367065"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Mount Saint Joseph Archives"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>18 Mixed Archival Collections</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$62,346"
+material_description:  "The collections related to the Mount Saint Joseph Academy and Junior College document the efforts of the Mount Saint Joseph Ursulines to provide an excellent education for women and girls in rural western Kentucky during the late nineteenth and twentieth centuries. After graduation, many students chose to attend college, work as teachers, or enter the Ursuline community. The materials proposed for digitization include: -The papers of Father Paul Joseph Volk, the founder of Mount Saint Joseph Academy and missionary in South America. -Correspondence and writings of Mother Aloysius Willett and Mother Augustine Bloemer, the first two Mother Superiors who steered the early Academy through financial difficulties. -A selection of over 500 photographs illustrating student life and activities in the Academy and Junior College. -379 issues of the student newspaper, The Mount. -Composition books, literary manuscripts, and other work created by early Academy students. -57 catalogs containing a wealth of information on tuition rates, courses, individual students, activities, and events. -Correspondence, booklets, scrapbooks, and ephemera from the Catholic Students Mission Crusade (CSMC) and Sodality, two national Catholic student organizations. These materials support current trends in Catholic history scholarship about: Catholic education in rural areas, the activities of the CSMC and Sodality, missionary activities in Latin America, and the contributions of women religious to American and Catholic culture."
 ---
-
-

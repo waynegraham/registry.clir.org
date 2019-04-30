@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Marquette's Catholic Social Action Heritage Project
+title: "Marquette's Catholic Social Action Heritage Project"
+year: 2008
+end_range: 2000
+formats: "NULL"
+geographic_extant: "A majority of the DDCW tapes were made in the East and Upper Midwest. Based in Chicago, the NCCIJ maintained field operations throughout the South."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Matt Blessing"
+size: "750 objects"
+start_range: "1958"
+summary: "For nearly 50 years Marquette University Libraries has managed a manuscripts program that documents Catholic social activism in the U.S. This grant project will improve access to the audio recording within two of the most important collections. 1) The Dorothy Day-Catholic Worker Collection documents the faith-based movement for peace and social justice founded in New York by Dorothy Day and Peter Maurin. Their social movement remains strong, represented by more than 150 \"houses of hospitality\" across the globe. 2) The National Catholic Conference for Interracial Justice was established in Chicago in 1960 by Catholic bishops to address racial discrimination in the U.S. These two major research collections contain over 650 cubic feet of records with enduring historical value. Together, they chronicle numerous social justice movements of the 20th century: women’s suffrage, labor rights, peace, and civil rights. 80% of Marquette’s social action manuscript collections are arranged and described, with inventories accessible via the Libraries’ website. However, these two collections contain approximately 750 at-risk analog tape recordings that require reformatting. These historic recordings also warrant item-level cataloging. The recordings capture the voices some of the most influential social activists, writers, and intellectuals of the era, including D. Day, Michael Harrington, Ammon Hennacy, Martin Luther King, Jr., Robert F. Kennedy, Daniel Berrigan and Sr. Margaret Traxler."
+hc_id: "320"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1355 W. Wisconsin Avenue"
+address2:  "Raynor Memorial Libraries"
+city:  "Milwaukee"
+state:  "WI"
+zip: "53201"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

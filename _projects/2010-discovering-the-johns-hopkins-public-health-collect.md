@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Discovering the Johns Hopkins Public Health Collections: A Major Resource for Research, Teaching, and Policy-making
+title: "Discovering the Johns Hopkins Public Health Collections: A Major Resource for Research, Teaching, and Policy-making"
+year: 2010
+end_range: 1994
+formats: "NULL"
+geographic_extant: "JHSPH is located in Baltimore Maryland, with world wide activities. Geographic scope of collections is regional, national, and international."
+institution: "Johns Hopkins University"
+institution_type: "NULL"
+primary_contact: "Phoebe Evans Letocha"
+size: "730 cubic feet"
+start_range: "1916"
+summary: "This project is to catalog institutional records, image collections, material culture holdings and personal paper collections of 20 individuals related to Johns Hopkins University Bloomberg School of Public Health, the oldest and largest graduate school of public health in the United States. Holdings focus on topical areas within public health and include departmental records and faculty papers from Biostatistics, Epidemiology, Public Health Administration, International Health, Population Dynamics, Maternal & Child Health, Public Health Nursing, Bacteriology and Parasitology. Included are papers of David Bodian, Isabel Morgan and George Gey related to development and testing of the polio vaccine; Abraham Lilienfeld, father of contemporary chronic disease epidemiology; Frank Polk, early leading AIDS researcher; Frederick Bang and Carl Taylor, proponents for international field work; and E. V. McCollum who discovered vitamins A & D, and other faculty. Personal paper collections include correspondence, research data, teaching materials, student notebooks, biographical material, manuscripts, reprints, publications, photographs and material culture. Institutional records include Advisory Board minutes, publications, departmental annual reports, and Dean's office correspondence from the tenure of William Welch, William Howell, Wade Hampton Frost, Allen Freeman, Lowell Reed, Ernest Stebbins, and John Hume. Collections document faculty interactions with colleagues world wide."
+hc_id: "611"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "The Alan Mason Chesney Medical Archives"
+address2:  "5801 Smith Avenue, Suite 235"
+city:  "Baltimore"
+state:  "MD"
+zip: "21209"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: New Mexico's Video History: KNME-TV Albuquerque's Video Archives at the University of New Mexico Center for Southwest Research
+title: "New Mexico's Video History: KNME-TV Albuquerque's Video Archives at the University of New Mexico Center for Southwest Research"
+year: 2011
+end_range: 2005
+formats: "NULL"
+geographic_extant: "The geographic scope of the subject matter in this collection of videotapes is primarily the US state of New Mexico."
+institution: "University of New Mexico Libraries"
+institution_type: "NULL"
+primary_contact: "Kevin Comerford"
+size: "125 linear feet, 710 objects"
+start_range: "1980"
+summary: "This collection consists of 710 broadcast quality U-matic and BetaCam videotapes that represent 5 local programming series produced between 1980 and 2005 by the Albuquerque Public Broadcasting System (PBS) affiliate television station, KNME-TV. There are approximately 500 individual program episodes, ranging from 30 to 120 minutes each, as well as a large amount of general stock footage depicting famous people, events and locations in New Mexico. The subject matter of the collection includes weekly news reports (both local and statewide), coverage of major statewide issues of the day, including cultural, health, education, political and economic topics. There are also many in-person interviews with prominent New Mexico political and governmental officials, business leaders and educators, as well as cultural, religious and popular celebrities from around the state and the bordering states of Arizona, Utah, Colorado, Texas and Chihuahua, Mexico."
+hc_id: "785"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "University of New Mexico Libraries"
+address2:  "Zimmerman 127G, MSC05 3020"
+city:  "Albuquerque"
+state:  "NM"
+zip: "87131-0001"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

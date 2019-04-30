@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Early Photography Collection of Books, Manuals, Catalogs and Lenses
+title: "Early Photography Collection of Books, Manuals, Catalogs and Lenses"
+year: 2014
+end_range: 1939
+formats: "NULL"
+geographic_extant: "Europe and the United States"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Olivia Mueller"
+size: "3400 objects"
+start_range: "1840"
+summary: "The Penumbra Foundation seeks funding to catalog a collection of early photographic books, manuals, catalogs, and lenses. The collection consists of 1,400 books and manuals on photography, including descriptions of rare photographic processes and camera and lens catalogs. The collection also includes 2,000 early camera lenses. Anticipated project timeline is two years. Currently, the items housed in no particular order with physical browsing as the only way of searching the collection. Activities include organizing the collection, cataloging items in WorldCat, and opening a library for members and researchers by appointment. This will pave the way for the items to be digitized and placed online for a larger audience."
+hc_id: "11747604"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

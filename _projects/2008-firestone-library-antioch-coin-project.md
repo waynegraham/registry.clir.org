@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Firestone Library Antioch Coin Project
+title: "Firestone Library Antioch Coin Project"
+year: 2008
+end_range: 969
+formats: "NULL"
+geographic_extant: "The Byzantine coins are chiefly from the mint of Antioch. The Ummayad and Abbasid coins that have been identified are from a variety of Syrian mints."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Alan Stahl"
+size: "3500 objects"
+start_range: "527"
+summary: "The collection to be catalogued comprises about 3,500 coins minted by Byzantine and Arabic authorities excavated by the Princeton-led excavations in Antioch-on-the-Orontes (then Syria, now Turkey) between 1934 and 1939. The coins document the change of Antioch, one of the major political, economic and cultural centers of the late antique world, from the Byzantine and Mediterranean sphere in the sixth century to that of the newly-founded Islamic state, centered in the Middle East, in the course of the following four centuries. The coins are almost entirely of bronze and range from imperial Byzantine representations, through imitations of these, to totally epigraphic types. Though few of the coins bear dates in any era, they can be generally dated from the reign of Justinian I, beginning in CE 527, through the Sassanian Persian occupation of Antioch from 610 to 630, and the brief Byzantine recapture, to the Ummayad period beginning in CE 636 (AH 15), and the Abbasid Califate beginning in CE 749 (AH 132) and lasting until the Byzantine reconquest of Antioch in CE 969. These coins represent about twenty percent of the numismatic finds from Antioch in the Princeton Numismatic Collection. The other coins from the excavation are of much more straightforward attribution, and are being entered into the PrinNum online database as part of the ongoing cataloguing of the collection, carried out mainly by undergraduate students working under the supervision of the collection’s curator."
+hc_id: "183"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "RBSC"
+address2:  "Firestone Library"
+city:  "Princeton"
+state:  "NJ"
+zip: "8544"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

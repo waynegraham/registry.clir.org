@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: From Beautiful City to Livable City: Selections from The Municipal Art Society's Archives
+title: "From Beautiful City to Livable City: Selections from The Municipal Art Society's Archives"
+year: 2015
+end_range: 2008
+formats: "NULL"
+geographic_extant: "The nominated collections focus on issues and campaigns within the geographic limits of New York City and its five boroughs. On occasion, the records address statewide, regional, or national initiatives, but throughout its history the organization has concentrated exclusively on New York City."
+institution: "The Municipal Art Society of New York"
+institution_type: "NULL"
+primary_contact: "Mr. David Kay"
+size: "NULL"
+start_range: "1892"
+summary: "The Municipal Art Society of New York (MAS) requests funding to digitize a portion of its archival collections - publications, newsletters, reports, audio and audiovisual recordings - that document both MAS's activities over a 115 year period and, more generally, the transition in urban planning scholarship from city beautification to \"livable city\"  planning. The diverse and valuable source materials under consideration record MAS's major advocacy work, including influential conversations and publications that helped initiate, promote, and develop several pivotal urban planning movements and trends during the 20th century. Digitizing these \"hidden\"  collections would greatly expand their reach and accessibility to scholars, students, and MAS staff; advance scholarship; and reveal new knowledge on the study and history of urban planning."
+hc_id: "17101513"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "The Winthrop Group"
+p2_name:  "Mr. Sam"
+p2_institution:  "Lead Archivist & Content Developer"
+p3_name:  "Mr. Ms. Linda"
+p3_institution:  "Managing Director"
+material_string: "<li>2930 Serials</li>"
+collaborating_institution:  "N/A"
+grant_amount:  "$76,000"
+material_description:  "The proposed project will digitize and make accessible 3,300 pages of print materials, 194 hours of audiovisual recordings, and 108 hours of audio recordings. These records reflect the myriad activities of The Municipal Art Society of New York (MAS) from its founding in the last decade of the nineteenth century as a vehicle for the City Beautiful movement to an organization focused on the \"Livable City\"  in the 20th and 21st centuries. \n\n \n\nPrint materials include: Constitution and By-Laws (1898); a group of early MAS publications (1892-1909); Bulletin of the Municipal Art Society of New York (1903-1941); rare Survey Reports of Buildings & Historic Structures (1954-1959); documentation of MAS's first walking tours (1956-1959), multiple editions of the organization's New York Landmarks: Index of Architecturally Historic Structures in New York City (1957, 1961) with handwritten annotations by architectural historian, Alan Burnham; monthly Newsletters (1955-2011), The Livable City periodical (1974-1994), and Annual Reports (1983-2008). \n\n\n\nThe nominated audiovisual recordings reflect the organization's interests and advocacy from 1976 to 2002 through MAS produced TV programs, panel discussions, lectures, workshops, walking tours, classes, and other public programs and events. Subjects include saving Grand Central Terminal (1977-78), Times Square (1983-84), planning the NYC waterfront, the South Bronx, Columbus Circle, community-based planning, African Burial Ground, Roosevelt Island, Fresh Kills, and the re-development of Lower Manhattan after 9/11 (2002). Program titles include: \"Our City's Changing Face\"  (1978), \"The Future of the Landmarks Preservation Commission\"  (1988), How is the City Sold? (1988), \"The New American Ghetto\"  (1996), \"Vanishing Building Murals\"  (1999), and Imagine NY (2002). Associated people include prominent public figures (Daniel Patrick Moynihan, Jacqueline Kennedy Onassis), policy experts, MAS staff, writers, artists, architects, and urbanists including William H. Whyte, Kent Barwick, Ada Louise Huxtable, Camilo JosÃ© Vergara, Agnes Gilchrist, Philip Johnson, and Brendan Gill."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Experience Music Project - Hidden Collection (working title)
+title: "Experience Music Project - Hidden Collection (working title)"
+year: 2013
+end_range: 2000
+formats: "NULL"
+geographic_extant: "American music and culture, primarily from the Pacific Northwest."
+institution: "EMP Museum"
+institution_type: "NULL"
+primary_contact: "Heidi O'Halloran"
+size: "8000 objects"
+start_range: "1955"
+summary: "EMP holds a historic music collection of approximately 140,000 objects (containing more than 80% of all physical music material produced in the Northwest during the last century) and an Oral History archive of more than 850 interviews with musicians, filmmakers, authors, and other luminaries who have shaped our cultural landscape. In addition to a substantial recorded-sound and moving-image archive, the collection includes musical instruments and equipment, photographs and films of historic performances, promotional materials, and other artifacts that document the process of creating, producing and promoting music--as well as artists' own personal effects, e.g. costumes, jewelry, and song sheets. The museum now has more than 60,000 cataloged; 54,000 accessioned but not cataloged; and approximately 26,000 not-yet-accessioned objects. Collections acquisition has been minimal in recent years, as EMP has used many loaned items for recent exhibitions, and the current backlog of un-cataloged objects is hampering exhibit development while causing persistent underutilization of the collection. The 2-dimensional un-cataloged objects include posters, handbills, magazines, and various correspondences, including letters and postcards. This project will position EMP to improve its curatorial control of these works, pursue future cataloging projects, and preserve remaining, un-cataloged accessioned artifacts, consisting of audio materials such as record albums, compact discs, and tapes."
+hc_id: "1146"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "300 8th avenue n"
+address2:  "NULL"
+city:  "Seattle"
+state:  "WA"
+zip: "98109"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

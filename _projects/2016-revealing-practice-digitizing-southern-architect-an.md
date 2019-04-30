@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Revealing Practice: Digitizing Southern Architect and Building News
+title: "Revealing Practice: Digitizing Southern Architect and Building News"
+year: 2016
+end_range: 1931
+formats: "NULL"
+geographic_extant: "SABN was a regional architectural serial from Atlanta, GA with a local, national, and international scope. The primary focus was the southern states of the United States: Maryland, Virginia, West Virginia, North Carolina, South Carolina, Georgia, Florida, Alabama, Mississippi, Louisiana, Texas, Oklahoma, Arkansas, Missouri, Tennessee, and Kentucky."
+institution: "University of Texas Libraries"
+institution_type: "NULL"
+primary_contact: "Dr. Lorraine Haricombe"
+size: "NULL"
+start_range: "1892"
+summary: "The University of Texas Libraries (UTL) will digitize 15,890 pages from Southern Architect and Building News (SABN). UTL holds 225 issues published between 1892-1931. The content of SABN consists of essays, articles, editorials, illustrations, advertisements, and building records. All issues held by UTL will be digitized and processed in house. UTL will build an Islandora/Fedora repository, which will provide access to all of the digitized texts and associated metadata, including content which is currently restricted by copyright. UTL will contribute all digitized texts and metadata to the HathiTrust, which will provide full-text discoverability while still restricting access to material under copyright. All metadata for the digitized texts will be made openly available through the HathiTrust, the Digital Public Library of America, the Internet Archive, the Getty Research Portal. Additionally, the Islandora/Fedora repository will provide long-term sustainability and will be constructed to allow for future enhancements to the metadata."
+hc_id: "20881322"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Texas Libraries"
+p2_name:  "Ms. Kathryn Pierce-Meyer"
+p2_institution:  "University of Texas Libraries"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>15890 Serials</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$205,200"
+material_description:  "Southern Architect and Building News (SABN) was an architectural trade publication of the southern states (1882/9-1932). Harman Publishing Company in Atlanta, Georgia became the publisher in 1910. It was titled Architects', Builders', and Hardware Journal in 1889 when the first volume was published. It was known as Southern Architect by the early 1890s but then merged with Southern Building News to become Southern Architect and Building News. The editors include Thomas H. Morgan, Charles W. Hubner, B. H. Watt, and Ernest Ray Denmark. The editors of the serial assert that it was the \"Oldest Trade Paper of the South\" and identify their origin date as 1882. As a regional publication, SABN documents the growth and development of the southern states through building projects, local architects, and trades during the late nineteenth and early twentieth centuries. Furthermore, the journal documents the professionalization of the field of architecture through a network of trade publications. Over the course of fifty years, SABN presented its readers with local, national, and international interests in the field of architectural practices. Its content includes articles, essays, editorials, advertisements, illustrations, and building records. As a historical source, the journal attends to three critical themes: the transmission of ideas; the professionalization of the field; and the economic growth and development of the South understood through the built environment. UTL preserves the largest collection of SABN. Of the known collections, a reconstruction of a complete run of the journal is not possible. An estimated 528 issues were published orginally; however, only 298 are known to be extant. UTL holds 225 issues, 96 of which are unique. Most of the journals arrived through subscription as part of the Architecture Library's collection and are stamped with a received date. Others were purchased more recently."
 ---
-
-

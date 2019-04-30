@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Illuminating Whaling Heritage Through Museum Archives
+title: "Illuminating Whaling Heritage Through Museum Archives"
+year: 2017
+end_range: 1950
+formats: "NULL"
+geographic_extant: "Our collections are rooted in Cold Spring Harbor's development as a maritime port, a microcosm for the American whaling village. While based in Long Island, the items document the far-reaching, global nature of the industry, including various American whaling ports and international ports."
+institution: "The Whaling Museum and Education Center"
+institution_type: "NULL"
+primary_contact: "Ms. Nomi Dayan"
+size: "NULL"
+start_range: "1680"
+summary: "The Whaling Museum seeks support for a two-year project to digitize, catalog, and make widely accessible and easily discoverable its permanent archival collection which represents one of America's most historically significant industries. These archives, which offer a rich and varied resource of perspectives and insights not represented in other museum’s collections, have not been digitally documented, and remain largely unknown. In a strategic partnership with other New York historic collections, this project would promote new kinds of scholarship in the digital research environment by making unique and rare content publicly available online, and providing high-quality digital content for the creation of a wide variety of learning experiences. The digital accessibility will profoundly allow our organization to serve the public by opening up its content in the cultural, educational, artistic, and scholarly realms, serving a much wider audience and deepening the public’s understanding of our maritime heritage."
+hc_id: "25312597"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "The Whaling Museum"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>2700 Mixed Archival Collections</li>"
+collaborating_institution:  "Long Island Library Resources Council; New York Heritage Digital Collections"
+grant_amount:  "$161,750"
+material_description:  "The Museum’s archive attests to the profound local and regional impact of Long Island’s whaling industry. The collection speaks volumes about Long Island’s vibrant whaling past and the process by which America was put on the economic world map. The archives contain: 95% of the existing manuscript material from the Cold Spring Harbor whaling fleet, documenting 44 voyages of 9 ships from 1836-1862, including 15 ships logs, 12 journals, and business correspondence; 90% of the records from the local Customs House (1798-1908); records of the Long Island coastwise trade under sail; photos of crewmembers, vessels, and ports; receipts, shipping lists, and crew lists; and multiple family scrapbooks. Collections within the archives include: The Richmond Collection, which the museum acquired in 2012, consisting of documents, letters, receipts, shipping lists, and manuscripts preserved from the Cold Spring Harbor ship the Richmond, wrecked on the Bering Straits in 1849; the collection reveals the Richmond’s significant history as the focus of a legal judgment in maritime salvage law that holds effect today. The Hewlett Collection: Acquired in 1989 from the state of John D. Hewlett (descendant of the local whaling company owners) including over 200 photographs and 300 pieces of correspondence pertaining to the growth of Cold Spring Harbor as a maritime community, Edward Lange landscapes, portraits by S. A. Mouth of local citizens, ledgers from local industries including grist mills, saw mills, and shipyards, providing a wealth of research."
 ---
-
-

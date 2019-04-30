@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Moving Image Access in OpenCollection: From Accession to EAD
+title: "Moving Image Access in OpenCollection: From Accession to EAD"
+year: 2008
+end_range: 1950
+formats: "NULL"
+geographic_extant: "Maine, New Hampshire, Vermont, and Massachusetts."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Karan Sheldon"
+size: "100 objects"
+start_range: "1916"
+summary: "The material to be described is one hundred 16mm and 8mm film collections recording work life in northern New England in the first half of the 20th century. Like NHF's two films named to the National Film Registry, From Stump to Ship (1930) and The Making of an American (1920), our accessions reward scholars with largely untapped records of labor and society at all levels. The reels hold hidden and unknown research materials -- with a range of cataloging requirements – from among the 800 collections gathered at NHF over the last 22 years. With high research value, many relate to non-moving image documents in other repositories. Moving images represent a demanding category of archival holdings, often separated from related materials. For example, NHF's Albert Farwell Bemis Collection, 25 reels of 16mm film (1920s-1930s) shot by Bemis, an industrialist and benefactor to housing research, should be known to scholars at the MIT Institute Archives and Special Collections, home of the Albert Farwell Bemis Foundation papers. Film from our Edwin Bienick Collection of the American Writing Paper Company in Holyoke, Mass., will be of interest to researchers at Special Collections & University Archives, W.E.B. Du Bois Library, Univ. of Massachusetts, Amherst, repository for American Writing Paper Company Records, 1851-1960. The hundred collections selected for this one-year project represent critical mass, the heart of a research base of work-life records in moving images."
+hc_id: "79"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "85 Main Street"
+address2:  "PO Box 900"
+city:  "Bucksport"
+state:  "ME"
+zip: "4416"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

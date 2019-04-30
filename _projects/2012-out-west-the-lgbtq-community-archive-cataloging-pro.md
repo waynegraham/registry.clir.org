@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Out West: The LGBTQ Community Archive Cataloging Project
+title: "Out West: The LGBTQ Community Archive Cataloging Project"
+year: 2012
+end_range: 2000
+formats: "NULL"
+geographic_extant: "Our focus is West Coast LGBT individuals and organizations in San Francisco and Los Angeles. Nevertheless, 10 percent relate to areas outside the Western U.S."
+institution: "ONE National Gay & Lesbian Archives of USC Libraries"
+institution_type: "NULL"
+primary_contact: "Joseph Hawkins"
+size: "839 linear feet"
+start_range: "1940"
+summary: "Out West features 89 collections from the ONE National Gay and Lesbian Archives of USC Libraries and 22 collections from the GLBT Historical Society in San Francisco. These collections preserve the history of struggle for LGBT civil rights and give a comprehensive view of U.S. LGBT activists, artists, and organizations over a 50-year period. Ranging from records of the Asian/Pacific Lesbians and Gays, the Blue Max Motorcycle Club, the Community United Against Violence, and the Gay Men’s Chorus to artifacts documenting the life of Harvey Milk and the papers of pioneering activists José Sarria and Hank Wilson, novelist Patricia Nell Warren, and the Woman’s Building art center--founded in 1973 by Judy Chicago--these collections capture myriad facets of pre- and post-Stonewall LGBT experience. Revealing the hidden origins of LGBT social equality movements in the 1940s and 1950s, collections at each archive focus on L.A.- and San Francisco-based people and organizations with national impact on LGBT civil rights. Collections at ONE and GLBTHS complement one another, tracing similar organizations and showing how “going West” to California enabled diverse LGBT identities and modes of communal expression. Archival materials include papers, records, manuscripts, photographs, research, and ephemera: from the suit worn by Harvey Milk when he was assassinated to early gay wedding photos, matchbooks from 1950s gay bars, and memorabilia from José Sarria’s 1961 campaign for SF city supervisor."
+hc_id: "922"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "909 W. Adams"
+address2:  "NULL"
+city:  "Los Angeles"
+state:  "CA"
+zip: "90007"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$203,200"
+material_description:  "NULL"
 ---
-
-

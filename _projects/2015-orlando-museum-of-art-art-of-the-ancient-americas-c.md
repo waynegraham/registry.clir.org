@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Orlando Museum of Art - Art of the Ancient Americas Collection - Open Access Digital Catalog project. Approximately 1,000 Pre-Columbian artifacts of varying materials from 35 cultural groups in Mesoamerica and South America dating from 2000 BC to 1521 AD will be digitized and made freely
+title: "Orlando Museum of Art - Art of the Ancient Americas Collection - Open Access Digital Catalog project. Approximately 1,000 Pre-Columbian artifacts of varying materials from 35 cultural groups in Mesoamerica and South America dating from 2000 BC to 1521 AD will be digitized and made freely"
+year: 2015
+end_range: 2000
+formats: "NULL"
+geographic_extant: "Andean Region - South America: Bolivia, Chile, Columbia, Ecuador, Peru. \n\n\n\nMesoamerica: Costa Rica, Guatemala, Honduras, Central Mexico; Panama \n\n\n\nSouthwestern North America: Arizona, Colorado, New Mexico, Utah"
+institution: "Orlando Museum of Art (OMA)"
+institution_type: "NULL"
+primary_contact: "Dr. Gabrielle Vail"
+size: "NULL"
+start_range: "2000"
+summary: "This funding request is for the creation of an online digital database catalog that will feature the OMA's 1,000 object Art of the Ancient Americas collection. The project will take place over two years from January 2016 until December 2017. The Museum's prized Ancient Americas collection represents the most comprehensive collection of Pre-Columbian artifacts in the southeastern United States. The OMA will employ personnel with significant digitization experience to manage the project. Artifacts will be digitally captured using an 80 megapixel camera and 3-D video scans. Digital images and research data will be made available via an open access catalog website using Gallery Systems' EmbARK Web Kiosk online collections management software. The OMA will utilize Anthropology and Archeology graduate students from various Florida universities to create cursory data and catalog each object according to international museum standards. The project will be publicized to interested scholars and museums throughout the world."
+hc_id: "17119935"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "New College of Florida"
+p2_name:  "Ms. Rachael"
+p2_institution:  "Graduate Teaching Assistant / Lab Director"
+p3_name:  "Ms."
+p3_institution:  "NULL"
+material_string: "<li>1000 Artifacts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$186,442"
+material_description:  "The Art of the Ancient Americas Collection contains 977 artifacts of pottery, jade, stone, cloth, gold and silver from more than 35 different cultural groups from North, Central and South America dating from 2000 BC to 1521 AD. Major cultures represented in the collection include the Anasazi and Mimbres of the Southwestern North America; Colima, Aztec and Zapotec of Mesoamerica; Diquis, Nicoya and Veraguas of Costa Rica and Panama; and Inca, Moche and Nazca of the Andes region. The collection is considered the broadest, most representative Pre-Columbian artifact grouping in the southeastern United States and possesses one of the largest assortments of Mesoamerican figurines in the country. The addition of numerous important Andean pieces inspired renowned scholar Michael Moseley of the University of Florida to state \"the collection is magnificent. There are many very superb pieces which, in conjunction with your previous holdings, will put the Orlando Museum of Art on the map for Andean scholars.\"  \n\n\n\nHighlights from the collection include a fine Male Effigy Jar, A.D. 100-300, created by the Recuay culture of what is now northern Peru, which has been called \"one of the finest Recuay specimens in the world\"  by Raphael Reichert, art history professor at California State University and an ancient Americas researcher. A Fruit Shaped Bottle with Human Head and Animal Images, AD 800-1000, made by the Huari culture of southern Peru, was described by Christopher Donnan, archeologist and former Director of the Fowler Museum of Cultural History at UCLA, as one of the finest Huari bottles he has ever seen. Other noteworthy pieces include a beautiful gold Avian Pendant, A.D. 1000-1500, from Costa Rica; and a large Carved Greenstone Yoke, A.D. 300-900, once used by the Veracruz people of southern Mexico to play an ancient ball game."
 ---
-
-

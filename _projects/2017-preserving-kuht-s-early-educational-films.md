@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Preserving KUHT's Early Educational Films
+title: "Preserving KUHT's Early Educational Films"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "University of Houston Libraries"
+institution_type: "NULL"
+primary_contact: "Ms. Emily Vinson"
+size: "NULL"
+start_range: "NULL"
+summary: "The University of Houston Libraries proposes a 6-month project to outsource the digitization of 118 16mm films from the KUHT Collection. KUHT-TV began broadcasting from the University of Houston in 1953 under one of the country’s first educational non-profit licenses airing both for-credit \"telecourses\" and enriching programs aimed at a general audience. The films proposed for digitization represent some KUHT's earliest productions and are fledgling examples educational and public television."
+hc_id: "26884833"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Houston Libraries"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "118 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$14,500"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Rocky Mountain Jewish Medical Heritage Collection
+title: "Rocky Mountain Jewish Medical Heritage Collection"
+year: 2010
+end_range: 1954
+formats: "NULL"
+geographic_extant: "The geographic scope of the project extends throughout the United States. Patients as well as financial support came from all regions of the country."
+institution: "Special Collections"
+institution_type: "NULL"
+primary_contact: "Jeanne Abrams"
+size: "649 linear feet, 71 objects"
+start_range: "1889"
+summary: "The four institutions which comprise the Rocky Mountain Jewish Medical Collection (National Jewish Hospital for Consumptives (NJH), the Jewish Consumptives' Relief Society (JCRS), the National Asthma Center (formerly the Denver Sheltering Home for Jewish Children) and the Ex-Patient's Home), reflect the medical history of tuberculosis treatment in the United States as well as the central role the Jewish community played in social welfare and philanthropy. Although they were all located in Denver, Colorado, patients and supporters of the four institutions hailed from all areas of the United States. Tuberculosis was the leading cause of death in the United States in the late nineteenth and early twentieth centuries. Each collection separately reflects the pivotal and unique role the Colorado Jewish community played in the national tuberculosis crusade of the twentieth century. Together, the four collections are a rare and rich treasure which reflect the diverse history of immigration, ethnicity, and medicine in America."
+hc_id: "659"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "RMJHS"
+address2:  "2000 E. Asbury"
+city:  "Denver"
+state:  "CO"
+zip: "80208"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

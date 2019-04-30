@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: John Stubblefield Papers
+title: "John Stubblefield Papers"
+year: 2014
+end_range: 2005
+formats: "NULL"
+geographic_extant: "The collection's geographic scope is local, national, and international, covering the city of Pine Bluff, Arkansas to the country of Japan."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Timothy G. Nutt"
+size: "100 linear feet"
+start_range: "1967"
+summary: "This two-year project will process and create a detailed finding aid for the papers of jazz saxophonist John Stubblefield, known for his avant-garde style, his association with musical greats Miles Davis, Charles Mingus, Tito Puente, among others, and for his ability to \"blow [the saxophone] like a raging torrent.\" (Robert Palmer, \"Jazz: John Stubblefield,”  New York Times, April 8, 1980, p. C5.) Contained in eighty containers, this inaccessible collection includes correspondence, photographs, musical compositions, and record albums of this significant jazz musician."
+hc_id: "11909458"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

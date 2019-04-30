@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Creating Online Access to the Puerto Rican Community Archives [PRCA]
+title: "Creating Online Access to the Puerto Rican Community Archives [PRCA]"
+year: 2014
+end_range: 2011
+formats: "NULL"
+geographic_extant: "national scope with a focus on New Jersey metro area"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Ingrid Betancourt"
+size: "141 cubic feet"
+start_range: "1937"
+summary: "The PRCA is a collection of primary resources on the history and culture of the Puerto Rican Diaspora in New Jersey. Since the establishment of the archive ten years ago, 45 collections of personal papers and organizational records have been accessioned, but remain virtually hidden from scholars. This project will create multiple points of access to 15 collections through processing, describing, and cataloging them. There are 53 million Latinos in the US, Puerto Ricans are the second largest group, yet there is a dearth of accessible primary resources on the community. This project will catalog 15 collections to make more resources about the Diaspora accessible and create a template for future cataloging of this community's records."
+hc_id: "11602963"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

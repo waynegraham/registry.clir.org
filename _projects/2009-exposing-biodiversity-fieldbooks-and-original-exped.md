@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Exposing Biodiversity Fieldbooks and Original Expedition Journals at the Smithsonian Institution
+title: "Exposing Biodiversity Fieldbooks and Original Expedition Journals at the Smithsonian Institution"
+year: 2009
+end_range: 2000
+formats: "NULL"
+geographic_extant: "Because Smithsonian research addresses global issues, the geographic scope of these objects is worldwide, in both terrestrial and marine environments."
+institution: "Smithsonian Institution"
+institution_type: "NULL"
+primary_contact: "Rusty Russell"
+size: "6600 objects"
+start_range: "1800"
+summary: "The content addressed is composed of original objects (field books, unpublished journals, loose notes, sketches) that are held and maintained by the Smithsonian and which were produced by individuals who have engaged in field research related to all disciplines of biology. These materials are original accounts of the events that led to the collection and description of millions of plants and animals, including countless new discoveries. These are original sources that, in most instances, have not been itemized or incorporated into existing catalog systems and truly bear the \"hidden\" label. The unit of measure is, therefore, difficult to know. Although these objects are distributed across many Smithsonian research units, a recent canvassing has allowed us to extrapolate what we feel is a good estimate and these objects are in the process of being centralized for control purposes. They span two centuries of fieldwork, cover both terrestrial and marine environments and are significantly strong in their coverage of 19th century expeditions across North America, incl. the 1820 Long Expedition, the Mexican Boundary Survey (1848), Expedition of Maj. J.W. Powell (1868), Jenny Expedition to the Black Hills (1875), Death Valley Expedition (1890-91), Peary Expedition to Greenland (1897), Harriman Alaska Expedition (1899), and numerous voyages of discovery, e.g. North Pacific Exploring Expedition, HMS Challenger, the US Eclipse Expedition, and the US Steamer Albatross."
+hc_id: "553"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "MRC-166, Botany"
+address2:  "10th and Constitution, NW"
+city:  "Washington"
+state:  "DC"
+zip: "20013-7012"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$498,239"
+material_description:  "NULL"
 ---
-
-

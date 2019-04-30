@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing Hidden North Slope and Iñupiaq Audio Recordings: A Joint Partnership between Iḷisaġvik College and the Iñupiat History, Language, and Culture Department
+title: "Digitizing Hidden North Slope and Iñupiaq Audio Recordings: A Joint Partnership between Iḷisaġvik College and the Iñupiat History, Language, and Culture Department"
+year: 2017
+end_range: 1998
+formats: "NULL"
+geographic_extant: "The geographic locations represented in the recordings we plan to digitize include the eight Native Iñupiaq villages on the North Slope: Barrow, Anaktuvuk Pass, Nuiqsut, Wainwright, Atqasuk, Kaktovik, Point Lay, and Point Hope. The North Slope Borough comprises 89,000 square miles in the uppermost arctic region of Alaska."
+institution: "Ilisagvik College - Tuzzy Consortium Library"
+institution_type: "NULL"
+primary_contact: "Mr. Jason Russell"
+size: "NULL"
+start_range: "1952"
+summary: "Iḷisaġvik College’s Tuzzy Consortium Library and the North Slope Borough’s Iñupiat History, Language, and Culture (IHLC) Department have partnered on this project in order to digitize, transcribe, and translate over 1,600 hours of recordings from the 20th century. The majority of the recordings are in Iñupiaq, which is classified as a threatened language by EGIDS (Expanded Graded Intergenerational Disruption Scale). The source materials we will digitize through this project are a mixture of audiocassette tapes, VHS tapes, and Umatic tapes. The materials are all from the arctic North Slope area of Alaska, which is the northernmost region in Alaska. With the conclusion of our project, the digitized recordings will be readily accessible to researchers, and be critical for any scholar researching Iñupiaq history and language and/or the history of the North Slope, including undergraduate and graduate students in the University of Alaska’s Alaska Native Studies program."
+hc_id: "26893261"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Tuzzy Consortium Library (Ilisagvik College)"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>1600 Audiovisual Recordings</li>"
+collaborating_institution:  "Iḷisaġvik College's Tuzzy Consortium Library; Iñupiaq History, Language, and Culture (IHLC) Department at the North Slope Borough"
+grant_amount:  "$500,000"
+material_description:  "The source materials we plan to digitize are all recordings by North Slope people. Large portions of the recordings are in the Iñupiaq language (approximately 65%). The remaining recordings are in English, but are centered on Iñupiaq and North Slope life. The subject matter of the recordings includes the biannual subsistence bowhead whale harvest; the annual spring festival of Piuraaġiaqta; the annual whale harvest celebration of Nalukatuq; the biennial messenger feast of Kivgiq; hunting tales about tuttu (caribou), ugruk (bearded seal), aiviq (walrus), and natchiq (ringed seals); stories from Iñupiat elders; and tales of daily life on the North Slope. Many of these recordings have not been played for years due to their current fragile state, but all of the recordings are North Slope-focused. The recordings we plan to digitize originate from a variety of sources, including the local radio station (KBRW) and interviews conducted by various entities in the North Slope. Local organizations that appear within the recordings include the North Slope Borough, which is the governmental institution that oversees the North Slope; Arctic Slope Regional Corporation, which is the largest Native corporation on the North Slope; and other Native corporations and tribal bodies across the North Slope."
 ---
-
-

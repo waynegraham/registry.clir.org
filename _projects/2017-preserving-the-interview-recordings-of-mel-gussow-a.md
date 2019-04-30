@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Preserving the Interview Recordings of Mel Gussow, American and British Theater Critic
+title: "Preserving the Interview Recordings of Mel Gussow, American and British Theater Critic"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "Harry Ransom Center, The University of Texas at Austin"
+institution_type: "NULL"
+primary_contact: "Dr. Ellen Cunningham-Kruppa"
+size: "NULL"
+start_range: "NULL"
+summary: "The Harry Ransom Center proposes a seven-month pilot project to outsource the digitization of 75 cassette audiotape interviews recorded by Mel Gussow (1933-2005), renowned New York Times American and British theater critic. Gussow was among the first to legitimize the off-off-Broadway movement and bring broad attention via the Times to early productions at LaMaMa, the Caffe Cino, and the Living Theatre—discovering writers such as Lanford Wilson and Sam Shepard, and actors Kevin Kline, Meryl Street, and Sigourney Weaver. Gussow also authored and edited nine books, including a biography of playwright Edward Albee and four on his conversations with playwrights Samuel Beckett, Arthur Miller, Harold Pinter, and Tom Stoppard. The digitized interview recordings, made available to the public via the Center’s digital collections portal, CONTENTdm, will allow a multi-disciplinary research and teaching community to hear candidly from a range of figures representing forty years of American and British theater."
+hc_id: "25870381"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Harry Ransom Center"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "75 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$24,600"
+material_description:  "For over 40 years Mel Gussow was the lead cultural critic for the New York Times. During the full length of his career, Gussow recorded interviews with stars and unknowns of the American and British theater. These interviews, recorded primarily on reel-to-reel and audiocassette tapes, were conducted at various venues largely in and around New York. Some of the interviews served as the basis of publications documenting the careers and processes of noted writers such as Samuel Beckett, Arthur Miller, and Tom Stoppard. Mel Gussow died in 2005. His widow Ann Gussow placed the archive at the Harry Ransom Center in 2009. The manuscript portion of the collection was fully cataloged and an online finding aid published in 2010 when the collection opened to the public for research. Access to this collection is on-site, and limited research facsimiles of manuscript materials are created for a fee for patrons unable to visit in person. At the time of the collection’s arrival, the audio recordings were physically separated from the manuscripts. The 977 recordings (1974-2004) comprise 921 cassettes, 55 open-reel tapes, and 1 compact disc. In 2010, the recordings were individually cataloged and rehoused if necessary. Patrons have access to only the 32 recordings that the Center digitized in-house for user requests; original recordings are not available for consultation. Finding Aid for Mel Gussow Papers: http://norman.hrc.utexas.edu/fasearch/findingAid.cfm?eadid=00606."
 ---
-
-

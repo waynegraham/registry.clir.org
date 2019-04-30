@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Revealing Music History: Cataloging the Frederic Louis Ritter Collection at Tufts University
+title: "Revealing Music History: Cataloging the Frederic Louis Ritter Collection at Tufts University"
+year: 2011
+end_range: 1891
+formats: "NULL"
+geographic_extant: "All material is located at Tufts University, and is primarily from Germany, France, England, Italy, and America."
+institution: "Tufts University"
+institution_type: "NULL"
+primary_contact: "Michael Rogan"
+size: "2500 objects"
+start_range: "1558"
+summary: "The personal library of scholar/musician Frederic Louis Ritter (1834-1891), a European-trained musician and historian working in America at a critical time in the development of the discipline of music history and criticism, consists of manuscripts, scores, books and periodicals about music, dating from the 16th century until the time of Ritter's death. Most publications hail from Germany, France, England, Italy, and America. The collection is a carefully selected assembling of rare, important, historic, or unique materials of seminal value to Ritter as a music scholar. Individual masterworks in the Ritter collection are set against a background of related writings and repertoire that provide the contemporary context for works that continue to be studied. Some of the subject areas of particular strength include: music theory; harmony and counterpoint treatises from the 16th through 19th centuries; music aesthetics and criticism from the 18th and 19th centuries; French opera from the 18th and early 19th centuries; music histories and dictionaries from the 17th through 19th centuries; and treatises on performance practice from the early 18th through the late 19th centuries. Although few in number, the manuscripts in the collection are anticipated to be of interest to researchers wishing to document particular performances of such notable works as Haydn's Creation, Cherubini's 3rd Mass, or the Rameau opera Hippolyte et Aricie."
+hc_id: "775"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Department of Music"
+address2:  "Granoff Music Center"
+city:  "Medford"
+state:  "MA"
+zip: "2155"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

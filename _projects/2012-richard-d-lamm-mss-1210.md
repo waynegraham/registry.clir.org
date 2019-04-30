@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Richard D. Lamm, MSS 1210
+title: "Richard D. Lamm, MSS 1210"
+year: 2012
+end_range: 2009
+formats: "NULL"
+geographic_extant: "Denver metropolitan area, Colorado, the US West and the nation."
+institution: "History Colorado"
+institution_type: "NULL"
+primary_contact: "Keith Schrum"
+size: "340 boxes, 340 linear feet"
+start_range: "1963"
+summary: "The collection contains incoming and outgoing correspondence, draft and final speeches, subject content research files, manuscript drafts for publication of articles and books, photographs, sound and video recordings, memorabilia, journal and newspaper articles, books and objects. Subjects include local, state, US West regional, and national politics as related to both the Democratic Party and later, the Reform Party. Issues of regional and national importance are covered including abortion, the environment, euthanasia, immigration, health care, population control, tax reform, and women's rights."
+hc_id: "969"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1200 Broadway"
+address2:  "NULL"
+city:  "Denver"
+state:  "CO"
+zip: "80203"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

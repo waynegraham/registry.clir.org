@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Archiving the Chinese in California: Digitizing the ethnographic collections of the Chinese Historical Museum of America and San Diego Chinese Historical Museum
+title: "Archiving the Chinese in California: Digitizing the ethnographic collections of the Chinese Historical Museum of America and San Diego Chinese Historical Museum"
+year: 2017
+end_range: 1980
+formats: "NULL"
+geographic_extant: "The CHSA collections document the history of Chinese Americans with a focus on Northern California’s San Francisco Bay Area. The SDCHM collections document Chinese American history with a focus on Southern California’s San Diego area. The collections present a view of early experiences of Chinese Americans in the United States."
+institution: "Chinese Historical Museum of America"
+institution_type: "NULL"
+primary_contact: "Ms. Pamela Wong"
+size: "NULL"
+start_range: "1885"
+summary: "Chinese Historical Museum of America (CHSA) in San Francisco and the San Diego Chinese Historical Museum (SDCHM) will conduct a 36-month project to create an online repository of digitized text-based materials, objects, and photographs from the museums’ holdings related to the history of Chinese immigrants in California. Together, the collections include approximately 30,000 ethnographic artifacts and archival materials spanning the last century and a half of Chinese in America. As the two museums are located in Northern and Southern California respectively, this project will make significant scholarly resources on the history of early Chinese immigration, Chinatowns, and ethnic revival in early Chinese American populations across the State widely available. Today, as the number of Chinese descendants in the US has risen to nearly 4 million, with the greatest concentration in California, this joint collaboration will provide a public narrative of the journey of this rapidly growing and increasingly visible community."
+hc_id: "26243470"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Chinese Historical Society of America"
+p2_name:  "Ms. Tiffany Wai-Ying Beres"
+p2_institution:  "San Diego Chinese Historical Museum"
+p3_name:  "Mr. Mark Buchholz"
+p3_institution:  "Balboa Park Online Collaborative"
+material_string: "<li>64 Mixed Archival Collections</li>"
+collaborating_institution:  "San Diego Chinese Historical Museum"
+grant_amount:  "$386,105"
+material_description:  "CHSA nominates two collections for this project, the William Hoy Collection and the Thomas W. Chinn Collection. Chinn, one of the four founders of CHSA, and Hoy were involved in the publishing business within the San Francisco Chinese community starting in the 1930s, as editors and publishers of Chinese Digest and Chinese Press. They were dedicated to connecting the community through print media. They published articles on current events as well as historical stories to give context to the legal and social discrimination the community faced. The two collections include articles on Chinese American political, religious and social organizations, notable community leaders, photographs of Chinese pioneers of California, the building of the Transcontinental Railroad and Chinatowns, and rare publications dating from the 1880s. SDCHM collections for digitization include materials from San Diego Chinatown families. Around the early 1900s, the Quin, Hom and Chong families were Chinese merchants and community leaders; their collections include photographs, letters, business ledgers and tools. These families shaped the development of communities around them and today their descendants continue to impact San Diego. Additionally, SDCHM proposes to digitize documents and artifacts belonging to Chinese American veterans who served in WWII; this collection includes documents and letters, models of the planes they flew, personal effects and even a series of cartoons an officer drew during the war. Lastly, SDCHM would digitize anthropological artifacts related to Chinese American History in Southern California dating from 1885-1980 and the oral histories of 50 first and second-generation San Diego Chinatown residents."
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: City, Borough, Neighborhood, Home: Mapping Brooklyn's Twentieth-Century Urban Identity
+title: "City, Borough, Neighborhood, Home: Mapping Brooklyn's Twentieth-Century Urban Identity"
+year: 2012
+end_range: 1999
+formats: "NULL"
+geographic_extant: "The main geographic scope is Brooklyn, New York. Long Island and New York City are also included, given the geographic areas' intertwined histories."
+institution: "Brooklyn Historical Society"
+institution_type: "NULL"
+primary_contact: "Jacob Nadal"
+size: "48 boxes, 350 linear feet, 2000 objects"
+start_range: "1828"
+summary: "City, Borough, Neighborhood, Home includes maps and archival materials that document Brooklyn's development from an independent city in the 19th century, through its consolidation with New York City, into one the largest and most diverse urban centers in America during the 20th century. The majority of maps and documents were created by local entities -- government, neighborhood associations, preservation organizations, and businesses-- and are rare or unique to BHS. An initial sampling of the maps found only 5 percent with records in Worldcat, but revealed political, topographical, transit, utility, and property maps that show the physical, ethnic, and institutional transformation of Brooklyn thought the 20th century. Records of the Corporate Counsel of Brooklyn include its \"street openings\" files and other matters brought by and against the City of Brooklyn to 1898 and after, as a borough of New York City. These documents track the expansion of Brooklyn’s street grid and infrastructure block-by-block, lawsuit-by-lawsuit, and record civil servant grievances; tax and property disputes; injury and breach of contract claims; and some criminal matters. BHS’s collections show Brooklyn becoming a deeply intertwined part of NYC while forging its own internationally recognized identity, place Brooklyn as a center of scholarship and debate about urban history, and convey important lessons about urban redevelopment, public-private partnerships, immigration, and community building."
+hc_id: "912"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "128 Pierrepont Street"
+address2:  "NULL"
+city:  "Brooklyn"
+state:  "NY"
+zip: "11201"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "$170,400"
+material_description:  "NULL"
 ---
-
-

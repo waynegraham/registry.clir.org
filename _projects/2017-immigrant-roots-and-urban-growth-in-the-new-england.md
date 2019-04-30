@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Immigrant Roots and Urban Growth in the New England Cultural Hearth: Digitizing, Georeferencing, and Opening Access to Metropolitan Boston Atlases, 1861 to 1938.
+title: "Immigrant Roots and Urban Growth in the New England Cultural Hearth: Digitizing, Georeferencing, and Opening Access to Metropolitan Boston Atlases, 1861 to 1938."
+year: 2017
+end_range: 1938
+formats: "NULL"
+geographic_extant: "The project focuses on the Boston metropolitan area, representing the core of the New England Cultural Hearth. The selected atlases pertain to the Massachusetts communities of Boston proper, Charlestown, Roxbury, West Roxbury, Dorchester, East Boston, South Boston, Hyde Park, Brighton, Allston, Brookline, Cambridge, Chelsea, Newton, Revere, Somerville, and Winthrop."
+institution: "Norman B. Leventhal Map Center"
+institution_type: "NULL"
+primary_contact: "Dr. Ronald Grim"
+size: "NULL"
+start_range: "1861"
+summary: "This project will provide enhanced access to 83 large-scale urban atlases of Boston and its metropolitan area from 1861-1938, through digitizing, georeferencing, and publishing on the web. Prepared primarily for the real estate industry, they are a critical resource for studying national patterns in urban change and immigration, because this urban area was the initial home for many immigrants, and a launchpad for further migration across the country. The Leventhal Map Center has the most comprehensive collection of these highly detailed and accurate atlases, which depict features such as building footprints and property owner names. They are a valued resource for researching urban growth and change, U.S. industrialization, transportation development, immigrant neighborhoods, architectural and urban planning, environmental hazards, genealogy, and urban ethnic history. The project will make the invaluable information hidden in these atlases freely accessible to all."
+hc_id: "26893420"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Norman B. Leventhal Map Center"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>2905 Maps</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$138,462"
+material_description:  "The urban atlases nominated for digitization are within two of LMC’s Collections of Distinction: World Urban Centers, and Boston and New England. These atlases are our highest priority to digitize, because they are LMC’s most requested physical items. They also constitute the most complete set of Boston area urban atlases known to exist. Real estate atlases were published by specialized commercial firms, such as G.W. Bromley, G.M Hopkins, and L.J. Richards. In comparison with more familiar fire insurance atlases, they are particularly important for researching immigration and urban change because they include details that emphasize the social nature of the urban landscape, such as the names of land and property owners. These atlases enable researchers to trace the locations of individuals, businesses, and churches, and to paint a granular, fact-rich picture of early immigrant communities. They cover an important era of heavy immigration to Boston, representing Irish, Italian, Russian Jewish, and Chinese communities. This project also includes eleven volumes originally created to support the selling of fire insurance policies; they are very rare and not part of any other digital collection. These include the very first fire insurance atlas of Boston by Charles Pinney from 1861, and Daniel Sanborn’s 1867 three-volume and 1875 four-volume sets of fire insurance atlases of Boston and neighboring towns, as well as three volumes of these atlases that were corrected at later dates. No institution, including the Library of Congress or Harvard Map Collection, holds all eight volumes of Boston’s earliest fire insurance atlases."
 ---
-
-

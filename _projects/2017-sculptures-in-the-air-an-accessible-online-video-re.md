@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Sculptures in the Air: An Accessible Online Video Repository of the American Sign Language (ASL) Poetry and Literature Collections at the RIT/NTID Deaf Studies Archive (RIT/NTID DSA) in Rochester, NY
+title: "Sculptures in the Air: An Accessible Online Video Repository of the American Sign Language (ASL) Poetry and Literature Collections at the RIT/NTID Deaf Studies Archive (RIT/NTID DSA) in Rochester, NY"
+year: 2017
+end_range: 1974
+formats: "NULL"
+geographic_extant: "All of the materials to be digitized are from Rochester, NY, with a few exceptions, such as one video from Indiana University, one video from Western Pennsylvania School for the Deaf, and one video from Johnson Community College (Kansas)."
+institution: "Deaf Studies Archive at Rochester Institute of Technology and the National Technical Institute for the Deaf (RIT/NTID DSA)"
+institution_type: "NULL"
+primary_contact: "Dr. Joan Naturale"
+size: "NULL"
+start_range: "1974"
+summary: "Rochester Institute of Technology (RIT) Libraries will digitize 61 videotapes held in the RIT/NTID DSA that document the ASL literature movement in Rochester from 1970-1999. These videotapes will represent the largest collection of rare U.S. ASL Literature to be made publicly accessible. Preservation digital copies will be made and stored, and access digital copies provided for use by scholars and the general public.This collection will be universally accessible: it will be captioned, voiced, transcribed and/or signed. The once “hidden” work of this pioneering and under-represented group will be made public for the first time, broadening access to the cultural heritage of this diverse group little known outside of the Deaf community and enriching interdisciplinary studies in linguistics, poetry, performing arts, and cinema. Finally, this project can shape a new understanding of the libraries’ role in modeling best practices for accessible sharing of online videos."
+hc_id: "26893772"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "RIT Libraries, RIT"
+p2_name:  "Ms. Becky Simmons"
+p2_institution:  "RIT Libraries, RIT"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>61 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$61,362"
+material_description:  "Materials to be digitized comprise 61 hours on 61 videos, ranging in date from 1974 to 2011. The recordings capture performances by Deaf poets such as Robert Panara, Clayton Valli, Debbie Rennie, Peter Cook, Ella Mae Lentz, and others performing and analyzing ASL literature works at national conferences, in the classroom, and on stage. ASL is a visual language and not a direct translation of English. Each poet has a unique sign language expressive style, which range from Panara’s transliteration of traditional English works and Shakespeare into contact sign with ASL features, to the avant-garde ASL and spoken English hybrid work of the Deaf and hearing ‘Flying Words’ duo Cook and Lerner, to Valli’s (the Deaf ‘Robert Frost’) original poetry created solely in ASL that uses body language, rhythm, and movement to create a spatial expression. The provenance reflects the history of the ASL poetry movement in the United States. NTID had a leading role, hosting national conferences on ASL Literature attended by Deaf and hearing scholars, students, interpreters, and the public. Recognition of the scholarly and artistic value of the work gained momentum through these conferences. One of the recordings (circa 1984) includes noted Beat poet Allen Ginsberg visiting Panara’s class. Panara performed some of his poems, including his award-winning poem, “On His Deafness.” When Ginsberg read a few lines from his poem “Howl”, a pivotal moment occurred when Patrick Graybill translated ‘hydrogen jukebox’ into ASL and even Ginsberg realized Graybill had visually captured the image."
 ---
-
-

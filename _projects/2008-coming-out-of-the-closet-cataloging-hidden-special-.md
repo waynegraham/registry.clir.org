@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Coming Out of the Closet: Cataloging Hidden Special Collections and Archives at the Fashion Institue of Technology
+title: "Coming Out of the Closet: Cataloging Hidden Special Collections and Archives at the Fashion Institue of Technology"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "The collection is international in scope including but not limited to materials from Russia, China, France, Germany, Japan, UK, and USA."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Karen Cannell"
+size: "1830 linear feet"
+start_range: "1680"
+summary: "The FIT Special Collections and Archives acquires, preserves, and provides access to a wide range of primary research materials in their original formats, including archival institutional records, scrapbooks, oral histories, fashion sketches, illustrations, books, journals and other items. Subjects include the apparel industry, fashion and regional costume, textile design and the textile industry, and, to a lesser extent, art, architecture and interior design. We are committed to supporting research by FIT students and faculty, as well as designers and researchers from the apparel and textile field, other industry professionals, and scholars. Highlight topical areas include but are not limited to: European and American fashion magazines from 1806 to 1940; Fashion sketch collection (original sketches by European and American designers and firms from 1888 to the present); Scrapbooks of clippings and personal memorabilia documenting firms and designers; Original fashion illustrations (established in memory of Professor Frances Neady) donated by prominent contemporary illustrators and collectors; Oral histories of major 20th century fashion world personalities including designers, manufacturers, retailers, writers, editors, and educators and consisting of unpublished interviews with notable fashion designers and industry leaders, who talk about their lives, business and creative work."
+hc_id: "348"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Fashion Institute of Technology/SUNY"
+address2:  "Special Collections and Archives"
+city:  "New York City"
+state:  "NY"
+zip: "10001"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

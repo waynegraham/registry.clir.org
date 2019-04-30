@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Amiri Baraka Papers
+title: "Amiri Baraka Papers"
+year: 2008
+end_range: 2008
+formats: "NULL"
+geographic_extant: "The focus is the New York City metropolitan area; however, correspondence and subjects include the United Kingdom, Western Europe, and the Caribbean."
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Karen Kapp"
+size: "255 linear feet"
+start_range: "1960"
+summary: "The Amiri Baraka Papers reflect his life as a poet, writer, and activist. Indeed they chronicle the social movements and issues that gave shape to his world view. The collection is rich with correspondence from the 1960s to the present, including exchanges with James Baldwin, Allen Ginsberg, Nina Simone, Ruby Dee, Quincy Jones, Maya Angelou, Diane DiPrima, Charles Olsen, Fielding Dawson, Vincent Smith, Russell Cinique, and Julian Bond, among many others. Also present are drafts, sketches, and notes for Baraka’s generous literary corpus, including manuscripts and manuscript versions of published and unpublished work from the 1960s to the present, including some fifty notebooks in which researchers can track Baraka’s ideas for poems, plays, art, jazz, criticism, and political pieces in holograph jottings, sketches, illustrations. For more than twenty years, Baraka hosted informal readings and jam sessions in the basement of his Newark home, many of which were recorded. Writers and artists captured in these unreleased tapes include: Allen Ginsberg, Nikki Giovanni, Sonia Sanchez, Larry Neal, Sun Ra, Lauren Hill, Michael McClure, Miki Pinero, Max Roach, David Murray, Abbey Lincoln, the Blue Ark Band, Kilmako Blues People, and many others. Also included: printed ephemera relating to demonstrations, protests, and political campaigns; benefits and performances; as well as numerous fugitive periodicals produced by Baraka and community groups in Newark and New York."
+hc_id: "31"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "Butler Library 507B"
+address2:  "Columbia University, MC 1103"
+city:  "New York"
+state:  "NY"
+zip: "10027"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

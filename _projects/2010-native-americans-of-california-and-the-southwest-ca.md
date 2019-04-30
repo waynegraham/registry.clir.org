@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Native Americans of California and the Southwest: Cataloging the Huntington's Visual Collections
+title: "Native Americans of California and the Southwest: Cataloging the Huntington's Visual Collections"
+year: 2010
+end_range: 1930
+formats: "NULL"
+geographic_extant: "The American West, particularly the Southwest, including California, Arizona, Nevada, Colorado and New Mexico. Also the Pacific Northwest and Alaska."
+institution: "The Huntington Library"
+institution_type: "NULL"
+primary_contact: "Jenny Watts"
+size: "19183 objects"
+start_range: "1867"
+summary: "The photographs, negatives, lantern slides, artwork and visual media described in this proposal were created by expeditionary photographers, tourists, collectors, ethnographers, federal officials, school teachers, studio operators and others interested in representing Native Americans for myriad agendas and purposes. Ranging in date from post-Civil War government expeditions down the Green and Colorado Rivers, through the 1910s when romanticization of the \"vanishing American\" reached fever pitch, and on into the 1920s and 1930s when figures like author Mary Austin advocated for Indian rights, the collections embrace an important era of Native American representation. The collections are particularly strong in depictions of Puebloan peoples from Arizona and New Mexico as well as California tribes. 19th century collections compiled by Indian agents such as Horatio Nelson Rust and George Wharton James emphasize dwellings, rituals and dress; early 20th century dealer and collector Grace Nicholson formed personal as well as business relationships with the tribal people whose wares she supplied to the nation's major museums, a familiarity reflected in her snapshots. The grant also includes cataloging the country's most extensive holdings of Carl Moon (1879-1948) and Frederick Monsen (1865-1929), professional photographers and self-described ethnographers who, like their contemporary Edward S. Curtis, made imagery that fed a nationwide fascination with Native Americans."
+hc_id: "609"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "1151 Oxford Road"
+address2:  "NULL"
+city:  "San Marino"
+state:  "CA"
+zip: "91108"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

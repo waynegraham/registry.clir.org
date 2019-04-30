@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Discovering Dance in Human History: The Choreometrics-Cord Films from the Alan Lomax Performance Style and Culture Research Collection
+title: "Discovering Dance in Human History: The Choreometrics-Cord Films from the Alan Lomax Performance Style and Culture Research Collection"
+year: 2017
+end_range: 1980
+formats: "NULL"
+geographic_extant: "The Cord Collection contains examples of dance and movement from six large regions of the world: South America, North America, Southeast Asia, Island Southeast Asia and Polynesia, Africa, and Circum-Mediterranean."
+institution: "Association for Cultural Equity"
+institution_type: "NULL"
+primary_contact: "Dr. Anna Lomax Wood"
+size: "NULL"
+start_range: "1950"
+summary: "The Association for Cultural Equity will digitize and provide access to filmed resources on traditional dance and movement. Folklorist Alan Lomax and colleagues compiled the films as part of their groundbreaking research on expressive performance styles. The Cord Collection films were selected to represent traditional dance performances from all continents in research on dance in comparative perspective with a method called Choreometrics. The Cord Collection is a subcollection of film within the Alan Lomax Collection at the Library of Congress’ American Folklife Center. The digitized media will be disseminated in an open access web resource, the Global Jukebox. The American Folklife Center will assist with the processing and digitization of the film by an external vendor. A consultant with extensive experience in digital humanities and data management design for dance studies will assist with database design and user experience for the dance resources to be created by the project."
+hc_id: "26145980"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Association for Cultural Equity"
+p2_name:  "Dr. Forrestine Paulay"
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>89500 Audiovisual Recordings</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$176,250"
+material_description:  "The Alan Lomax Collection of moving images consists of 8 discrete sub-collections of film elements. Seven of these sub-collections relate directly to Alan Lomax’s work with the development of Choreometrics, a method for the cross-cultural analysis of dance that codes (i.e., describes) basic elements of movement for the sake of study and comparison. One subcollection, the Cord Collection, proposed herein for digitization, consists of film segments which were selected by Lomax and colleagues as the initial coding samples for the early Choreometrics research project. They were initially dubbed “cords” simply because they were selected from pertinent footage, copied for internal use, and then measured out (like a cord of wood). The studies began as part of the performance style project within Columbia University’s Bureau of Applied Social Research and Department of Anthropology in 1962 and continued under Lomax’s direction until 1994. The films document dance and movement, in some instances also noting the context of daily work of many cultures. There were collected in collaboration with filmmakers and film companies based in the US and abroad. Lomax looked for high quality filmmaking to highlight social context, with group shots rather than individual focus, and collected a significantly large sample of dance performances. We have selected the Cord Collection because it represents the original source material for Lomax’s choreometrics research and training, the highest quality footage, and a broad spectrum of world dance showing national expressive styles, their dissemination, their evolution, and sociocultural context."
 ---
-
-

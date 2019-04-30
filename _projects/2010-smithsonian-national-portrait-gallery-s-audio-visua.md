@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Smithsonian National Portrait Gallery's Audio/Visual Archive
+title: "Smithsonian National Portrait Gallery's Audio/Visual Archive"
+year: 2010
+end_range: 2010
+formats: "NULL"
+geographic_extant: "This collection has a geographic scope that spans the globe but emphasizes the United States, featuring American subjects of national significance."
+institution: "National Portrait Gallery"
+institution_type: "NULL"
+primary_contact: "Claire Kelly"
+size: "160 linear feet, 1500 objects"
+start_range: "1968"
+summary: "The National Portrait Gallery Audio/Video Archive is a rich collection of both original and post-production audio and visual materials constituting the historical evidence of the Gallery's programs since its opening in 1968. The media ranges in content and subject matter from unique dialogues with significant personalities, biographical footage of national figures, and educational symposia to impromptu publicity-related interviews with artists and curators, portrait presentation ceremonies, and gallery tours with staff. Original productions by the National Portrait Gallery include interviews with living Vice Presidents Cheney, Mondale and Quayle as well as former President George H. W. Bush for \"Presidents in Waiting\", and with World War II journalists Robert St. John, John Hersey and Bill Mauldin for \"Reporting the War: The Journalistic Coverage of World War II\"; one-on-one dialogues from our distinct educational program series--Living Self Portraits--with such well-known political, cultural, sports and social figures as Clare Booth Luce, Dorothy Height, Gordon Parks, Jesse Owens and Al Hirshfeld. These broadcast, production and program-based interviews with scholars, staff, national figures, and exhibition-related personalities have appeared in NPG-produced gallery enhancements as well as on C-SPAN, NBC, CBS, ABC, and PBS. Historical and documentary footage of our home, the Old Patent Office Building, and the Portrait Gallery as an institution are also included."
+hc_id: "644"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "PO Box 37012"
+address2:  "Victor Building, Suite 410, MRC 973"
+city:  "Washington"
+state:  "DC"
+zip: "20013-7012"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: "I thought there was nothing so glorious as war": Creating Online Access to the World War I Materials at The Museum of Flight
+title: "I thought there was nothing so glorious as war: Creating Online Access to the World War I Materials at The Museum of Flight"
+year: 2015
+end_range: 1930
+formats: "NULL"
+geographic_extant: "The collections in our World War I holdings include materials related to activities in the United States, Canada, Great Britain, France, and Germany."
+institution: "The Museum of Flight"
+institution_type: "NULL"
+primary_contact: "Ms. Amy Heidrick"
+size: "NULL"
+start_range: "1900"
+summary: "The Museum of Flight will conduct an 18-month project to create an online repository of digitized photographs, manuscripts, and ephemera from our holdings related to World War I. The collections include approximately 2,500 photos, 25 aircraft and engine manuals, 23 pieces of sheet music, 53 stereo cards, and 6 cubic feet of manuscripts and ephemera. As the United States approaches the 100 year anniversary of our entry into World War I, this project will make significant scholarly resources on the history of aviation during the war widely available and will help deepen our understanding and appreciation of the people who built and flew aircraft during this time period. The project will also be a significant first step in developing a formal digitization program for The Museum of Flight."
+hc_id: "18602987"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "The Museum of Flight"
+p2_name:  "Ms. Lindsay Zaborowski"
+p2_institution:  "The Museum of Flight"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>2500 Photographs</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$58,200"
+material_description:  "The World War I collections at The Museum of Flight cover both the technical aspects of flight and the personal experiences of the individuals flying the aircraft. These collections have only ever been seen by a small number of researchers who visited our research facility; they have never been displayed publicly in our museum, nor have detailed finding aids for the collections been made available. A majority of the collections included in this project came to the Museum through family donations or through our acquisition of the Champlin Fighter Museum and American Fighter Aces Association collections. The collections range from scrapbooks and letters from residents of the Pacific Northwest to photographs and documents from nationally renowned flyers. They are the personal collections of pilots that uniquely illustrate their individual wartime experience and tell stories of their triumphs and hardships, most of which have never been told before. Individual collections include a detailed account of Seattle Norman Archibald's wartime experience as a pilot for the 95th Aero Squadron in France, which inspired his book Heaven High, Hell Deep, as well as the personal collections of celebrated American Fighter Aces Hamilton Coolidge and Joseph Wehner (who is quoted in our project title for this grant). In addition to these personal collections, we will digitize aircraft and training manuals and other technical documentation. These items are extremely rare and will provide a closer look at the state-of-the-art flying machines of the time period. The centennial of America's entry into World War I is a perfect time to open these rare and unique items up to fresh examination by scholars, students, and the general public."
 ---
-
-

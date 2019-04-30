@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Letters to East L.A.: Mexicano American Wartime Correspondence from WWII to Vietnam
+title: "Letters to East L.A.: Mexicano American Wartime Correspondence from WWII to Vietnam"
+year: 2012
+end_range: 2003
+formats: "NULL"
+geographic_extant: "Los Angeles, California, Washington, D.C., and combat areas during WWII, Korea and Vietnam."
+institution: "Chicano Studies Research Center"
+institution_type: "NULL"
+primary_contact: "Connie Heskett"
+size: "234 linear feet"
+start_range: "1920"
+summary: "Letters to East L.A. is a new initiative to document Chicano military service during WWII, Korea, and Vietnam, drawing on a unique and extensive collection of wartime correspondence that gives insight into the experiences of servicemen's families and community back home during wartime, and also the critical role of the first Latino from California to serve in the U.S. Congress since 1878. The correspondence included in this project reflects the experiences of people living in East L.A. during these wars, and it serves as an ideal entry point for situating Chicano military service and home front experiences in U.S. history. They include letters between a young woman (and future civic leader) and active duty servicemen, between a husband and wife separated by war (and among extended family members), and between an elected official and his constituents. These stories and the voices captured within 234 linear feet of correspondence belong to the generation of Mexican Americans who are amongst America's “greatest generation.” For Chicanos, this era generated an age group which is largely responsible for Mexican Americans' increasing participation within public institutions and a movement toward greater social empowerment and achievement within the larger American social framework."
+hc_id: "913"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "193 Haines Hall"
+address2:  "Box 951544"
+city:  "Los Angeles"
+state:  "CA"
+zip: "90095-1544"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

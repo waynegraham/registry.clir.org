@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing Social Justice: Advancing Knowledge of the American 20th Century Catholic Social Action Movement
+title: "Digitizing Social Justice: Advancing Knowledge of the American 20th Century Catholic Social Action Movement"
+year: 2016
+end_range: 2016
+formats: "NULL"
+geographic_extant: "United States, especially Washington D.C., and New York with lesser amounts from New England."
+institution: "Marquette University"
+institution_type: "NULL"
+primary_contact: "Ms. Amy Cooper Cary"
+size: "NULL"
+start_range: "1892"
+summary: "This collaborative project includes The Catholic University of America, Marquette University, and the Catholic Research Resources Alliance. Over a period of three years (2017-2019) project partners will collectively digitize and make publicly available materials documenting Catholic social justice and action in the 20th century. The collections refer to each other, across holdings and across institutions. This project seeks to bridge the dispersed nature of these archival collections, enhancing research world-wide and creating critical connections for research in social justice. Materials selected will be digitized from holdings of significant activists and thinkers of the period, including Dorothy Day, John Ryan, the Catholic Interracial Council, and more. Source materials include diverse formats: correspondence, notebooks, diaries, manuscripts, press accounts, newsletters, newspapers, drawings, and photographs."
+hc_id: "21923697"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Marquette University Libraries"
+p2_name:  "Ms. Jean Zanoni"
+p2_institution:  "Marquette University Libraries"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>115.1 Mixed Archival Collections</li>"
+collaborating_institution:  "Catholic University of America (CUA); Catholic Research Resources Alliance (CRRA)"
+grant_amount:  "$130,253"
+material_description:  "The John A. Ryan Papers were donated to The Catholic University of America by the Social Action Department of the National Catholic Welfare Conference and Lawrence Ryan in 1949 and 1950. The Catholic Interracial Council of New York donated its records to the American Catholic History Research Center and University Archives in 1977. The Paul Philips Cooke papers, donated by Cooke in 2000, 2002, and 2005, include six linear feet of records focused primarily on the Catholic Interracial Council of the District of Columbia (CICDC). The Celestine Joseph Nuesse Papers, donated by Nuesse from 1994-1999, includes one linear foot of materials related to the CICDC. The Paul Hanly Furfey Papers include .25 linear feet of material proposed for digitization related to Dorothy Day. These papers are part of Furfey's correspondence files. The materials were donated by Furfey and colleague Mary Elizabeth Walsh from 1983-1992. Dorothy Day and Peter Maurin founded The Catholic Worker, a faith-based, grassroots movement for peace and social justice through nonviolent action. The Marquette University Special Collections and University Archives began to acquire the records of the movement in 1962. The entire collection spans over 200 linear feet, and includes personal papers of Day, Maurin and others; The Catholic Worker newspaper; records of Catholic Worker communities; interviews; talks; television programs; and a wide variety of other publications."
 ---
-
-

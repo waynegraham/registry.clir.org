@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Digitizing the Avant-Garde: Selections from the KPFA music archive in the Other Minds Records
+title: "Digitizing the Avant-Garde: Selections from the KPFA music archive in the Other Minds Records"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "The Regents of the University of California, Santa Cruz"
+institution_type: "NULL"
+primary_contact: "Ms. Elizabeth Cowell"
+size: "NULL"
+start_range: "NULL"
+summary: "UCSC seeks to digitize 69 open-reel audiotapes of live music performances from the Cabrillo Festival of Contemporary Music. These recordings were originally made by KPFA, a Berkeley, California community radio station, and were subsequently transferred to the Bay Area music non-profit organization, Other Minds. UCSC is now the repository for the Other Minds records and KPFA music archive, which includes over 4,000 recordings on a variety of media. The completion of this grant will support us in planning for the digitization of the remaining recordings. The recordings will be cataloged in the Library catalog and made available on demand to patrons both on-site and via remote access. These recordings provide insights into the early creative processes of composers and artists who are recognized influencers of American new music. We anticipate that this material will be used by musicologists, historians, composers, programmers, students, and others interested in experimental and avant-garde music."
+hc_id: "25283523"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "University of California, Santa Cruz"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "69 items"
+collaborating_institution:  "NULL"
+grant_amount:  "$17,766"
+material_description:  "The recordings to be reformatted consist of 69 open-reel audiotapes of select live music performances from 1965, 1967, and 1982 at the Cabrillo Festival of Contemporary Music, an annual festival of contemporary experimental symphonic music by living composers held in Santa Cruz, California. The recordings were originally made by KPFA, a Berkeley, California independent community radio station and stored by them as part of their Music Department Archive until 2000, when the archive was donated to Other Minds, Inc., a Bay Area contemporary music non-profit organization. The entire Other Minds archive, including the KPFA recordings, was given to UCSC in 2016. Other Minds had worked to digitize much of the KPFA archive in the past and made the digital recordings available to the public on the Internet Archive. Currently, over 1,300 recordings are available in the Internet Archive (https://archive.org/details/other_minds). The selections proposed in this grant have not yet been digitized and are not currently accessible to the public, nor can they be made accessible in their current physical state. The recordings have been inventoried based on container information in a descriptive database created by Other Minds. While there is currently no description of the collection available online, UCSC has identified the entire Other Minds collection as a high priority, and we plan to begin processing the collection in mid-2017. The collection includes over 4,000 recordings on a variety of media, including reel to reel, cassette, DAT and videotapes, all of which will need to be reformatted before being made available to the public. It is our hope that in successfully completing this grant we will be able to better plan for the digitization of the remaining recordings in the future."
 ---
-
-

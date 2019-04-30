@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Public Radio as a Tool for Cultural Engagement in New York in the 60s and early 70s: Digitizing the Broadcasts of WRVR-FM Public Radio
+title: "Public Radio as a Tool for Cultural Engagement in New York in the 60s and early 70s: Digitizing the Broadcasts of WRVR-FM Public Radio"
+year: 2017
+end_range: 1971
+formats: "NULL"
+geographic_extant: "Most recordings took place at WRVR and in the broader New York metropolitan region. Since WRVR was a member of educational radio networks, recordings also feature national and world-wide content, including southern and northern civil rights issues and Cold War matters related to the Soviet Union and Southeast Asia."
+institution: "The Riverside Church in the City of New York"
+institution_type: "NULL"
+primary_contact: "Ms. Ricki Moskowitz"
+size: "NULL"
+start_range: "1961"
+summary: "The Riverside Church in the City of New York (TRC), Library of Congress (LOC), and WGBH Educational Foundation (WGBH) will digitize 3502 ¼-inch open-reel recordings from WRVR-FM’s 1961-1971 broadcasts for addition, with metadata, to the American Archive of Public Broadcasting (AAPB). The nominated collection reflects WRVR’s culturally significant non-commercial programming, including interviews, speeches, and musical interpretations on matters like civil rights, war, and fine arts, from laypersons to famed scholars, including Martin Luther King, Jr., Malcolm X, and Pete Seeger. The project will preserve recordings outside their current time-sensitive medium, making 4060 hours of audio available. It will enhance study in many disciplines, including theology/religion, political science, and communications, especially related to American Christianity, homiletics, progressive responses to the Civil Rights movement, contemporary issues of race and sexuality, cultural impact of the 1960s, and public radio as a tool for cultural engagement and social media precursor."
+hc_id: "26893160"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "The Riverside Church in the City of New York"
+p2_name:  "Ms. Rachel Curtis"
+p2_institution:  "AAPB"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>4060 Audio Recordings</li>"
+collaborating_institution:  "Library of Congress; WGBH Educational Foundation"
+grant_amount:  "$330,816"
+material_description:  "The nominated collection consists of 3502 audio recordings, representing WRVR original programming and broadcasts from member stations in the non-commercial radio networks, National Association of Educational Broadcasters (NAEB) and National Educational Radio Network (NERN). Programming comprises several archival series: Music; Public Affairs; Educational; Arts; Religion; and several Spanish Language shows. Featured are recordings of Riverside and guest clergy sermons (including five from Martin Luther King, Jr.), special services, and Virgil Fox organ recitals. The recordings offer a broad representation of progressive religious and philosophical discussions with Riverside clergy, theologians, and other scholars, such as a lecture on “Christian Ethics and Partisan Politics.” Culturally significant topics are well represented on programs such as, Challenge to Democracy and Gateway to Ideas. Late, Late Lecture presented interviews and/or discussions with figures such as Lionel Trilling and Margaret Mead. Cultural programming includes Langston Hughes’ “Jericho–Jim Crow” directed by Alvin Ailey, and Poetry Discovered features interviews of and/or readings from artists like Robert Frost, John Ashbery, and Allen Ginsberg. WRVR’s music programming, included opera, classical, popular music, and jazz broadcasts of pre-recorded music, live performances, and interviews. There are interviews with, and presumably performances by, musicians such as Mary Lou Williams, Sy Oliver, and Stan Getz. LOC holds tapes from “Just Jazz with Ed Beach,” broadcast on WRVR, which will be added to the nominated collection for digitization. Ed Beach devoted entire shows to the recordings of jazz performers and composers, like Teddy Wilson and Duke Ellington, and to particular phases of jazz."
 ---
-
-

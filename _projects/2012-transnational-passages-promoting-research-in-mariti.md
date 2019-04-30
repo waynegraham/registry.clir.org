@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Transnational Passages: Promoting Research in Maritime and Migrant Labor Collections of the Pacific Slope
+title: "Transnational Passages: Promoting Research in Maritime and Migrant Labor Collections of the Pacific Slope"
+year: 2012
+end_range: 2012
+formats: "NULL"
+geographic_extant: "Washington, California, Alaska, Oregon, Montana, Honduras, Idaho, Western Canada, Hawaii, Japan, Chile, China, Mexico, Philippines, Australia"
+institution: "History Department"
+institution_type: "NULL"
+primary_contact: "Casey Casey"
+size: "400 boxes, 400 cubic feet, 400 linear feet, 400 objects"
+start_range: "1882"
+summary: "The hidden collections for this project are part of the 200-plus labor-related collections held by Special Collections. Maritime and migrant labor collections are of high scholarly value and our top priority is to increase their visibility and access. These collections connect to the theme of maritime and migrant labor in the Pacific Slope, tracing transnational labor flows and global economies, addressing an array of scholarly concerns: labor, industry, immigration, civil rights, and political history. They are important to Asian and Latin American studies, legal studies, and literary criticism as well as history, and attract scholars from around the Pacific and the US. Collections include records of important unions:ILWU, Cannery Workers, Carpenters, Ship Scalers, Fishermen, Inland boatmen, Marine Engineers;state and county labor federations; IWW; United Farm Workers of Washington, state political organizations and law firms, and the papers of important activists and journalists. Highlights include more than a dozen collections documenting often-overlooked communities such as Asian American labor activists, especially Filipino Americans; collections documenting the history of West Coast radicalism from the 1890s-2000s, and key materials on civil rights activism in African American, Asian American, Latin American, and labor circles. As well, legal scholars find documentation of pivotal 1970s affirmative action campaigns of high scholarly interest."
+hc_id: "951"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "University of Washington"
+address2:  "Libraries Special Collections"
+city:  "Seattle"
+state:  "WA"
+zip: "98195-2900"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: ENV Archives-Special Collections, Cal Poly Pomona
+title: "ENV Archives-Special Collections, Cal Poly Pomona"
+year: 2009
+end_range: 1990
+formats: "NULL"
+geographic_extant: "The collections of Archives focus on the growth of modernism in southern California architecture from \nthe 1920s through the 1990s."
+institution: "ENV Archives-Special Collections"
+institution_type: "NULL"
+primary_contact: "Lauren Weiss Bricker"
+size: "744 linear feet"
+start_range: "1920"
+summary: "The proposed project enables the integration of the ENV Archives and Visual Resources Library of the College of Environmental Design (ENV), Cal Poly Pomona. These facilities share a number of archival collections but differences of media caused them be be separated: the Archives holds drawings, photographs and manuscripts and the Visual Resources Library specializes is 35 millimeter slides. The facilities share the works of Richard J. Neutra, Raphael Soriano and Craig Ellwood, each seminal figures in the history of the modern movement in southern California. The ENV Archives owns the collections of Donald Wexler and landscape architect Francis Dean. Wexler is the youngest member of the Palm Springs mid-century circle of architects, and Dean was a partner in the firm Eckbo Dean Austin and Williams (EDAW), California’s preeminent postwar landscape architecture firm. Each individual was affiliated with ENV as an instructor or critic; as such their holdings are part of our institution’s legacy and connect us with the region’s contribution to world architecture. A small percentage of the materials has been published. As a whole, the collections reflect innovations in technology, building and urban typologies (Dean was involved with early examples of pedestrian malls), and the evolution of the modern aesthetic in southern California’s mild climate."
+hc_id: "426"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "3801 W. Temple Avenue"
+address2:  "NULL"
+city:  "Pomona"
+state:  "CA"
+zip: "91768"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

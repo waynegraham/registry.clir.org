@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Movers and Shakers: the Hidden Archives of the Museum Founders, Dealers, and Early Collectors that Shaped and Defined the Field
+title: "Movers and Shakers: the Hidden Archives of the Museum Founders, Dealers, and Early Collectors that Shaped and Defined the Field"
+year: 2014
+end_range: 1999
+formats: "NULL"
+geographic_extant: "No specific geographic area"
+institution: "NULL"
+institution_type: "NULL"
+primary_contact: "Linda Edgerly"
+size: "60 linear feet"
+start_range: "1960"
+summary: "This twelve-month project will provide access to important archives of eleven individuals who helped shape and define the field including museum founders Adele Earnest and David L. Davies; Robert Bishop, director; Gerald Kornblau, collector and dealer; and Julia Weissman, scholar; among others. The 60 linear feet of uncatalogued archives are truly hidden to scholars and are of interest because they illuminate the diverse personalities and eccentricities of the early leaders in the field that were more likely to be part of a bohemian crowdâ€”attracted to folk art not because of its prestige value but by its artistic, instructive, and ethnological significance. Their passions are evident in their letters, research, photos and more."
+hc_id: "11054300"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

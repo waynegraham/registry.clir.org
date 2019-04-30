@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Black in Your Ear: Making audio of the Black Metropolis Accessible
+title: "Black in Your Ear: Making audio of the Black Metropolis Accessible"
+year: 2015
+end_range: 2005
+formats: "NULL"
+geographic_extant: "The geographic scope of the collection chosen for this project is generally Chicago, Illinois, specifically the south and west sides of the city where large African American populations reside. Some of the material's geographic scope is Evanston, Illinois and Baltimore, Maryland."
+institution: "Black Metropolis Research Consortium (University of Chicago)."
+institution_type: "NULL"
+primary_contact: "Dr. Jacqueline Stewart"
+size: "NULL"
+start_range: "1940"
+summary: "Aligning with the mission of the BMRC of making primary source records accessible, this digitization project will provide access and preserve audio recordings of interviews, music, and community-based programs and make them available to researchers, scholars, and other information users in Chicago and beyond. These recordings are highly significant for research, and provide an encounter with real time and space through a unique window of 20th century vernacular information documenting subjects of important value to African American history in Chicago and the United States. In an effort to expand access and intellectual control of Chicago's African American heritage, this project focuses on entire collections or major series contained within processed collections. The materials cover a dynamic time period in Chicago's history, the 1940s-1980s - African American leadership in labor unions, White Flight, civil unrest, the growth of Black radio, and life in Chicago's public housing."
+hc_id: "17135066"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "University of Chicago"
+p2_name:  "Ms. Camille Ann"
+p2_institution:  "Executive Director"
+p3_name:  "Ms."
+p3_institution:  "NULL"
+material_string: "<li>915 Audio Recordings</li>"
+collaborating_institution:  "Chicago State University; Chicago History Museum; Center for Black Music Research, Columbia College Chicago; University of Illinois at Chicago; Shorefront Legacy Center"
+grant_amount:  "$60,995"
+material_description:  "The audio recordings, which form the subject of this project span oral history interviews with local neighborhood residents during the 1960s, public housing residents, African American classical composers and blues musicians, and the Brotherhood of Sleeping Car Porters. Church sermons presented by local civil rights leaders are also included. Subjects include: Ishmael Flory, A. Philip Randolph - members of the Brotherhood of Sleeping Car Porters; Richard E. Stamz - a broadcast pioneer whose 1950's radio show on WGES, \"Open the Door, Richard,\"  was a musical and cultural mainstay of radio programming in Chicago, and helped promote and popularize urban black musical genres such as soul, blues, and gospel; Alton Augustus Adams Sr. the first black bandmaster in the US Navy and a writer on band-related topics.\n\n\n\nThe recordings also document oral histories of residents of Stateway Gardens, one of the Chicago Housing Authority facilities, which was demolished in 2007, and residents of the Chicago South Side communities between 1967-1969. \n\n\n\nAlso included in this proposal are recordings of the Lawndale Community Development Conference, which was held in June 1977 to address important social problems. North Lawndale experienced many of Chicago's most pressing social problems in the latter 20th century including \"white flight\"  riots in 1968, and the virtual abandonment of the community by businesses.\n\n\n\nThe provenances of most of the recordings were gifts made to BMRC member institutions by the creators and/or family members of the subject of the recordings."
 ---
-
-

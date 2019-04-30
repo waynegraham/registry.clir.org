@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Exposing Exposition: The Artistic Vanguard from California Institute of the Arts
+title: "Exposing Exposition: The Artistic Vanguard from California Institute of the Arts"
+year: 2012
+end_range: 1990
+formats: "NULL"
+geographic_extant: "All items originate from greater Los Angeles, California but are not bound geographically by scope."
+institution: "California Institute of the Arts"
+institution_type: "NULL"
+primary_contact: "Jeff Gatten"
+size: "25 boxes"
+start_range: "1961"
+summary: "California Institute of the Arts (CalArts) is an educational leader at the artistic vanguard of experimental visual and performing arts. This project will make known significant materials documenting the cultural dissemination of new expression from a highly innovative era for Los Angeles as an international catalyst of contemporary art. Specifically, materials include: posters of performances, openings, and other events along with some early planning, non-text materials (e.g., blueprints, sketches, photographs); the correspondence, reviews, planning documents, budgets, grant proposals, press releases, newspaper articles, and audio recordings from the CalArts Contemporary Music Festival (1978-1988) which presented the work of major contemporary and avant-garde composers and musicians such as Elliott Carter, Mel Powell, Joan La Barbara, Diamanda Galas, Kronos Quartet, Morton Feldman, Lou Harrison, and The Harry Partch Ensemble; and the personal papers of Ed Emshwiller, visual artist and filmmaker who was dean of the School of Film/Video from 1979-1990 producing alumni such as Pete Docter, Ralph Eggleston, Amy Kravitz, Gary Trousdale, and Kirk Wise. Emshwiller also created the electronic video opera, Hunger, for the 1987 L. A. Arts Festival, with composer Morton Subotnick. It was his last completed work, presented in October 1989 at the Ars Electronica Festival in Austria. CalArts also has the notes, sketches, and plans for Emschwiller's films Hunger and Time of the Heathen."
+hc_id: "1014"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "24700 McBean parkway"
+address2:  "NULL"
+city:  "Valenica"
+state:  "CA"
+zip: "91355"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

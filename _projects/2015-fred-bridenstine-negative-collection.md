@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Fred Bridenstine Negative Collection
+title: "Fred Bridenstine Negative Collection"
+year: 2015
+end_range: 1980
+formats: "NULL"
+geographic_extant: "Beaverhead County, Montana is the largest county in the state and one of the first settled."
+institution: "Beaverhead County Museum Association"
+institution_type: "NULL"
+primary_contact: "Ms. Dorothy Stout"
+size: "NULL"
+start_range: "1940"
+summary: "This project would digitize the extensive collection of negatives created by Fred Bridenstine over a 50 year period starting in 1940 in Beaverhead County, Montana. He was a gifted amateur photographer as well as a dedicated outdoors-man with a fine collection of cameras. He was the official rodeo photographer for 30 years, retiring at age 75, saying: I had many close calls but was never hurt.\" He photographed all of the local athletic teams, the major buildings in the community both old and new, the mines in the county, many of the ranches and nearly every lake and stream that could be reached by foot or horseback."
+hc_id: "17621411"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Beaverhead County Museum Association"
+p2_name:  "Ms. Michele"
+p2_institution:  "Archivist"
+p3_name:  "Ms."
+p3_institution:  "NULL"
+material_string: "<li>14410 Negatives</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$23,206"
+material_description:  "The negatives were donated to the Museum by the son of the photographer and the collection additionally includes thousands of portraits which will be digitized at a later date. The subjects, as well as rodeos and fairs, include mining, ranching, local mountains and lakes, homes and buildings, social events, athletic teams and anything else that caught his fancy. The negatives are mostly black & white in a variety of sizes but also include some color negatives."
 ---
-
-

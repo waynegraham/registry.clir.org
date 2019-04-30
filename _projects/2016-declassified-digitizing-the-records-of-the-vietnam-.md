@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Declassified! Digitizing the Records of the Vietnam War
+title: "Declassified! Digitizing the Records of the Vietnam War"
+year: 2016
+end_range: 2013
+formats: "NULL"
+geographic_extant: "These collections represent two large geographic regions: Southeast Asia and the United States. The bulk of the material focuses on the country of Vietnam, but Cambodia, Laos, and Thailand are represented as they were the locations of major US bases and campaigns during the Vietnam War."
+institution: "Vietnam Center and Archive - Texas Tech University"
+institution_type: "NULL"
+primary_contact: "Ms. Amy Mondt"
+size: "NULL"
+start_range: "1940"
+summary: "The Vietnam Center and Archive (VNCA) will digitize 55 linear feet of manuscript material from our holdings. The collections selected cover many aspects of the Vietnam War, from the clandestine operations of the MACV-SOG teams, to the nuts and bolts operations of Psychological Operations (PSYOPs) teams and the Phoenix Program. They also give a more in-depth view of key aspects of the war, like daily operations of major units, firsthand accounts of the Tet Offensive, and the aftermath of the Operation Babylift crash. With the commemoration of the Vietnam War's 50th Anniversary going on through 2025, it is important to make these materials widely available to help scholars answer questions about a war that is still controversial to this day. The VNCA will add the files to our Virtual Vietnam Archive, a keyword-searchable database and one of the world's largest online archives of freely available materials about the Vietnam War."
+hc_id: "23080989"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Vietnam Center & Archive"
+p2_name:  "Ms. Sheon Mongomery"
+p2_institution:  "Vietnam Center & Archive"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>55 Manuscripts</li>"
+collaborating_institution:  "NULL"
+grant_amount:  "$71,175"
+material_description:  "The VNCA proposes to digitize 55 linear feet of manuscript material from seven important collections in our repository, all with clear provenance, and add the material to our Virtual Vietnam Archive. The collections nominated document events through the entire spectrum of the conflict, from the war's first major battle at the Ia Drang Valley in 1965, to the crash of an Operation Babylift flight shortly before the Fall of Saigon in 1975. These manuscripts contain rare material about US clandestine operations, including MACV-SOG units, highly classified, multi-service special operations units that conducted covert missions throughout Vietnam, Cambodia, and Laos; an in-depth view of Psychological Operations teams and their mission to win the hearts and minds of both Vietnamese civilians and enemy soldiers; and the CIA and Operation Phoenix. Materials on these special missions offer researchers an unprecedented glimpse into the behind-the-scenes operations of the military's most secret operations. Other collections nominated contain after action reports, duty logs, and official military reports that give researchers a view of the daily operations of major units like the 1st Cavalry Division, the 101st Airborne Division, and the 35th Infantry Regiment, as well as first-hand accounts and reports of battles including the Tet Offensive, Lam Son 719, and the 1972 Easter Offensive. The Virtual Vietnam Archive (VVA) is a resource that gives the world unfettered access to Vietnam War related primary and secondary source material, and our proposal will expose these rare records to an international audience of scholars, researchers, and veterans. The collections nominated will be used to advance projects ranging from scholarly publications, to documentary films, documentation for veteran's benefits and health claims, and even intelligence gathering by the Defense POW/MIA Accounting Agency to reunite the remains of MIA soldiers with their families."
 ---
-
-

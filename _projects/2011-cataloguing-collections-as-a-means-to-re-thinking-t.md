@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Cataloguing Collections as a means to re-thinking the roots of a profession: Mesoamerican Studies from 1920-1940
+title: "Cataloguing Collections as a means to re-thinking the roots of a profession: Mesoamerican Studies from 1920-1940"
+year: 2011
+end_range: 1940
+formats: "NULL"
+geographic_extant: "The collections pertain to Mesoamerica, what is modern-day Mexico, Belize, Guatemala, El Salvador, Honduras, Nicaragua, and Costa Rica."
+institution: "Middle American Research Institute"
+institution_type: "NULL"
+primary_contact: "Melissa Erekson"
+size: "200 linear feet"
+start_range: "1920"
+summary: "The collections include papers, audio, images, and maps pertaining to the study of Mesoamerican civilizations, or the cultures of ancient mexico, guatemala, and Central America, from 1920-1940. The correspondence, diary, site index, and field notes of Frans Blom - well known for his studies at Palenque and early scholarly reports of the Olmec civilization -shed light on the emerging profession. The Hermann Beyer collection, including papers, correspondence, and notes, brings to life the work of deciphering Mayan script during that time period. Also included are the correspondence, notes, and papers of Oliver LaFarge, Stanley Boggs, Maurice Ries and Robert Wauchope. These papers are complemented by a series of photographs and maps depicting archaeological sites of the time. A collection of notes, correspondence and manuscripts conducted by faculty at the Middle American Research Institute from the 1920s to the 1940s provides a glimpse into the academy and its view of the evolving field."
+hc_id: "782"
+program: "NULL"
+grant_type: "Cataloging Hidden Collections"
+project_url: "NULL"
+address1:  "c/o Development Office"
+address2:  "6821 St. Charles Ave."
+city:  "New Orleans"
+state:  "LA"
+zip: "70118"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "NULL"
+p2_name:  "NULL"
+p2_institution:  "NULL"
+p3_name:  "NULL"
+p3_institution:  "NULL"
+material_string: "NULL"
+collaborating_institution:  "NULL"
+grant_amount:  "NULL"
+material_description:  "NULL"
 ---
-
-

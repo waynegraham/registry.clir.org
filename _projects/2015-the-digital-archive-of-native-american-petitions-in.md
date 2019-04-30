@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: The Digital Archive of Native American Petitions in Massachusetts
+title: "The Digital Archive of Native American Petitions in Massachusetts"
+year: 2015
+end_range: 1870
+formats: "NULL"
+geographic_extant: "The petitions concern or were sent from Native peoples in Massachusetts, Maine (part of Massachusetts until 1820), the Connecticut and Hudson River valleys, elsewhere in the Northeast, and the Great Lakes region. Boston was an important crossroads for Native peoples, and petitions come from peoples living hundreds of miles away."
+institution: "The Presidents and Fellows of Harvard College for the Radcliffe Institute for Advanced Study"
+institution_type: "NULL"
+primary_contact: "Dr. Daniel Carpenter"
+size: "NULL"
+start_range: "1640"
+summary: "A project to digitize approximately 4,500 petitions from and about Native American peoples throughout the Northeast that are held at the Massachusetts Archives of the Commonwealth in Boston. At least one-third of these petitions are authored by Native people themselves and many more are co-authored. Others express the views of non-Native peoples about issues affecting American Indian life. Because Massachusetts was an important trading and diplomatic space, the petitions come from the Great Lakes, contemporary Canada, Maine, and the Connecticut and Hudson River Valleys. The petitions, already having been initially processed, will be thoroughly catalogued with metadata information, and will then be digitized and rehoused with conservation measures. The digital repository will be created at Harvard's Dataverse and replicated at Yale. This free, publicly accessible resource will enrich Native American studies, American history, anthropology and other humanistic pursuits."
+hc_id: "18603072"
+program: "Digitizing Hidden Collections"
+grant_type: "Digitizing Hidden Collections"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "TRUE"
+p1_institution:  "Harvard University"
+p2_name:  "Dr. Paul Grant-Costa"
+p2_institution:  "Yale University"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "<li>4500 Manuscripts</li>"
+collaborating_institution:  "Yale University, Yale Indian Papers Project"
+grant_amount:  "$275,795"
+material_description:  "We seek to digitize petitions of two sorts: (1) petitions sent by Native American individuals, villages, groups and nations to Massachusetts colonial and state officials, most commonly the General Court of Massachusetts (which includes the Massachusetts House of Representatives and the Massachusetts Senate), and (2) petitions sent by non-Native Americans that concern Native American peoples, sent to the same bodies. We have completed a preliminary survey of the petitions in the collection running from colonial materials (roughly 1640) to the Reconstruction period (1870) and have located over 2,800 such petitions. Our extrapolations for documentary collections not yet covered suggest a total of approximately 4,500 petitions. These collections include extensive documents drafted and signed by Abenaki, Chappaquiddick, Maliseet, Mohawk, Mohegan, Nipmuc, Penobscot, Pequot, Punkapoag, Wampanoag and other Native American peoples. In the documents we have already located, we have witnessed petitions concerning or from 72 different Native American nations. The petitions concern a vast array of issues, including land rights, water rights and treaties; religion and religious practices of Native Americans; colonial and early U.S. state policies relating to Indian peoples; relations among Native Americans and colonial populations; relations amongst the various Native American communities and tribes; slavery and servitude among Native Americans; the attitudes and ideologies of non-Native Americans toward American Indians; the cultural and political beliefs and practices of Native American peoples, including diplomacy and legal struggles, from the Great Lakes through contemporary Quebec and Maine, through the Hudson and Connecticut River Valleys to Massachusetts. A range of historical events and patterns are concerned, including the Mashpee Revolt of 1833, the Iroquois Confederacy and its relations with colonial Massachusetts and England and France; health and public health issues among Native Americans; struggles over land and dispossession, and the cultural, social and political organization (and reorganization) of American Indian peoples."
 ---
-
-

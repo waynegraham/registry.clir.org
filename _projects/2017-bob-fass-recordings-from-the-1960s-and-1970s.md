@@ -1,6 +1,34 @@
 --- 
 layout: project 
-title: Bob Fass Recordings from the 1960s and 1970s
+title: "Bob Fass Recordings from the 1960s and 1970s"
+year: 2017
+end_range: NULL
+formats: "NULL"
+geographic_extant: "NULL"
+institution: "The Trustees of Columbia University in the City of New York"
+institution_type: "NULL"
+primary_contact: "Ms. Janet Gertz"
+size: "NULL"
+start_range: "NULL"
+summary: "Columbia University will preserve and provide access to over a decade’s worth of audiotapes from the archive of groundbreaking broadcaster Bob Fass. A pioneer of “free form” radio for seven decades, Fass is best known for his late-night program Radio Unnameable. During the sixties it featured unscripted appearances by poets and musicians like Allen Ginsberg and Bob Dylan, and social activists like Abbie Hoffman and Timothy Leary – a forum where listeners could interact with their idols and one another. In 1968 alone, Fass broadcast live events like the “Yip In” at Grand Central Station, Columbia University student protests, and the Chicago Democratic National convention. Once digitized, these recordings will be a major resource to study mobilization of dissent via mass-media in late-twentieth century America. As Professor Brent Edwards’ letter indicates, the archive offers “an unparalleled window into the full gamut of American counterculture from the 1960s through the millennium.”"
+hc_id: "26661639"
+program: "Recordings at Risk"
+grant_type: "Recordings at Risk"
+project_url: "NULL"
+address1:  "NULL"
+address2:  "NULL"
+city:  "NULL"
+state:  "NULL"
+zip: "NULL"
+repository_url:  "NULL"
+funded:  "FALSE"
+p1_institution:  "Columbia University Libraries"
+p2_name:  ""
+p2_institution:  "NULL"
+p3_name:  ""
+p3_institution:  "NULL"
+material_string: "1300 recorded hours"
+collaborating_institution:  "NULL"
+grant_amount:  "$47,483"
+material_description:  "NULL"
 ---
-
-
