@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Little Literary Magazine Archives in the Poetry Collection" 
+title: Little Literary Magazine Archives in the Poetry Collection
 ---
 
 

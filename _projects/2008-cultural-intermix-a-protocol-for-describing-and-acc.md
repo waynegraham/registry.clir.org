@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Cultural Intermix: A Protocol for Describing and Accessing Mail Art Collections" 
+title: Cultural Intermix: A Protocol for Describing and Accessing Mail Art Collections
 ---
 
 

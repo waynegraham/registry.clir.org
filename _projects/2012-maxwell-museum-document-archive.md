@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Maxwell Museum Document Archive" 
+title: Maxwell Museum Document Archive
 ---
 
 

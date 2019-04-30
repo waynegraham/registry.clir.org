@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Foundations of Public Health Policy" 
+title: Foundations of Public Health Policy
 ---
 
 

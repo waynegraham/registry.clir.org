@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Schoharie County Historical Materials" 
+title: Schoharie County Historical Materials
 ---
 
 

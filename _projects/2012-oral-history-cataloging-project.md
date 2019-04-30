@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Oral History Cataloging Project" 
+title: Oral History Cataloging Project
 ---
 
 

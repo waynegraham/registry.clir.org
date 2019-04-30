@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "The Paleontological Research Institution Archive" 
+title: The Paleontological Research Institution Archive
 ---
 
 

@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Martha's Vineyard Archives Project" 
+title: Martha's Vineyard Archives Project
 ---
 
 

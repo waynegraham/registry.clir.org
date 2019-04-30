@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Mariners Muster: Cataloguing Mariner Manuscripts" 
+title: Mariners Muster: Cataloguing Mariner Manuscripts
 ---
 
 

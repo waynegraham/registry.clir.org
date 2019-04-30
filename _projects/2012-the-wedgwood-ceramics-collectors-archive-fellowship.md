@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "The Wedgwood Ceramics Collectors Archive Fellowship" 
+title: The Wedgwood Ceramics Collectors Archive Fellowship
 ---
 
 

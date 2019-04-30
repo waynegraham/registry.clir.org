@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Highlander Center Collections" 
+title: Highlander Center Collections
 ---
 
 

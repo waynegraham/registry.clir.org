@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "AAC Institutional Archives and Photo collections" 
+title: AAC Institutional Archives and Photo collections
 ---
 
 

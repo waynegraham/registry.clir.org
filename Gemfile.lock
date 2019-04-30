@@ -151,6 +151,7 @@ DEPENDENCIES
   jekyll (~> 3.8.5)
   jekyll-feed (~> 0.6)
   jekyll-paginate
+  jekyll-seo-tag
   jekyll-sitemap
   minima (~> 2.0)
   ra11y

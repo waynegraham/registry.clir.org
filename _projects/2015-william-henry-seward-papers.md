@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "William Henry Seward Papers" 
+title: William Henry Seward Papers
 ---
 
 

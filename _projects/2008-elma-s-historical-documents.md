@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Elma's Historical Documents" 
+title: Elma's Historical Documents
 ---
 
 

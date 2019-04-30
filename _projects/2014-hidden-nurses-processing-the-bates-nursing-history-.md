@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Hidden Nurses: Processing the Bates Nursing History Center Collections" 
+title: Hidden Nurses: Processing the Bates Nursing History Center Collections
 ---
 
 

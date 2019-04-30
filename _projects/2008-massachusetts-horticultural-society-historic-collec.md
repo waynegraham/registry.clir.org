@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Massachusetts Horticultural Society Historic Collection" 
+title: Massachusetts Horticultural Society Historic Collection
 ---
 
 

@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "The Roman Vishniac Project" 
+title: The Roman Vishniac Project
 ---
 
 

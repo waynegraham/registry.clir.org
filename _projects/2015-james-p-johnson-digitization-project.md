@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "James P. Johnson Digitization Project" 
+title: James P. Johnson Digitization Project
 ---
 
 

@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Tucker-Coleman Family Papers" 
+title: Tucker-Coleman Family Papers
 ---
 
 

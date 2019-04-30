@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Cataloging the Henry Hampton/ Blackside Collection" 
+title: Cataloging the Henry Hampton/ Blackside Collection
 ---
 
 

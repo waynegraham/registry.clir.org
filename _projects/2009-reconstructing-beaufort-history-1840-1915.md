@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Reconstructing Beaufort History, 1840-1915" 
+title: Reconstructing Beaufort History, 1840-1915
 ---
 
 

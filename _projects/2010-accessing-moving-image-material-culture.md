@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Accessing Moving Image Material Culture" 
+title: Accessing Moving Image Material Culture
 ---
 
 

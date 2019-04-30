@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Innovative Digital Access to Architectural Models" 
+title: Innovative Digital Access to Architectural Models
 ---
 
 

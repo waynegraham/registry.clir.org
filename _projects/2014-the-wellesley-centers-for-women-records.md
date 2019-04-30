@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "The Wellesley Centers for Women records" 
+title: The Wellesley Centers for Women records
 ---
 
 

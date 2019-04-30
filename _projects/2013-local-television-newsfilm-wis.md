@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Local Television Newsfilm: WIS" 
+title: Local Television Newsfilm: WIS
 ---
 
 

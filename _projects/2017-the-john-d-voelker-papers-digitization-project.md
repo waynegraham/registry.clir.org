@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "The John D. Voelker Papers Digitization Project" 
+title: The John D. Voelker Papers Digitization Project
 ---
 
 

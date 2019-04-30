@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Illuminating Hidden Collections at the Center for Jewish History" 
+title: Illuminating Hidden Collections at the Center for Jewish History
 ---
 
 

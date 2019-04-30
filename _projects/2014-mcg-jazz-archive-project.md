@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "MCG Jazz Archive Project" 
+title: MCG Jazz Archive Project
 ---
 
 

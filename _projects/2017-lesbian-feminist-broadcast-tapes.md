@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Lesbian Feminist Broadcast Tapes" 
+title: Lesbian Feminist Broadcast Tapes
 ---
 
 

@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Illuminating Whaling Heritage Through Museum Archives" 
+title: Illuminating Whaling Heritage Through Museum Archives
 ---
 
 

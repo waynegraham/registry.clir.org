@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "California Ephemera Project" 
+title: California Ephemera Project
 ---
 
 

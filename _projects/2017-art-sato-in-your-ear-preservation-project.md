@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Art Sato “In Your Ear” Preservation Project" 
+title: Art Sato “In Your Ear” Preservation Project
 ---
 
 

@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Locus Photo & Ephemera Digitization Project" 
+title: Locus Photo & Ephemera Digitization Project
 ---
 
 

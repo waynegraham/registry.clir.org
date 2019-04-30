@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Voices Against the Vietnam War" 
+title: Voices Against the Vietnam War
 ---
 
 

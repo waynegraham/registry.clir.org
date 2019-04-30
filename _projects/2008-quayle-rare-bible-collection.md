@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Quayle Rare Bible Collection" 
+title: Quayle Rare Bible Collection
 ---
 
 

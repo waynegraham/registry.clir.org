@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Clementine Collection Rare Book Cataloging Project" 
+title: Clementine Collection Rare Book Cataloging Project
 ---
 
 

@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Unveiling the Clyfford Still Museum Archive" 
+title: Unveiling the Clyfford Still Museum Archive
 ---
 
 

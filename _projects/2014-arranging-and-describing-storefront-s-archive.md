@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Arranging and Describing Storefront’s Archive" 
+title: Arranging and Describing Storefront’s Archive
 ---
 
 

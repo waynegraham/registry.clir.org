@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Historic Illinois Circuit Court Collections" 
+title: Historic Illinois Circuit Court Collections
 ---
 
 

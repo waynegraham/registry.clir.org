@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Richard D. Lamm, MSS 1210" 
+title: Richard D. Lamm, MSS 1210
 ---
 
 

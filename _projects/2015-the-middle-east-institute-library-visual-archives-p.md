@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "The Middle East Institute Library Visual Archives Project" 
+title: The Middle East Institute Library Visual Archives Project
 ---
 
 

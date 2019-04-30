@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Preserving KUHT's Early Educational Films" 
+title: Preserving KUHT's Early Educational Films
 ---
 
 

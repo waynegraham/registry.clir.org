@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Perkins School for the Blind Archives Project" 
+title: Perkins School for the Blind Archives Project
 ---
 
 

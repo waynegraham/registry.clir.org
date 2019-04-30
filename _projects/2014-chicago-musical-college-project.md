@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Chicago Musical College Project" 
+title: Chicago Musical College Project
 ---
 
 

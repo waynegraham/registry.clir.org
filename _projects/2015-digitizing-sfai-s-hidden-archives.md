@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Digitizing SFAI's Hidden Archives" 
+title: Digitizing SFAI's Hidden Archives
 ---
 
 

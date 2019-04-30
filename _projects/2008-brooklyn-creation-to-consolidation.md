@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Brooklyn: Creation to Consolidation" 
+title: Brooklyn: Creation to Consolidation
 ---
 
 

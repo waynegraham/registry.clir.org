@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Feminist Theory Archives" 
+title: Feminist Theory Archives
 ---
 
 

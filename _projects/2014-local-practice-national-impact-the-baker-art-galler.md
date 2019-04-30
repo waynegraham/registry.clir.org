@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Local Practice, National Impact: The Baker Art Gallery Collection" 
+title: Local Practice, National Impact: The Baker Art Gallery Collection
 ---
 
 

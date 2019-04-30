@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Cataloguing Southern California's architectural history" 
+title: Cataloguing Southern California's architectural history
 ---
 
 

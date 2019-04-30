@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Lehigh Valley Industrial History Collections" 
+title: Lehigh Valley Industrial History Collections
 ---
 
 

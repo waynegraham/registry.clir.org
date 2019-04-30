@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Provide Access to Susan King/Paradise Press Collection" 
+title: Provide Access to Susan King/Paradise Press Collection
 ---
 
 

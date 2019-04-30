@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Saving Legacy in the Bronx" 
+title: Saving Legacy in the Bronx
 ---
 
 

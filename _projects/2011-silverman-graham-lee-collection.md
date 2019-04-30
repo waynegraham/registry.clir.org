@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Silverman-Graham Lee Collection" 
+title: Silverman-Graham Lee Collection
 ---
 
 

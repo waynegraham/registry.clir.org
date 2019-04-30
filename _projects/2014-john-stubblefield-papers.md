@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "John Stubblefield Papers" 
+title: John Stubblefield Papers
 ---
 
 

@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Describing the Broun Collection" 
+title: Describing the Broun Collection
 ---
 
 

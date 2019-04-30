@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Archiving the Bascom and Jenkins Collections" 
+title: Archiving the Bascom and Jenkins Collections
 ---
 
 

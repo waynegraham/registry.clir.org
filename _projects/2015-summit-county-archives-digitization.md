@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Summit County Archives Digitization" 
+title: Summit County Archives Digitization
 ---
 
 

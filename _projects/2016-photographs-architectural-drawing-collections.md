@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Photographs & Architectural Drawing Collections" 
+title: Photographs & Architectural Drawing Collections
 ---
 
 

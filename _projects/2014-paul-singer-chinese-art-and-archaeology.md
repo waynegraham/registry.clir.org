@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Paul Singer: Chinese Art and Archaeology" 
+title: Paul Singer: Chinese Art and Archaeology
 ---
 
 

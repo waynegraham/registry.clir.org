@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "National Educational Television Collection Catalog" 
+title: National Educational Television Collection Catalog
 ---
 
 

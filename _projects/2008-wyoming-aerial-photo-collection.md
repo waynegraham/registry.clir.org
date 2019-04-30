@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Wyoming Aerial Photo Collection" 
+title: Wyoming Aerial Photo Collection
 ---
 
 

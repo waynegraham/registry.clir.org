@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Digital Archive of North Carolina Folklife" 
+title: Digital Archive of North Carolina Folklife
 ---
 
 

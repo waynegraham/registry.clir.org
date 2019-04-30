@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "The Boston Personalism Project" 
+title: The Boston Personalism Project
 ---
 
 

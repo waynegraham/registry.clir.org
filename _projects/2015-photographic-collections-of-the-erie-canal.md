@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Photographic Collections of the Erie Canal" 
+title: Photographic Collections of the Erie Canal
 ---
 
 

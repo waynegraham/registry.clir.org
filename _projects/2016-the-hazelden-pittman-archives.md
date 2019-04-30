@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "The Hazelden Pittman Archives" 
+title: The Hazelden Pittman Archives
 ---
 
 

@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Philadelphia Real Estate Record & Builders' Guide Digitization Project" 
+title: Philadelphia Real Estate Record & Builders' Guide Digitization Project
 ---
 
 

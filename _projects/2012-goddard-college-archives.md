@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Goddard College Archives" 
+title: Goddard College Archives
 ---
 
 

@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Revealing Hidden Collections through Minimal Processing and Teaching" 
+title: Revealing Hidden Collections through Minimal Processing and Teaching
 ---
 
 

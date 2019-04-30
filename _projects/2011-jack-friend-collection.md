@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Jack Friend Collection" 
+title: Jack Friend Collection
 ---
 
 

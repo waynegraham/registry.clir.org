@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Uncovering Appalachian Cultural Heritage Materials" 
+title: Uncovering Appalachian Cultural Heritage Materials
 ---
 
 

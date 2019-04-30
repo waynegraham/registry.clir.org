@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "The Catskill Regional Folklife and History Archive" 
+title: The Catskill Regional Folklife and History Archive
 ---
 
 

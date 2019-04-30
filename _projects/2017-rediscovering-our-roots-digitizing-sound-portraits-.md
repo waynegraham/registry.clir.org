@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Rediscovering Our Roots: Digitizing Sound Portraits Productions Materials" 
+title: Rediscovering Our Roots: Digitizing Sound Portraits Productions Materials
 ---
 
 

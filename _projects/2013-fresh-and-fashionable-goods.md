@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Fresh and Fashionable Goods" 
+title: Fresh and Fashionable Goods
 ---
 
 

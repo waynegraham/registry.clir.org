@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "The Louis Bromfield Collection" 
+title: The Louis Bromfield Collection
 ---
 
 

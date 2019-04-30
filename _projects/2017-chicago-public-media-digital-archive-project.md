@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Chicago Public Media - Digital Archive Project" 
+title: Chicago Public Media - Digital Archive Project
 ---
 
 

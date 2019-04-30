@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Victor C. West Maritime Collection" 
+title: Victor C. West Maritime Collection
 ---
 
 

@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Grove Press and a New American Morality" 
+title: Grove Press and a New American Morality
 ---
 
 

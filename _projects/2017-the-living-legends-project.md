@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "The Living Legends Project" 
+title: The Living Legends Project
 ---
 
 

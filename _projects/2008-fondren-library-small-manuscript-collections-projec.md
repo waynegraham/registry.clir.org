@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Fondren Library Small Manuscript Collections Project" 
+title: Fondren Library Small Manuscript Collections Project
 ---
 
 

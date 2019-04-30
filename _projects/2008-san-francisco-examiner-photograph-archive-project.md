@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "San Francisco Examiner Photograph Archive Project" 
+title: San Francisco Examiner Photograph Archive Project
 ---
 
 

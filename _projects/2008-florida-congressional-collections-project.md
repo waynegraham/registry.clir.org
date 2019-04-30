@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Florida Congressional Collections Project" 
+title: Florida Congressional Collections Project
 ---
 
 

@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Mapas historicos de Nuevo Mexico = Historic New Mexico Maps" 
+title: Mapas historicos de Nuevo Mexico = Historic New Mexico Maps
 ---
 
 

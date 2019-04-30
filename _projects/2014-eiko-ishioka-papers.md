@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Eiko Ishioka papers" 
+title: Eiko Ishioka papers
 ---
 
 

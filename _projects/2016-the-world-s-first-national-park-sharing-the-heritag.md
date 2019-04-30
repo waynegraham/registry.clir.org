@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "The World's First National Park: Sharing the Heritage of Yellowstone" 
+title: The World's First National Park: Sharing the Heritage of Yellowstone
 ---
 
 

@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Baldwin Library of Historical Children's Literature" 
+title: Baldwin Library of Historical Children's Literature
 ---
 
 

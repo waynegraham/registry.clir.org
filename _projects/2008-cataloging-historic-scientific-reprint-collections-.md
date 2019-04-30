@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Cataloging Historic Scientific Reprint Collections: Davenport, Demerec, and Watson Reprint Collections" 
+title: Cataloging Historic Scientific Reprint Collections: Davenport, Demerec, and Watson Reprint Collections
 ---
 
 

@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Gordon Parks Collection" 
+title: Gordon Parks Collection
 ---
 
 

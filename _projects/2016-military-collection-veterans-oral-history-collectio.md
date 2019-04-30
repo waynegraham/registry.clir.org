@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Military Collection Veterans Oral History Collection" 
+title: Military Collection Veterans Oral History Collection
 ---
 
 

@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Cataloging the Paul H. Gantt Nuremberg Trial Papers" 
+title: Cataloging the Paul H. Gantt Nuremberg Trial Papers
 ---
 
 

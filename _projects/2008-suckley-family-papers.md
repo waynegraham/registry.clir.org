@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Suckley Family Papers" 
+title: Suckley Family Papers
 ---
 
 

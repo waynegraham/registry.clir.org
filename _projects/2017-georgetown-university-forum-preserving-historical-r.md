@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Georgetown University Forum: Preserving Historical Radio" 
+title: Georgetown University Forum: Preserving Historical Radio
 ---
 
 

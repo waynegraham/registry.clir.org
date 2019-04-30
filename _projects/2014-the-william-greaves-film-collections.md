@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "The William Greaves Film Collections" 
+title: The William Greaves Film Collections
 ---
 
 

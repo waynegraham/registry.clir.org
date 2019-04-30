@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Digitizing the Archives of Texas Paleontology" 
+title: Digitizing the Archives of Texas Paleontology
 ---
 
 

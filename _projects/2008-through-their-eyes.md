@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Through Their Eyes"" 
+title: Through Their Eyes"
 ---
 
 

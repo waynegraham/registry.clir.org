@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Black Gold: Uncovering Florida's African-American Archival Treasures" 
+title: Black Gold: Uncovering Florida's African-American Archival Treasures
 ---
 
 

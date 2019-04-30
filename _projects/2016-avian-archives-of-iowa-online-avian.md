@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Avian Archives of Iowa Online (avIAn)" 
+title: Avian Archives of Iowa Online (avIAn)
 ---
 
 

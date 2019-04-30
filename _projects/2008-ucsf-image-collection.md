@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "UCSF Image Collection" 
+title: UCSF Image Collection
 ---
 
 

@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Amiri Baraka Papers" 
+title: Amiri Baraka Papers
 ---
 
 

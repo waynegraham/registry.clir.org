@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Scarritt-Bennett Center Archival Project" 
+title: Scarritt-Bennett Center Archival Project
 ---
 
 

@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Bridge and Building Forensics: Civil Engineering Archives at Lehigh University" 
+title: Bridge and Building Forensics: Civil Engineering Archives at Lehigh University
 ---
 
 

@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Santa Ynez Valley Historical Archives" 
+title: Santa Ynez Valley Historical Archives
 ---
 
 

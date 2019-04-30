@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Pocket Collections" 
+title: Pocket Collections
 ---
 
 

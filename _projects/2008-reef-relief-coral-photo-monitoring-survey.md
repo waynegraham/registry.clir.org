@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Reef Relief Coral Photo Monitoring Survey" 
+title: Reef Relief Coral Photo Monitoring Survey
 ---
 
 

@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Out West: The LGBTQ Community Archive Cataloging Project" 
+title: Out West: The LGBTQ Community Archive Cataloging Project
 ---
 
 

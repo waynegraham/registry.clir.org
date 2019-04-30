@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Standard Hour Broadcast Recordings" 
+title: Standard Hour Broadcast Recordings
 ---
 
 

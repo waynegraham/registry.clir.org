@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Scanning the Century" 
+title: Scanning the Century
 ---
 
 

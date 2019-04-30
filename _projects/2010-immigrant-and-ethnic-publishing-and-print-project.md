@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Immigrant and Ethnic Publishing and Print Project" 
+title: Immigrant and Ethnic Publishing and Print Project
 ---
 
 

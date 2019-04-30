@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "The Legacy Center" 
+title: The Legacy Center
 ---
 
 

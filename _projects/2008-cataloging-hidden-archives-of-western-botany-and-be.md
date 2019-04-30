@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Cataloging Hidden Archives of Western Botany and Beyond" 
+title: Cataloging Hidden Archives of Western Botany and Beyond
 ---
 
 

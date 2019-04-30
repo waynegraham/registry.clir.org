@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Rare Middle East Collection Cataloging" 
+title: Rare Middle East Collection Cataloging
 ---
 
 

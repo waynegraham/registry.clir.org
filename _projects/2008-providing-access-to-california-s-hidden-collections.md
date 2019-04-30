@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Providing Access to California's Hidden Collections: A Collaborative Proposal" 
+title: Providing Access to California's Hidden Collections: A Collaborative Proposal
 ---
 
 

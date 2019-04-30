@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Digitizing the Schwenkfelder Legacy Collection" 
+title: Digitizing the Schwenkfelder Legacy Collection
 ---
 
 

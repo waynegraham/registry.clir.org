@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Major Railroad Archival Collections" 
+title: Major Railroad Archival Collections
 ---
 
 

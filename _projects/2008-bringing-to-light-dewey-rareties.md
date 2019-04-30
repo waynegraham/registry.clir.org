@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Bringing to Light Dewey Rareties" 
+title: Bringing to Light Dewey Rareties
 ---
 
 

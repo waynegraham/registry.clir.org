@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Hidden in Plain Sight" 
+title: Hidden in Plain Sight
 ---
 
 

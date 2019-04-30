@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Digitizing Plymouth County Archaeology" 
+title: Digitizing Plymouth County Archaeology
 ---
 
 

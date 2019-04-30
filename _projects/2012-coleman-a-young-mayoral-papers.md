@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Coleman A. Young Mayoral Papers" 
+title: Coleman A. Young Mayoral Papers
 ---
 
 

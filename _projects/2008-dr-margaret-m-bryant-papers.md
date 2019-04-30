@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Dr. Margaret M. Bryant Papers" 
+title: Dr. Margaret M. Bryant Papers
 ---
 
 

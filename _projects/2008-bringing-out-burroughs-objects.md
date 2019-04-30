@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Bringing Out Burroughs Objects" 
+title: Bringing Out Burroughs Objects
 ---
 
 

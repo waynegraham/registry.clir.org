@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "The Geleve Grice Photograph Collection" 
+title: The Geleve Grice Photograph Collection
 ---
 
 

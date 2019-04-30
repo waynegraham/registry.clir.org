@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Documenting Their Films: Hidden Collections of Four Independent Filmmakers" 
+title: Documenting Their Films: Hidden Collections of Four Independent Filmmakers
 ---
 
 

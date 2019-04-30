@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Academy Sights and Sounds: Digitizing Audiovisual Media" 
+title: Academy Sights and Sounds: Digitizing Audiovisual Media
 ---
 
 

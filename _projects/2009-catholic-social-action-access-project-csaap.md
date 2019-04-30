@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Catholic Social Action Access Project (CSAAP)" 
+title: Catholic Social Action Access Project (CSAAP)
 ---
 
 

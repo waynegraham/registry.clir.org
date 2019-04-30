@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Access to Alexander Agassiz's Expedition Images" 
+title: Access to Alexander Agassiz's Expedition Images
 ---
 
 

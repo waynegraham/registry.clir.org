@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "KUT Radio Collection" 
+title: KUT Radio Collection
 ---
 
 

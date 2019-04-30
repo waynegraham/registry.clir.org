@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Canal Society of New York State Collection" 
+title: Canal Society of New York State Collection
 ---
 
 

@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Basil John Vlavianos papers" 
+title: Basil John Vlavianos papers
 ---
 
 

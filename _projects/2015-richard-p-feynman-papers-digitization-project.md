@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Richard P. Feynman Papers Digitization Project" 
+title: Richard P. Feynman Papers Digitization Project
 ---
 
 

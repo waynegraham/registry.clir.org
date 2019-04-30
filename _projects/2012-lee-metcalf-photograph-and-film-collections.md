@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Lee Metcalf Photograph and Film Collections" 
+title: Lee Metcalf Photograph and Film Collections
 ---
 
 

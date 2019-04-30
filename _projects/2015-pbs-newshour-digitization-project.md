@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "PBS NewsHour Digitization Project." 
+title: PBS NewsHour Digitization Project.
 ---
 
 

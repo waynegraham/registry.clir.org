@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "The Pittsburgh Photographic Library" 
+title: The Pittsburgh Photographic Library
 ---
 
 

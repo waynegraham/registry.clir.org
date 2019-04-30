@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Digitizing Antioch" 
+title: Digitizing Antioch
 ---
 
 

@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Digitizing Apalachee: Apalachee-Spanish Mission Archaeology Document Collection" 
+title: Digitizing Apalachee: Apalachee-Spanish Mission Archaeology Document Collection
 ---
 
 

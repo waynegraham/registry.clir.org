@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "U.S. National Animal Parasite Collection Records" 
+title: U.S. National Animal Parasite Collection Records
 ---
 
 

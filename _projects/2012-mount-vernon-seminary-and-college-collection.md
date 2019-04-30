@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Mount Vernon Seminary and College Collection" 
+title: Mount Vernon Seminary and College Collection
 ---
 
 

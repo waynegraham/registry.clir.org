@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Maryland Folklife Archives" 
+title: Maryland Folklife Archives
 ---
 
 

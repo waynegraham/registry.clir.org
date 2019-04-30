@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Rails Across the Continent: Digitized Maps of American Railroad Expansion" 
+title: Rails Across the Continent: Digitized Maps of American Railroad Expansion
 ---
 
 

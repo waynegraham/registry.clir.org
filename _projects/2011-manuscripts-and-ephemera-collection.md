@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Manuscripts and Ephemera Collection" 
+title: Manuscripts and Ephemera Collection
 ---
 
 

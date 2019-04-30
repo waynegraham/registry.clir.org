@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "WSAZ-TV Newsfilm Archive" 
+title: WSAZ-TV Newsfilm Archive
 ---
 
 

@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Custom House Maritime Museum Digitization Project" 
+title: Custom House Maritime Museum Digitization Project
 ---
 
 

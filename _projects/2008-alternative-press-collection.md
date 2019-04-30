@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Alternative Press Collection" 
+title: Alternative Press Collection
 ---
 
 

@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Avon Williams Papers Project" 
+title: Avon Williams Papers Project
 ---
 
 

@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Special Collections at Western Michigan University" 
+title: Special Collections at Western Michigan University
 ---
 
 

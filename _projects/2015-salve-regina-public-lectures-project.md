@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Salve Regina Public Lectures Project" 
+title: Salve Regina Public Lectures Project
 ---
 
 

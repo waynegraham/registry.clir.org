@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "W. W. Law Collection Audio Recordings Preservation" 
+title: W. W. Law Collection Audio Recordings Preservation
 ---
 
 

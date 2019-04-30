@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Jewish Heritage Collection" 
+title: Jewish Heritage Collection
 ---
 
 

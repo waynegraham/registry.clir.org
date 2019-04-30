@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Locus Audio Archive Digitization Project" 
+title: Locus Audio Archive Digitization Project
 ---
 
 

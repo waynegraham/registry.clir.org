@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Rocky Mountain Jewish Medical Heritage Collection" 
+title: Rocky Mountain Jewish Medical Heritage Collection
 ---
 
 

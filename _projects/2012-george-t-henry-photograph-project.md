@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "George T. Henry Photograph Project" 
+title: George T. Henry Photograph Project
 ---
 
 

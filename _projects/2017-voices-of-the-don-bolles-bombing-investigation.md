@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Voices of the Don Bolles Bombing Investigation" 
+title: Voices of the Don Bolles Bombing Investigation
 ---
 
 

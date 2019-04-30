@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "American View Books" 
+title: American View Books
 ---
 
 

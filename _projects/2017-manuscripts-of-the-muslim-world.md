@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Manuscripts of the Muslim World" 
+title: Manuscripts of the Muslim World
 ---
 
 

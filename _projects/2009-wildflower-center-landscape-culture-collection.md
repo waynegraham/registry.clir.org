@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Wildflower Center Landscape & Culture Collection" 
+title: Wildflower Center Landscape & Culture Collection
 ---
 
 

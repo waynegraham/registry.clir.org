@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Nick Virgilio Haiku Archive" 
+title: Nick Virgilio Haiku Archive
 ---
 
 

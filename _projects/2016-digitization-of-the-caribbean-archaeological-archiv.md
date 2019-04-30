@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Digitization of the Caribbean Archaeological Archives of the Yale Peabody Museum" 
+title: Digitization of the Caribbean Archaeological Archives of the Yale Peabody Museum
 ---
 
 

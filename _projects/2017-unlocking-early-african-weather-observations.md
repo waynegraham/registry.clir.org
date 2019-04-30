@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Unlocking Early African Weather Observations" 
+title: Unlocking Early African Weather Observations
 ---
 
 

@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Dashiell-Marine Collection" 
+title: Dashiell-Marine Collection
 ---
 
 

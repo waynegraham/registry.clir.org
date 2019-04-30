@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "New York City Hall Park Archaeological Collections" 
+title: New York City Hall Park Archaeological Collections
 ---
 
 

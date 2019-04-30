@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Grayson Family Papers" 
+title: Grayson Family Papers
 ---
 
 

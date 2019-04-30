@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "The William Faulkner Collections at the University of Virginia" 
+title: The William Faulkner Collections at the University of Virginia
 ---
 
 

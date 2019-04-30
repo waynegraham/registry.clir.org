@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Firestone Library Antioch Coin Project" 
+title: Firestone Library Antioch Coin Project
 ---
 
 

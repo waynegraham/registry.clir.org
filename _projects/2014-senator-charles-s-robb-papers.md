@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Senator Charles S. Robb Papers" 
+title: Senator Charles S. Robb Papers
 ---
 
 

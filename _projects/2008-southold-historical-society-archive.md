@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Southold Historical Society Archive" 
+title: Southold Historical Society Archive
 ---
 
 

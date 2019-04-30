@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Balboa Park Virtual Library" 
+title: Balboa Park Virtual Library
 ---
 
 

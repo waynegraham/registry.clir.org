@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Carl Otto Kretzschmar von Kienbusch Papers" 
+title: Carl Otto Kretzschmar von Kienbusch Papers
 ---
 
 

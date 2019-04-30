@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Milestones of Kennebunkport, Maine" 
+title: Milestones of Kennebunkport, Maine
 ---
 
 

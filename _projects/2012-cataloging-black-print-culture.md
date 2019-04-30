@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Cataloging Black Print Culture" 
+title: Cataloging Black Print Culture
 ---
 
 

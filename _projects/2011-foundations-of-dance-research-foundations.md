@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Foundations of Dance Research (Foundations)" 
+title: Foundations of Dance Research (Foundations)
 ---
 
 

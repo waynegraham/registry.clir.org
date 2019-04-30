@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Cataloging the Archives Collections of ROCS @ NSIDC" 
+title: Cataloging the Archives Collections of ROCS @ NSIDC
 ---
 
 

@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "The Kansas City Stockyards Collection Project" 
+title: The Kansas City Stockyards Collection Project
 ---
 
 

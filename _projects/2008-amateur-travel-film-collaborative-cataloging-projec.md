@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Amateur Travel Film Collaborative Cataloging Project" 
+title: Amateur Travel Film Collaborative Cataloging Project
 ---
 
 

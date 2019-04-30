@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Sharing Terpsichore's Legacy: A Collaborative Project (Terpsichore)" 
+title: Sharing Terpsichore's Legacy: A Collaborative Project (Terpsichore)
 ---
 
 

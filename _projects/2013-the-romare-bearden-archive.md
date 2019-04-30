@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "The Romare Bearden Archive" 
+title: The Romare Bearden Archive
 ---
 
 

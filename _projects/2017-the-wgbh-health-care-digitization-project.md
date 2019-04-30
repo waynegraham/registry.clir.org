@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "The WGBH Health Care Digitization Project" 
+title: The WGBH Health Care Digitization Project
 ---
 
 

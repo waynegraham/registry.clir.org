@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Institute for Development Anthropology Collection" 
+title: Institute for Development Anthropology Collection
 ---
 
 

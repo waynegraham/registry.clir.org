@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "The Modern Illinois Politics Project" 
+title: The Modern Illinois Politics Project
 ---
 
 

@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Richard Hugo House Zine Archive and Publishing Project (ZAPP) catalog" 
+title: Richard Hugo House Zine Archive and Publishing Project (ZAPP) catalog
 ---
 
 

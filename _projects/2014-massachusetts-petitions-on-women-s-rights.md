@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Massachusetts Petitions on Women's Rights" 
+title: Massachusetts Petitions on Women's Rights
 ---
 
 

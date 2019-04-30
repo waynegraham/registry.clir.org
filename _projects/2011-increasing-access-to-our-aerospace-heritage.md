@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Increasing Access to Our Aerospace Heritage" 
+title: Increasing Access to Our Aerospace Heritage
 ---
 
 

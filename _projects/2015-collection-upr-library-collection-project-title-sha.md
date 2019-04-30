@@ -1,8 +1,8 @@
 --- 
 layout: project 
-title: "Collection: UPR Library Collection
+title: Collection: UPR Library Collection
 
-Project Title: Sharing World Wisdom Because We Should" 
+Project Title: Sharing World Wisdom Because We Should
 ---
 
 

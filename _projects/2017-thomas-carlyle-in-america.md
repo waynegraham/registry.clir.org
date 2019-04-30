@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Thomas Carlyle in America" 
+title: Thomas Carlyle in America
 ---
 
 

@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Photography and Audiovisual Digitization: Stabilization, Quality Control, Image Correction" 
+title: Photography and Audiovisual Digitization: Stabilization, Quality Control, Image Correction
 ---
 
 

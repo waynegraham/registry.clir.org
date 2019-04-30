@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Ken-Way United Photographs Collection" 
+title: Ken-Way United Photographs Collection
 ---
 
 

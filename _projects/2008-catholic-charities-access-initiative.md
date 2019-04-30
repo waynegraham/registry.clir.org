@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Catholic Charities Access Initiative" 
+title: Catholic Charities Access Initiative
 ---
 
 

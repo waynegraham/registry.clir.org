@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "International Whistleblowing Archive" 
+title: International Whistleblowing Archive
 ---
 
 

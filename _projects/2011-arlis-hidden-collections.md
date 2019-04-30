@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "ARLIS Hidden Collections" 
+title: ARLIS Hidden Collections
 ---
 
 

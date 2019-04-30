@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Digitizing the New York Quilt Project" 
+title: Digitizing the New York Quilt Project
 ---
 
 

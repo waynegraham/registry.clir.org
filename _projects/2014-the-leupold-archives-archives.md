@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "The Leupold Archives (Archives)" 
+title: The Leupold Archives (Archives)
 ---
 
 

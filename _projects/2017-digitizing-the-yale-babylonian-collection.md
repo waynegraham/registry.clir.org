@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Digitizing the Yale Babylonian Collection" 
+title: Digitizing the Yale Babylonian Collection
 ---
 
 

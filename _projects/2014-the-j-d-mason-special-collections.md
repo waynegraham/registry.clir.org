@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "The J.D. Mason Special Collections" 
+title: The J.D. Mason Special Collections
 ---
 
 

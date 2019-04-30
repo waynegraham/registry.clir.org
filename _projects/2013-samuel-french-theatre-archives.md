@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "Samuel French Theatre Archives" 
+title: Samuel French Theatre Archives
 ---
 
 

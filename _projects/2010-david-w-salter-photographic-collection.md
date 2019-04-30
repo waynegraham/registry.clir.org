@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: "David W. Salter Photographic Collection" 
+title: David W. Salter Photographic Collection
 ---
 
 
